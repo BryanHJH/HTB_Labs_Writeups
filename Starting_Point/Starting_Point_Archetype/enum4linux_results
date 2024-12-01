@@ -1,0 +1,147 @@
+enum4linux -a -u sql_svc -p M3g4c0rp123 10.129.86.204
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sun Dec  1 22:39:39 2024
+
+=========================================( Target Information )=========================================
+
+Target ........... 10.129.86.204
+RID Range ........ 500-550,1000-1050
+Username ......... 'sql_svc'
+Password ......... 'M3g4c0rp123'
+Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
+
+
+===========================( Enumerating Workgroup/Domain on 10.129.86.204 )===========================
+
+
+[E] Can't find workgroup/domain
+
+
+
+===============================( Nbtstat Information for 10.129.86.204 )===============================
+
+Looking up status of 10.129.86.204
+No reply from 10.129.86.204
+
+===================================( Session Check on 10.129.86.204 )===================================
+
+
+[+] Server 10.129.86.204 allows sessions using username 'sql_svc', password 'M3g4c0rp123'
+
+
+================================( Getting domain SID for 10.129.86.204 )================================
+
+Domain Name: WORKGROUP
+Domain Sid: (NULL SID)
+
+[+] Can't determine if host is part of domain or part of a workgroup
+
+
+==================================( OS information on 10.129.86.204 )==================================
+
+
+[E] Can't get OS info with smbclient
+
+
+[+] Got OS info for 10.129.86.204 from srvinfo:
+10.129.86.204  Wk Sv Sql NT SNT PtB LMB
+platform_id     :       500
+os version      :       10.0
+server type     :       0x59007
+
+
+=======================================( Users on 10.129.86.204 )=======================================
+
+Use of uninitialized value $users in print at ./enum4linux.pl line 972.
+Use of uninitialized value $users in pattern match (m//) at ./enum4linux.pl line 975.
+
+Use of uninitialized value $users in print at ./enum4linux.pl line 986.
+Use of uninitialized value $users in pattern match (m//) at ./enum4linux.pl line 988.
+
+=================================( Share Enumeration on 10.129.86.204 )=================================
+
+do_connect: Connection to 10.129.86.204 failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
+
+Sharename       Type      Comment
+---------       ----      -------
+ADMIN$          Disk      Remote Admin
+backups         Disk
+C$              Disk      Default share
+IPC$            IPC       Remote IPC
+Reconnecting with SMB1 for workgroup listing.
+Unable to connect with SMB1 -- no workgroup available
+
+[+] Attempting to map shares on 10.129.86.204
+
+//10.129.86.204/ADMIN$  Mapping: DENIED Listing: N/A Writing: N/A
+//10.129.86.204/backups Mapping: OK Listing: OK Writing: N/A
+//10.129.86.204/C$      Mapping: DENIED Listing: N/A Writing: N/A
+
+[E] Can't understand response:
+
+NT_STATUS_NO_SUCH_FILE listing \*
+//10.129.86.204/IPC$    Mapping: N/A Listing: N/A Writing: N/A
+
+===========================( Password Policy Information for 10.129.86.204 )===========================
+
+
+[E] Unexpected error from polenum:
+
+
+
+[+] Attaching to 10.129.86.204 using sql_svc:M3g4c0rp123
+
+[+] Trying protocol 139/SMB...
+
+[!] Protocol failed: Cannot request session (Called Name:10.129.86.204)
+
+[+] Trying protocol 445/SMB...
+
+[!] Protocol failed: rpc_s_access_denied
+
+
+
+[E] Failed to get password policy with rpcclient
+
+
+
+======================================( Groups on 10.129.86.204 )======================================
+
+
+[+] Getting builtin groups:
+
+
+[+]  Getting builtin group memberships:
+
+
+[+]  Getting local groups:
+
+
+[+]  Getting local group memberships:
+
+
+[+]  Getting domain groups:
+
+
+[+]  Getting domain group memberships:
+
+
+==================( Users on 10.129.86.204 via RID cycling (RIDS: 500-550,1000-1050) )==================
+
+
+[I] Found new SID:
+S-1-5-21-1479773013-2644727484-962428355
+
+[+] Enumerating users using SID S-1-5-21-1479773013-2644727484-962428355 and logon username 'sql_svc', password 'M3g4c0rp123'
+
+S-1-5-21-1479773013-2644727484-962428355-504 ARCHETYPE\WDAGUtilityAccount (Local User)
+S-1-5-21-1479773013-2644727484-962428355-513 ARCHETYPE\None (Domain Group)
+S-1-5-21-1479773013-2644727484-962428355-1001 ARCHETYPE\sql_svc (Local User)
+S-1-5-21-1479773013-2644727484-962428355-1002 ARCHETYPE\SQLServer2005SQLBrowserUser$ARCHETYPE (Local Group)
+
+===============================( Getting printer info for 10.129.86.204 )===============================
+
+do_cmd: Could not initialise spoolss. Error was NT_STATUS_OBJECT_NAME_NOT_FOUND
+
+
+enum4linux complete on Sun Dec  1 22:50:48 2024
+
