@@ -1,0 +1,21 @@
+# Dirsearch started Sun Dec  1 20:37:29 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://thetoppers.htb -r
+
+403   279B   http://thetoppers.htb/.ht_wsr.txt
+403   279B   http://thetoppers.htb/.htaccess.bak1
+403   279B   http://thetoppers.htb/.htaccess.orig
+403   279B   http://thetoppers.htb/.htaccess.sample
+403   279B   http://thetoppers.htb/.htaccess.save
+403   279B   http://thetoppers.htb/.htaccess_orig
+403   279B   http://thetoppers.htb/.htaccess_sc
+403   279B   http://thetoppers.htb/.htaccess_extra
+403   279B   http://thetoppers.htb/.htaccessBAK
+403   279B   http://thetoppers.htb/.htaccessOLD2
+403   279B   http://thetoppers.htb/.htaccessOLD
+403   279B   http://thetoppers.htb/.htm
+403   279B   http://thetoppers.htb/.html
+403   279B   http://thetoppers.htb/.htpasswd_test
+403   279B   http://thetoppers.htb/.htpasswds
+403   279B   http://thetoppers.htb/.httr-oauth
+403   279B   http://thetoppers.htb/.php
+301   317B   http://thetoppers.htb/images    -> REDIRECTS TO: http://thetoppers.htb/images/
+200   531B   http://thetoppers.htb/images/

@@ -1,0 +1,41 @@
+# Dirsearch started Sun Dec  1 20:08:54 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.129.227.248 -r
+
+403   279B   http://10.129.227.248/.ht_wsr.txt
+403   279B   http://10.129.227.248/.htaccess.orig
+403   279B   http://10.129.227.248/.htaccess.bak1
+403   279B   http://10.129.227.248/.htaccess.sample
+403   279B   http://10.129.227.248/.htaccess_orig
+403   279B   http://10.129.227.248/.htaccess.save
+403   279B   http://10.129.227.248/.htaccessBAK
+403   279B   http://10.129.227.248/.htaccess_extra
+403   279B   http://10.129.227.248/.htaccessOLD
+403   279B   http://10.129.227.248/.htaccess_sc
+403   279B   http://10.129.227.248/.htaccessOLD2
+403   279B   http://10.129.227.248/.htm
+403   279B   http://10.129.227.248/.html
+403   279B   http://10.129.227.248/.htpasswds
+403   279B   http://10.129.227.248/.htpasswd_test
+403   279B   http://10.129.227.248/.httr-oauth
+403   279B   http://10.129.227.248/.php
+301   317B   http://10.129.227.248/images    -> REDIRECTS TO: http://10.129.227.248/images/
+200   531B   http://10.129.227.248/images/
+403   279B   http://10.129.227.248/server-status
+403   279B   http://10.129.227.248/server-status/
+403   279B   http://10.129.227.248/images/.htaccess.bak1
+403   279B   http://10.129.227.248/images/.htaccess.orig
+403   279B   http://10.129.227.248/images/.ht_wsr.txt
+403   279B   http://10.129.227.248/images/.htaccess.sample
+403   279B   http://10.129.227.248/images/.htaccess.save
+403   279B   http://10.129.227.248/images/.htaccess_extra
+403   279B   http://10.129.227.248/images/.htaccess_orig
+403   279B   http://10.129.227.248/images/.htaccess_sc
+403   279B   http://10.129.227.248/images/.htaccessBAK
+403   279B   http://10.129.227.248/images/.htaccessOLD
+403   279B   http://10.129.227.248/images/.html
+403   279B   http://10.129.227.248/images/.htaccessOLD2
+403   279B   http://10.129.227.248/images/.htpasswds
+403   279B   http://10.129.227.248/images/.htpasswd_test
+403   279B   http://10.129.227.248/images/.httr-oauth
+403   279B   http://10.129.227.248/images/.htm
+403   279B   http://10.129.227.248/images/.php
+404   276B   http://10.129.227.248/server-status/%2e%2e//google.com

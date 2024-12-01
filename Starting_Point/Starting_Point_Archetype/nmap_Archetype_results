@@ -1,0 +1,86 @@
+nmap --min-rate 3000 -A -p- 10.129.86.204
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-12-01 22:07 +08
+Warning: 10.129.86.204 giving up on port because retransmission cap hit (10).
+Nmap scan report for 10.129.86.204
+Host is up (0.25s latency).
+Not shown: 65523 closed tcp ports (reset)
+PORT      STATE SERVICE      VERSION
+135/tcp   open  msrpc        Microsoft Windows RPC
+139/tcp   open  netbios-ssn  Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds Windows Server 2019 Standard 17763 microsoft-ds
+1433/tcp  open  ms-sql-s     Microsoft SQL Server 2017 14.00.1000.00; RTM
+| ms-sql-info:
+|   10.129.86.204:1433:
+|     Version:
+|       name: Microsoft SQL Server 2017 RTM
+|       number: 14.00.1000.00
+|       Product: Microsoft SQL Server 2017
+|       Service pack level: RTM
+|       Post-SP patches applied: false
+|_    TCP port: 1433
+|_ssl-date: 2024-12-01T14:09:44+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=SSL_Self_Signed_Fallback
+| Not valid before: 2024-12-01T13:48:48
+|_Not valid after:  2054-12-01T13:48:48
+| ms-sql-ntlm-info:
+|   10.129.86.204:1433:
+|     Target_Name: ARCHETYPE
+|     NetBIOS_Domain_Name: ARCHETYPE
+|     NetBIOS_Computer_Name: ARCHETYPE
+|     DNS_Domain_Name: Archetype
+|     DNS_Computer_Name: Archetype
+|_    Product_Version: 10.0.17763
+5985/tcp  open  http         Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+47001/tcp open  http         Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+49664/tcp open  msrpc        Microsoft Windows RPC
+49665/tcp open  msrpc        Microsoft Windows RPC
+49666/tcp open  msrpc        Microsoft Windows RPC
+49667/tcp open  msrpc        Microsoft Windows RPC
+49668/tcp open  msrpc        Microsoft Windows RPC
+49669/tcp open  msrpc        Microsoft Windows RPC
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=12/1%OT=135%CT=1%CU=40382%PV=Y%DS=2%DC=T%G=Y%TM=674
+OS:C6E28%P=x86_64-pc-linux-gnu)SEQ(SP=104%GCD=1%ISR=10F%TI=I%CI=I%II=I%SS=S
+OS:%TS=U)SEQ(SP=104%GCD=1%ISR=10F%TI=I%CI=RD%II=I%SS=S%TS=U)OPS(O1=M53CNW8N
+OS:NS%O2=M53CNW8NNS%O3=M53CNW8%O4=M53CNW8NNS%O5=M53CNW8NNS%O6=M53CNNS)WIN(W
+OS:1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%T=80%W=FFFF%
+OS:O=M53CNW8NNS%CC=Y%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%
+OS:T=80%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%T=80%W=0%S=Z%A=O%F=AR%O=%RD
+OS:=0%Q=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=80%W=0%S
+OS:=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=0%Q=)T7(R
+OS:=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=80%IPL=164%UN=0%
+OS:RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=80%CD=Z)
+
+Network Distance: 2 hops
+Service Info: OSs: Windows, Windows Server 2008 R2 - 2012; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb-os-discovery:
+|   OS: Windows Server 2019 Standard 17763 (Windows Server 2019 Standard 6.3)
+|   Computer name: Archetype
+|   NetBIOS computer name: ARCHETYPE\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2024-12-01T06:09:32-08:00
+| smb-security-mode:
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb2-security-mode:
+|   3:1:1:
+|_    Message signing enabled but not required
+| smb2-time:
+|   date: 2024-12-01T14:09:26
+|_  start_date: N/A
+|_clock-skew: mean: 1h36m00s, deviation: 3h34m43s, median: 0s
+
+TRACEROUTE (using port 554/tcp)
+HOP RTT       ADDRESS
+1   252.10 ms 10.10.14.1
+2   251.40 ms 10.129.86.204
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 131.67 seconds
