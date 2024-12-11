@@ -1,0 +1,7 @@
+# Dirsearch started Wed Dec 11 17:12:12 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.10.245/ -r
+
+302   208B   http://10.10.10.245/data    -> REDIRECTS TO: http://10.10.10.245/
+302   208B   http://10.10.10.245/data/autosuggest    -> REDIRECTS TO: http://10.10.10.245/
+302   208B   http://10.10.10.245/data/adminer.php    -> REDIRECTS TO: http://10.10.10.245/
+302   208B   http://10.10.10.245/download/users.csv    -> REDIRECTS TO: http://10.10.10.245/
+302   208B   http://10.10.10.245/download/history.csv    -> REDIRECTS TO: http://10.10.10.245/
