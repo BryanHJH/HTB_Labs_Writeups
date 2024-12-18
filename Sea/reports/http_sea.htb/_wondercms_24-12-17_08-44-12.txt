@@ -1,0 +1,29 @@
+# Dirsearch started Tue Dec 17 08:50:37 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://sea.htb/wondercms -r
+
+403   199B   http://sea.htb/wondercms/%3f/
+200     1KB  http://sea.htb/wondercms/404
+403   199B   http://sea.htb/wondercms/admin%20/
+200     1KB  http://sea.htb/wondercms/admin/home
+200     1KB  http://sea.htb/wondercms/home
+403   199B   http://sea.htb/wondercms/login.wdm%20
+403   199B   http://sea.htb/wondercms/New%20Folder
+403   199B   http://sea.htb/wondercms/New%20folder%20(2)
+403   199B   http://sea.htb/wondercms/phpliteadmin%202.php
+403   199B   http://sea.htb/wondercms/Read%20Me.txt
+200     1KB  http://sea.htb/wondercms/sitecore/content/home
+200     1KB  http://sea.htb/wondercms/sym/root/home/
+404     3KB  http://sea.htb/wondercms/admin%20/%2e%2e//google.com
+403   199B   http://sea.htb/wondercms/sym/root/home/%3f/
+403   199B   http://sea.htb/wondercms/sym/root/home/admin%20/
+404     3KB  http://sea.htb/wondercms/sym/root/home/admin/home
+404     3KB  http://sea.htb/wondercms/sym/root/home/home
+403   199B   http://sea.htb/wondercms/sym/root/home/login.wdm%20
+403   199B   http://sea.htb/wondercms/sym/root/home/New%20folder%20(2)
+403   199B   http://sea.htb/wondercms/sym/root/home/New%20Folder
+403   199B   http://sea.htb/wondercms/sym/root/home/phpliteadmin%202.php
+403   199B   http://sea.htb/wondercms/sym/root/home/Read%20Me.txt
+404     3KB  http://sea.htb/wondercms/sym/root/home/sitecore/content/home
+404     3KB  http://sea.htb/wondercms/sym/root/home/sym/root/home/
+404     3KB  http://sea.htb/wondercms/sym/root/home/admin%20/%2e%2e//google.com
+404     3KB  http://sea.htb/wondercms/sym/root/home/admin%20/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     3KB  http://sea.htb/wondercms/sym/root/home/admin%20/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd

@@ -1,0 +1,38 @@
+# Dirsearch started Mon Dec 16 14:59:59 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.28
+
+403   199B   http://10.10.11.28/%3f/
+403   199B   http://10.10.11.28/.ht_wsr.txt
+403   199B   http://10.10.11.28/.htaccessOLD
+403   199B   http://10.10.11.28/.htaccess.sample
+403   199B   http://10.10.11.28/.htaccess_extra
+403   199B   http://10.10.11.28/.htaccessBAK
+403   199B   http://10.10.11.28/.htaccess_orig
+403   199B   http://10.10.11.28/.htaccess_sc
+403   199B   http://10.10.11.28/.htaccess.save
+403   199B   http://10.10.11.28/.htaccessOLD2
+403   199B   http://10.10.11.28/.htaccess.bak1
+403   199B   http://10.10.11.28/.htaccess.orig
+403   199B   http://10.10.11.28/.htm
+403   199B   http://10.10.11.28/.htpasswds
+403   199B   http://10.10.11.28/.httr-oauth
+403   199B   http://10.10.11.28/.html
+403   199B   http://10.10.11.28/.htpasswd_test
+403   199B   http://10.10.11.28/.php
+200     1KB  http://10.10.11.28/404
+403   199B   http://10.10.11.28/admin%20/
+200   939B   http://10.10.11.28/contact.php
+301   232B   http://10.10.11.28/data    -> REDIRECTS TO: http://10.10.11.28/data/
+403   199B   http://10.10.11.28/data/
+403   199B   http://10.10.11.28/data/files/
+403   199B   http://10.10.11.28/login.wdm%20
+301   236B   http://10.10.11.28/messages    -> REDIRECTS TO: http://10.10.11.28/messages/
+403   199B   http://10.10.11.28/New%20folder%20(2)
+403   199B   http://10.10.11.28/New%20Folder
+403   199B   http://10.10.11.28/phpliteadmin%202.php
+301   235B   http://10.10.11.28/plugins    -> REDIRECTS TO: http://10.10.11.28/plugins/
+403   199B   http://10.10.11.28/plugins/
+403   199B   http://10.10.11.28/Read%20Me.txt
+403   199B   http://10.10.11.28/server-status/
+403   199B   http://10.10.11.28/server-status
+301   234B   http://10.10.11.28/themes    -> REDIRECTS TO: http://10.10.11.28/themes/
+403   199B   http://10.10.11.28/themes/

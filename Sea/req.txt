@@ -1,0 +1,17 @@
+POST /contact.php HTTP/1.1
+Host: sea.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 77
+Origin: http://sea.htb
+Connection: keep-alive
+Referer: http://sea.htb/contact.php
+Cookie: PHPSESSID=l72atj205f92bto802ak2baltp
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: blue
+Priority: u=0, i
+
+name=Hello&email=admin%40sea.htb&age=12&country=apodijap&website=povijasdpioj
