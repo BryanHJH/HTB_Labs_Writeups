@@ -130,3 +130,25 @@ Based on the information from `linpeas`, we can deduce that we will be somehow u
 1. [Chrome Remote Debugger Pentesting](https://exploit-notes.hdks.org/exploit/linux/privilege-escalation/chrome-remote-debugger-pentesting/)
 
 Following the steps on the resource above, the command that was used to perform port forwarding to the attacker machine was `ssh -L LOCAL_PORT:localhost:REMOTE_PORT michael@sightless.htb` where LOCAL_PORT is an unused port on the attacker machine while REMOTE_PORT is a port that is serving or hosting some service on the victim machine.
+
+Once connected, we can then setup Chrome to starting debugging or inspecting the pages that are forwarded from the victim machine. The setup can be done by first opening Chrome and then inputting `chrome://inspect` into the search bar. Once inside, we can add devices to monitor by pressing on **Configure** next to the **Discover network targets** label.
+
+Once all forwarded ports have been added, the list should look something like this:
+
+![Chrome Remote Debugger loaded with the targets to debug](./Screenshots/Chrome%20Remote%20Debugger%20abuse.png)
+
+When the targets connect or has activity, entries will show up under ***Remote Target***. We can click on **Inspect** to take a look at the specifics that are going on for those targets and in the one with Froxlor, we can see in the **Payloads** section, a username and password combination as shown below:
+
+![Froxlor username and password combination](./Screenshots/Froxlor%20Admin%20password.png)
+
+With this username and the hint of the website (the name Froxlor from the Remote Targets section as well as being one of the service that is listed in the main website), we can try accessing link that was listed int eh Remote Target, which was admin.sightless.htb or if that is inaccessible, then 127.0.0.1:8080.
+
+After getting access to it, we can try the username and password we retrieved earlier to login. Once logged in, we can see that we are in some kind of dashboard that allows us to tweak with the server's configuration.
+
+Going to the PHP tab and under the PHP-FPM versions section, we can see a field named **php-fpm restart command** and it seems to be Linux commands instead of just PHP code. We can try to use this to execute commands in the server and hopefully it is executed with root privileges.
+
+We can immediately try to copy the root.txt, which normally contains the root flag and is normally found in the `/root` directory, to the `/tmp` directory using the command `cp /root/root.txt /tmp/root.txt`. If this command succeeds, then we know that the commands executed from this section uses root privileges.
+
+However, this command is only executed when something restarts. Going into the System tab, we can find a toggle button for PHP to enable/disable it. So I tried toggling this to off and then on again, hopefully achieving the *restart* effect and surprisingly it did. And the command is executed with root privileges as well.
+
+So now I have the root.txt in the `/tmp` directory and I tried to use `cat` to read the contents but failed due to `permission denied`. It seems that I still do not have the privileges to read the file. Further research online seems to say I can copy the `id_rsa` file into the `/tmp` directory to read the file and thus I did exactly that using the method above and finally I can read the file and get the root flag.
