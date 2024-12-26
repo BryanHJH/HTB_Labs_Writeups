@@ -1,0 +1,2164 @@
+# Dirsearch started Thu Dec 26 22:23:33 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://linkvortex.htb -r
+
+404     7KB  http://linkvortex.htb/%3f/
+404     7KB  http://linkvortex.htb/..;/
+404     7KB  http://linkvortex.htb/.admin/
+301    63B   http://linkvortex.htb/.aspnet/DataProtection-Keys/    -> REDIRECTS TO: /.aspnet/dataprotection-keys/
+404     7KB  http://linkvortex.htb/.ansible/
+301    45B   http://linkvortex.htb/.axoCover/    -> REDIRECTS TO: /.axocover/
+404     7KB  http://linkvortex.htb/.apt_generated/
+404     7KB  http://linkvortex.htb/.aws/
+404     7KB  http://linkvortex.htb/.build/
+404     7KB  http://linkvortex.htb/.buildpath/
+404     7KB  http://linkvortex.htb/.bundle/
+404     7KB  http://linkvortex.htb/.bzr/
+404     7KB  http://linkvortex.htb/.c9/
+404     7KB  http://linkvortex.htb/.cabal-sandbox/
+404     7KB  http://linkvortex.htb/.c9revisions/
+404     7KB  http://linkvortex.htb/.capistrano/
+404     7KB  http://linkvortex.htb/.cfg/
+404     7KB  http://linkvortex.htb/.cache/
+404     7KB  http://linkvortex.htb/.capistrano/metrics/
+404     7KB  http://linkvortex.htb/.clcbio/
+404     7KB  http://linkvortex.htb/.circleci/
+404     7KB  http://linkvortex.htb/.conda/
+404     7KB  http://linkvortex.htb/.components/
+404     7KB  http://linkvortex.htb/.config/
+404     7KB  http://linkvortex.htb/.configuration/
+404     7KB  http://linkvortex.htb/.consulo/
+404     7KB  http://linkvortex.htb/.controls/
+404     7KB  http://linkvortex.htb/.coq-native/
+404     7KB  http://linkvortex.htb/.cpan/
+404     7KB  http://linkvortex.htb/.cr/
+404     7KB  http://linkvortex.htb/.cpanm/
+404     7KB  http://linkvortex.htb/.cpanel/caches/config/
+404     7KB  http://linkvortex.htb/.cpanel/
+404     7KB  http://linkvortex.htb/.cpcache/
+404     7KB  http://linkvortex.htb/.dbus/
+404     7KB  http://linkvortex.htb/.docker/
+404     7KB  http://linkvortex.htb/.dart_tool/
+404     7KB  http://linkvortex.htb/.dev/
+404     7KB  http://linkvortex.htb/.data/
+404     7KB  http://linkvortex.htb/.docs/
+404     7KB  http://linkvortex.htb/.dropbox/
+404     7KB  http://linkvortex.htb/.eggs/
+404     7KB  http://linkvortex.htb/.dynamodb/
+404     7KB  http://linkvortex.htb/.elixir_ls/
+404     7KB  http://linkvortex.htb/.ensime_lucene/
+404     7KB  http://linkvortex.htb/.ensime_cache/
+404     7KB  http://linkvortex.htb/.emails/
+404     7KB  http://linkvortex.htb/.elasticbeanstalk/
+301    57B   http://linkvortex.htb/.externalToolBuilders/    -> REDIRECTS TO: /.externaltoolbuilders/
+404     7KB  http://linkvortex.htb/.external/
+404     7KB  http://linkvortex.htb/.externaltoolbuilders/
+404     7KB  http://linkvortex.htb/.fake/
+404     7KB  http://linkvortex.htb/.filezilla/
+404     7KB  http://linkvortex.htb/.fontconfig/
+404     7KB  http://linkvortex.htb/.fop/
+404     7KB  http://linkvortex.htb/.fusebox/
+404     7KB  http://linkvortex.htb/.gfclient/
+404     7KB  http://linkvortex.htb/.git-rewrite/
+404     7KB  http://linkvortex.htb/.git/
+404     7KB  http://linkvortex.htb/.git/hooks/
+404     7KB  http://linkvortex.htb/.git/branches/
+404     7KB  http://linkvortex.htb/.git/info/
+404     7KB  http://linkvortex.htb/.git/objects/
+404     7KB  http://linkvortex.htb/.git/logs/
+404     7KB  http://linkvortex.htb/.git/refs/
+404     7KB  http://linkvortex.htb/.git2/
+404     7KB  http://linkvortex.htb/.github/
+404     7KB  http://linkvortex.htb/.gitignore/
+404     7KB  http://linkvortex.htb/.gnupg/
+404     7KB  http://linkvortex.htb/.gradle/
+404     7KB  http://linkvortex.htb/.gphoto/
+404     7KB  http://linkvortex.htb/.gnome/
+404     7KB  http://linkvortex.htb/.grunt/
+404     7KB  http://linkvortex.htb/.gwt-tmp/
+404     7KB  http://linkvortex.htb/.gwt/
+404     7KB  http://linkvortex.htb/.hg/
+404     7KB  http://linkvortex.htb/.hg/store/data/
+301    40B   http://linkvortex.htb/.HTF/    -> REDIRECTS TO: /.htf/
+404     7KB  http://linkvortex.htb/.htaccess/
+404     7KB  http://linkvortex.htb/.htpasswd/
+404     7KB  http://linkvortex.htb/.hypothesis/
+404     7KB  http://linkvortex.htb/.idea/libraries/
+404     7KB  http://linkvortex.htb/.idea/
+404     7KB  http://linkvortex.htb/.idea0/
+404     7KB  http://linkvortex.htb/.inst/
+404     7KB  http://linkvortex.htb/.idea_modules/
+404     7KB  http://linkvortex.htb/.ignored/
+404     7KB  http://linkvortex.htb/.import/
+404     7KB  http://linkvortex.htb/.interproscan-5/
+404     7KB  http://linkvortex.htb/.ionide/
+404     7KB  http://linkvortex.htb/.install/
+404     7KB  http://linkvortex.htb/.jekyll-cache/
+404     7KB  http://linkvortex.htb/.java/
+404     7KB  http://linkvortex.htb/.kdev4/
+404     7KB  http://linkvortex.htb/.kitchen/
+404     7KB  http://linkvortex.htb/.komodotools/
+404     7KB  http://linkvortex.htb/.lein-plugins/
+404     7KB  http://linkvortex.htb/.lgt_tmp/
+404     7KB  http://linkvortex.htb/.libs/
+404     7KB  http://linkvortex.htb/.lib/
+404     7KB  http://linkvortex.htb/.localcache/
+404     7KB  http://linkvortex.htb/.local/
+404     7KB  http://linkvortex.htb/.magentointel-cache/
+404     7KB  http://linkvortex.htb/.localeapp/
+404     7KB  http://linkvortex.htb/.m/
+404     7KB  http://linkvortex.htb/.localhistory/
+404     7KB  http://linkvortex.htb/.masterpages/
+404     7KB  http://linkvortex.htb/.mc/
+404     7KB  http://linkvortex.htb/.mfractor/
+404     7KB  http://linkvortex.htb/.modgit/
+404     7KB  http://linkvortex.htb/.modman/
+404     7KB  http://linkvortex.htb/.meteor/
+404     7KB  http://linkvortex.htb/.metadata/
+404     7KB  http://linkvortex.htb/.mono/
+404     7KB  http://linkvortex.htb/.mozilla/
+404     7KB  http://linkvortex.htb/.mtj.tmp/
+404     7KB  http://linkvortex.htb/.mypy_cache/
+404     7KB  http://linkvortex.htb/.navigation/
+404     7KB  http://linkvortex.htb/.nb-gradle/
+404     7KB  http://linkvortex.htb/.nbproject/
+404     7KB  http://linkvortex.htb/.nox/
+404     7KB  http://linkvortex.htb/.npm/
+404     7KB  http://linkvortex.htb/.nuget/
+404     7KB  http://linkvortex.htb/.nv/
+404     7KB  http://linkvortex.htb/.nvm/
+404     7KB  http://linkvortex.htb/.pac/
+404     7KB  http://linkvortex.htb/.oh-my-zsh/
+404     7KB  http://linkvortex.htb/.parallel/
+404     7KB  http://linkvortex.htb/.oracle_jre_usage/
+404     7KB  http://linkvortex.htb/.paket/
+404     7KB  http://linkvortex.htb/.otto/
+404     7KB  http://linkvortex.htb/.patches/
+404     7KB  http://linkvortex.htb/.perlbrew/
+404     7KB  http://linkvortex.htb/.pki/
+404     7KB  http://linkvortex.htb/.pm2/
+404     7KB  http://linkvortex.htb/.preview/
+404     7KB  http://linkvortex.htb/.project/
+404     7KB  http://linkvortex.htb/.pub/
+404     7KB  http://linkvortex.htb/.puppet/
+404     7KB  http://linkvortex.htb/.pyre/
+404     7KB  http://linkvortex.htb/.pytest_cache/
+404     7KB  http://linkvortex.htb/.qqestore/
+404     7KB  http://linkvortex.htb/.recommenders/
+301    47B   http://linkvortex.htb/.Rproj.user/    -> REDIRECTS TO: /.rproj.user/
+404     7KB  http://linkvortex.htb/.rocketeer/
+404     7KB  http://linkvortex.htb/.rpmdb/
+404     7KB  http://linkvortex.htb/.rpt2_cache/
+404     7KB  http://linkvortex.htb/.rsync_cache/
+404     7KB  http://linkvortex.htb/.rts2_cache_es/
+404     7KB  http://linkvortex.htb/.rts2_cache_umd/
+404     7KB  http://linkvortex.htb/.rts2_cache_cjs/
+404     7KB  http://linkvortex.htb/.sass-cache/
+404     7KB  http://linkvortex.htb/.settings/
+404     7KB  http://linkvortex.htb/.serverless/
+404     7KB  http://linkvortex.htb/.ssh/
+404     7KB  http://linkvortex.htb/.st_cache/
+404     7KB  http://linkvortex.htb/.stat/
+404     7KB  http://linkvortex.htb/.stack-work/
+404     7KB  http://linkvortex.htb/.svn/
+404     7KB  http://linkvortex.htb/.sucuriquarantine/
+404     7KB  http://linkvortex.htb/.svn/text-base/
+404     7KB  http://linkvortex.htb/.system/
+404     7KB  http://linkvortex.htb/.tconn/
+404     7KB  http://linkvortex.htb/.temp/
+404     7KB  http://linkvortex.htb/.templates/
+404     7KB  http://linkvortex.htb/.terraform/
+404     7KB  http://linkvortex.htb/.thunderbird/
+301    53B   http://linkvortex.htb/.tools/phpMyAdmin/    -> REDIRECTS TO: /.tools/phpmyadmin/
+404     7KB  http://linkvortex.htb/.tmp/
+404     7KB  http://linkvortex.htb/.tmp_versions/
+301    61B   http://linkvortex.htb/.tools/phpMyAdmin/current/    -> REDIRECTS TO: /.tools/phpmyadmin/current/
+404     7KB  http://linkvortex.htb/.trash/
+404     7KB  http://linkvortex.htb/.tox/
+404     7KB  http://linkvortex.htb/.vagrant/
+404     7KB  http://linkvortex.htb/.travis/
+404     7KB  http://linkvortex.htb/.tx/
+404     7KB  http://linkvortex.htb/.vgextensions/
+404     7KB  http://linkvortex.htb/.vim/
+404     7KB  http://linkvortex.htb/.vscode/
+404     7KB  http://linkvortex.htb/.vs/
+404     7KB  http://linkvortex.htb/.vmware/
+404     7KB  http://linkvortex.htb/.w3m/
+404     7KB  http://linkvortex.htb/.yardoc/
+404     7KB  http://linkvortex.htb/.x-formation/
+404     7KB  http://linkvortex.htb/.workspace/
+404     7KB  http://linkvortex.htb/.zfs/
+404     7KB  http://linkvortex.htb/0manager/
+404     7KB  http://linkvortex.htb/0admin/
+404     7KB  http://linkvortex.htb/1c/
+404     7KB  http://linkvortex.htb/2phpmyadmin/
+404     7KB  http://linkvortex.htb/;login/
+404     7KB  http://linkvortex.htb/;admin/
+404     7KB  http://linkvortex.htb/;json/
+404     7KB  http://linkvortex.htb/__recovery/
+404     7KB  http://linkvortex.htb/__history/
+404     7KB  http://linkvortex.htb/__cache/
+404     7KB  http://linkvortex.htb/_admin/
+404     7KB  http://linkvortex.htb/_awstats/
+404     7KB  http://linkvortex.htb/_borders/
+301    49B   http://linkvortex.htb/_DynaCacheEsi/    -> REDIRECTS TO: /_dynacacheesi/
+404     7KB  http://linkvortex.htb/_cache/
+404     7KB  http://linkvortex.htb/_build/
+404     7KB  http://linkvortex.htb/_data/
+404     7KB  http://linkvortex.htb/_eumm/
+404     7KB  http://linkvortex.htb/_fpclass/
+404     7KB  http://linkvortex.htb/_funciones/
+404     7KB  http://linkvortex.htb/_funcion/
+404     7KB  http://linkvortex.htb/_functions/
+404     7KB  http://linkvortex.htb/_function/
+404     7KB  http://linkvortex.htb/_h5ai/
+404     7KB  http://linkvortex.htb/_include/
+404     7KB  http://linkvortex.htb/_inc/
+404     7KB  http://linkvortex.htb/_log/
+301    48B   http://linkvortex.htb/_LPHPMYADMIN/    -> REDIRECTS TO: /_lphpmyadmin/
+301    52B   http://linkvortex.htb/_mmServerScripts/    -> REDIRECTS TO: /_mmserverscripts/
+404     7KB  http://linkvortex.htb/_layouts/
+404     7KB  http://linkvortex.htb/_includes/
+404     7KB  http://linkvortex.htb/_mem_bin/
+404     7KB  http://linkvortex.htb/_logs/
+404     7KB  http://linkvortex.htb/_notes/
+404     7KB  http://linkvortex.htb/_novo/
+301    56B   http://linkvortex.htb/_UpgradeReport_Files/    -> REDIRECTS TO: /_upgradereport_files/
+404     7KB  http://linkvortex.htb/_phpmyadmin/
+404     7KB  http://linkvortex.htb/_privado/
+404     7KB  http://linkvortex.htb/_priv8/
+404     7KB  http://linkvortex.htb/_privados/
+404     7KB  http://linkvortex.htb/_site/
+404     7KB  http://linkvortex.htb/_private/
+404     7KB  http://linkvortex.htb/_temp/
+404     7KB  http://linkvortex.htb/_thumbs/
+404     7KB  http://linkvortex.htb/_themes/
+301    44B   http://linkvortex.htb/_WEB_INF/    -> REDIRECTS TO: /_web_inf/
+404     7KB  http://linkvortex.htb/_vti_adm/
+404     7KB  http://linkvortex.htb/_vti_log/
+404     7KB  http://linkvortex.htb/_vti_aut/
+301   109B   http://linkvortex.htb/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/    -> REDIRECTS TO: /a4j/s/3_3_3.finalorg/richfaces/renderkit/html/css/basic_classes.xcss/datb/
+404     7KB  http://linkvortex.htb/_vti_cnf/
+404     7KB  http://linkvortex.htb/_webalizer/
+404     7KB  http://linkvortex.htb/_vti_bin/
+301    96B   http://linkvortex.htb/a4j/s/3_3_3.Finalorg.ajax4jsf.resource.UserResource/n/n/DATA/    -> REDIRECTS TO: /a4j/s/3_3_3.finalorg.ajax4jsf.resource.userresource/n/n/data/
+404     7KB  http://linkvortex.htb/_yardoc/
+404     7KB  http://linkvortex.htb/_vti_pvt/
+301    99B   http://linkvortex.htb/a4j/g/3_3_1.GAorg.richfaces.renderkit.html.Paint2DResource/DATA/    -> REDIRECTS TO: /a4j/g/3_3_1.gaorg.richfaces.renderkit.html.paint2dresource/data/
+404     7KB  http://linkvortex.htb/_wpeprivate/
+404     7KB  http://linkvortex.htb/_vti_txt/
+404     7KB  http://linkvortex.htb/aadmin/
+404     7KB  http://linkvortex.htb/ab/docs/
+404     7KB  http://linkvortex.htb/ab/
+404     7KB  http://linkvortex.htb/abs/
+404     7KB  http://linkvortex.htb/access-log/
+404     7KB  http://linkvortex.htb/access/
+301    50B   http://linkvortex.htb/AccessPlatform/    -> REDIRECTS TO: /accessplatform/
+301    69B   http://linkvortex.htb/AccessPlatform/auth/clientscripts/    -> REDIRECTS TO: /accessplatform/auth/clientscripts/
+301    55B   http://linkvortex.htb/AccessPlatform/auth/    -> REDIRECTS TO: /accessplatform/auth/
+404     7KB  http://linkvortex.htb/access_logs/
+404     7KB  http://linkvortex.htb/accesslog/
+404     7KB  http://linkvortex.htb/account/
+404     7KB  http://linkvortex.htb/accounts/
+301    69B   http://linkvortex.htb/ActiveDirectoryRemoteAdminScripts/    -> REDIRECTS TO: /activedirectoryremoteadminscripts/
+404     7KB  http://linkvortex.htb/acct_login/
+404     7KB  http://linkvortex.htb/activitysessions/docs/
+404     7KB  http://linkvortex.htb/activemq/
+404     7KB  http://linkvortex.htb/actuators/
+301    77B   http://linkvortex.htb/AddressBookW2JE/services/AddressBook/wsdl/    -> REDIRECTS TO: /addressbookw2je/services/addressbook/wsdl/
+301    77B   http://linkvortex.htb/AddressBookJ2WE/services/AddressBook/wsdl/    -> REDIRECTS TO: /addressbookj2we/services/addressbook/wsdl/
+404     7KB  http://linkvortex.htb/adm-bin/
+404     7KB  http://linkvortex.htb/adjuncts/3a890183/
+404     7KB  http://linkvortex.htb/adm/
+404     7KB  http://linkvortex.htb/admin%20/
+404     7KB  http://linkvortex.htb/admin-console/
+404     7KB  http://linkvortex.htb/admin-dev/import/
+404     7KB  http://linkvortex.htb/admin-dev/export/
+404     7KB  http://linkvortex.htb/admin-database/
+404     7KB  http://linkvortex.htb/admin-dev/backups/
+404     7KB  http://linkvortex.htb/admin-dev/autoupgrade/
+404     7KB  http://linkvortex.htb/admin-dev/
+404     7KB  http://linkvortex.htb/admin-serv/
+301    41B   http://linkvortex.htb/Admin/    -> REDIRECTS TO: /admin/
+404     7KB  http://linkvortex.htb/admin/%3bindex/
+404     7KB  http://linkvortex.htb/admin/
+404     7KB  http://linkvortex.htb/admin/backups/
+404     7KB  http://linkvortex.htb/admin/backup/
+404     7KB  http://linkvortex.htb/admin/db/
+404     7KB  http://linkvortex.htb/admin/dumper/
+404     7KB  http://linkvortex.htb/admin/js/tinymce/
+404     7KB  http://linkvortex.htb/admin/js/tiny_mce/
+301    47B   http://linkvortex.htb/Admin/login/    -> REDIRECTS TO: /admin/login/
+404     7KB  http://linkvortex.htb/admin/logs/
+404     7KB  http://linkvortex.htb/admin/mysql/
+301    52B   http://linkvortex.htb/admin/phpMyAdmin/    -> REDIRECTS TO: /admin/phpmyadmin/
+301    45B   http://linkvortex.htb/admin/pMA/    -> REDIRECTS TO: /admin/pma/
+404     7KB  http://linkvortex.htb/admin/pma/
+404     7KB  http://linkvortex.htb/admin/phpmyadmin/
+404     7KB  http://linkvortex.htb/admin/sysadmin/
+404     7KB  http://linkvortex.htb/admin/sxd/
+404     7KB  http://linkvortex.htb/admin/sqladmin/
+404     7KB  http://linkvortex.htb/admin/web/
+404     7KB  http://linkvortex.htb/admin2.old/
+404     7KB  http://linkvortex.htb/admin1/
+404     7KB  http://linkvortex.htb/admin2/
+404     7KB  http://linkvortex.htb/admin2009/
+404     7KB  http://linkvortex.htb/admin2006/
+404     7KB  http://linkvortex.htb/admin2007/
+404     7KB  http://linkvortex.htb/admin2008/
+404     7KB  http://linkvortex.htb/admin2011/
+404     7KB  http://linkvortex.htb/admin2010/
+404     7KB  http://linkvortex.htb/admin2012/
+404     7KB  http://linkvortex.htb/admin2013/
+301    42B   http://linkvortex.htb/Admin;/    -> REDIRECTS TO: /admin;/
+404     7KB  http://linkvortex.htb/admin4/
+404     7KB  http://linkvortex.htb/admin3/
+404     7KB  http://linkvortex.htb/admin4_colon/
+404     7KB  http://linkvortex.htb/admin5/
+404     7KB  http://linkvortex.htb/admin;/
+404     7KB  http://linkvortex.htb/admin_/
+404     7KB  http://linkvortex.htb/admin4_account/
+404     7KB  http://linkvortex.htb/admin_area/
+404     7KB  http://linkvortex.htb/admin_login/
+404     7KB  http://linkvortex.htb/admin_logon/
+404     7KB  http://linkvortex.htb/admin_tools/
+404     7KB  http://linkvortex.htb/adminarea/
+404     7KB  http://linkvortex.htb/admincontrol/
+404     7KB  http://linkvortex.htb/admincp/
+404     7KB  http://linkvortex.htb/admincp/upload/
+404     7KB  http://linkvortex.htb/admincp/js/kindeditor/
+404     7KB  http://linkvortex.htb/adminer/
+404     7KB  http://linkvortex.htb/administer/
+404     7KB  http://linkvortex.htb/administr8/
+404     7KB  http://linkvortex.htb/administrador/
+404     7KB  http://linkvortex.htb/administracion/
+404     7KB  http://linkvortex.htb/administration/
+404     7KB  http://linkvortex.htb/administrateur/
+404     7KB  http://linkvortex.htb/administratie/
+404     7KB  http://linkvortex.htb/administrative/
+404     7KB  http://linkvortex.htb/administrator-login/
+404     7KB  http://linkvortex.htb/administrator/
+404     7KB  http://linkvortex.htb/administrator/cache/
+404     7KB  http://linkvortex.htb/administrator/admin/
+301    60B   http://linkvortex.htb/administrator/phpMyAdmin/    -> REDIRECTS TO: /administrator/phpmyadmin/
+404     7KB  http://linkvortex.htb/administrator/includes/
+404     7KB  http://linkvortex.htb/administrator/db/
+301    53B   http://linkvortex.htb/administrator/PMA/    -> REDIRECTS TO: /administrator/pma/
+404     7KB  http://linkvortex.htb/administrator/phpmyadmin/
+404     7KB  http://linkvortex.htb/administrator/logs/
+404     7KB  http://linkvortex.htb/administrator/web/
+404     7KB  http://linkvortex.htb/administratoraccounts/
+404     7KB  http://linkvortex.htb/administrator/pma/
+404     7KB  http://linkvortex.htb/administratorlogin/
+404     7KB  http://linkvortex.htb/adminitems/
+404     7KB  http://linkvortex.htb/adminitem/
+404     7KB  http://linkvortex.htb/administrivia/
+404     7KB  http://linkvortex.htb/administrators/
+301    46B   http://linkvortex.htb/adminLogin/    -> REDIRECTS TO: /adminlogin/
+404     7KB  http://linkvortex.htb/adminlogin/
+404     7KB  http://linkvortex.htb/adminlogon/
+404     7KB  http://linkvortex.htb/adminmember/
+404     7KB  http://linkvortex.htb/adminpanel/
+404     7KB  http://linkvortex.htb/adminpro/
+404     7KB  http://linkvortex.htb/admins/
+404     7KB  http://linkvortex.htb/admins/backup/
+404     7KB  http://linkvortex.htb/adminsite/
+301    46B   http://linkvortex.htb/AdminTools/    -> REDIRECTS TO: /admintools/
+404     7KB  http://linkvortex.htb/admpar/
+404     7KB  http://linkvortex.htb/admrev/_files/
+404     7KB  http://linkvortex.htb/admrev/
+404     7KB  http://linkvortex.htb/adsamples/
+301    56B   http://linkvortex.htb/AlbumCatalogWeb/docs/    -> REDIRECTS TO: /albumcatalogweb/docs/
+301    51B   http://linkvortex.htb/AlbumCatalogWeb/    -> REDIRECTS TO: /albumcatalogweb/
+404     7KB  http://linkvortex.htb/aims/ps/
+301    63B   http://linkvortex.htb/AlbumCatalogWeb/docsservlet/    -> REDIRECTS TO: /albumcatalogweb/docsservlet/
+301    58B   http://linkvortex.htb/AlbumCatalogWebservlet/    -> REDIRECTS TO: /albumcatalogwebservlet/
+404     7KB  http://linkvortex.htb/all/
+404     7KB  http://linkvortex.htb/apache/
+404     7KB  http://linkvortex.htb/ansible/
+404     7KB  http://linkvortex.htb/answers/
+404     7KB  http://linkvortex.htb/apc/
+404     7KB  http://linkvortex.htb/api/2/explore/
+404     7KB  http://linkvortex.htb/api/
+404     7KB  http://linkvortex.htb/api/__swagger__/
+404     7KB  http://linkvortex.htb/api/_swagger_/
+404     7KB  http://linkvortex.htb/api/docs/
+404     7KB  http://linkvortex.htb/api/v1/
+404     7KB  http://linkvortex.htb/api/v2/
+404     7KB  http://linkvortex.htb/app/cache/
+404     7KB  http://linkvortex.htb/app/__pycache__/
+404     7KB  http://linkvortex.htb/app/
+404     7KB  http://linkvortex.htb/app/kibana/
+404     7KB  http://linkvortex.htb/app/log/
+404     7KB  http://linkvortex.htb/app/logs/
+404     7KB  http://linkvortex.htb/app/storage/
+404     7KB  http://linkvortex.htb/app/tmp/
+301    60B   http://linkvortex.htb/ApplicationProfileSample/    -> REDIRECTS TO: /applicationprofilesample/
+301    67B   http://linkvortex.htb/ApplicationProfileSampleservlet/    -> REDIRECTS TO: /applicationprofilesampleservlet/
+404     7KB  http://linkvortex.htb/appengine-generated/
+404     7KB  http://linkvortex.htb/application/cache/
+301    65B   http://linkvortex.htb/ApplicationProfileSample/docs/    -> REDIRECTS TO: /applicationprofilesample/docs/
+404     7KB  http://linkvortex.htb/apps/__pycache__/
+301    47B   http://linkvortex.htb/AppPackages/    -> REDIRECTS TO: /apppackages/
+404     7KB  http://linkvortex.htb/application/logs/
+404     7KB  http://linkvortex.htb/application/
+404     7KB  http://linkvortex.htb/apps/
+404     7KB  http://linkvortex.htb/archi~1/
+404     7KB  http://linkvortex.htb/article/
+301    47B   http://linkvortex.htb/ASALocalRun/    -> REDIRECTS TO: /asalocalrun/
+404     7KB  http://linkvortex.htb/artifactory/
+404     7KB  http://linkvortex.htb/asp/
+404     7KB  http://linkvortex.htb/aspnet_client/
+404     7KB  http://linkvortex.htb/artifacts/
+301   179B   http://linkvortex.htb/assets    -> REDIRECTS TO: /assets/
+301    48B   http://linkvortex.htb/asynchPeople/    -> REDIRECTS TO: /asynchpeople/
+404     7KB  http://linkvortex.htb/asterisk/
+404     7KB  http://linkvortex.htb/aspnet_files/
+404     7KB  http://linkvortex.htb/asps/
+404     7KB  http://linkvortex.htb/asynchbeans/
+404     7KB  http://linkvortex.htb/assets/
+404     7KB  http://linkvortex.htb/asynchbeans/docs/
+404     7KB  http://linkvortex.htb/auth/
+404     7KB  http://linkvortex.htb/authadmin/
+301    48B   http://linkvortex.htb/AutoTest.Net/    -> REDIRECTS TO: /autotest.net/
+404     7KB  http://linkvortex.htb/auto/
+404     7KB  http://linkvortex.htb/autodiscover/
+301     0B   http://linkvortex.htb/axis//happyaxis.jsp    -> REDIRECTS TO: /axis/happyaxis.jsp/
+404     7KB  http://linkvortex.htb/aws/
+301     0B   http://linkvortex.htb/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /axis2/axis2-web/HappyAxis.jsp/
+404     7KB  http://linkvortex.htb/av/
+404     7KB  http://linkvortex.htb/autoupdate/
+404     7KB  http://linkvortex.htb/autologin/
+404     7KB  http://linkvortex.htb/axis2/axis2-admin/
+404     7KB  http://linkvortex.htb/b2badmin/
+404     7KB  http://linkvortex.htb/axis1/axis1-admin/
+404     7KB  http://linkvortex.htb/awstats/
+404     7KB  http://linkvortex.htb/azureadmin/
+404     7KB  http://linkvortex.htb/backend/
+404     7KB  http://linkvortex.htb/back-office/
+404     7KB  http://linkvortex.htb/back-end/
+404     7KB  http://linkvortex.htb/backend_dev/
+404     7KB  http://linkvortex.htb/backoffice/
+404     7KB  http://linkvortex.htb/backup/
+301    40B   http://linkvortex.htb/Bank/    -> REDIRECTS TO: /bank/
+404     7KB  http://linkvortex.htb/backup0/
+404     7KB  http://linkvortex.htb/backup2/
+404     7KB  http://linkvortex.htb/backups/
+404     7KB  http://linkvortex.htb/backup1/
+404     7KB  http://linkvortex.htb/backup123/
+404     7KB  http://linkvortex.htb/bak/
+404     7KB  http://linkvortex.htb/bamb/
+404     7KB  http://linkvortex.htb/bamboo/
+404     7KB  http://linkvortex.htb/bandwidth/
+404     7KB  http://linkvortex.htb/banner/
+404     7KB  http://linkvortex.htb/banneradmin/
+404     7KB  http://linkvortex.htb/banners/
+404     7KB  http://linkvortex.htb/base/
+404     7KB  http://linkvortex.htb/bb-admin/
+404     7KB  http://linkvortex.htb/bbadmin/
+404     7KB  http://linkvortex.htb/bbs/
+404     7KB  http://linkvortex.htb/bea_wls_cluster_internal/
+404     7KB  http://linkvortex.htb/bea_wls_deployment_internal/
+404     7KB  http://linkvortex.htb/bea_wls_diagnostics/
+404     7KB  http://linkvortex.htb/bea_wls_internal/classes/
+301    61B   http://linkvortex.htb/BenchmarkDotNet.Artifacts/    -> REDIRECTS TO: /benchmarkdotnet.artifacts/
+404     7KB  http://linkvortex.htb/bea_wls_internal/
+404     7KB  http://linkvortex.htb/beheer/
+404     7KB  http://linkvortex.htb/bigadmin/
+301    44B   http://linkvortex.htb/Binaries/    -> REDIRECTS TO: /binaries/
+404     7KB  http://linkvortex.htb/billing/
+404     7KB  http://linkvortex.htb/bin-release/
+404     7KB  http://linkvortex.htb/bin-debug/
+404     7KB  http://linkvortex.htb/bitrix/backup/
+404     7KB  http://linkvortex.htb/bitrix/dumper/
+404     7KB  http://linkvortex.htb/bitrix/import/
+404     7KB  http://linkvortex.htb/bitrix/logs/
+404     7KB  http://linkvortex.htb/bitrix/
+404     7KB  http://linkvortex.htb/bins/
+404     7KB  http://linkvortex.htb/bin/
+404     7KB  http://linkvortex.htb/biy/upload/
+404     7KB  http://linkvortex.htb/bitrix/otp/
+404     7KB  http://linkvortex.htb/biy/
+404     7KB  http://linkvortex.htb/blog/wp-content/backups/
+404     7KB  http://linkvortex.htb/blog/phpmyadmin/
+404     7KB  http://linkvortex.htb/bld/
+404     7KB  http://linkvortex.htb/blib/
+404     7KB  http://linkvortex.htb/blogindex/
+404     7KB  http://linkvortex.htb/blog/wp-content/backup-db/
+404     7KB  http://linkvortex.htb/blog/
+404     7KB  http://linkvortex.htb/bower_components/
+404     7KB  http://linkvortex.htb/browser/
+301    50B   http://linkvortex.htb/build-iPhoneOS/    -> REDIRECTS TO: /build-iphoneos/
+301    57B   http://linkvortex.htb/build-iPhoneSimulator/    -> REDIRECTS TO: /build-iphonesimulator/
+404     7KB  http://linkvortex.htb/build_isolated/
+301    51B   http://linkvortex.htb/BundleArtifacts/    -> REDIRECTS TO: /bundleartifacts/
+404     7KB  http://linkvortex.htb/build/
+404     7KB  http://linkvortex.htb/cache/
+404     7KB  http://linkvortex.htb/cadmins/
+404     7KB  http://linkvortex.htb/cacti/
+404     7KB  http://linkvortex.htb/capistrano/
+404     7KB  http://linkvortex.htb/captures/
+404     7KB  http://linkvortex.htb/cassandra/
+404     7KB  http://linkvortex.htb/ccp14admin/
+404     7KB  http://linkvortex.htb/centreon/
+301    55B   http://linkvortex.htb/CFIDE/administrator/    -> REDIRECTS TO: /cfide/administrator/
+301    41B   http://linkvortex.htb/CFIDE/    -> REDIRECTS TO: /cfide/
+301    55B   http://linkvortex.htb/CFIDE/Administrator/    -> REDIRECTS TO: /cfide/administrator/
+404     7KB  http://linkvortex.htb/cbx-portal/
+404     7KB  http://linkvortex.htb/cert/
+404     7KB  http://linkvortex.htb/cgi-bin/awstats/
+404     7KB  http://linkvortex.htb/cfg/cpp/
+404     7KB  http://linkvortex.htb/certsrv/
+404     7KB  http://linkvortex.htb/certenroll/
+404     7KB  http://linkvortex.htb/cfg/
+404     7KB  http://linkvortex.htb/certprov/
+404     7KB  http://linkvortex.htb/certcontrol/
+404     7KB  http://linkvortex.htb/cgi-bin/
+404     7KB  http://linkvortex.htb/cgi-perl/
+404     7KB  http://linkvortex.htb/cgi-local/
+404     7KB  http://linkvortex.htb/cgi-bin2/
+404     7KB  http://linkvortex.htb/cgi-dos/
+404     7KB  http://linkvortex.htb/cgi-exe/
+404     7KB  http://linkvortex.htb/cgi-shl/
+404     7KB  http://linkvortex.htb/cgi.pl/
+404     7KB  http://linkvortex.htb/cgi/account/
+404     7KB  http://linkvortex.htb/cgi-sys/
+404     7KB  http://linkvortex.htb/cgis/
+404     7KB  http://linkvortex.htb/cgibin/
+404     7KB  http://linkvortex.htb/cgi/
+404     7KB  http://linkvortex.htb/cgi-win/
+301     0B   http://linkvortex.htb/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+404     7KB  http://linkvortex.htb/checkouts/
+301    76B   http://linkvortex.htb/citrix/AccessPlatform/auth/clientscripts/    -> REDIRECTS TO: /citrix/accessplatform/auth/clientscripts/
+301    62B   http://linkvortex.htb/citrix/AccessPlatform/auth/    -> REDIRECTS TO: /citrix/accessplatform/auth/
+301    42B   http://linkvortex.htb/Citrix/    -> REDIRECTS TO: /citrix/
+404     7KB  http://linkvortex.htb/checkstyle/
+404     7KB  http://linkvortex.htb/ci/
+404     7KB  http://linkvortex.htb/chef/
+404     7KB  http://linkvortex.htb/citrix/
+404     7KB  http://linkvortex.htb/ckeditor/samples/
+404     7KB  http://linkvortex.htb/ckeditor/
+404     7KB  http://linkvortex.htb/ckfinder/
+301    45B   http://linkvortex.htb/ClientBin/    -> REDIRECTS TO: /clientbin/
+404     7KB  http://linkvortex.htb/cli/
+301    45B   http://linkvortex.htb/Classpath/    -> REDIRECTS TO: /classpath/
+404     7KB  http://linkvortex.htb/classes/
+404     7KB  http://linkvortex.htb/cloud/
+404     7KB  http://linkvortex.htb/cliente/
+404     7KB  http://linkvortex.htb/cms/
+404     7KB  http://linkvortex.htb/cmsample/
+404     7KB  http://linkvortex.htb/cmscockpit/
+404     7KB  http://linkvortex.htb/cmsadmin/
+404     7KB  http://linkvortex.htb/codeship/
+404     7KB  http://linkvortex.htb/common/
+404     7KB  http://linkvortex.htb/collectl/
+404     7KB  http://linkvortex.htb/collectd/
+404     7KB  http://linkvortex.htb/components/
+404     7KB  http://linkvortex.htb/conf/
+301    42B   http://linkvortex.htb/Config/    -> REDIRECTS TO: /config/
+404     7KB  http://linkvortex.htb/config/development/
+404     7KB  http://linkvortex.htb/config/autoload/
+404     7KB  http://linkvortex.htb/config/
+404     7KB  http://linkvortex.htb/config/xml/
+404     7KB  http://linkvortex.htb/configs/
+404     7KB  http://linkvortex.htb/configuration/
+404     7KB  http://linkvortex.htb/confluence/
+404     7KB  http://linkvortex.htb/consul/
+404     7KB  http://linkvortex.htb/console/
+404     7KB  http://linkvortex.htb/content/
+404     7KB  http://linkvortex.htb/controllers/
+404     7KB  http://linkvortex.htb/control/
+404     7KB  http://linkvortex.htb/controlpanel/
+404     7KB  http://linkvortex.htb/coverage/
+404     7KB  http://linkvortex.htb/cover_db/
+404     7KB  http://linkvortex.htb/cpanel/
+404     7KB  http://linkvortex.htb/cp/
+404     7KB  http://linkvortex.htb/cpanel_file/
+404     7KB  http://linkvortex.htb/craft/
+404     7KB  http://linkvortex.htb/crm/
+404     7KB  http://linkvortex.htb/credentials/
+404     7KB  http://linkvortex.htb/cron/
+404     7KB  http://linkvortex.htb/crond/
+404     7KB  http://linkvortex.htb/csx/
+404     7KB  http://linkvortex.htb/cscockpit/
+404     7KB  http://linkvortex.htb/crond/logs/
+301    39B   http://linkvortex.htb/CVS/    -> REDIRECTS TO: /cvs/
+404     7KB  http://linkvortex.htb/customer_login/
+404     7KB  http://linkvortex.htb/custom/
+404     7KB  http://linkvortex.htb/cvs/
+404     7KB  http://linkvortex.htb/dasbhoard/
+404     7KB  http://linkvortex.htb/dashboard/
+301    64B   http://linkvortex.htb/data/DoctrineORMModule/Proxy/    -> REDIRECTS TO: /data/doctrineormmodule/proxy/
+301    64B   http://linkvortex.htb/data/DoctrineORMModule/cache/    -> REDIRECTS TO: /data/doctrineormmodule/cache/
+404     7KB  http://linkvortex.htb/data/files/
+301    56B   http://linkvortex.htb/database/phpMyAdmin2/    -> REDIRECTS TO: /database/phpmyadmin2/
+301    55B   http://linkvortex.htb/database/phpMyAdmin/    -> REDIRECTS TO: /database/phpmyadmin/
+404     7KB  http://linkvortex.htb/data/tmp/
+404     7KB  http://linkvortex.htb/data/debug/
+404     7KB  http://linkvortex.htb/database/database/
+404     7KB  http://linkvortex.htb/data/logs/
+404     7KB  http://linkvortex.htb/database/phpmyadmin2/
+404     7KB  http://linkvortex.htb/datadog/
+404     7KB  http://linkvortex.htb/database/phpmyadmin/
+404     7KB  http://linkvortex.htb/database/
+404     7KB  http://linkvortex.htb/data/backups/
+404     7KB  http://linkvortex.htb/data/cache/
+301    59B   http://linkvortex.htb/Database_Administration/    -> REDIRECTS TO: /database_administration/
+404     7KB  http://linkvortex.htb/data/
+404     7KB  http://linkvortex.htb/db/dbadmin/
+404     7KB  http://linkvortex.htb/db/
+404     7KB  http://linkvortex.htb/db/db-admin/
+404     7KB  http://linkvortex.htb/data/sessions/
+404     7KB  http://linkvortex.htb/db-admin/
+301    50B   http://linkvortex.htb/db/phpMyAdmin3/    -> REDIRECTS TO: /db/phpmyadmin3/
+301    51B   http://linkvortex.htb/db/phpMyAdmin-3/    -> REDIRECTS TO: /db/phpmyadmin-3/
+301    50B   http://linkvortex.htb/db/phpMyAdmin2/    -> REDIRECTS TO: /db/phpmyadmin2/
+301    51B   http://linkvortex.htb/db/phpMyAdmin-2/    -> REDIRECTS TO: /db/phpmyadmin-2/
+301    49B   http://linkvortex.htb/db/phpMyAdmin/    -> REDIRECTS TO: /db/phpmyadmin/
+404     7KB  http://linkvortex.htb/db/dbweb/
+404     7KB  http://linkvortex.htb/db/phpmyadmin/
+404     7KB  http://linkvortex.htb/db/phpmyadmin3/
+404     7KB  http://linkvortex.htb/db/webdb/
+404     7KB  http://linkvortex.htb/db/myadmin/
+404     7KB  http://linkvortex.htb/db_backups/
+404     7KB  http://linkvortex.htb/db/phpmyadmin2/
+404     7KB  http://linkvortex.htb/db/webadmin/
+404     7KB  http://linkvortex.htb/db/websql/
+404     7KB  http://linkvortex.htb/dbfix/
+404     7KB  http://linkvortex.htb/dbweb/
+404     7KB  http://linkvortex.htb/dbbackup/
+404     7KB  http://linkvortex.htb/dbadmin/
+404     7KB  http://linkvortex.htb/debug/pprof/
+404     7KB  http://linkvortex.htb/debug/
+301    52B   http://linkvortex.htb/DerivedDataCache/    -> REDIRECTS TO: /deriveddatacache/
+301    47B   http://linkvortex.htb/DerivedData/    -> REDIRECTS TO: /deriveddata/
+404     7KB  http://linkvortex.htb/denglu/
+404     7KB  http://linkvortex.htb/demos/
+404     7KB  http://linkvortex.htb/demo/
+404     7KB  http://linkvortex.htb/desk/
+404     7KB  http://linkvortex.htb/development.esproj/
+404     7KB  http://linkvortex.htb/dev/
+404     7KB  http://linkvortex.htb/desktop/
+404     7KB  http://linkvortex.htb/devel/
+404     7KB  http://linkvortex.htb/devel_isolated/
+404     7KB  http://linkvortex.htb/development/
+404     7KB  http://linkvortex.htb/development-parts/
+404     7KB  http://linkvortex.htb/develop-eggs/
+404     7KB  http://linkvortex.htb/dialog/oauth/
+404     7KB  http://linkvortex.htb/deviceupdatefiles_int/
+404     7KB  http://linkvortex.htb/dir-login/
+404     7KB  http://linkvortex.htb/dialin/
+404     7KB  http://linkvortex.htb/dhcp_log/
+404     7KB  http://linkvortex.htb/directadmin/
+404     7KB  http://linkvortex.htb/deviceupdatefiles_ext/
+404     7KB  http://linkvortex.htb/doc/
+404     7KB  http://linkvortex.htb/doc/api/
+404     7KB  http://linkvortex.htb/dist/
+404     7KB  http://linkvortex.htb/docker/
+404     7KB  http://linkvortex.htb/docs/_build/
+404     7KB  http://linkvortex.htb/docs/
+404     7KB  http://linkvortex.htb/domcfg.nsf/?open
+404     7KB  http://linkvortex.htb/dokuwiki/
+404     7KB  http://linkvortex.htb/doctrine/
+404     7KB  http://linkvortex.htb/download/
+404     7KB  http://linkvortex.htb/down/
+404     7KB  http://linkvortex.htb/documentation/
+404     7KB  http://linkvortex.htb/downloader/
+404     7KB  http://linkvortex.htb/duckrails/mocks/
+404     7KB  http://linkvortex.htb/downloads/
+404     7KB  http://linkvortex.htb/dump/
+404     7KB  http://linkvortex.htb/dumper/
+404     7KB  http://linkvortex.htb/dumps/
+404     7KB  http://linkvortex.htb/dvwa/
+404     7KB  http://linkvortex.htb/editor/ckeditor/samples/
+404     7KB  http://linkvortex.htb/ecf/
+404     7KB  http://linkvortex.htb/ecp/
+404     7KB  http://linkvortex.htb/editor/
+404     7KB  http://linkvortex.htb/editors/
+404     7KB  http://linkvortex.htb/editor/tinymce/
+404     7KB  http://linkvortex.htb/editor/tiny_mce/
+404     7KB  http://linkvortex.htb/editor/stats/
+404     7KB  http://linkvortex.htb/elastic/
+404     7KB  http://linkvortex.htb/eggs/
+404     7KB  http://linkvortex.htb/elfinder/
+404     7KB  http://linkvortex.htb/email/
+404     7KB  http://linkvortex.htb/elasticsearch/
+404     7KB  http://linkvortex.htb/en/admin/
+404     7KB  http://linkvortex.htb/encode-explorer_6.2/
+301     0B   http://linkvortex.htb/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload.swf/
+404     7KB  http://linkvortex.htb/encode-explorer_5.1/
+404     7KB  http://linkvortex.htb/encode_explorer-3.2/
+404     7KB  http://linkvortex.htb/encode_explorer/
+404     7KB  http://linkvortex.htb/encode-explorer_6.0/
+404     7KB  http://linkvortex.htb/encode-explorer_6.4.1/
+404     7KB  http://linkvortex.htb/encode-explorer_6.1/
+404     7KB  http://linkvortex.htb/encode-explorer_6.4/
+404     7KB  http://linkvortex.htb/encode_explorer-3.4/
+404     7KB  http://linkvortex.htb/encode-explorer_5.0/
+301     0B   http://linkvortex.htb/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload_f9.swf/
+404     7KB  http://linkvortex.htb/encode-explorer_6.3/
+404     7KB  http://linkvortex.htb/encode_explorer-4.0/
+404     7KB  http://linkvortex.htb/encode_explorer_32/
+404     7KB  http://linkvortex.htb/encode_explorer-3.3/
+404     7KB  http://linkvortex.htb/engine/
+301    39B   http://linkvortex.htb/ENV/    -> REDIRECTS TO: /env/
+404     7KB  http://linkvortex.htb/env.bak/
+404     7KB  http://linkvortex.htb/env/
+404     7KB  http://linkvortex.htb/error/
+301    48B   http://linkvortex.htb/Estadisticas/    -> REDIRECTS TO: /estadisticas/
+404     7KB  http://linkvortex.htb/errors/
+404     7KB  http://linkvortex.htb/etc/
+301    43B   http://linkvortex.htb/Exadmin/    -> REDIRECTS TO: /exadmin/
+404     7KB  http://linkvortex.htb/examples/jsp/%252e%252e/%252e%252e/manager/html/
+404     7KB  http://linkvortex.htb/ews/
+404     7KB  http://linkvortex.htb/examples/
+301    44B   http://linkvortex.htb/Exchange/    -> REDIRECTS TO: /exchange/
+404     7KB  http://linkvortex.htb/exchange/
+404     7KB  http://linkvortex.htb/exchweb/
+301    43B   http://linkvortex.htb/ExchWeb/    -> REDIRECTS TO: /exchweb/
+301    47B   http://linkvortex.htb/ExportedObj/    -> REDIRECTS TO: /exportedobj/
+404     7KB  http://linkvortex.htb/exploded-archives/
+404     7KB  http://linkvortex.htb/ext/
+404     7KB  http://linkvortex.htb/export/
+301     0B   http://linkvortex.htb/extjs/resources//charts.swf    -> REDIRECTS TO: /extjs/resources/charts.swf/
+404     7KB  http://linkvortex.htb/ext/modules/
+404     7KB  http://linkvortex.htb/ext/build/
+404     7KB  http://linkvortex.htb/ezsqliteadmin/
+404     7KB  http://linkvortex.htb/extjs/
+404     7KB  http://linkvortex.htb/fabric/
+200    15KB  http://linkvortex.htb/favicon.ico
+404     7KB  http://linkvortex.htb/fake-eggs/
+301    51B   http://linkvortex.htb/FakesAssemblies/    -> REDIRECTS TO: /fakesassemblies/
+301    45B   http://linkvortex.htb/FCKeditor/    -> REDIRECTS TO: /fckeditor/
+404     7KB  http://linkvortex.htb/fcgi-bin/
+404     7KB  http://linkvortex.htb/fckeditor/
+301    48B   http://linkvortex.htb/FCKeditor2.3/    -> REDIRECTS TO: /fckeditor2.3/
+301    48B   http://linkvortex.htb/FCKeditor2.2/    -> REDIRECTS TO: /fckeditor2.2/
+301    48B   http://linkvortex.htb/FCKeditor2.1/    -> REDIRECTS TO: /fckeditor2.1/
+301    47B   http://linkvortex.htb/FCKeditor21/    -> REDIRECTS TO: /fckeditor21/
+301    46B   http://linkvortex.htb/FCKeditor2/    -> REDIRECTS TO: /fckeditor2/
+301    47B   http://linkvortex.htb/FCKeditor20/    -> REDIRECTS TO: /fckeditor20/
+301    48B   http://linkvortex.htb/FCKeditor2.0/    -> REDIRECTS TO: /fckeditor2.0/
+301    47B   http://linkvortex.htb/FCKeditor22/    -> REDIRECTS TO: /fckeditor22/
+301    47B   http://linkvortex.htb/FCKeditor23/    -> REDIRECTS TO: /fckeditor23/
+301    47B   http://linkvortex.htb/FCKeditor24/    -> REDIRECTS TO: /fckeditor24/
+301    48B   http://linkvortex.htb/FCKeditor2.4/    -> REDIRECTS TO: /fckeditor2.4/
+404     7KB  http://linkvortex.htb/file/
+404     7KB  http://linkvortex.htb/file_manager/
+404     7KB  http://linkvortex.htb/fileadmin/_processed_/
+404     7KB  http://linkvortex.htb/file_upload/
+404     7KB  http://linkvortex.htb/fileadmin/user_upload/
+301    47B   http://linkvortex.htb/FileHandler/    -> REDIRECTS TO: /filehandler/
+404     7KB  http://linkvortex.htb/filedump/
+404     7KB  http://linkvortex.htb/fileadmin/
+404     7KB  http://linkvortex.htb/filemanager/
+404     7KB  http://linkvortex.htb/fileadmin/_temp_/
+404     7KB  http://linkvortex.htb/filerun/
+404     7KB  http://linkvortex.htb/files/
+404     7KB  http://linkvortex.htb/files/cache/
+404     7KB  http://linkvortex.htb/files/tmp/
+404     7KB  http://linkvortex.htb/fileupload/
+404     7KB  http://linkvortex.htb/findbugs/
+404     7KB  http://linkvortex.htb/flash/
+404     7KB  http://linkvortex.htb/formslogin/
+404     7KB  http://linkvortex.htb/forum/
+404     7KB  http://linkvortex.htb/forum/admin/
+404     7KB  http://linkvortex.htb/forum/phpmyadmin/
+404     7KB  http://linkvortex.htb/forums/
+404     7KB  http://linkvortex.htb/fpadmin/
+404     7KB  http://linkvortex.htb/fpsample/
+404     7KB  http://linkvortex.htb/freeline/
+404     7KB  http://linkvortex.htb/fuel/app/cache/
+404     7KB  http://linkvortex.htb/fuel/app/logs/
+404     7KB  http://linkvortex.htb/funcion/
+404     7KB  http://linkvortex.htb/fuel/app/config/
+404     7KB  http://linkvortex.htb/functions/
+404     7KB  http://linkvortex.htb/galeria/
+404     7KB  http://linkvortex.htb/ganglia/
+301    50B   http://linkvortex.htb/Generated_Code/    -> REDIRECTS TO: /generated_code/
+301    42B   http://linkvortex.htb/GEMINI/    -> REDIRECTS TO: /gemini/
+404     7KB  http://linkvortex.htb/gateway/
+404     7KB  http://linkvortex.htb/gen/
+404     7KB  http://linkvortex.htb/gl/
+404     7KB  http://linkvortex.htb/gitlab/
+404     7KB  http://linkvortex.htb/github/
+404     7KB  http://linkvortex.htb/git/
+404     7KB  http://linkvortex.htb/globes_admin/
+404     7KB  http://linkvortex.htb/glpi/
+404     7KB  http://linkvortex.htb/grafana/
+404     7KB  http://linkvortex.htb/gradle/
+404     7KB  http://linkvortex.htb/graphite/
+404     7KB  http://linkvortex.htb/graphiql/
+301    49B   http://linkvortex.htb/GreenhouseWeb/    -> REDIRECTS TO: /greenhouseweb/
+301    46B   http://linkvortex.htb/Greenhouse/    -> REDIRECTS TO: /greenhouse/
+301    49B   http://linkvortex.htb/GreenhouseEJB/    -> REDIRECTS TO: /greenhouseejb/
+301    62B   http://linkvortex.htb/GreenhouseByWebSphere/docs/    -> REDIRECTS TO: /greenhousebywebsphere/docs/
+301    53B   http://linkvortex.htb/Greenhouseservlet/    -> REDIRECTS TO: /greenhouseservlet/
+404     7KB  http://linkvortex.htb/graylog/
+404     7KB  http://linkvortex.htb/grappelli/
+301    79B   http://linkvortex.htb/GreenhouseEJB/services/GreenhouseFront/wsdl/    -> REDIRECTS TO: /greenhouseejb/services/greenhousefront/wsdl/
+301    56B   http://linkvortex.htb/GreenhouseWebservlet/    -> REDIRECTS TO: /greenhousewebservlet/
+404     7KB  http://linkvortex.htb/graphql/
+404     7KB  http://linkvortex.htb/graphql/console/
+404     7KB  http://linkvortex.htb/groovy/
+404     7KB  http://linkvortex.htb/groupexpansion/
+404     7KB  http://linkvortex.htb/guanli/
+301    49B   http://linkvortex.htb/gwt-unitCache/    -> REDIRECTS TO: /gwt-unitcache/
+404     7KB  http://linkvortex.htb/hac/
+404     7KB  http://linkvortex.htb/handlers/
+404     7KB  http://linkvortex.htb/haproxy/
+301    54B   http://linkvortex.htb/HFM/Administration/    -> REDIRECTS TO: /hfm/administration/
+404     7KB  http://linkvortex.htb/help/
+301    41B   http://linkvortex.htb/HNAP1/    -> REDIRECTS TO: /hnap1/
+404     7KB  http://linkvortex.htb/hmc/
+404     7KB  http://linkvortex.htb/host-manager/
+404     7KB  http://linkvortex.htb/hpwebjetadmin/
+404     7KB  http://linkvortex.htb/html/cgi-bin/
+404     7KB  http://linkvortex.htb/houtai/
+301     0B   http://linkvortex.htb/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /html/js/misc/swfupload/swfupload.swf/
+404     7KB  http://linkvortex.htb/htmlcov/
+404     7KB  http://linkvortex.htb/html/
+404     7KB  http://linkvortex.htb/htpasswd/
+301    49B   http://linkvortex.htb/i18nctxSample/    -> REDIRECTS TO: /i18nctxsample/
+301    54B   http://linkvortex.htb/i18nctxSample/docs/    -> REDIRECTS TO: /i18nctxsample/docs/
+404     7KB  http://linkvortex.htb/hudson/
+404     7KB  http://linkvortex.htb/hybridconfig/
+404     7KB  http://linkvortex.htb/httpd/
+301    60B   http://linkvortex.htb/IdentityGuardSelfService/    -> REDIRECTS TO: /identityguardselfservice/
+404     7KB  http://linkvortex.htb/iiasdmpwd/
+404     7KB  http://linkvortex.htb/icinga/
+404     7KB  http://linkvortex.htb/iissamples/
+404     7KB  http://linkvortex.htb/iishelp/
+404     7KB  http://linkvortex.htb/iisadmin/
+404     7KB  http://linkvortex.htb/images_upload/
+404     7KB  http://linkvortex.htb/images/
+404     7KB  http://linkvortex.htb/import/
+404     7KB  http://linkvortex.htb/importcockpit/
+404     7KB  http://linkvortex.htb/inc/tiny_mce/
+404     7KB  http://linkvortex.htb/in/
+404     7KB  http://linkvortex.htb/include/
+404     7KB  http://linkvortex.htb/inc/tinymce/
+404     7KB  http://linkvortex.htb/include/fckeditor/
+404     7KB  http://linkvortex.htb/inc/
+404     7KB  http://linkvortex.htb/includes/
+404     7KB  http://linkvortex.htb/inc/fckeditor/
+404     7KB  http://linkvortex.htb/includes/js/tiny_mce/
+404     7KB  http://linkvortex.htb/includes/tinymce/
+404     7KB  http://linkvortex.htb/includes/tiny_mce/
+404     7KB  http://linkvortex.htb/index.php/login/
+301    46B   http://linkvortex.htb/Indy_admin/    -> REDIRECTS TO: /indy_admin/
+404     7KB  http://linkvortex.htb/influxdb/
+404     7KB  http://linkvortex.htb/init/
+404     7KB  http://linkvortex.htb/instadmin/
+404     7KB  http://linkvortex.htb/install/
+301    48B   http://linkvortex.htb/Intermediate/    -> REDIRECTS TO: /intermediate/
+404     7KB  http://linkvortex.htb/instance/
+404     7KB  http://linkvortex.htb/install~/
+404     7KB  http://linkvortex.htb/installation/
+301    61B   http://linkvortex.htb/invoker/EJBInvokerServlet/    -> REDIRECTS TO: /invoker/ejbinvokerservlet/
+301    61B   http://linkvortex.htb/invoker/JMXInvokerServlet/    -> REDIRECTS TO: /invoker/jmxinvokerservlet/
+301    55B   http://linkvortex.htb/iOSInjectionProject/    -> REDIRECTS TO: /iosinjectionproject/
+404     7KB  http://linkvortex.htb/invoker/
+404     7KB  http://linkvortex.htb/ipch/
+404     7KB  http://linkvortex.htb/ip_configs/
+404     7KB  http://linkvortex.htb/irc-macadmin/
+404     7KB  http://linkvortex.htb/installer_files/
+404     7KB  http://linkvortex.htb/irequest/
+404     7KB  http://linkvortex.htb/ispmgr/
+404     7KB  http://linkvortex.htb/is-bin/
+404     7KB  http://linkvortex.htb/isapi/
+404     7KB  http://linkvortex.htb/ivt/
+404     7KB  http://linkvortex.htb/jacoco/
+404     7KB  http://linkvortex.htb/java-sys/
+404     7KB  http://linkvortex.htb/jboss/server/default/log/
+404     7KB  http://linkvortex.htb/jboss/server/all/log/
+404     7KB  http://linkvortex.htb/jk/
+404     7KB  http://linkvortex.htb/javax.faces.resource.../
+404     7KB  http://linkvortex.htb/jira/
+404     7KB  http://linkvortex.htb/jenkins/
+404     7KB  http://linkvortex.htb/jkstatus/
+404     7KB  http://linkvortex.htb/jmx-console/
+404     7KB  http://linkvortex.htb/jolokia/
+404     7KB  http://linkvortex.htb/joomla/
+404     7KB  http://linkvortex.htb/js/
+404     7KB  http://linkvortex.htb/js/tiny_mce/
+404     7KB  http://linkvortex.htb/jscripts/
+404     7KB  http://linkvortex.htb/js/tinymce/
+404     7KB  http://linkvortex.htb/jscripts/tiny_mce/
+301    75B   http://linkvortex.htb/JTAExtensionsSamples/TransactionTracker/    -> REDIRECTS TO: /jtaextensionssamples/transactiontracker/
+404     7KB  http://linkvortex.htb/jscripts/tinymce/
+404     7KB  http://linkvortex.htb/jsp-examples/
+301    61B   http://linkvortex.htb/JTAExtensionsSamples/docs/    -> REDIRECTS TO: /jtaextensionssamples/docs/
+404     7KB  http://linkvortex.htb/jspm_packages/
+404     7KB  http://linkvortex.htb/junit/
+404     7KB  http://linkvortex.htb/jssresource/
+404     7KB  http://linkvortex.htb/kairosdb/
+404     7KB  http://linkvortex.htb/kafka/
+404     7KB  http://linkvortex.htb/juju/
+404     7KB  http://linkvortex.htb/kcfinder/
+404     7KB  http://linkvortex.htb/kpanel/
+404     7KB  http://linkvortex.htb/kibana/
+404     7KB  http://linkvortex.htb/kube/
+404     7KB  http://linkvortex.htb/kuber/
+404     7KB  http://linkvortex.htb/kubernetes/
+404     7KB  http://linkvortex.htb/layouts/
+404     7KB  http://linkvortex.htb/ldap/
+404     7KB  http://linkvortex.htb/letmein/
+404     7KB  http://linkvortex.htb/lib/
+404     7KB  http://linkvortex.htb/lib/bundler/man/
+404     7KB  http://linkvortex.htb/lg/
+404     7KB  http://linkvortex.htb/lib/fckeditor/
+404     7KB  http://linkvortex.htb/lib/tiny_mce/
+404     7KB  http://linkvortex.htb/libraries/tiny_mce/
+404     7KB  http://linkvortex.htb/lib64/
+404     7KB  http://linkvortex.htb/libraries/phpmailer/
+200     1KB  http://linkvortex.htb/LICENSE
+404     7KB  http://linkvortex.htb/lib/tinymce/
+404     7KB  http://linkvortex.htb/liferay/
+404     7KB  http://linkvortex.htb/libraries/tinymce/
+404     7KB  http://linkvortex.htb/libraries/
+404     7KB  http://linkvortex.htb/linkhub/
+301    50B   http://linkvortex.htb/LiveUser_Admin/    -> REDIRECTS TO: /liveuser_admin/
+404     7KB  http://linkvortex.htb/lists/
+404     7KB  http://linkvortex.htb/local/
+404     7KB  http://linkvortex.htb/lk/
+404     7KB  http://linkvortex.htb/local-cgi/
+404     7KB  http://linkvortex.htb/log-in/
+404     7KB  http://linkvortex.htb/log/
+404     7KB  http://linkvortex.htb/log_data/
+301    44B   http://linkvortex.htb/Logfiles/    -> REDIRECTS TO: /logfiles/
+404     7KB  http://linkvortex.htb/log_in/
+404     7KB  http://linkvortex.htb/login-us/
+404     7KB  http://linkvortex.htb/loggers/
+404     7KB  http://linkvortex.htb/login-redirect/
+404     7KB  http://linkvortex.htb/login/
+404     7KB  http://linkvortex.htb/login/admin/
+404     7KB  http://linkvortex.htb/login/administrator/
+404     7KB  http://linkvortex.htb/login1/
+404     7KB  http://linkvortex.htb/login/cpanel/
+404     7KB  http://linkvortex.htb/login/oauth/
+404     7KB  http://linkvortex.htb/login_admin/
+404     7KB  http://linkvortex.htb/login_db/
+404     7KB  http://linkvortex.htb/loginsave/
+404     7KB  http://linkvortex.htb/loginerror/
+404     7KB  http://linkvortex.htb/loginflat/
+404     7KB  http://linkvortex.htb/loginok/
+404     7KB  http://linkvortex.htb/loginsuper/
+404     7KB  http://linkvortex.htb/logo_sysadmin/
+404     7KB  http://linkvortex.htb/login_out/
+404     7KB  http://linkvortex.htb/logout/
+301    40B   http://linkvortex.htb/Logs/    -> REDIRECTS TO: /logs/
+404     7KB  http://linkvortex.htb/logs_backup/
+404     7KB  http://linkvortex.htb/logs/
+301    54B   http://linkvortex.htb/Lotus_Domino_Admin/    -> REDIRECTS TO: /lotus_domino_admin/
+404     7KB  http://linkvortex.htb/logs_console/
+404     7KB  http://linkvortex.htb/logstash/
+404     7KB  http://linkvortex.htb/lsapp/
+404     7KB  http://linkvortex.htb/macadmin/
+404     7KB  http://linkvortex.htb/magmi/
+404     7KB  http://linkvortex.htb/mail/
+404     7KB  http://linkvortex.htb/mailman/
+404     7KB  http://linkvortex.htb/main/
+404     7KB  http://linkvortex.htb/maint/
+404     7KB  http://linkvortex.htb/maintenance/
+404     7KB  http://linkvortex.htb/manage/
+404     7KB  http://linkvortex.htb/management/
+404     7KB  http://linkvortex.htb/manager/
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?invoke=BEANNAME&op=METHODNAME&ps=COMMASEPARATEDPARAMETERS
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?invoke=Catalina%3Atype%3DService&op=findConnectors&ps=
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?get=BEANNAME&att=MYATTRIBUTE&key=MYKEY
+404     7KB  http://linkvortex.htb/manager/html/
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?set=BEANNAME&att=MYATTRIBUTE&val=NEWVALUE
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?get=java.lang:type=Memory&att=HeapMemoryUsage
+404     7KB  http://linkvortex.htb/manager/jmxproxy/?qry=STUFF
+404     7KB  http://linkvortex.htb/manifest/tmp/
+404     7KB  http://linkvortex.htb/manifest/cache/
+404     7KB  http://linkvortex.htb/manifest/logs/
+404     7KB  http://linkvortex.htb/manuallogin/
+404     7KB  http://linkvortex.htb/mcx/
+404     7KB  http://linkvortex.htb/mattermost/
+404     7KB  http://linkvortex.htb/master/
+404     7KB  http://linkvortex.htb/maven/
+404     7KB  http://linkvortex.htb/mcollective/
+404     7KB  http://linkvortex.htb/media/
+404     7KB  http://linkvortex.htb/meet/
+404     7KB  http://linkvortex.htb/member/
+404     7KB  http://linkvortex.htb/meeting/
+404     7KB  http://linkvortex.htb/memberadmin/
+404     7KB  http://linkvortex.htb/members/
+301    43B   http://linkvortex.htb/Mercury/    -> REDIRECTS TO: /mercury/
+301    59B   http://linkvortex.htb/MessageDrivenBeans/docs/    -> REDIRECTS TO: /messagedrivenbeans/docs/
+301    66B   http://linkvortex.htb/MessageDrivenBeans/docsservlet/    -> REDIRECTS TO: /messagedrivenbeans/docsservlet/
+404     7KB  http://linkvortex.htb/mesos/
+301    44B   http://linkvortex.htb/META-INF/    -> REDIRECTS TO: /meta-inf/
+404     7KB  http://linkvortex.htb/memlogin/
+404     7KB  http://linkvortex.htb/mercurial/
+404     7KB  http://linkvortex.htb/memcached/
+404     7KB  http://linkvortex.htb/meta_login/
+404     7KB  http://linkvortex.htb/metric/
+404     7KB  http://linkvortex.htb/metrics/
+404     7KB  http://linkvortex.htb/microsoft-server-activesync/
+301    63B   http://linkvortex.htb/Microsoft-Server-ActiveSync/    -> REDIRECTS TO: /microsoft-server-activesync/
+301    44B   http://linkvortex.htb/Micros~1/    -> REDIRECTS TO: /micros~1/
+404     7KB  http://linkvortex.htb/mics/
+404     7KB  http://linkvortex.htb/mifs/
+404     7KB  http://linkvortex.htb/mirror/
+404     7KB  http://linkvortex.htb/moadmin/
+404     7KB  http://linkvortex.htb/mock/
+404     7KB  http://linkvortex.htb/modelsearch/
+404     7KB  http://linkvortex.htb/moderator/
+404     7KB  http://linkvortex.htb/modules/admin/
+404     7KB  http://linkvortex.htb/modules/
+404     7KB  http://linkvortex.htb/mongodb/
+404     7KB  http://linkvortex.htb/mongo/
+404     7KB  http://linkvortex.htb/monitoring/
+301    40B   http://linkvortex.htb/MRTG/    -> REDIRECTS TO: /mrtg/
+404     7KB  http://linkvortex.htb/monit/
+404     7KB  http://linkvortex.htb/mrtg/
+404     7KB  http://linkvortex.htb/monitor/
+404     7KB  http://linkvortex.htb/msadc/
+404     7KB  http://linkvortex.htb/msg_gen/
+404     7KB  http://linkvortex.htb/msql/
+404     7KB  http://linkvortex.htb/msg/
+404     7KB  http://linkvortex.htb/mssql/
+404     7KB  http://linkvortex.htb/mw-config/
+404     7KB  http://linkvortex.htb/mutillidae/
+404     7KB  http://linkvortex.htb/munin/
+301    43B   http://linkvortex.htb/MyAdmin/    -> REDIRECTS TO: /myadmin/
+404     7KB  http://linkvortex.htb/myadm/
+404     7KB  http://linkvortex.htb/myadminscripts/
+404     7KB  http://linkvortex.htb/myadmin/
+404     7KB  http://linkvortex.htb/mysql/
+404     7KB  http://linkvortex.htb/myconfigs/
+404     7KB  http://linkvortex.htb/mysql-admin/
+404     7KB  http://linkvortex.htb/mysql/admin/
+301    45B   http://linkvortex.htb/mysql/pMA/    -> REDIRECTS TO: /mysql/pma/
+404     7KB  http://linkvortex.htb/mysql/db/
+404     7KB  http://linkvortex.htb/mysql/web/
+404     7KB  http://linkvortex.htb/mysql/sqlmanager/
+404     7KB  http://linkvortex.htb/mysqldumper/
+404     7KB  http://linkvortex.htb/mysqladmin/
+404     7KB  http://linkvortex.htb/mysql/mysqlmanager/
+404     7KB  http://linkvortex.htb/mysql/dbadmin/
+404     7KB  http://linkvortex.htb/mysql/pma/
+404     7KB  http://linkvortex.htb/mysqlmanager/
+404     7KB  http://linkvortex.htb/nagios/
+301    48B   http://linkvortex.htb/navSiteAdmin/    -> REDIRECTS TO: /navsiteadmin/
+404     7KB  http://linkvortex.htb/naginator/
+404     7KB  http://linkvortex.htb/nbproject/
+404     7KB  http://linkvortex.htb/netdata/
+404     7KB  http://linkvortex.htb/newbbs/
+404     7KB  http://linkvortex.htb/newsadmin/
+404     7KB  http://linkvortex.htb/newsletter/
+404     7KB  http://linkvortex.htb/nfs/
+404     7KB  http://linkvortex.htb/nextcloud/
+404     7KB  http://linkvortex.htb/nginx-status/
+404     7KB  http://linkvortex.htb/nimcache/
+404     7KB  http://linkvortex.htb/ngx_pagespeed_beacon/
+404     7KB  http://linkvortex.htb/node_modules/
+404     7KB  http://linkvortex.htb/nimda/
+404     7KB  http://linkvortex.htb/nsw/
+404     7KB  http://linkvortex.htb/oab/
+404     7KB  http://linkvortex.htb/oauth/signin/
+404     7KB  http://linkvortex.htb/oauth/login/
+404     7KB  http://linkvortex.htb/nwp-content/
+404     7KB  http://linkvortex.htb/ocsp/
+404     7KB  http://linkvortex.htb/obj/
+404     7KB  http://linkvortex.htb/olap/
+301    42B   http://linkvortex.htb/Office/    -> REDIRECTS TO: /office/
+301    39B   http://linkvortex.htb/OMA/    -> REDIRECTS TO: /oma/
+404     7KB  http://linkvortex.htb/old/
+404     7KB  http://linkvortex.htb/old_site/
+301    75B   http://linkvortex.htb/opc/services/BrokerServiceIntfPort/wsdl/    -> REDIRECTS TO: /opc/services/brokerserviceintfport/wsdl/
+301    75B   http://linkvortex.htb/opc/services/OrderTrackingIntfPort/wsdl/    -> REDIRECTS TO: /opc/services/ordertrackingintfport/wsdl/
+301    75B   http://linkvortex.htb/opc/services/PurchaseOrderIntfPort/wsdl/    -> REDIRECTS TO: /opc/services/purchaseorderintfport/wsdl/
+404     7KB  http://linkvortex.htb/openshift/
+404     7KB  http://linkvortex.htb/openstack/
+404     7KB  http://linkvortex.htb/opc/
+404     7KB  http://linkvortex.htb/opentsdb/
+404     7KB  http://linkvortex.htb/operador/
+404     7KB  http://linkvortex.htb/openvpnadmin/
+301    45B   http://linkvortex.htb/OpenCover/    -> REDIRECTS TO: /opencover/
+404     7KB  http://linkvortex.htb/ops/
+301    53B   http://linkvortex.htb/OrderProcessorEJB/    -> REDIRECTS TO: /orderprocessorejb/
+301    77B   http://linkvortex.htb/OrderProcessorEJB/services/FrontGate/wsdl/    -> REDIRECTS TO: /orderprocessorejb/services/frontgate/wsdl/
+404     7KB  http://linkvortex.htb/otrs/
+404     7KB  http://linkvortex.htb/output/
+404     7KB  http://linkvortex.htb/out/
+301    39B   http://linkvortex.htb/OWA/    -> REDIRECTS TO: /owa/
+404     7KB  http://linkvortex.htb/p/m/a/
+404     7KB  http://linkvortex.htb/osticket/
+404     7KB  http://linkvortex.htb/owncloud/config/
+404     7KB  http://linkvortex.htb/owa/
+404     7KB  http://linkvortex.htb/owncloud/
+404     7KB  http://linkvortex.htb/p/
+404     7KB  http://linkvortex.htb/package/
+404     7KB  http://linkvortex.htb/packer_cache/
+404     7KB  http://linkvortex.htb/pagerduty/
+404     7KB  http://linkvortex.htb/pages/admin/
+404     7KB  http://linkvortex.htb/pages/
+404     7KB  http://linkvortex.htb/painel/
+404     7KB  http://linkvortex.htb/paket-files/
+404     7KB  http://linkvortex.htb/panel-administracion/
+301    48B   http://linkvortex.htb/Passwd_Files/    -> REDIRECTS TO: /passwd_files/
+404     7KB  http://linkvortex.htb/passwd/
+404     7KB  http://linkvortex.htb/panel/
+404     7KB  http://linkvortex.htb/parts/
+404     7KB  http://linkvortex.htb/passwordlist/
+404     7KB  http://linkvortex.htb/passwordlists/
+404     7KB  http://linkvortex.htb/path/
+404     7KB  http://linkvortex.htb/passwords/
+404     7KB  http://linkvortex.htb/pbx/
+404     7KB  http://linkvortex.htb/pentaho/
+404     7KB  http://linkvortex.htb/persistentchat/
+404     7KB  http://linkvortex.htb/pbmadmin/
+404     7KB  http://linkvortex.htb/petstore/
+404     7KB  http://linkvortex.htb/pgadmin/
+404     7KB  http://linkvortex.htb/phoneconferencing/
+404     7KB  http://linkvortex.htb/php-bin/
+404     7KB  http://linkvortex.htb/php-my-admin/
+404     7KB  http://linkvortex.htb/php-myadmin/
+404     7KB  http://linkvortex.htb/php-fpm/
+404     7KB  http://linkvortex.htb/php/
+404     7KB  http://linkvortex.htb/php/phpmyadmin/
+404     7KB  http://linkvortex.htb/php/dev/
+404     7KB  http://linkvortex.htb/phpadminmy/
+404     7KB  http://linkvortex.htb/phpadmin/
+301    50B   http://linkvortex.htb/phpFileManager/    -> REDIRECTS TO: /phpfilemanager/
+404     7KB  http://linkvortex.htb/phpfm-1.7.3/
+404     7KB  http://linkvortex.htb/phpfm-1.7.1/
+404     7KB  http://linkvortex.htb/phpfm-1.7.2/
+404     7KB  http://linkvortex.htb/phpfm-1.6.1/
+404     7KB  http://linkvortex.htb/phpfm-1.7.4/
+404     7KB  http://linkvortex.htb/phpfm-1.7.8/
+404     7KB  http://linkvortex.htb/phpfm/
+404     7KB  http://linkvortex.htb/phpldapadmin/
+404     7KB  http://linkvortex.htb/phpfm-1.7.7/
+301    48B   http://linkvortex.htb/phpLiteAdmin/    -> REDIRECTS TO: /phpliteadmin/
+404     7KB  http://linkvortex.htb/phpfm-1.7.6/
+301    49B   http://linkvortex.htb/phpLiteAdmin_/    -> REDIRECTS TO: /phpliteadmin_/
+404     7KB  http://linkvortex.htb/phpfm-1.7/
+404     7KB  http://linkvortex.htb/phpfm-1.7.5/
+404     7KB  http://linkvortex.htb/phpmemcachedadmin/
+404     7KB  http://linkvortex.htb/phpm/
+404     7KB  http://linkvortex.htb/phpma/
+301    46B   http://linkvortex.htb/phpMoAdmin/    -> REDIRECTS TO: /phpmoadmin/
+404     7KB  http://linkvortex.htb/phpmanager/
+404     7KB  http://linkvortex.htb/phpmoadmin/
+301    41B   http://linkvortex.htb/phpMy/    -> REDIRECTS TO: /phpmy/
+301    42B   http://linkvortex.htb/phpMyA/    -> REDIRECTS TO: /phpmya/
+404     7KB  http://linkvortex.htb/phpmem/
+301    45B   http://linkvortex.htb/phpMyAdmi/    -> REDIRECTS TO: /phpmyadmi/
+404     7KB  http://linkvortex.htb/phpmy-admin/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.10.3/    -> REDIRECTS TO: /phpmyadmin-2.10.3/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.10.0/    -> REDIRECTS TO: /phpmyadmin-2.10.0/
+404     7KB  http://linkvortex.htb/phpmyad/
+404     7KB  http://linkvortex.htb/phpmyad-sys/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.10.1/    -> REDIRECTS TO: /phpmyadmin-2.10.1/
+404     7KB  http://linkvortex.htb/phpmy/
+404     7KB  http://linkvortex.htb/phpminiadmin/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.2/    -> REDIRECTS TO: /phpmyadmin-2.11.2/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.3/    -> REDIRECTS TO: /phpmyadmin-2.11.3/
+301    69B   http://linkvortex.htb/phpMyAdmin-2.11.5.1-all-languages/    -> REDIRECTS TO: /phpmyadmin-2.11.5.1-all-languages/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.4/    -> REDIRECTS TO: /phpmyadmin-2.11.4/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.10.2/    -> REDIRECTS TO: /phpmyadmin-2.10.2/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.5/    -> REDIRECTS TO: /phpmyadmin-2.11.5/
+301    69B   http://linkvortex.htb/phpMyAdmin-2.11.7.1-all-languages/    -> REDIRECTS TO: /phpmyadmin-2.11.7.1-all-languages/
+301    80B   http://linkvortex.htb/phpMyAdmin-2.11.7.1-all-languages-utf-8-only/    -> REDIRECTS TO: /phpmyadmin-2.11.7.1-all-languages-utf-8-only/
+301    80B   http://linkvortex.htb/phpMyAdmin-2.11.8.1-all-languages-utf-8-only/    -> REDIRECTS TO: /phpmyadmin-2.11.8.1-all-languages-utf-8-only/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.7/    -> REDIRECTS TO: /phpmyadmin-2.11.7/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.0/    -> REDIRECTS TO: /phpmyadmin-2.11.0/
+301    54B   http://linkvortex.htb/phpMyAdmin-2.11.10/    -> REDIRECTS TO: /phpmyadmin-2.11.10/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.5.1/    -> REDIRECTS TO: /phpmyadmin-2.5.1/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.6/    -> REDIRECTS TO: /phpmyadmin-2.11.6/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.1/    -> REDIRECTS TO: /phpmyadmin-2.11.1/
+301    53B   http://linkvortex.htb/phpMyAdmin-2.11.9/    -> REDIRECTS TO: /phpmyadmin-2.11.9/
+301    67B   http://linkvortex.htb/phpMyAdmin-2.11.6-all-languages/    -> REDIRECTS TO: /phpmyadmin-2.11.6-all-languages/
+301    55B   http://linkvortex.htb/phpMyAdmin-2.11.8.1/    -> REDIRECTS TO: /phpmyadmin-2.11.8.1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.5.4/    -> REDIRECTS TO: /phpmyadmin-2.5.4/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.5-pl1/    -> REDIRECTS TO: /phpmyadmin-2.5.5-pl1/
+301    69B   http://linkvortex.htb/phpMyAdmin-2.11.8.1-all-languages/    -> REDIRECTS TO: /phpmyadmin-2.11.8.1-all-languages/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.2.6/    -> REDIRECTS TO: /phpmyadmin-2.2.6/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.2.3/    -> REDIRECTS TO: /phpmyadmin-2.2.3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.5-rc2/    -> REDIRECTS TO: /phpmyadmin-2.5.5-rc2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.5-rc1/    -> REDIRECTS TO: /phpmyadmin-2.5.5-rc1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.5.5/    -> REDIRECTS TO: /phpmyadmin-2.5.5/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.6-rc2/    -> REDIRECTS TO: /phpmyadmin-2.5.6-rc2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.6-rc1/    -> REDIRECTS TO: /phpmyadmin-2.5.6-rc1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.5.6/    -> REDIRECTS TO: /phpmyadmin-2.5.6/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.6.0-alpha/    -> REDIRECTS TO: /phpmyadmin-2.6.0-alpha/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.5.7-pl1/    -> REDIRECTS TO: /phpmyadmin-2.5.7-pl1/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.6.0-beta1/    -> REDIRECTS TO: /phpmyadmin-2.6.0-beta1/
+301    59B   http://linkvortex.htb/phpMyAdmin-2.6.0-alpha2/    -> REDIRECTS TO: /phpmyadmin-2.6.0-alpha2/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.5.7/    -> REDIRECTS TO: /phpmyadmin-2.5.7/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-pl1/    -> REDIRECTS TO: /phpmyadmin-2.6.0-pl1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-rc1/    -> REDIRECTS TO: /phpmyadmin-2.6.0-rc1/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.6.0-beta2/    -> REDIRECTS TO: /phpmyadmin-2.6.0-beta2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-rc2/    -> REDIRECTS TO: /phpmyadmin-2.6.0-rc2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-pl3/    -> REDIRECTS TO: /phpmyadmin-2.6.0-pl3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-rc3/    -> REDIRECTS TO: /phpmyadmin-2.6.0-rc3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.1-pl2/    -> REDIRECTS TO: /phpmyadmin-2.6.1-pl2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.1-pl1/    -> REDIRECTS TO: /phpmyadmin-2.6.1-pl1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.6.0/    -> REDIRECTS TO: /phpmyadmin-2.6.0/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.1-rc1/    -> REDIRECTS TO: /phpmyadmin-2.6.1-rc1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.1-rc2/    -> REDIRECTS TO: /phpmyadmin-2.6.1-rc2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.1-pl3/    -> REDIRECTS TO: /phpmyadmin-2.6.1-pl3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.0-pl2/    -> REDIRECTS TO: /phpmyadmin-2.6.0-pl2/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.6.2-beta1/    -> REDIRECTS TO: /phpmyadmin-2.6.2-beta1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.6.2/    -> REDIRECTS TO: /phpmyadmin-2.6.2/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.6.1/    -> REDIRECTS TO: /phpmyadmin-2.6.1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.2-pl1/    -> REDIRECTS TO: /phpmyadmin-2.6.2-pl1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.6.3/    -> REDIRECTS TO: /phpmyadmin-2.6.3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.3-pl1/    -> REDIRECTS TO: /phpmyadmin-2.6.3-pl1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.2-rc1/    -> REDIRECTS TO: /phpmyadmin-2.6.2-rc1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.3-rc1/    -> REDIRECTS TO: /phpmyadmin-2.6.3-rc1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.4-pl1/    -> REDIRECTS TO: /phpmyadmin-2.6.4-pl1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.4-pl2/    -> REDIRECTS TO: /phpmyadmin-2.6.4-pl2/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.4-pl3/    -> REDIRECTS TO: /phpmyadmin-2.6.4-pl3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.4-pl4/    -> REDIRECTS TO: /phpmyadmin-2.6.4-pl4/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.6.4-rc1/    -> REDIRECTS TO: /phpmyadmin-2.6.4-rc1/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.7.0-beta1/    -> REDIRECTS TO: /phpmyadmin-2.7.0-beta1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.7.0-pl2/    -> REDIRECTS TO: /phpmyadmin-2.7.0-pl2/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.6.4/    -> REDIRECTS TO: /phpmyadmin-2.6.4/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.7.0-rc1/    -> REDIRECTS TO: /phpmyadmin-2.7.0-rc1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.7.0-pl1/    -> REDIRECTS TO: /phpmyadmin-2.7.0-pl1/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.7.0/    -> REDIRECTS TO: /phpmyadmin-2.7.0/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.8.0-rc1/    -> REDIRECTS TO: /phpmyadmin-2.8.0-rc1/
+301    54B   http://linkvortex.htb/phpMyAdmin-2.8.0.2/    -> REDIRECTS TO: /phpmyadmin-2.8.0.2/
+301    54B   http://linkvortex.htb/phpMyAdmin-2.8.0.3/    -> REDIRECTS TO: /phpmyadmin-2.8.0.3/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.8.0-rc2/    -> REDIRECTS TO: /phpmyadmin-2.8.0-rc2/
+301    54B   http://linkvortex.htb/phpMyAdmin-2.8.0.4/    -> REDIRECTS TO: /phpmyadmin-2.8.0.4/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.8.0/    -> REDIRECTS TO: /phpmyadmin-2.8.0/
+301    58B   http://linkvortex.htb/phpMyAdmin-2.8.0-beta1/    -> REDIRECTS TO: /phpmyadmin-2.8.0-beta1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.0.0/    -> REDIRECTS TO: /phpmyadmin-3.0.0/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.8.2/    -> REDIRECTS TO: /phpmyadmin-2.8.2/
+301    48B   http://linkvortex.htb/phpMyAdmin-2/    -> REDIRECTS TO: /phpmyadmin-2/
+301    54B   http://linkvortex.htb/phpMyAdmin-2.8.0.1/    -> REDIRECTS TO: /phpmyadmin-2.8.0.1/
+301    56B   http://linkvortex.htb/phpMyAdmin-2.8.1-rc1/    -> REDIRECTS TO: /phpmyadmin-2.8.1-rc1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.1/    -> REDIRECTS TO: /phpmyadmin-3.1.1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.3/    -> REDIRECTS TO: /phpmyadmin-3.1.3/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.0/    -> REDIRECTS TO: /phpmyadmin-3.1.0/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.0/    -> REDIRECTS TO: /phpmyadmin-3.2.0/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.5/    -> REDIRECTS TO: /phpmyadmin-3.1.5/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.1/    -> REDIRECTS TO: /phpmyadmin-3.2.1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.2/    -> REDIRECTS TO: /phpmyadmin-3.2.2/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.2/    -> REDIRECTS TO: /phpmyadmin-3.1.2/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.4/    -> REDIRECTS TO: /phpmyadmin-3.2.4/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.1.4/    -> REDIRECTS TO: /phpmyadmin-3.1.4/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.3.0/    -> REDIRECTS TO: /phpmyadmin-3.3.0/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.3.4/    -> REDIRECTS TO: /phpmyadmin-3.3.4/
+301    52B   http://linkvortex.htb/phpMyAdmin-2.8.1/    -> REDIRECTS TO: /phpmyadmin-2.8.1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.3.2/    -> REDIRECTS TO: /phpmyadmin-3.3.2/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.5/    -> REDIRECTS TO: /phpmyadmin-3.2.5/
+301    56B   http://linkvortex.htb/phpMyAdmin-3.3.3-rc1/    -> REDIRECTS TO: /phpmyadmin-3.3.3-rc1/
+301    48B   http://linkvortex.htb/phpMyAdmin-3/    -> REDIRECTS TO: /phpmyadmin-3/
+301    56B   http://linkvortex.htb/phpMyAdmin-3.3.4-rc1/    -> REDIRECTS TO: /phpmyadmin-3.3.4-rc1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.0.1/    -> REDIRECTS TO: /phpmyadmin-3.0.1/
+301    56B   http://linkvortex.htb/phpMyAdmin-3.3.2-rc1/    -> REDIRECTS TO: /phpmyadmin-3.3.2-rc1/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.2.3/    -> REDIRECTS TO: /phpmyadmin-3.2.3/
+301    46B   http://linkvortex.htb/phpMyAdmin/    -> REDIRECTS TO: /phpmyadmin/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.3.3/    -> REDIRECTS TO: /phpmyadmin-3.3.3/
+301    52B   http://linkvortex.htb/phpMyAdmin-3.3.1/    -> REDIRECTS TO: /phpmyadmin-3.3.1/
+301    46B   http://linkvortex.htb/phpMyadmin/    -> REDIRECTS TO: /phpmyadmin/
+301    48B   http://linkvortex.htb/phpMyAdmin-4/    -> REDIRECTS TO: /phpmyadmin-4/
+301    46B   http://linkvortex.htb/phpmyAdmin/    -> REDIRECTS TO: /phpmyadmin/
+301    47B   http://linkvortex.htb/phpMyAdmin0/    -> REDIRECTS TO: /phpmyadmin0/
+301    47B   http://linkvortex.htb/phpMyAdmin1/    -> REDIRECTS TO: /phpmyadmin1/
+404     7KB  http://linkvortex.htb/phpmyadmin1/
+301    47B   http://linkvortex.htb/phpMyAdmin2/    -> REDIRECTS TO: /phpmyadmin2/
+404     7KB  http://linkvortex.htb/phpmyadmin/
+404     7KB  http://linkvortex.htb/phpmyadmin0/
+404     7KB  http://linkvortex.htb/phpmyadmin2011/
+404     7KB  http://linkvortex.htb/phpmyadmin2/
+301    47B   http://linkvortex.htb/phpMyAdmin3/    -> REDIRECTS TO: /phpmyadmin3/
+404     7KB  http://linkvortex.htb/phpmyadmin2014/
+404     7KB  http://linkvortex.htb/phpmyadmin2012/
+301    47B   http://linkvortex.htb/phpMyAdmin4/    -> REDIRECTS TO: /phpmyadmin4/
+404     7KB  http://linkvortex.htb/phpmyadmin2013/
+404     7KB  http://linkvortex.htb/phpmyadmin2015/
+301    44B   http://linkvortex.htb/phpMyAds/    -> REDIRECTS TO: /phpmyads/
+301    46B   http://linkvortex.htb/phpPgAdmin/    -> REDIRECTS TO: /phppgadmin/
+404     7KB  http://linkvortex.htb/phpmyadmin3/
+404     7KB  http://linkvortex.htb/phpmyadmin2017/
+404     7KB  http://linkvortex.htb/phpmyadmin4/
+404     7KB  http://linkvortex.htb/phpmyadmin2016/
+404     7KB  http://linkvortex.htb/phppgadmin/
+301    50B   http://linkvortex.htb/phpSQLiteAdmin/    -> REDIRECTS TO: /phpsqliteadmin/
+404     7KB  http://linkvortex.htb/phpredmin/
+404     7KB  http://linkvortex.htb/phppma/
+404     7KB  http://linkvortex.htb/phpsecinfo/
+404     7KB  http://linkvortex.htb/phpmyadmin2018/
+301    49B   http://linkvortex.htb/phpRedisAdmin/    -> REDIRECTS TO: /phpredisadmin/
+404     7KB  http://linkvortex.htb/phpsysinfo/
+404     7KB  http://linkvortex.htb/phproad/
+301    44B   http://linkvortex.htb/phpThumb/    -> REDIRECTS TO: /phpthumb/
+404     7KB  http://linkvortex.htb/phymyadmin/
+404     7KB  http://linkvortex.htb/pkg/
+404     7KB  http://linkvortex.htb/piwik/
+404     7KB  http://linkvortex.htb/piwigo/
+404     7KB  http://linkvortex.htb/plesk-stat/anon_ftpstat/
+404     7KB  http://linkvortex.htb/plesk-stat/ftpstat/
+404     7KB  http://linkvortex.htb/platz_login/
+404     7KB  http://linkvortex.htb/plugins/
+404     7KB  http://linkvortex.htb/plugins/tiny_mce/
+301    39B   http://linkvortex.htb/PMA/    -> REDIRECTS TO: /pma/
+404     7KB  http://linkvortex.htb/plugins/tinymce/
+301    43B   http://linkvortex.htb/PMA2009/    -> REDIRECTS TO: /pma2009/
+301    43B   http://linkvortex.htb/PMA2011/    -> REDIRECTS TO: /pma2011/
+404     7KB  http://linkvortex.htb/pma2009/
+404     7KB  http://linkvortex.htb/pma2005/
+301    43B   http://linkvortex.htb/PMA2005/    -> REDIRECTS TO: /pma2005/
+301    43B   http://linkvortex.htb/PMA2012/    -> REDIRECTS TO: /pma2012/
+301    43B   http://linkvortex.htb/PMA2015/    -> REDIRECTS TO: /pma2015/
+301    43B   http://linkvortex.htb/PMA2013/    -> REDIRECTS TO: /pma2013/
+301    43B   http://linkvortex.htb/PMA2014/    -> REDIRECTS TO: /pma2014/
+404     7KB  http://linkvortex.htb/pma2013/
+404     7KB  http://linkvortex.htb/pma2011/
+404     7KB  http://linkvortex.htb/pma2015/
+404     7KB  http://linkvortex.htb/pma2014/
+301    43B   http://linkvortex.htb/PMA2018/    -> REDIRECTS TO: /pma2018/
+404     7KB  http://linkvortex.htb/pma2012/
+404     7KB  http://linkvortex.htb/pma/
+404     7KB  http://linkvortex.htb/pma2018/
+404     7KB  http://linkvortex.htb/pmadmin/
+301    43B   http://linkvortex.htb/PMA2016/    -> REDIRECTS TO: /pma2016/
+301    43B   http://linkvortex.htb/PMA2017/    -> REDIRECTS TO: /pma2017/
+301    42B   http://linkvortex.htb/PMUser/    -> REDIRECTS TO: /pmuser/
+404     7KB  http://linkvortex.htb/pma2017/
+404     7KB  http://linkvortex.htb/pma4/
+404     7KB  http://linkvortex.htb/pma2016/
+404     7KB  http://linkvortex.htb/pmyadmin/
+404     7KB  http://linkvortex.htb/portal/
+404     7KB  http://linkvortex.htb/power_user/
+404     7KB  http://linkvortex.htb/powershell/
+404     7KB  http://linkvortex.htb/pprof/
+404     7KB  http://linkvortex.htb/productcockpit/
+404     7KB  http://linkvortex.htb/proguard/
+404     7KB  http://linkvortex.htb/program/
+404     7KB  http://linkvortex.htb/project-admins/
+404     7KB  http://linkvortex.htb/protected/data/
+404     7KB  http://linkvortex.htb/protected/runtime/
+404     7KB  http://linkvortex.htb/proxy/
+301    42B   http://linkvortex.htb/PSUser/    -> REDIRECTS TO: /psuser/
+404     7KB  http://linkvortex.htb/prv/
+404     7KB  http://linkvortex.htb/protected_access/
+301    42B   http://linkvortex.htb/Public/    -> REDIRECTS TO: /public/
+404     7KB  http://linkvortex.htb/public/
+301    50B   http://linkvortex.htb/PublishScripts/    -> REDIRECTS TO: /publishscripts/
+404     7KB  http://linkvortex.htb/puppet/
+404     7KB  http://linkvortex.htb/publish/
+404     7KB  http://linkvortex.htb/pureadmin/
+404     7KB  http://linkvortex.htb/qa/
+301    45B   http://linkvortex.htb/QuickLook/    -> REDIRECTS TO: /quicklook/
+404     7KB  http://linkvortex.htb/qql/
+301    43B   http://linkvortex.htb/rcLogin/    -> REDIRECTS TO: /rclogin/
+404     7KB  http://linkvortex.htb/radius/
+404     7KB  http://linkvortex.htb/radmind/
+404     7KB  http://linkvortex.htb/radmind-1/
+404     7KB  http://linkvortex.htb/rdoc/
+404     7KB  http://linkvortex.htb/raygun/
+404     7KB  http://linkvortex.htb/rabbitmq/
+404     7KB  http://linkvortex.htb/rcjakar/
+404     7KB  http://linkvortex.htb/rcf/
+404     7KB  http://linkvortex.htb/redis/
+404     7KB  http://linkvortex.htb/registration/
+404     7KB  http://linkvortex.htb/redmine/
+301    49B   http://linkvortex.htb/Remote-Access/    -> REDIRECTS TO: /remote-access/
+301    52B   http://linkvortex.htb/Remote_Execution/    -> REDIRECTS TO: /remote_execution/
+404     7KB  http://linkvortex.htb/registry/
+301    56B   http://linkvortex.htb/Remote-Administrator/    -> REDIRECTS TO: /remote-administrator/
+404     7KB  http://linkvortex.htb/remote_adm/
+404     7KB  http://linkvortex.htb/remote-entry/
+404     7KB  http://linkvortex.htb/repo/
+301    53B   http://linkvortex.htb/reports/Webalizer/    -> REDIRECTS TO: /reports/webalizer/
+404     7KB  http://linkvortex.htb/requesthandler/
+404     7KB  http://linkvortex.htb/requesthandlerext/
+404     7KB  http://linkvortex.htb/resources/
+404     7KB  http://linkvortex.htb/resources/sass/.sass-cache/
+404     7KB  http://linkvortex.htb/rest-auth/
+404     7KB  http://linkvortex.htb/rest-api/
+404     7KB  http://linkvortex.htb/resources/tmp/
+404     7KB  http://linkvortex.htb/rest/
+404     7KB  http://linkvortex.htb/restricted_access/
+404     7KB  http://linkvortex.htb/rgsclients/
+200   103B   http://linkvortex.htb/robots.txt
+404     7KB  http://linkvortex.htb/rgs/
+404     7KB  http://linkvortex.htb/root/
+404     7KB  http://linkvortex.htb/rpcwithcert/
+404     7KB  http://linkvortex.htb/rsconnect/
+404     7KB  http://linkvortex.htb/rpc/
+404     7KB  http://linkvortex.htb/rudder/
+301    41B   http://linkvortex.htb/Saved/    -> REDIRECTS TO: /saved/
+404     7KB  http://linkvortex.htb/saltstack/
+404     7KB  http://linkvortex.htb/samples/
+404     7KB  http://linkvortex.htb/samples/activitysessions/
+404     7KB  http://linkvortex.htb/scheduler/
+404     7KB  http://linkvortex.htb/scalyr/
+404     7KB  http://linkvortex.htb/scheduler/docs/
+404     7KB  http://linkvortex.htb/sbt/
+404     7KB  http://linkvortex.htb/scripts/
+404     7KB  http://linkvortex.htb/script/
+404     7KB  http://linkvortex.htb/scripts/samples/
+404     7KB  http://linkvortex.htb/sdk/
+404     7KB  http://linkvortex.htb/sdist/
+301    42B   http://linkvortex.htb/Secret/    -> REDIRECTS TO: /secret/
+404     7KB  http://linkvortex.htb/secret/
+404     7KB  http://linkvortex.htb/secrets/
+301    55B   http://linkvortex.htb/secure/downloadFile/    -> REDIRECTS TO: /secure/downloadfile/
+404     7KB  http://linkvortex.htb/secure/
+301    50B   http://linkvortex.htb/Security/login/    -> REDIRECTS TO: /security/login/
+404     7KB  http://linkvortex.htb/security/
+404     7KB  http://linkvortex.htb/selenium/
+403   199B   http://linkvortex.htb/server-status/
+403   199B   http://linkvortex.htb/server-status
+404     7KB  http://linkvortex.htb/sensu/
+404     7KB  http://linkvortex.htb/sentry/
+404     7KB  http://linkvortex.htb/sem/
+301    42B   http://linkvortex.htb/Server/    -> REDIRECTS TO: /server/
+301    55B   http://linkvortex.htb/ServerAdministrator/    -> REDIRECTS TO: /serveradministrator/
+404     7KB  http://linkvortex.htb/server_admin_small/
+404     7KB  http://linkvortex.htb/servlet/
+404     7KB  http://linkvortex.htb/services/
+404     7KB  http://linkvortex.htb/session/
+404     7KB  http://linkvortex.htb/servlets/
+404     7KB  http://linkvortex.htb/sessions/
+404     7KB  http://linkvortex.htb/settings/
+404     7KB  http://linkvortex.htb/share/
+404     7KB  http://linkvortex.htb/shell/
+404     7KB  http://linkvortex.htb/setup/
+404     7KB  http://linkvortex.htb/shopdb/
+404     7KB  http://linkvortex.htb/showlogin/
+404     7KB  http://linkvortex.htb/sign_in/
+404     7KB  http://linkvortex.htb/sign-in/
+404     7KB  http://linkvortex.htb/signin/
+404     7KB  http://linkvortex.htb/signout/
+404     7KB  http://linkvortex.htb/signin/oauth/
+301    47B   http://linkvortex.htb/simpleLogin/    -> REDIRECTS TO: /simplelogin/
+404     7KB  http://linkvortex.htb/site-log/
+404     7KB  http://linkvortex.htb/sip/
+404     7KB  http://linkvortex.htb/site/
+404     7KB  http://linkvortex.htb/siteadmin/
+200   252B   http://linkvortex.htb/sitemap.xml
+404     7KB  http://linkvortex.htb/sized/
+404     7KB  http://linkvortex.htb/smblogin/
+404     7KB  http://linkvortex.htb/snort/
+404     7KB  http://linkvortex.htb/smf/
+404     7KB  http://linkvortex.htb/snoop/
+404     7KB  http://linkvortex.htb/soapdocs/
+404     7KB  http://linkvortex.htb/soap/
+404     7KB  http://linkvortex.htb/solr/admin/
+404     7KB  http://linkvortex.htb/sonar/
+404     7KB  http://linkvortex.htb/solr/admin/file/?file=solrconfig.xml
+301    45B   http://linkvortex.htb/SourceArt/    -> REDIRECTS TO: /sourceart/
+404     7KB  http://linkvortex.htb/soapserver/
+404     7KB  http://linkvortex.htb/source/
+404     7KB  http://linkvortex.htb/sonarcube/
+404     7KB  http://linkvortex.htb/sonarqube/
+404     7KB  http://linkvortex.htb/solr/
+404     7KB  http://linkvortex.htb/spec/
+404     7KB  http://linkvortex.htb/spec/reports/
+404     7KB  http://linkvortex.htb/splunk/
+404     7KB  http://linkvortex.htb/sql-admin/
+301    50B   http://linkvortex.htb/sql/phpMyAdmin/    -> REDIRECTS TO: /sql/phpmyadmin/
+404     7KB  http://linkvortex.htb/sql/phpmy-admin/
+404     7KB  http://linkvortex.htb/sql/myadmin/
+301    51B   http://linkvortex.htb/sql/phpMyAdmin2/    -> REDIRECTS TO: /sql/phpmyadmin2/
+404     7KB  http://linkvortex.htb/sql/php-myadmin/
+404     7KB  http://linkvortex.htb/sql/phpmanager/
+404     7KB  http://linkvortex.htb/sql/
+404     7KB  http://linkvortex.htb/sql/sql-admin/
+404     7KB  http://linkvortex.htb/sql/sqladmin/
+404     7KB  http://linkvortex.htb/sql/webadmin/
+404     7KB  http://linkvortex.htb/sql/webdb/
+404     7KB  http://linkvortex.htb/sql/websql/
+404     7KB  http://linkvortex.htb/sqladmin/
+404     7KB  http://linkvortex.htb/sql/phpmyadmin2/
+404     7KB  http://linkvortex.htb/sqlmanager/
+404     7KB  http://linkvortex.htb/sql/sqlweb/
+404     7KB  http://linkvortex.htb/sqlweb/
+404     7KB  http://linkvortex.htb/sql/sql/
+404     7KB  http://linkvortex.htb/sqli/
+404     7KB  http://linkvortex.htb/sqlbuddy/
+404     7KB  http://linkvortex.htb/squid-reports/
+404     7KB  http://linkvortex.htb/src/
+404     7KB  http://linkvortex.htb/squid/
+404     7KB  http://linkvortex.htb/squid3_log/
+404     7KB  http://linkvortex.htb/ss_vms_admin_sm/
+404     7KB  http://linkvortex.htb/srv/
+404     7KB  http://linkvortex.htb/ssl/
+404     7KB  http://linkvortex.htb/ssh/
+404     7KB  http://linkvortex.htb/srv_gen/
+404     7KB  http://linkvortex.htb/sshadmin/
+404     7KB  http://linkvortex.htb/stackstorm/
+404     7KB  http://linkvortex.htb/staff/
+404     7KB  http://linkvortex.htb/staradmin/
+404     7KB  http://linkvortex.htb/stash/
+404     7KB  http://linkvortex.htb/stas/
+301    45B   http://linkvortex.htb/Statistik/    -> REDIRECTS TO: /statistik/
+404     7KB  http://linkvortex.htb/stat/
+404     7KB  http://linkvortex.htb/stats/
+404     7KB  http://linkvortex.htb/statsd/
+301    84B   http://linkvortex.htb/StockQuote/services/xmltoday-delayed-quotes/wsdl/    -> REDIRECTS TO: /stockquote/services/xmltoday-delayed-quotes/wsdl/
+404     7KB  http://linkvortex.htb/statistics/
+301    46B   http://linkvortex.htb/StockQuote/    -> REDIRECTS TO: /stockquote/
+404     7KB  http://linkvortex.htb/statusicon/
+404     7KB  http://linkvortex.htb/status/
+404     7KB  http://linkvortex.htb/storage/
+404     7KB  http://linkvortex.htb/statystyka/
+404     7KB  http://linkvortex.htb/subversion/
+404     7KB  http://linkvortex.htb/sub-login/
+301    47B   http://linkvortex.htb/Super-Admin/    -> REDIRECTS TO: /super-admin/
+404     7KB  http://linkvortex.htb/super1/
+404     7KB  http://linkvortex.htb/superman/
+404     7KB  http://linkvortex.htb/supervisord/
+404     7KB  http://linkvortex.htb/superuser/
+404     7KB  http://linkvortex.htb/supervise/
+404     7KB  http://linkvortex.htb/supervisor/
+404     7KB  http://linkvortex.htb/support/
+404     7KB  http://linkvortex.htb/svn/
+301    39B   http://linkvortex.htb/SVN/    -> REDIRECTS TO: /svn/
+404     7KB  http://linkvortex.htb/surgemail/
+404     7KB  http://linkvortex.htb/support_login/
+404     7KB  http://linkvortex.htb/swagger/v1/swagger.json/
+404     7KB  http://linkvortex.htb/sxd/backup/
+404     7KB  http://linkvortex.htb/sxd/
+404     7KB  http://linkvortex.htb/sym/
+404     7KB  http://linkvortex.htb/sxdpro/
+404     7KB  http://linkvortex.htb/sym/root/home/
+301    52B   http://linkvortex.htb/SypexDumper_2011/    -> REDIRECTS TO: /sypexdumper_2011/
+404     7KB  http://linkvortex.htb/symphony/
+404     7KB  http://linkvortex.htb/symfony/
+404     7KB  http://linkvortex.htb/sys-admin/
+301    44B   http://linkvortex.htb/SysAdmin/    -> REDIRECTS TO: /sysadmin/
+404     7KB  http://linkvortex.htb/sysadm/
+301    45B   http://linkvortex.htb/SysAdmin2/    -> REDIRECTS TO: /sysadmin2/
+404     7KB  http://linkvortex.htb/sys_log/
+404     7KB  http://linkvortex.htb/sysadmin/
+404     7KB  http://linkvortex.htb/system-administration/
+404     7KB  http://linkvortex.htb/syslog/
+404     7KB  http://linkvortex.htb/sysadmins/
+404     7KB  http://linkvortex.htb/system/
+404     7KB  http://linkvortex.htb/sysstat/
+404     7KB  http://linkvortex.htb/system/cache/
+404     7KB  http://linkvortex.htb/system/storage/
+404     7KB  http://linkvortex.htb/system/log/
+404     7KB  http://linkvortex.htb/system/logs/
+404     7KB  http://linkvortex.htb/system_administration/
+404     7KB  http://linkvortex.htb/tasks/
+301    73B   http://linkvortex.htb/TechnologySamples/AddressBook/servlet/    -> REDIRECTS TO: /technologysamples/addressbook/servlet/
+404     7KB  http://linkvortex.htb/target/
+301    65B   http://linkvortex.htb/TechnologySamples/AddressBook/    -> REDIRECTS TO: /technologysamples/addressbook/
+404     7KB  http://linkvortex.htb/team/
+301    62B   http://linkvortex.htb/TechnologySamples/Calendar/    -> REDIRECTS TO: /technologysamples/calendar/
+301    69B   http://linkvortex.htb/TechnologySamples/BasicCalculator/    -> REDIRECTS TO: /technologysamples/basiccalculator/
+301    67B   http://linkvortex.htb/TechnologySamples/BulletinBoard/    -> REDIRECTS TO: /technologysamples/bulletinboard/
+301    70B   http://linkvortex.htb/TechnologySamples/FormLoginservlet/    -> REDIRECTS TO: /technologysamples/formloginservlet/
+301    70B   http://linkvortex.htb/TechnologySamples/JAASLoginservlet/    -> REDIRECTS TO: /technologysamples/jaasloginservlet/
+301    63B   http://linkvortex.htb/TechnologySamples/JAASLogin/    -> REDIRECTS TO: /technologysamples/jaaslogin/
+301    65B   http://linkvortex.htb/TechnologySamples/MovieReview/    -> REDIRECTS TO: /technologysamples/moviereview/
+301    63B   http://linkvortex.htb/TechnologySamples/FormLogin/    -> REDIRECTS TO: /technologysamples/formlogin/
+301    68B   http://linkvortex.htb/TechnologySamples/MovieReview2_1/    -> REDIRECTS TO: /technologysamples/moviereview2_1/
+301    73B   http://linkvortex.htb/TechnologySamples/PageReturnerservlet/    -> REDIRECTS TO: /technologysamples/pagereturnerservlet/
+301    66B   http://linkvortex.htb/TechnologySamples/PageReturner/    -> REDIRECTS TO: /technologysamples/pagereturner/
+301    65B   http://linkvortex.htb/TechnologySamples/ReadingList/    -> REDIRECTS TO: /technologysamples/readinglist/
+301    67B   http://linkvortex.htb/TechnologySamples/SimpleServlet/    -> REDIRECTS TO: /technologysamples/simpleservlet/
+301    66B   http://linkvortex.htb/TechnologySamples/Subscription/    -> REDIRECTS TO: /technologysamples/subscription/
+301    68B   http://linkvortex.htb/TechnologySamples/MovieReview2_0/    -> REDIRECTS TO: /technologysamples/moviereview2_0/
+301    60B   http://linkvortex.htb/TechnologySamples/Taglib/    -> REDIRECTS TO: /technologysamples/taglib/
+301    73B   http://linkvortex.htb/TechnologySamples/Subscriptionservlet/    -> REDIRECTS TO: /technologysamples/subscriptionservlet/
+404     7KB  http://linkvortex.htb/template/
+404     7KB  http://linkvortex.htb/templates/beez3/
+404     7KB  http://linkvortex.htb/templates/protostar/
+404     7KB  http://linkvortex.htb/templates/
+404     7KB  http://linkvortex.htb/temp/
+404     7KB  http://linkvortex.htb/teraform/
+404     7KB  http://linkvortex.htb/templates_c/
+404     7KB  http://linkvortex.htb/templates/system/
+404     7KB  http://linkvortex.htb/test-report/
+404     7KB  http://linkvortex.htb/test/tmp/
+404     7KB  http://linkvortex.htb/test-output/
+404     7KB  http://linkvortex.htb/test-build/
+404     7KB  http://linkvortex.htb/test/
+404     7KB  http://linkvortex.htb/test/version_tmp/
+404     7KB  http://linkvortex.htb/tests/
+404     7KB  http://linkvortex.htb/textpattern/
+404     7KB  http://linkvortex.htb/themes/
+404     7KB  http://linkvortex.htb/thumbs/
+404     7KB  http://linkvortex.htb/tinyfilemanager-2.2.0/
+404     7KB  http://linkvortex.htb/tinyfilemanager-2.3/
+404     7KB  http://linkvortex.htb/tinyfilemanager-2.0.1/
+404     7KB  http://linkvortex.htb/tinyfilemanager-2.0.2/
+404     7KB  http://linkvortex.htb/tinyfilemanager/
+404     7KB  http://linkvortex.htb/tmp/
+404     7KB  http://linkvortex.htb/tiny_mce/
+404     7KB  http://linkvortex.htb/tinymce/
+404     7KB  http://linkvortex.htb/tmp/cache/views/
+404     7KB  http://linkvortex.htb/tmp/cache/models/
+404     7KB  http://linkvortex.htb/tmp/cache/persistent/
+404     7KB  http://linkvortex.htb/tmp/sessions/
+404     7KB  http://linkvortex.htb/tmp/tests/
+404     7KB  http://linkvortex.htb/tmp/nanoc/
+404     7KB  http://linkvortex.htb/tools/_backups/
+404     7KB  http://linkvortex.htb/tools/
+404     7KB  http://linkvortex.htb/transmission/web/
+404     7KB  http://linkvortex.htb/tsweb/
+404     7KB  http://linkvortex.htb/txt/
+404     7KB  http://linkvortex.htb/typo3/phpmyadmin/
+404     7KB  http://linkvortex.htb/trivia/
+404     7KB  http://linkvortex.htb/tripwire/
+404     7KB  http://linkvortex.htb/typings/
+404     7KB  http://linkvortex.htb/typo3/
+404     7KB  http://linkvortex.htb/typo3temp/
+301    58B   http://linkvortex.htb/uber/phpMemcachedAdmin/    -> REDIRECTS TO: /uber/phpmemcachedadmin/
+404     7KB  http://linkvortex.htb/ucwa/
+301    51B   http://linkvortex.htb/uber/phpMyAdmin/    -> REDIRECTS TO: /uber/phpmyadmin/
+404     7KB  http://linkvortex.htb/uddigui/
+404     7KB  http://linkvortex.htb/ui/
+404     7KB  http://linkvortex.htb/unifiedmessaging/
+404     7KB  http://linkvortex.htb/uddisoap/
+404     7KB  http://linkvortex.htb/uber/
+404     7KB  http://linkvortex.htb/upguard/
+404     7KB  http://linkvortex.htb/upload/
+404     7KB  http://linkvortex.htb/upload_backup/
+404     7KB  http://linkvortex.htb/uploader/
+404     7KB  http://linkvortex.htb/uploaded/
+404     7KB  http://linkvortex.htb/uploadify/
+404     7KB  http://linkvortex.htb/uploads/
+404     7KB  http://linkvortex.htb/user/
+404     7KB  http://linkvortex.htb/user/login/
+404     7KB  http://linkvortex.htb/user_guide_src/build/
+404     7KB  http://linkvortex.htb/useradmin/
+404     7KB  http://linkvortex.htb/user_guide_src/cilexer/dist/
+404     7KB  http://linkvortex.htb/user_guide_src/cilexer/build/
+404     7KB  http://linkvortex.htb/user_guide_src/cilexer/pycilexer.egg-info/
+301    45B   http://linkvortex.htb/UserLogin/    -> REDIRECTS TO: /userlogin/
+404     7KB  http://linkvortex.htb/users/
+404     7KB  http://linkvortex.htb/usr-bin/
+404     7KB  http://linkvortex.htb/usr/
+404     7KB  http://linkvortex.htb/utility_login/
+404     7KB  http://linkvortex.htb/uvpanel/
+404     7KB  http://linkvortex.htb/v1.0/
+404     7KB  http://linkvortex.htb/v1/
+404     7KB  http://linkvortex.htb/v2/
+404     7KB  http://linkvortex.htb/v4/
+404     7KB  http://linkvortex.htb/v2/keys/?recursive=true
+404     7KB  http://linkvortex.htb/v3/
+404     7KB  http://linkvortex.htb/vagrant/
+404     7KB  http://linkvortex.htb/var/
+404     7KB  http://linkvortex.htb/var/backups/
+404     7KB  http://linkvortex.htb/var/cache/
+404     7KB  http://linkvortex.htb/var/lib/cloud/instance/handlers/
+404     7KB  http://linkvortex.htb/var/log/
+404     7KB  http://linkvortex.htb/var/lib/cloud/instance/scripts/
+404     7KB  http://linkvortex.htb/var/lib/cloud/instance/sem/
+404     7KB  http://linkvortex.htb/var/logs/
+404     7KB  http://linkvortex.htb/var/sessions/
+404     7KB  http://linkvortex.htb/var/package/
+404     7KB  http://linkvortex.htb/vault/
+404     7KB  http://linkvortex.htb/variant/
+404     7KB  http://linkvortex.htb/vendor/
+404     7KB  http://linkvortex.htb/venv.bak/
+404     7KB  http://linkvortex.htb/venv/
+404     7KB  http://linkvortex.htb/vendors/
+404     7KB  http://linkvortex.htb/version/
+404     7KB  http://linkvortex.htb/violations/
+404     7KB  http://linkvortex.htb/vmailadmin/
+404     7KB  http://linkvortex.htb/vignettes/
+404     7KB  http://linkvortex.htb/vorod/
+301    77B   http://linkvortex.htb/WarehouseEJB/services/WarehouseFront/wsdl/    -> REDIRECTS TO: /warehouseejb/services/warehousefront/wsdl/
+404     7KB  http://linkvortex.htb/vpn/
+301    55B   http://linkvortex.htb/war/WEB-INF/classes/    -> REDIRECTS TO: /war/web-inf/classes/
+404     7KB  http://linkvortex.htb/vqmod/logs/
+404     7KB  http://linkvortex.htb/vqmod/vqcache/
+404     7KB  http://linkvortex.htb/vorud/
+404     7KB  http://linkvortex.htb/vtiger/
+301    48B   http://linkvortex.htb/WarehouseWeb/    -> REDIRECTS TO: /warehouseweb/
+301    48B   http://linkvortex.htb/WarehouseEJB/    -> REDIRECTS TO: /warehouseejb/
+301    55B   http://linkvortex.htb/WarehouseWebservlet/    -> REDIRECTS TO: /warehousewebservlet/
+301    54B   http://linkvortex.htb/war/WEB-INF/deploy/    -> REDIRECTS TO: /war/web-inf/deploy/
+404     7KB  http://linkvortex.htb/vtigercrm/
+404     7KB  http://linkvortex.htb/web-console/
+301    43B   http://linkvortex.htb/WEB-INF/    -> REDIRECTS TO: /web-inf/
+404     7KB  http://linkvortex.htb/war/gwt_bree/
+301    44B   http://linkvortex.htb/WEB-INF./    -> REDIRECTS TO: /web-inf./
+404     7KB  http://linkvortex.htb/web/
+404     7KB  http://linkvortex.htb/web/bundles/
+301    50B   http://linkvortex.htb/web/phpMyAdmin/    -> REDIRECTS TO: /web/phpmyadmin/
+404     7KB  http://linkvortex.htb/web/phpmyadmin/
+404     7KB  http://linkvortex.htb/webadmin/
+404     7KB  http://linkvortex.htb/web/uploads/
+404     7KB  http://linkvortex.htb/webadmin/start/
+404     7KB  http://linkvortex.htb/webalizer/
+301    45B   http://linkvortex.htb/Webalizer/    -> REDIRECTS TO: /webalizer/
+404     7KB  http://linkvortex.htb/webdb/
+404     7KB  http://linkvortex.htb/webdav/servlet/webdav/
+404     7KB  http://linkvortex.htb/webdav/
+404     7KB  http://linkvortex.htb/webmin/
+404     7KB  http://linkvortex.htb/webmaster/
+301    59B   http://linkvortex.htb/WebServicesSamples/docs/    -> REDIRECTS TO: /webservicessamples/docs/
+301    56B   http://linkvortex.htb/WebSphereBankDeposit/    -> REDIRECTS TO: /webspherebankdeposit/
+301    54B   http://linkvortex.htb/WebSphereBank/docs/    -> REDIRECTS TO: /webspherebank/docs/
+301    49B   http://linkvortex.htb/WebSphereBank/    -> REDIRECTS TO: /webspherebank/
+301    56B   http://linkvortex.htb/WebSphereBankservlet/    -> REDIRECTS TO: /webspherebankservlet/
+301    52B   http://linkvortex.htb/WebSphereSamples/    -> REDIRECTS TO: /webspheresamples/
+301    63B   http://linkvortex.htb/WebSphereBankDepositservlet/    -> REDIRECTS TO: /webspherebankdepositservlet/
+404     7KB  http://linkvortex.htb/webstat/
+404     7KB  http://linkvortex.htb/websql/
+404     7KB  http://linkvortex.htb/webstat-ssl/
+404     7KB  http://linkvortex.htb/webstats/
+404     7KB  http://linkvortex.htb/whmcs/
+404     7KB  http://linkvortex.htb/webticket/
+404     7KB  http://linkvortex.htb/wheels/
+404     7KB  http://linkvortex.htb/webticket/webticketservice.svcabs/
+404     7KB  http://linkvortex.htb/wiki/
+404     7KB  http://linkvortex.htb/wizmysqladmin/
+301    45B   http://linkvortex.htb/Wordpress/    -> REDIRECTS TO: /wordpress/
+404     7KB  http://linkvortex.htb/wordpress/
+404     7KB  http://linkvortex.htb/wp-admin/
+404     7KB  http://linkvortex.htb/workspace/uploads/
+404     7KB  http://linkvortex.htb/wp-content/ai1wm-backups/
+404     7KB  http://linkvortex.htb/wp-content/
+404     7KB  http://linkvortex.htb/wp-content/backup-db/
+404     7KB  http://linkvortex.htb/wp-content/blogs.dir/
+404     7KB  http://linkvortex.htb/wp-content/backups-dup-pro/
+404     7KB  http://linkvortex.htb/wp-content/cache/
+404     7KB  http://linkvortex.htb/wp-content/contents/cache/
+404     7KB  http://linkvortex.htb/wp-content/mu-plugins/
+404     7KB  http://linkvortex.htb/wp-content/backupwordpress/
+404     7KB  http://linkvortex.htb/wp-content/old-cache/
+404     7KB  http://linkvortex.htb/wp-content/envato-backups/
+404     7KB  http://linkvortex.htb/wp-content/managewp/backups/
+404     7KB  http://linkvortex.htb/wp-content/infinitewp/backups/
+404     7KB  http://linkvortex.htb/wp-content/plugins/super-forms/
+404     7KB  http://linkvortex.htb/wp-content/backups/
+404     7KB  http://linkvortex.htb/wp-content/upgrade/
+404     7KB  http://linkvortex.htb/wp-content/updraft/
+404     7KB  http://linkvortex.htb/wp-content/plugins/wpengine-snapshot/snapshots/
+404     7KB  http://linkvortex.htb/wp-content/uploads/
+404     7KB  http://linkvortex.htb/wp-content/uploads/ithemes-security/backups/
+404     7KB  http://linkvortex.htb/wp-content/uploads/backupbuddy_backups/
+404     7KB  http://linkvortex.htb/wp-content/uploads/aiowps_backups/
+404     7KB  http://linkvortex.htb/wp-content/uploads/snapshots/
+404     7KB  http://linkvortex.htb/wp-content/uploads/sucuri/
+404     7KB  http://linkvortex.htb/wp-content/uploads/wpbackitup_backups/
+404     7KB  http://linkvortex.htb/wp-content/wishlist-backup/
+404     7KB  http://linkvortex.htb/wp-json/
+404     7KB  http://linkvortex.htb/wp-json/wp/v2/users/
+404     7KB  http://linkvortex.htb/wp-includes/
+404     7KB  http://linkvortex.htb/wp-content/wfcache/
+404     7KB  http://linkvortex.htb/wp-content/uploads/wp-clone/
+404     7KB  http://linkvortex.htb/wp-login/
+404     7KB  http://linkvortex.htb/wp-snapshots/
+404     7KB  http://linkvortex.htb/wp-content/uploads/wp_all_backup/
+404     7KB  http://linkvortex.htb/wp/
+301   201B   http://linkvortex.htb/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: /wps/contenthandler/!ut/p/digest!8skkfbwr_twczcvoc9dn3g/?uri=http:/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http:/example.com
+404     7KB  http://linkvortex.htb/wp.rar/
+404     7KB  http://linkvortex.htb/www-test/
+404     7KB  http://linkvortex.htb/wwwboard/
+404     7KB  http://linkvortex.htb/xampp/phpmyadmin/
+404     7KB  http://linkvortex.htb/xcuserdata/
+301    47B   http://linkvortex.htb/xphpMyAdmin/    -> REDIRECTS TO: /xphpmyadmin/
+404     7KB  http://linkvortex.htb/xampp/
+404     7KB  http://linkvortex.htb/xlogin/
+404     7KB  http://linkvortex.htb/xml/
+404     7KB  http://linkvortex.htb/xsl/
+404     7KB  http://linkvortex.htb/xsql/
+404     7KB  http://linkvortex.htb/xslt/
+404     7KB  http://linkvortex.htb/xls/
+404     7KB  http://linkvortex.htb/zabbix/
+404     7KB  http://linkvortex.htb/zipkin/
+404     7KB  http://linkvortex.htb/zimbra/
+404     7KB  http://linkvortex.htb/~/
+404     7KB  http://linkvortex.htb/~admin/
+301     0B   http://linkvortex.htb/assets/%2e%2e//google.com    -> REDIRECTS TO: /google.com/
+301   185B   http://linkvortex.htb/assets/js    -> REDIRECTS TO: /assets/js/
+301     0B   http://linkvortex.htb/assets/axis//happyaxis.jsp    -> REDIRECTS TO: /assets/axis/happyaxis.jsp/
+301     0B   http://linkvortex.htb/assets/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /assets/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /assets/axis2/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /assets/Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+301   187B   http://linkvortex.htb/assets/css    -> REDIRECTS TO: /assets/css/
+301     0B   http://linkvortex.htb/assets/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /assets/engine/classes/swfupload/swfupload_f9.swf/
+301     0B   http://linkvortex.htb/assets/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/engine/classes/swfupload/swfupload.swf/
+301     0B   http://linkvortex.htb/assets/extjs/resources//charts.swf    -> REDIRECTS TO: /assets/extjs/resources/charts.swf/
+301     0B   http://linkvortex.htb/assets/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/html/js/misc/swfupload/swfupload.swf/
+301     0B   http://linkvortex.htb/server-status/%2e%2e//google.com    -> REDIRECTS TO: /google.com/
+301     0B   http://linkvortex.htb/assets/js/%2e%2e//google.com    -> REDIRECTS TO: /assets/google.com/
+301     0B   http://linkvortex.htb/assets/js/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /assets/js/axis2/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /assets/js/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/axis//happyaxis.jsp    -> REDIRECTS TO: /assets/js/axis/happyaxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /assets/js/Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+301     0B   http://linkvortex.htb/assets/js/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /assets/js/engine/classes/swfupload/swfupload_f9.swf/
+301     0B   http://linkvortex.htb/assets/js/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/js/engine/classes/swfupload/swfupload.swf/
+301     0B   http://linkvortex.htb/assets/js/extjs/resources//charts.swf    -> REDIRECTS TO: /assets/js/extjs/resources/charts.swf/
+301     0B   http://linkvortex.htb/assets/js/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/js/html/js/misc/swfupload/swfupload.swf/
+301   193B   http://linkvortex.htb/assets/js/lib    -> REDIRECTS TO: /assets/js/lib/
+301     0B   http://linkvortex.htb/assets/css/%2e%2e//google.com    -> REDIRECTS TO: /assets/google.com/
+301    74B   http://linkvortex.htb/assets/css/.aspnet/DataProtection-Keys/    -> REDIRECTS TO: /assets/css/.aspnet/dataprotection-keys/
+301    56B   http://linkvortex.htb/assets/css/.axoCover/    -> REDIRECTS TO: /assets/css/.axocover/
+301    68B   http://linkvortex.htb/assets/css/.externalToolBuilders/    -> REDIRECTS TO: /assets/css/.externaltoolbuilders/
+301    51B   http://linkvortex.htb/assets/css/.HTF/    -> REDIRECTS TO: /assets/css/.htf/
+301    58B   http://linkvortex.htb/assets/css/.Rproj.user/    -> REDIRECTS TO: /assets/css/.rproj.user/
+301    64B   http://linkvortex.htb/assets/css/.tools/phpMyAdmin/    -> REDIRECTS TO: /assets/css/.tools/phpmyadmin/
+301    72B   http://linkvortex.htb/assets/css/.tools/phpMyAdmin/current/    -> REDIRECTS TO: /assets/css/.tools/phpmyadmin/current/
+301    60B   http://linkvortex.htb/assets/css/_DynaCacheEsi/    -> REDIRECTS TO: /assets/css/_dynacacheesi/
+301    59B   http://linkvortex.htb/assets/css/_LPHPMYADMIN/    -> REDIRECTS TO: /assets/css/_lphpmyadmin/
+301    63B   http://linkvortex.htb/assets/css/_mmServerScripts/    -> REDIRECTS TO: /assets/css/_mmserverscripts/
+301    67B   http://linkvortex.htb/assets/css/_UpgradeReport_Files/    -> REDIRECTS TO: /assets/css/_upgradereport_files/
+301    55B   http://linkvortex.htb/assets/css/_WEB_INF/    -> REDIRECTS TO: /assets/css/_web_inf/
+301   110B   http://linkvortex.htb/assets/css/a4j/g/3_3_1.GAorg.richfaces.renderkit.html.Paint2DResource/DATA/    -> REDIRECTS TO: /assets/css/a4j/g/3_3_1.gaorg.richfaces.renderkit.html.paint2dresource/data/
+301   120B   http://linkvortex.htb/assets/css/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/    -> REDIRECTS TO: /assets/css/a4j/s/3_3_3.finalorg/richfaces/renderkit/html/css/basic_classes.xcss/datb/
+301   107B   http://linkvortex.htb/assets/css/a4j/s/3_3_3.Finalorg.ajax4jsf.resource.UserResource/n/n/DATA/    -> REDIRECTS TO: /assets/css/a4j/s/3_3_3.finalorg.ajax4jsf.resource.userresource/n/n/data/
+301    61B   http://linkvortex.htb/assets/css/AccessPlatform/    -> REDIRECTS TO: /assets/css/accessplatform/
+301    66B   http://linkvortex.htb/assets/css/AccessPlatform/auth/    -> REDIRECTS TO: /assets/css/accessplatform/auth/
+301    80B   http://linkvortex.htb/assets/css/AccessPlatform/auth/clientscripts/    -> REDIRECTS TO: /assets/css/accessplatform/auth/clientscripts/
+301    80B   http://linkvortex.htb/assets/css/ActiveDirectoryRemoteAdminScripts/    -> REDIRECTS TO: /assets/css/activedirectoryremoteadminscripts/
+301    88B   http://linkvortex.htb/assets/css/AddressBookJ2WE/services/AddressBook/wsdl/    -> REDIRECTS TO: /assets/css/addressbookj2we/services/addressbook/wsdl/
+301    88B   http://linkvortex.htb/assets/css/AddressBookW2JE/services/AddressBook/wsdl/    -> REDIRECTS TO: /assets/css/addressbookw2je/services/addressbook/wsdl/
+301    52B   http://linkvortex.htb/assets/css/Admin/    -> REDIRECTS TO: /assets/css/admin/
+301    58B   http://linkvortex.htb/assets/css/Admin/login/    -> REDIRECTS TO: /assets/css/admin/login/
+301    63B   http://linkvortex.htb/assets/css/admin/phpMyAdmin/    -> REDIRECTS TO: /assets/css/admin/phpmyadmin/
+301    56B   http://linkvortex.htb/assets/css/admin/pMA/    -> REDIRECTS TO: /assets/css/admin/pma/
+301    53B   http://linkvortex.htb/assets/css/Admin;/    -> REDIRECTS TO: /assets/css/admin;/
+301    71B   http://linkvortex.htb/assets/css/administrator/phpMyAdmin/    -> REDIRECTS TO: /assets/css/administrator/phpmyadmin/
+301    64B   http://linkvortex.htb/assets/css/administrator/PMA/    -> REDIRECTS TO: /assets/css/administrator/pma/
+301    57B   http://linkvortex.htb/assets/css/adminLogin/    -> REDIRECTS TO: /assets/css/adminlogin/
+301    57B   http://linkvortex.htb/assets/css/AdminTools/    -> REDIRECTS TO: /assets/css/admintools/
+301    62B   http://linkvortex.htb/assets/css/AlbumCatalogWeb/    -> REDIRECTS TO: /assets/css/albumcatalogweb/
+301    67B   http://linkvortex.htb/assets/css/AlbumCatalogWeb/docs/    -> REDIRECTS TO: /assets/css/albumcatalogweb/docs/
+301    74B   http://linkvortex.htb/assets/css/AlbumCatalogWeb/docsservlet/    -> REDIRECTS TO: /assets/css/albumcatalogweb/docsservlet/
+301    69B   http://linkvortex.htb/assets/css/AlbumCatalogWebservlet/    -> REDIRECTS TO: /assets/css/albumcatalogwebservlet/
+301    76B   http://linkvortex.htb/assets/css/ApplicationProfileSample/docs/    -> REDIRECTS TO: /assets/css/applicationprofilesample/docs/
+301    71B   http://linkvortex.htb/assets/css/ApplicationProfileSample/    -> REDIRECTS TO: /assets/css/applicationprofilesample/
+301    58B   http://linkvortex.htb/assets/css/AppPackages/    -> REDIRECTS TO: /assets/css/apppackages/
+301    78B   http://linkvortex.htb/assets/css/ApplicationProfileSampleservlet/    -> REDIRECTS TO: /assets/css/applicationprofilesampleservlet/
+301    58B   http://linkvortex.htb/assets/css/ASALocalRun/    -> REDIRECTS TO: /assets/css/asalocalrun/
+301    59B   http://linkvortex.htb/assets/css/asynchPeople/    -> REDIRECTS TO: /assets/css/asynchpeople/
+301    59B   http://linkvortex.htb/assets/css/AutoTest.Net/    -> REDIRECTS TO: /assets/css/autotest.net/
+301     0B   http://linkvortex.htb/assets/css/axis//happyaxis.jsp    -> REDIRECTS TO: /assets/css/axis/happyaxis.jsp/
+301     0B   http://linkvortex.htb/assets/css/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /assets/css/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/css/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /assets/css/axis2/axis2-web/HappyAxis.jsp/
+301    53B   http://linkvortex.htb/assets/css/Backup/    -> REDIRECTS TO: /assets/css/backup/
+301    51B   http://linkvortex.htb/assets/css/Bank/    -> REDIRECTS TO: /assets/css/bank/
+301    72B   http://linkvortex.htb/assets/css/BenchmarkDotNet.Artifacts/    -> REDIRECTS TO: /assets/css/benchmarkdotnet.artifacts/
+301    54B   http://linkvortex.htb/assets/css/BigDump/    -> REDIRECTS TO: /assets/css/bigdump/
+301    55B   http://linkvortex.htb/assets/css/Binaries/    -> REDIRECTS TO: /assets/css/binaries/
+301    68B   http://linkvortex.htb/assets/css/build-iPhoneSimulator/    -> REDIRECTS TO: /assets/css/build-iphonesimulator/
+301    61B   http://linkvortex.htb/assets/css/build-iPhoneOS/    -> REDIRECTS TO: /assets/css/build-iphoneos/
+301    62B   http://linkvortex.htb/assets/css/BundleArtifacts/    -> REDIRECTS TO: /assets/css/bundleartifacts/
+301    52B   http://linkvortex.htb/assets/css/CFIDE/    -> REDIRECTS TO: /assets/css/cfide/
+301    66B   http://linkvortex.htb/assets/css/CFIDE/administrator/    -> REDIRECTS TO: /assets/css/cfide/administrator/
+301    66B   http://linkvortex.htb/assets/css/CFIDE/Administrator/    -> REDIRECTS TO: /assets/css/cfide/administrator/
+301     0B   http://linkvortex.htb/assets/css/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /assets/css/Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+301    53B   http://linkvortex.htb/assets/css/Citrix/    -> REDIRECTS TO: /assets/css/citrix/
+301    73B   http://linkvortex.htb/assets/css/citrix/AccessPlatform/auth/    -> REDIRECTS TO: /assets/css/citrix/accessplatform/auth/
+301    87B   http://linkvortex.htb/assets/css/citrix/AccessPlatform/auth/clientscripts/    -> REDIRECTS TO: /assets/css/citrix/accessplatform/auth/clientscripts/
+301    56B   http://linkvortex.htb/assets/css/Classpath/    -> REDIRECTS TO: /assets/css/classpath/
+301    56B   http://linkvortex.htb/assets/css/ClientBin/    -> REDIRECTS TO: /assets/css/clientbin/
+301    53B   http://linkvortex.htb/assets/css/Config/    -> REDIRECTS TO: /assets/css/config/
+301    58B   http://linkvortex.htb/assets/css/ConsoleHelp/    -> REDIRECTS TO: /assets/css/consolehelp/
+301    50B   http://linkvortex.htb/assets/css/CVS/    -> REDIRECTS TO: /assets/css/cvs/
+301    75B   http://linkvortex.htb/assets/css/data/DoctrineORMModule/cache/    -> REDIRECTS TO: /assets/css/data/doctrineormmodule/cache/
+301    75B   http://linkvortex.htb/assets/css/data/DoctrineORMModule/Proxy/    -> REDIRECTS TO: /assets/css/data/doctrineormmodule/proxy/
+301    66B   http://linkvortex.htb/assets/css/database/phpMyAdmin/    -> REDIRECTS TO: /assets/css/database/phpmyadmin/
+301    67B   http://linkvortex.htb/assets/css/database/phpMyAdmin2/    -> REDIRECTS TO: /assets/css/database/phpmyadmin2/
+301    70B   http://linkvortex.htb/assets/css/Database_Administration/    -> REDIRECTS TO: /assets/css/database_administration/
+301    62B   http://linkvortex.htb/assets/css/Database_Backup/    -> REDIRECTS TO: /assets/css/database_backup/
+301    62B   http://linkvortex.htb/assets/css/db/phpMyAdmin-3/    -> REDIRECTS TO: /assets/css/db/phpmyadmin-3/
+301    61B   http://linkvortex.htb/assets/css/db/phpMyAdmin2/    -> REDIRECTS TO: /assets/css/db/phpmyadmin2/
+301    62B   http://linkvortex.htb/assets/css/db/phpMyAdmin-2/    -> REDIRECTS TO: /assets/css/db/phpmyadmin-2/
+301    61B   http://linkvortex.htb/assets/css/db/phpMyAdmin3/    -> REDIRECTS TO: /assets/css/db/phpmyadmin3/
+301    60B   http://linkvortex.htb/assets/css/db/phpMyAdmin/    -> REDIRECTS TO: /assets/css/db/phpmyadmin/
+301    58B   http://linkvortex.htb/assets/css/DerivedData/    -> REDIRECTS TO: /assets/css/deriveddata/
+301    63B   http://linkvortex.htb/assets/css/DerivedDataCache/    -> REDIRECTS TO: /assets/css/deriveddatacache/
+301    67B   http://linkvortex.htb/assets/css/DocProject/buildhelp/    -> REDIRECTS TO: /assets/css/docproject/buildhelp/
+301     0B   http://linkvortex.htb/assets/css/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/css/engine/classes/swfupload/swfupload.swf/
+301     0B   http://linkvortex.htb/assets/css/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /assets/css/engine/classes/swfupload/swfupload_f9.swf/
+301    50B   http://linkvortex.htb/assets/css/ENV/    -> REDIRECTS TO: /assets/css/env/
+301    59B   http://linkvortex.htb/assets/css/Estadisticas/    -> REDIRECTS TO: /assets/css/estadisticas/
+301    54B   http://linkvortex.htb/assets/css/Exadmin/    -> REDIRECTS TO: /assets/css/exadmin/
+301    55B   http://linkvortex.htb/assets/css/Exchange/    -> REDIRECTS TO: /assets/css/exchange/
+301    54B   http://linkvortex.htb/assets/css/ExchWeb/    -> REDIRECTS TO: /assets/css/exchweb/
+301    58B   http://linkvortex.htb/assets/css/ExportedObj/    -> REDIRECTS TO: /assets/css/exportedobj/
+301     0B   http://linkvortex.htb/assets/css/extjs/resources//charts.swf    -> REDIRECTS TO: /assets/css/extjs/resources/charts.swf/
+301    62B   http://linkvortex.htb/assets/css/FakesAssemblies/    -> REDIRECTS TO: /assets/css/fakesassemblies/
+301    56B   http://linkvortex.htb/assets/css/FCKeditor/    -> REDIRECTS TO: /assets/css/fckeditor/
+301    59B   http://linkvortex.htb/assets/css/FCKeditor2.1/    -> REDIRECTS TO: /assets/css/fckeditor2.1/
+301    59B   http://linkvortex.htb/assets/css/FCKeditor2.0/    -> REDIRECTS TO: /assets/css/fckeditor2.0/
+301    59B   http://linkvortex.htb/assets/css/FCKeditor2.4/    -> REDIRECTS TO: /assets/css/fckeditor2.4/
+301    57B   http://linkvortex.htb/assets/css/FCKeditor2/    -> REDIRECTS TO: /assets/css/fckeditor2/
+301    59B   http://linkvortex.htb/assets/css/FCKeditor2.3/    -> REDIRECTS TO: /assets/css/fckeditor2.3/
+301    59B   http://linkvortex.htb/assets/css/FCKeditor2.2/    -> REDIRECTS TO: /assets/css/fckeditor2.2/
+301    58B   http://linkvortex.htb/assets/css/FCKeditor22/    -> REDIRECTS TO: /assets/css/fckeditor22/
+301    58B   http://linkvortex.htb/assets/css/FCKeditor24/    -> REDIRECTS TO: /assets/css/fckeditor24/
+301    58B   http://linkvortex.htb/assets/css/FCKeditor20/    -> REDIRECTS TO: /assets/css/fckeditor20/
+301    58B   http://linkvortex.htb/assets/css/FCKeditor23/    -> REDIRECTS TO: /assets/css/fckeditor23/
+301    58B   http://linkvortex.htb/assets/css/FCKeditor21/    -> REDIRECTS TO: /assets/css/fckeditor21/
+301    58B   http://linkvortex.htb/assets/css/FileHandler/    -> REDIRECTS TO: /assets/css/filehandler/
+301    53B   http://linkvortex.htb/assets/css/GEMINI/    -> REDIRECTS TO: /assets/css/gemini/
+301    61B   http://linkvortex.htb/assets/css/Generated_Code/    -> REDIRECTS TO: /assets/css/generated_code/
+301    60B   http://linkvortex.htb/assets/css/GreenhouseEJB/    -> REDIRECTS TO: /assets/css/greenhouseejb/
+301    57B   http://linkvortex.htb/assets/css/Greenhouse/    -> REDIRECTS TO: /assets/css/greenhouse/
+301    60B   http://linkvortex.htb/assets/css/GreenhouseWeb/    -> REDIRECTS TO: /assets/css/greenhouseweb/
+301    90B   http://linkvortex.htb/assets/css/GreenhouseEJB/services/GreenhouseFront/wsdl/    -> REDIRECTS TO: /assets/css/greenhouseejb/services/greenhousefront/wsdl/
+301    67B   http://linkvortex.htb/assets/css/GreenhouseWebservlet/    -> REDIRECTS TO: /assets/css/greenhousewebservlet/
+301    64B   http://linkvortex.htb/assets/css/Greenhouseservlet/    -> REDIRECTS TO: /assets/css/greenhouseservlet/
+301    73B   http://linkvortex.htb/assets/css/GreenhouseByWebSphere/docs/    -> REDIRECTS TO: /assets/css/greenhousebywebsphere/docs/
+301    60B   http://linkvortex.htb/assets/css/gwt-unitCache/    -> REDIRECTS TO: /assets/css/gwt-unitcache/
+301    65B   http://linkvortex.htb/assets/css/HFM/Administration/    -> REDIRECTS TO: /assets/css/hfm/administration/
+301    52B   http://linkvortex.htb/assets/css/HNAP1/    -> REDIRECTS TO: /assets/css/hnap1/
+301     0B   http://linkvortex.htb/assets/css/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/css/html/js/misc/swfupload/swfupload.swf/
+301    51B   http://linkvortex.htb/assets/css/Http/    -> REDIRECTS TO: /assets/css/http/
+301    60B   http://linkvortex.htb/assets/css/i18nctxSample/    -> REDIRECTS TO: /assets/css/i18nctxsample/
+301    65B   http://linkvortex.htb/assets/css/i18nctxSample/docs/    -> REDIRECTS TO: /assets/css/i18nctxsample/docs/
+301    71B   http://linkvortex.htb/assets/css/IdentityGuardSelfService/    -> REDIRECTS TO: /assets/css/identityguardselfservice/
+301    57B   http://linkvortex.htb/assets/css/Indy_admin/    -> REDIRECTS TO: /assets/css/indy_admin/
+301    59B   http://linkvortex.htb/assets/css/Intermediate/    -> REDIRECTS TO: /assets/css/intermediate/
+301    72B   http://linkvortex.htb/assets/css/invoker/JMXInvokerServlet/    -> REDIRECTS TO: /assets/css/invoker/jmxinvokerservlet/
+301    66B   http://linkvortex.htb/assets/css/iOSInjectionProject/    -> REDIRECTS TO: /assets/css/iosinjectionproject/
+301    72B   http://linkvortex.htb/assets/css/invoker/EJBInvokerServlet/    -> REDIRECTS TO: /assets/css/invoker/ejbinvokerservlet/
+301    72B   http://linkvortex.htb/assets/css/JTAExtensionsSamples/docs/    -> REDIRECTS TO: /assets/css/jtaextensionssamples/docs/
+301    86B   http://linkvortex.htb/assets/css/JTAExtensionsSamples/TransactionTracker/    -> REDIRECTS TO: /assets/css/jtaextensionssamples/transactiontracker/
+301    61B   http://linkvortex.htb/assets/css/LiveUser_Admin/    -> REDIRECTS TO: /assets/css/liveuser_admin/
+301    55B   http://linkvortex.htb/assets/css/Logfiles/    -> REDIRECTS TO: /assets/css/logfiles/
+301    51B   http://linkvortex.htb/assets/css/Logs/    -> REDIRECTS TO: /assets/css/logs/
+301    65B   http://linkvortex.htb/assets/css/Lotus_Domino_Admin/    -> REDIRECTS TO: /assets/css/lotus_domino_admin/
+301    70B   http://linkvortex.htb/assets/css/MessageDrivenBeans/docs/    -> REDIRECTS TO: /assets/css/messagedrivenbeans/docs/
+301    54B   http://linkvortex.htb/assets/css/Mercury/    -> REDIRECTS TO: /assets/css/mercury/
+301    77B   http://linkvortex.htb/assets/css/MessageDrivenBeans/docsservlet/    -> REDIRECTS TO: /assets/css/messagedrivenbeans/docsservlet/
+301    55B   http://linkvortex.htb/assets/css/META-INF/    -> REDIRECTS TO: /assets/css/meta-inf/
+301    74B   http://linkvortex.htb/assets/css/Microsoft-Server-ActiveSync/    -> REDIRECTS TO: /assets/css/microsoft-server-activesync/
+301    55B   http://linkvortex.htb/assets/css/Micros~1/    -> REDIRECTS TO: /assets/css/micros~1/
+301    51B   http://linkvortex.htb/assets/css/MRTG/    -> REDIRECTS TO: /assets/css/mrtg/
+301    54B   http://linkvortex.htb/assets/css/MyAdmin/    -> REDIRECTS TO: /assets/css/myadmin/
+301    56B   http://linkvortex.htb/assets/css/mysql/pMA/    -> REDIRECTS TO: /assets/css/mysql/pma/
+301    53B   http://linkvortex.htb/assets/css/Office/    -> REDIRECTS TO: /assets/css/office/
+301    50B   http://linkvortex.htb/assets/css/OMA/    -> REDIRECTS TO: /assets/css/oma/
+301    86B   http://linkvortex.htb/assets/css/opc/services/BrokerServiceIntfPort/wsdl/    -> REDIRECTS TO: /assets/css/opc/services/brokerserviceintfport/wsdl/
+301    86B   http://linkvortex.htb/assets/css/opc/services/PurchaseOrderIntfPort/wsdl/    -> REDIRECTS TO: /assets/css/opc/services/purchaseorderintfport/wsdl/
+301    86B   http://linkvortex.htb/assets/css/opc/services/OrderTrackingIntfPort/wsdl/    -> REDIRECTS TO: /assets/css/opc/services/ordertrackingintfport/wsdl/
+301    56B   http://linkvortex.htb/assets/css/OpenCover/    -> REDIRECTS TO: /assets/css/opencover/
+301    64B   http://linkvortex.htb/assets/css/OrderProcessorEJB/    -> REDIRECTS TO: /assets/css/orderprocessorejb/
+301    88B   http://linkvortex.htb/assets/css/OrderProcessorEJB/services/FrontGate/wsdl/    -> REDIRECTS TO: /assets/css/orderprocessorejb/services/frontgate/wsdl/
+301    50B   http://linkvortex.htb/assets/css/OWA/    -> REDIRECTS TO: /assets/css/owa/
+301    59B   http://linkvortex.htb/assets/css/Passwd_Files/    -> REDIRECTS TO: /assets/css/passwd_files/
+301    61B   http://linkvortex.htb/assets/css/phpFileManager/    -> REDIRECTS TO: /assets/css/phpfilemanager/
+301    59B   http://linkvortex.htb/assets/css/phpLiteAdmin/    -> REDIRECTS TO: /assets/css/phpliteadmin/
+301    60B   http://linkvortex.htb/assets/css/phpLiteAdmin_/    -> REDIRECTS TO: /assets/css/phpliteadmin_/
+301    57B   http://linkvortex.htb/assets/css/phpMoAdmin/    -> REDIRECTS TO: /assets/css/phpmoadmin/
+301    52B   http://linkvortex.htb/assets/css/phpMy/    -> REDIRECTS TO: /assets/css/phpmy/
+301    53B   http://linkvortex.htb/assets/css/phpMyA/    -> REDIRECTS TO: /assets/css/phpmya/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.10.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.10.1/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.10.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.10.0/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.1/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.4/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.3/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.2/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.0/
+301    65B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.10/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.10/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.10.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.10.2/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.5/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.5/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.10.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.10.3/
+301    56B   http://linkvortex.htb/assets/css/phpMyAdmi/    -> REDIRECTS TO: /assets/css/phpmyadmi/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.6/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.6/
+301    91B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.7.1-all-languages-utf-8-only/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.7.1-all-languages-utf-8-only/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.1/
+301    80B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.8.1-all-languages/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.8.1-all-languages/
+301    80B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.5.1-all-languages/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.5.1-all-languages/
+301    78B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.6-all-languages/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.6-all-languages/
+301    66B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.8.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.8.1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.2.6/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.2.6/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.4/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.9/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.9/
+301    91B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.8.1-all-languages-utf-8-only/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.8.1-all-languages-utf-8-only/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.2.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.2.3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.5-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.5-rc1/
+301    80B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.7.1-all-languages/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.7.1-all-languages/
+301    64B   http://linkvortex.htb/assets/css/phpMyAdmin-2.11.7/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.11.7/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.5-rc2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.5-rc2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.5-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.5-pl1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.5/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.5/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.6-rc2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.6-rc2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.6-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.6-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.7-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.7-pl1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.7/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.7/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-alpha/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-alpha/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.5.6/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.5.6/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-beta1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-beta1/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-beta2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-beta2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-pl1/
+301    70B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-alpha2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-alpha2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-pl2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-pl2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-pl3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-pl3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-rc3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-rc3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1-pl2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1-pl2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.0-rc2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.0-rc2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1-pl1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.2-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.2-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1-pl3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1-pl3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.3-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.3-pl1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4-pl1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.1-rc2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.1-rc2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.3-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.3-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.2-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.2-pl1/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.2-beta1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.2-beta1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4-pl2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4-pl2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4-pl4/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4-pl4/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4-pl3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4-pl3/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.7.0-pl1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.7.0-pl1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.6.4-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.6.4-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.7.0-pl2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.7.0-pl2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.7.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.7.0/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0-beta1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0-beta1/
+301    69B   http://linkvortex.htb/assets/css/phpMyAdmin-2.7.0-beta1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.7.0-beta1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0-rc2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0-rc2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.7.0-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.7.0-rc1/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0-rc1/
+301    65B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0.1/
+301    65B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0.4/
+301    65B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0.2/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.1-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.1-rc1/
+301    65B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0.3/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.0/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.0.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.0.1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.3/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.0/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-2.8.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2.8.2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.0.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.0.0/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.4/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.0/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.1.5/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.1.5/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.0/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.0/
+301    59B   http://linkvortex.htb/assets/css/phpMyAdmin-2/    -> REDIRECTS TO: /assets/css/phpmyadmin-2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.3/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.2/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.2/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.3/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.3/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.4/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.4-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.4-rc1/
+301    59B   http://linkvortex.htb/assets/css/phpMyAdmin-3/    -> REDIRECTS TO: /assets/css/phpmyadmin-3/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.2-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.2-rc1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.1/
+301    59B   http://linkvortex.htb/assets/css/phpMyAdmin-4/    -> REDIRECTS TO: /assets/css/phpmyadmin-4/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.4/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.4/
+301    67B   http://linkvortex.htb/assets/css/phpMyAdmin-3.3.3-rc1/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.3.3-rc1/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdmin-3.2.5/    -> REDIRECTS TO: /assets/css/phpmyadmin-3.2.5/
+301    57B   http://linkvortex.htb/assets/css/phpMyAdmin/    -> REDIRECTS TO: /assets/css/phpmyadmin/
+301    57B   http://linkvortex.htb/assets/css/phpmyAdmin/    -> REDIRECTS TO: /assets/css/phpmyadmin/
+301    57B   http://linkvortex.htb/assets/css/phpMyadmin/    -> REDIRECTS TO: /assets/css/phpmyadmin/
+301    58B   http://linkvortex.htb/assets/css/phpMyAdmin0/    -> REDIRECTS TO: /assets/css/phpmyadmin0/
+301    58B   http://linkvortex.htb/assets/css/phpMyAdmin1/    -> REDIRECTS TO: /assets/css/phpmyadmin1/
+301    58B   http://linkvortex.htb/assets/css/phpMyAdmin2/    -> REDIRECTS TO: /assets/css/phpmyadmin2/
+301    58B   http://linkvortex.htb/assets/css/phpMyAdmin3/    -> REDIRECTS TO: /assets/css/phpmyadmin3/
+301    58B   http://linkvortex.htb/assets/css/phpMyAdmin4/    -> REDIRECTS TO: /assets/css/phpmyadmin4/
+301    55B   http://linkvortex.htb/assets/css/phpMyAds/    -> REDIRECTS TO: /assets/css/phpmyads/
+301    57B   http://linkvortex.htb/assets/css/phpPgAdmin/    -> REDIRECTS TO: /assets/css/phppgadmin/
+301    63B   http://linkvortex.htb/assets/css/phpMyAdminBackup/    -> REDIRECTS TO: /assets/css/phpmyadminbackup/
+301    60B   http://linkvortex.htb/assets/css/phpRedisAdmin/    -> REDIRECTS TO: /assets/css/phpredisadmin/
+301    61B   http://linkvortex.htb/assets/css/phpSQLiteAdmin/    -> REDIRECTS TO: /assets/css/phpsqliteadmin/
+301    55B   http://linkvortex.htb/assets/css/phpThumb/    -> REDIRECTS TO: /assets/css/phpthumb/
+301    54B   http://linkvortex.htb/assets/css/PMA2005/    -> REDIRECTS TO: /assets/css/pma2005/
+301    54B   http://linkvortex.htb/assets/css/PMA2009/    -> REDIRECTS TO: /assets/css/pma2009/
+301    54B   http://linkvortex.htb/assets/css/PMA2012/    -> REDIRECTS TO: /assets/css/pma2012/
+301    54B   http://linkvortex.htb/assets/css/PMA2011/    -> REDIRECTS TO: /assets/css/pma2011/
+301    54B   http://linkvortex.htb/assets/css/PMA2015/    -> REDIRECTS TO: /assets/css/pma2015/
+301    54B   http://linkvortex.htb/assets/css/PMA2013/    -> REDIRECTS TO: /assets/css/pma2013/
+301    54B   http://linkvortex.htb/assets/css/PMA2016/    -> REDIRECTS TO: /assets/css/pma2016/
+301    54B   http://linkvortex.htb/assets/css/PMA2017/    -> REDIRECTS TO: /assets/css/pma2017/
+301    54B   http://linkvortex.htb/assets/css/PMA2018/    -> REDIRECTS TO: /assets/css/pma2018/
+301    54B   http://linkvortex.htb/assets/css/PMA2014/    -> REDIRECTS TO: /assets/css/pma2014/
+301    53B   http://linkvortex.htb/assets/css/PMUser/    -> REDIRECTS TO: /assets/css/pmuser/
+301    50B   http://linkvortex.htb/assets/css/PMA/    -> REDIRECTS TO: /assets/css/pma/
+301    53B   http://linkvortex.htb/assets/css/Public/    -> REDIRECTS TO: /assets/css/public/
+301    53B   http://linkvortex.htb/assets/css/PSUser/    -> REDIRECTS TO: /assets/css/psuser/
+301    61B   http://linkvortex.htb/assets/css/PublishScripts/    -> REDIRECTS TO: /assets/css/publishscripts/
+301    56B   http://linkvortex.htb/assets/css/QuickLook/    -> REDIRECTS TO: /assets/css/quicklook/
+301    54B   http://linkvortex.htb/assets/css/rcLogin/    -> REDIRECTS TO: /assets/css/rclogin/
+301    60B   http://linkvortex.htb/assets/css/Remote-Access/    -> REDIRECTS TO: /assets/css/remote-access/
+301    67B   http://linkvortex.htb/assets/css/Remote-Administrator/    -> REDIRECTS TO: /assets/css/remote-administrator/
+301    63B   http://linkvortex.htb/assets/css/Remote_Execution/    -> REDIRECTS TO: /assets/css/remote_execution/
+301    64B   http://linkvortex.htb/assets/css/reports/Webalizer/    -> REDIRECTS TO: /assets/css/reports/webalizer/
+301    52B   http://linkvortex.htb/assets/css/Saved/    -> REDIRECTS TO: /assets/css/saved/
+301    53B   http://linkvortex.htb/assets/css/Secret/    -> REDIRECTS TO: /assets/css/secret/
+301    66B   http://linkvortex.htb/assets/css/secure/downloadFile/    -> REDIRECTS TO: /assets/css/secure/downloadfile/
+301    61B   http://linkvortex.htb/assets/css/Security/login/    -> REDIRECTS TO: /assets/css/security/login/
+301    53B   http://linkvortex.htb/assets/css/Server/    -> REDIRECTS TO: /assets/css/server/
+301    66B   http://linkvortex.htb/assets/css/ServerAdministrator/    -> REDIRECTS TO: /assets/css/serveradministrator/
+301    66B   http://linkvortex.htb/assets/css/ServiceFabricBackup/    -> REDIRECTS TO: /assets/css/servicefabricbackup/
+301    58B   http://linkvortex.htb/assets/css/simpleLogin/    -> REDIRECTS TO: /assets/css/simplelogin/
+301    56B   http://linkvortex.htb/assets/css/SourceArt/    -> REDIRECTS TO: /assets/css/sourceart/
+301    61B   http://linkvortex.htb/assets/css/sql/phpMyAdmin/    -> REDIRECTS TO: /assets/css/sql/phpmyadmin/
+301    62B   http://linkvortex.htb/assets/css/sql/phpMyAdmin2/    -> REDIRECTS TO: /assets/css/sql/phpmyadmin2/
+301    56B   http://linkvortex.htb/assets/css/Statistik/    -> REDIRECTS TO: /assets/css/statistik/
+301    57B   http://linkvortex.htb/assets/css/StockQuote/    -> REDIRECTS TO: /assets/css/stockquote/
+301    95B   http://linkvortex.htb/assets/css/StockQuote/services/xmltoday-delayed-quotes/wsdl/    -> REDIRECTS TO: /assets/css/stockquote/services/xmltoday-delayed-quotes/wsdl/
+301    58B   http://linkvortex.htb/assets/css/Super-Admin/    -> REDIRECTS TO: /assets/css/super-admin/
+301    50B   http://linkvortex.htb/assets/css/SVN/    -> REDIRECTS TO: /assets/css/svn/
+301    63B   http://linkvortex.htb/assets/css/SypexDumper_2011/    -> REDIRECTS TO: /assets/css/sypexdumper_2011/
+301    56B   http://linkvortex.htb/assets/css/SysAdmin2/    -> REDIRECTS TO: /assets/css/sysadmin2/
+301    55B   http://linkvortex.htb/assets/css/SysAdmin/    -> REDIRECTS TO: /assets/css/sysadmin/
+301    76B   http://linkvortex.htb/assets/css/TechnologySamples/AddressBook/    -> REDIRECTS TO: /assets/css/technologysamples/addressbook/
+301    84B   http://linkvortex.htb/assets/css/TechnologySamples/AddressBook/servlet/    -> REDIRECTS TO: /assets/css/technologysamples/addressbook/servlet/
+301    80B   http://linkvortex.htb/assets/css/TechnologySamples/BasicCalculator/    -> REDIRECTS TO: /assets/css/technologysamples/basiccalculator/
+301    78B   http://linkvortex.htb/assets/css/TechnologySamples/BulletinBoard/    -> REDIRECTS TO: /assets/css/technologysamples/bulletinboard/
+301    81B   http://linkvortex.htb/assets/css/TechnologySamples/FormLoginservlet/    -> REDIRECTS TO: /assets/css/technologysamples/formloginservlet/
+301    73B   http://linkvortex.htb/assets/css/TechnologySamples/Calendar/    -> REDIRECTS TO: /assets/css/technologysamples/calendar/
+301    79B   http://linkvortex.htb/assets/css/TechnologySamples/MovieReview2_1/    -> REDIRECTS TO: /assets/css/technologysamples/moviereview2_1/
+301    74B   http://linkvortex.htb/assets/css/TechnologySamples/FormLogin/    -> REDIRECTS TO: /assets/css/technologysamples/formlogin/
+301    74B   http://linkvortex.htb/assets/css/TechnologySamples/JAASLogin/    -> REDIRECTS TO: /assets/css/technologysamples/jaaslogin/
+301    81B   http://linkvortex.htb/assets/css/TechnologySamples/JAASLoginservlet/    -> REDIRECTS TO: /assets/css/technologysamples/jaasloginservlet/
+301    79B   http://linkvortex.htb/assets/css/TechnologySamples/MovieReview2_0/    -> REDIRECTS TO: /assets/css/technologysamples/moviereview2_0/
+301    84B   http://linkvortex.htb/assets/css/TechnologySamples/PageReturnerservlet/    -> REDIRECTS TO: /assets/css/technologysamples/pagereturnerservlet/
+301    77B   http://linkvortex.htb/assets/css/TechnologySamples/PageReturner/    -> REDIRECTS TO: /assets/css/technologysamples/pagereturner/
+301    76B   http://linkvortex.htb/assets/css/TechnologySamples/MovieReview/    -> REDIRECTS TO: /assets/css/technologysamples/moviereview/
+301    76B   http://linkvortex.htb/assets/css/TechnologySamples/ReadingList/    -> REDIRECTS TO: /assets/css/technologysamples/readinglist/
+301    78B   http://linkvortex.htb/assets/css/TechnologySamples/SimpleServlet/    -> REDIRECTS TO: /assets/css/technologysamples/simpleservlet/
+301    74B   http://linkvortex.htb/assets/css/TechnologySamples/SimpleJSP/    -> REDIRECTS TO: /assets/css/technologysamples/simplejsp/
+301    84B   http://linkvortex.htb/assets/css/TechnologySamples/Subscriptionservlet/    -> REDIRECTS TO: /assets/css/technologysamples/subscriptionservlet/
+301    71B   http://linkvortex.htb/assets/css/TechnologySamples/Taglib/    -> REDIRECTS TO: /assets/css/technologysamples/taglib/
+301    77B   http://linkvortex.htb/assets/css/TechnologySamples/Subscription/    -> REDIRECTS TO: /assets/css/technologysamples/subscription/
+301    51B   http://linkvortex.htb/assets/css/TEMP/    -> REDIRECTS TO: /assets/css/temp/
+301    62B   http://linkvortex.htb/assets/css/uber/phpMyAdmin/    -> REDIRECTS TO: /assets/css/uber/phpmyadmin/
+301    69B   http://linkvortex.htb/assets/css/uber/phpMemcachedAdmin/    -> REDIRECTS TO: /assets/css/uber/phpmemcachedadmin/
+301    68B   http://linkvortex.htb/assets/css/uber/phpMyAdminBackup/    -> REDIRECTS TO: /assets/css/uber/phpmyadminbackup/
+301    56B   http://linkvortex.htb/assets/css/UserLogin/    -> REDIRECTS TO: /assets/css/userlogin/
+301    65B   http://linkvortex.htb/assets/css/war/WEB-INF/deploy/    -> REDIRECTS TO: /assets/css/war/web-inf/deploy/
+301    59B   http://linkvortex.htb/assets/css/WarehouseEJB/    -> REDIRECTS TO: /assets/css/warehouseejb/
+301    88B   http://linkvortex.htb/assets/css/WarehouseEJB/services/WarehouseFront/wsdl/    -> REDIRECTS TO: /assets/css/warehouseejb/services/warehousefront/wsdl/
+301    66B   http://linkvortex.htb/assets/css/war/WEB-INF/classes/    -> REDIRECTS TO: /assets/css/war/web-inf/classes/
+301    66B   http://linkvortex.htb/assets/css/WarehouseWebservlet/    -> REDIRECTS TO: /assets/css/warehousewebservlet/
+301    59B   http://linkvortex.htb/assets/css/WarehouseWeb/    -> REDIRECTS TO: /assets/css/warehouseweb/
+301    55B   http://linkvortex.htb/assets/css/WEB-INF./    -> REDIRECTS TO: /assets/css/web-inf./
+301    54B   http://linkvortex.htb/assets/css/WEB-INF/    -> REDIRECTS TO: /assets/css/web-inf/
+301    61B   http://linkvortex.htb/assets/css/web/phpMyAdmin/    -> REDIRECTS TO: /assets/css/web/phpmyadmin/
+301    56B   http://linkvortex.htb/assets/css/Webalizer/    -> REDIRECTS TO: /assets/css/webalizer/
+301    70B   http://linkvortex.htb/assets/css/WebServicesSamples/docs/    -> REDIRECTS TO: /assets/css/webservicessamples/docs/
+301    60B   http://linkvortex.htb/assets/css/WebSphereBank/    -> REDIRECTS TO: /assets/css/webspherebank/
+301    65B   http://linkvortex.htb/assets/css/WebSphereBank/docs/    -> REDIRECTS TO: /assets/css/webspherebank/docs/
+301    67B   http://linkvortex.htb/assets/css/WebSphereBankservlet/    -> REDIRECTS TO: /assets/css/webspherebankservlet/
+301    67B   http://linkvortex.htb/assets/css/WebSphereBankDeposit/    -> REDIRECTS TO: /assets/css/webspherebankdeposit/
+301    63B   http://linkvortex.htb/assets/css/WebSphereSamples/    -> REDIRECTS TO: /assets/css/webspheresamples/
+301    74B   http://linkvortex.htb/assets/css/WebSphereBankDepositservlet/    -> REDIRECTS TO: /assets/css/webspherebankdepositservlet/
+301    56B   http://linkvortex.htb/assets/css/Wordpress/    -> REDIRECTS TO: /assets/css/wordpress/
+301   212B   http://linkvortex.htb/assets/css/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com    -> REDIRECTS TO: /assets/css/wps/contenthandler/!ut/p/digest!8skkfbwr_twczcvoc9dn3g/?uri=http:/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http:/example.com
+301    53B   http://linkvortex.htb/assets/css/WS_FTP/    -> REDIRECTS TO: /assets/css/ws_ftp/
+301    58B   http://linkvortex.htb/assets/css/xphpMyAdmin/    -> REDIRECTS TO: /assets/css/xphpmyadmin/
+301     0B   http://linkvortex.htb/assets/js/lib/%2e%2e//google.com    -> REDIRECTS TO: /assets/js/google.com/
+301     0B   http://linkvortex.htb/assets/js/lib/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /assets/js/lib/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/lib/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /assets/js/lib/axis2/axis2-web/HappyAxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/lib/axis//happyaxis.jsp    -> REDIRECTS TO: /assets/js/lib/axis/happyaxis.jsp/
+301     0B   http://linkvortex.htb/assets/js/lib/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd    -> REDIRECTS TO: /etc/passwd/
+301     0B   http://linkvortex.htb/assets/js/lib/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /assets/js/lib/Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+301     0B   http://linkvortex.htb/assets/js/lib/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/js/lib/engine/classes/swfupload/swfupload.swf/
+301     0B   http://linkvortex.htb/assets/js/lib/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /assets/js/lib/engine/classes/swfupload/swfupload_f9.swf/
+301     0B   http://linkvortex.htb/assets/js/lib/extjs/resources//charts.swf    -> REDIRECTS TO: /assets/js/lib/extjs/resources/charts.swf/
+301     0B   http://linkvortex.htb/assets/js/lib/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /assets/js/lib/html/js/misc/swfupload/swfupload.swf/
