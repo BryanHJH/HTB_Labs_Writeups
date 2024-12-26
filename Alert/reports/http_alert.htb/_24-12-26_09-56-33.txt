@@ -1,0 +1,28 @@
+# Dirsearch started Thu Dec 26 10:00:48 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://alert.htb -r
+
+403   274B   http://alert.htb/.ht_wsr.txt
+403   274B   http://alert.htb/.htaccess.bak1
+403   274B   http://alert.htb/.htaccess.orig
+403   274B   http://alert.htb/.htaccess.save
+403   274B   http://alert.htb/.htaccess.sample
+403   274B   http://alert.htb/.htaccessBAK
+403   274B   http://alert.htb/.htaccess_extra
+403   274B   http://alert.htb/.htaccess_orig
+403   274B   http://alert.htb/.htaccessOLD
+403   274B   http://alert.htb/.htaccess_sc
+403   274B   http://alert.htb/.htaccessOLD2
+403   274B   http://alert.htb/.html
+403   274B   http://alert.htb/.htm
+403   274B   http://alert.htb/.htpasswd_test
+403   274B   http://alert.htb/.httr-oauth
+403   274B   http://alert.htb/.htpasswds
+403   274B   http://alert.htb/.php
+200    24B   http://alert.htb/contact.php
+301   304B   http://alert.htb/css    -> REDIRECTS TO: http://alert.htb/css/
+301   309B   http://alert.htb/messages    -> REDIRECTS TO: http://alert.htb/messages/
+403   274B   http://alert.htb/server-status
+403   274B   http://alert.htb/server-status/
+403   274B   http://alert.htb/uploads/
+301   308B   http://alert.htb/uploads    -> REDIRECTS TO: http://alert.htb/uploads/
+200     1KB  http://alert.htb/css/style
+404   271B   http://alert.htb/server-status/%2e%2e//google.com
