@@ -1,0 +1,3 @@
+# Dirsearch started Sat Jan 11 19:26:48 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://127.0.0.1:8080/ -w /usr/share/wordlists/dirb/big.txt -r
+
+403    14B   http://127.0.0.1:8080/assets

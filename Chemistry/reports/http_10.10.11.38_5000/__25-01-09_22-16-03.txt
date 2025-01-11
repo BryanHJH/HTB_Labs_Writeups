@@ -1,0 +1,7 @@
+# Dirsearch started Thu Jan  9 22:18:00 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.38:5000/ -r -w /usr/share/wordlists/dirb/big.txt
+
+302   235B   http://10.10.11.38:5000/dashboard    -> REDIRECTS TO: /login?next=%2Fdashboard
+200     1KB  http://10.10.11.38:5000/login
+302   229B   http://10.10.11.38:5000/logout    -> REDIRECTS TO: /login?next=%2Flogout
+200     1KB  http://10.10.11.38:5000/register
+405   153B   http://10.10.11.38:5000/upload
