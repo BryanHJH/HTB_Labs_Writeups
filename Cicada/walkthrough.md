@@ -163,7 +163,44 @@ However, I still do not have any usernames to test the password on. So, I used `
 
 ![NXC Enumerate Users](./Screenshots/nxc%20enumerate%20users.png)
 
-## Exploitation
+Using these found usernames and the default password from the "Notice from HR" document, I can perform password spraying to find out which pair of credentials actually work. So to get this done, I used `nxc` again. But first I need to store all these usernames into a text file. Once that's done, the command used to perform password spraying is `nxc smb 10.10.11.35 -u USER_FILE -p PASS`.
+
+![nxc password spraying](./Screenshots/Found_Usable_Credentials_Pair.png)
+
+The results show that the default password works with the user `michael.wrightson`. So using username and the default password, we can further enumerate to see what shares he can access and what other possible users there might be (since the previous user enumeration is done using **guest**).
+
+So this time, the command used is `nxc smb 10.10.11.35 -u "michael.wrightson" -p 'Cicada....'`. Do note that the Cicada... password needs to be enclosed in single quote (') and not double quotes. It will only work with single quotes.
+
+![nxc enumerate users with michael.wrightson](./Screenshots/Another%20pair%20of%20Usable%20Credentials.png)
+
+The results of this enumeration further revealed another pair of credentials. This time it is for david.orelious. So again, we repeat the same steps, enumerate users and shares again using his credentials.
+
+![nxc enumerate shares](./Screenshots/nxc%20enumerate%20shares%20-%20readable%20dev.png)
+
+So, this time, instead of revealing more info on the users, it revealed that david.orelious have READ access to the **DEV** share! So now, we can now reuse `smbclient` to find out what's hidden in **DEV**, command is `smbclient -U 'david.orelious%PASS' //10.10.11.35/DEV`.
+
+Once inside, we can see a Powershell script, named Backup_script (extension is ps1). So using the same method as above, I downloaded the script and took a look. Inside this file, it revealed another user's password, this time it is emily.oscars.
+
+So, again I try to enumerate using emily.oscars credentials using `nxc` and this time, it tells us that emily have access to the **C** share. Again, using smbclient, I accessed the **C** drive using emily's credentials. And in the **Desktop** directory, I found the user flag.
+
+![Getting into C drive](./Screenshots/Getting%20into%20Emily%20C%20drive.png)
+
+![Getting user flag](./Screenshots/Getting%20user%20flag.png)
 
 ## Privilege Escalation
 
+Ok, so now I am in as emily, but I need to escalate my privileges to get access to the root flag. First I need to find out how. So I upload `winpeas`, the equivalent of `linpeas` but for Windows. I can do this using the `put` command in smbclient I need to first copy `winpeas` into the current directory where smbclient is executed or it will not work because I cannot invoke `curl` or `wget` in `smbclient`.
+
+So once `winpeas` has been uploaded into the location I want, I tried executing within `smbclient` itself but it did not work. I googled how I can do this, tried `psexec` and `smbexec` but both didn't work. Then I went back to the nmap results to see what I could be missing.
+
+So there are a few ldap ports but I don't think those can let me execute any commands so I look into the other ports and 5985 seems to be a well-know port. So I searched it up in Hacktricks and they mentioned it being related to winrm and ways to check it.
+
+Based on Hacktrick's guide, I can use `nxc` to check whether I can exploit winrm. So the command is `nxc winrm -u 'emily.oscars' -p 'PASS' 10.10.11.35` and lo and behold, it is vulnerable. The tool recommended by Hacktricks to exploit this is `evil-winrm` and the usage is already in Hacktricks, so refer there.
+
+Once I have access to the terminal/command prompt/powershell, I went back to the directory where I stored `winpeas` and executed it.
+
+The results from `winpeas` was a lot, but after reading it through carefully, I saw that emily have several privileges granted to her and one of them is `SeBackupPrivilege`. So I did some research into this privilege and it seems that there are ways to escalate privileges using this. So again, I referred to Hacktricks and they had a [guide](https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/privileged-groups-and-token-privileges.html) under 'Local Attack' on it to do it manually.
+
+In conclusion, the guide worked but I need to first find the necessary dlls and download it into the victim machine before successfully executing the attack. I also needed to create the **Temp** folder in the guide but it wasn't actually needed, just required a directory that emily have write access to.
+
+The place where I got the dlls is in this [github repo](https://github.com/giuliano108/SeBackupPrivilege).
