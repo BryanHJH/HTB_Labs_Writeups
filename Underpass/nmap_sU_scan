@@ -1,0 +1,15 @@
+nmap --min-rate 3000 -sU 10.10.11.48
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-01-17 23:13 +08
+Nmap scan report for 10.10.11.48
+Host is up (0.021s latency).
+Not shown: 993 open|filtered udp ports (no-response)
+PORT      STATE  SERVICE
+161/udp   open   snmp
+814/udp   closed unknown
+5010/udp  closed telelpathstart
+43370/udp closed unknown
+47808/udp closed bacnet
+54321/udp closed bo2k
+58797/udp closed unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 1.07 seconds
