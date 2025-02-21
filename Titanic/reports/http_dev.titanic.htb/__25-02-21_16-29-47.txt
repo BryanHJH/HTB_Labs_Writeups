@@ -1,0 +1,70 @@
+# Dirsearch started Fri Feb 21 16:31:18 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dev.titanic.htb/ -r
+
+404     0B   http://dev.titanic.htb/.well-known/acme-challenge
+404     0B   http://dev.titanic.htb/.well-known/apple-developer-merchant-domain-association
+404     0B   http://dev.titanic.htb/.well-known/acme-challenge/dtfy
+404     0B   http://dev.titanic.htb/.well-known/carddav
+404     0B   http://dev.titanic.htb/.well-known/ashrae
+404     0B   http://dev.titanic.htb/.well-known/apple-app-site-association
+404     0B   http://dev.titanic.htb/.well-known/assetlinks.json
+404     0B   http://dev.titanic.htb/.well-known/csvm
+404     0B   http://dev.titanic.htb/.well-known/caldav
+404     0B   http://dev.titanic.htb/.well-known/core
+404     0B   http://dev.titanic.htb/.well-known/browserid
+404     0B   http://dev.titanic.htb/.well-known/dnt-policy.txt
+404     0B   http://dev.titanic.htb/.well-known/dnt
+404     0B   http://dev.titanic.htb/.well-known/genid
+404     0B   http://dev.titanic.htb/.well-known/keybase.txt
+404     0B   http://dev.titanic.htb/.well-known/hoba
+404     0B   http://dev.titanic.htb/.well-known/est
+404     0B   http://dev.titanic.htb/.well-known/host-meta
+404     0B   http://dev.titanic.htb/.well-known/jwks
+404     0B   http://dev.titanic.htb/.well-known/jwks.json
+404     0B   http://dev.titanic.htb/.well-known/ni
+404     0B   http://dev.titanic.htb/.well-known/posh
+404     0B   http://dev.titanic.htb/.well-known/host-meta.json
+404     0B   http://dev.titanic.htb/.well-known/repute-template
+404     0B   http://dev.titanic.htb/.well-known/openorg
+200   206B   http://dev.titanic.htb/.well-known/security.txt
+404     0B   http://dev.titanic.htb/.well-known/stun-key
+404     0B   http://dev.titanic.htb/.well-known/reload-config
+200     1KB  http://dev.titanic.htb/.well-known/openid-configuration
+404    10B   http://dev.titanic.htb/.well-known/webfinger
+404     0B   http://dev.titanic.htb/.well-known/timezone
+404     0B   http://dev.titanic.htb/.well-known/void
+404     0B   http://dev.titanic.htb/.well-known/time
+303    38B   http://dev.titanic.htb/admin    -> REDIRECTS TO: /user/login
+303    38B   http://dev.titanic.htb/admin/    -> REDIRECTS TO: /user/login
+200    20KB  http://dev.titanic.htb/administrator
+200    20KB  http://dev.titanic.htb/administrator/
+200   433B   http://dev.titanic.htb/api/swagger
+404    19B   http://dev.titanic.htb/api/v1
+404    19B   http://dev.titanic.htb/api/v1/
+404    19B   http://dev.titanic.htb/api/v1/swagger.yaml
+404    19B   http://dev.titanic.htb/api/v1/swagger.json
+404     0B   http://dev.titanic.htb/assets/file
+404     0B   http://dev.titanic.htb/assets/fckeditor
+404     0B   http://dev.titanic.htb/assets/js/fckeditor
+404     0B   http://dev.titanic.htb/assets/npm-debug.log
+404     0B   http://dev.titanic.htb/assets/pubspec.yaml
+200    25KB  http://dev.titanic.htb/developer
+303    41B   http://dev.titanic.htb/explore    -> REDIRECTS TO: /explore/repos
+200    23KB  http://dev.titanic.htb/explore/repos
+301    58B   http://dev.titanic.htb/favicon.ico    -> REDIRECTS TO: /assets/img/favicon.png
+303    38B   http://dev.titanic.htb/issues    -> REDIRECTS TO: /user/login
+404    19B   http://dev.titanic.htb/robots.txt
+200   170B   http://dev.titanic.htb/sitemap.xml
+200    11KB  http://dev.titanic.htb/user/login/
+401    50B   http://dev.titanic.htb/v2
+404    19B   http://dev.titanic.htb/v2/api-docs
+404    19B   http://dev.titanic.htb/v2/keys/?recursive=true
+401    50B   http://dev.titanic.htb/v2/_catalog
+401    50B   http://dev.titanic.htb/v2/
+401    13B   http://dev.titanic.htb/administrator/.git/HEAD
+401    13B   http://dev.titanic.htb/administrator/.git/info/refs
+401    13B   http://dev.titanic.htb/administrator/.git/objects/info/packs
+303    38B   http://dev.titanic.htb/administrator/bitrix/settings    -> REDIRECTS TO: /user/login
+303    38B   http://dev.titanic.htb/user/login/settings/    -> REDIRECTS TO: /user/login
+303    38B   http://dev.titanic.htb/user/login/settings    -> REDIRECTS TO: /user/login
+405     0B   http://dev.titanic.htb/user/login/topics
+404    11B   http://dev.titanic.htb/v2/%2e%2e//google.com
