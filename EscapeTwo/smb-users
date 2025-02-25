@@ -1,0 +1,11 @@
+nxc smb 10.10.11.51 -u rose -p KxEPkKe6R8su --rid-brute | grep SidTypeUser
+SMB                      10.10.11.51     445    DC01             500: SEQUEL\Administrator (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             501: SEQUEL\Guest (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             502: SEQUEL\krbtgt (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1000: SEQUEL\DC01$ (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1103: SEQUEL\michael (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1114: SEQUEL\ryan (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1116: SEQUEL\oscar (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1122: SEQUEL\sql_svc (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1601: SEQUEL\rose (SidTypeUser)
+SMB                      10.10.11.51     445    DC01             1607: SEQUEL\ca_svc (SidTypeUser)

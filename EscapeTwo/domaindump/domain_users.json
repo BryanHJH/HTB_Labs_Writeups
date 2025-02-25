@@ -1,0 +1,950 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "2024-06-09 17:14:40.161432+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Certification Authority"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2025-02-25 08:02:42+00:00",
+            "2025-02-25 08:02:42+00:00",
+            "2025-02-25 07:57:37+00:00",
+            "2025-02-25 07:57:37+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Certification Authority"
+        ],
+        "distinguishedName": [
+            "CN=Certification Authority,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "Certification"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2024-06-09 17:14:42.333364+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-06-09 17:14:42.333364+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Cert Publishers,CN=Users,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "Certification Authority"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{92385e3e-0137-4ce2-8c89-ab65146f03fd}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1607"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2025-02-25 08:02:42.356163+00:00"
+        ],
+        "sAMAccountName": [
+            "ca_svc"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "sequel.htb/ca_svc.DC01"
+        ],
+        "sn": [
+            "Authority"
+        ],
+        "uSNChanged": [
+            217284
+        ],
+        "uSNCreated": [
+            102493
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "ca_svc@sequel.htb"
+        ],
+        "whenChanged": [
+            "2025-02-25 08:02:42+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-09 17:13:47+00:00"
+        ]
+    },
+    "dn": "CN=Certification Authority,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-02-25 07:53:06.403801+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Rose Fox"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Rose Fox"
+        ],
+        "distinguishedName": [
+            "CN=Rose Fox,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "Rose Fox"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-02-25 07:53:42.544430+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-02-25 07:51:55.655396+00:00"
+        ],
+        "logonCount": [
+            5
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "Rose Fox"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{6bbf7e5e-b0a2-42e5-9285-95245325d3c3}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1601"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-12-25 14:44:54.840948+00:00"
+        ],
+        "sAMAccountName": [
+            "rose"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Fox"
+        ],
+        "uSNChanged": [
+            217167
+        ],
+        "uSNCreated": [
+            81947
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "rose@sequel.htb"
+        ],
+        "whenChanged": [
+            "2025-02-25 07:51:55+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-09 09:21:35+00:00"
+        ]
+    },
+    "dn": "CN=Rose Fox,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-02-25 07:57:48.356936+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "SQL Service"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "SQL Service"
+        ],
+        "distinguishedName": [
+            "CN=SQL Service,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "SQL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-02-25 07:57:46.091364+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-02-25 07:52:18.639761+00:00"
+        ],
+        "logonCount": [
+            31
+        ],
+        "memberOf": [
+            "CN=SQLRUserGroupSQLEXPRESS,CN=Users,DC=sequel,DC=htb",
+            "CN=SQLServer2005SQLBrowserUser$DC01,CN=Users,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "SQL Service"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{837c5ccc-aa3f-4998-ad60-7164224cab46}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1122"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-09 07:58:42.689520+00:00"
+        ],
+        "sAMAccountName": [
+            "sql_svc"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "sequel.htb/sql_svc.DC01"
+        ],
+        "sn": [
+            "Service"
+        ],
+        "uSNChanged": [
+            217216
+        ],
+        "uSNCreated": [
+            16461
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "sql_svc@sequel.htb"
+        ],
+        "whenChanged": [
+            "2025-02-25 07:52:18+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 18:14:13+00:00"
+        ]
+    },
+    "dn": "CN=SQL Service,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-02-25 07:57:47.747578+00:00"
+        ],
+        "badPwdCount": [
+            3
+        ],
+        "cn": [
+            "Oscar Martinez"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Oscar Martinez"
+        ],
+        "distinguishedName": [
+            "CN=Oscar Martinez,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "Oscar"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-02-25 07:57:41.856937+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-02-25 07:56:40.716318+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Accounting Department,CN=Users,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "Oscar Martinez"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{702d278a-e9ee-40b9-b2f0-a70b5e05e03c}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1116"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-08 16:56:36.756718+00:00"
+        ],
+        "sAMAccountName": [
+            "oscar"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Martinez"
+        ],
+        "uSNChanged": [
+            217238
+        ],
+        "uSNCreated": [
+            12885
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "oscar@sequel.htb"
+        ],
+        "whenChanged": [
+            "2025-02-25 07:56:40+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:56:36+00:00"
+        ]
+    },
+    "dn": "CN=Oscar Martinez,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-02-25 07:57:42.856932+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Ryan Howard"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Ryan Howard"
+        ],
+        "distinguishedName": [
+            "CN=Ryan Howard,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "Ryan"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-02-25 07:57:44.513262+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-02-25 07:56:42.888191+00:00"
+        ],
+        "logonCount": [
+            29
+        ],
+        "memberOf": [
+            "CN=Management Department,CN=Users,DC=sequel,DC=htb",
+            "CN=Remote Management Users,CN=Builtin,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "Ryan Howard"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{ee8fc0b1-97d3-4a3e-9fd2-d187c0b510fa}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1114"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-08 16:55:45.677773+00:00"
+        ],
+        "sAMAccountName": [
+            "ryan"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Howard"
+        ],
+        "uSNChanged": [
+            217242
+        ],
+        "uSNCreated": [
+            12871
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "ryan@sequel.htb"
+        ],
+        "whenChanged": [
+            "2025-02-25 07:56:42+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:55:45+00:00"
+        ]
+    },
+    "dn": "CN=Ryan Howard,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2024-06-09 16:12:10.006012+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "Micael Scott"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Micael Scott"
+        ],
+        "distinguishedName": [
+            "CN=Micael Scott,CN=Users,DC=sequel,DC=htb"
+        ],
+        "givenName": [
+            "Micael"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "Micael Scott"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{fa5650ab-57b0-4243-b6ba-ebf619811a20}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-1103"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-08 16:47:37.912273+00:00"
+        ],
+        "sAMAccountName": [
+            "michael"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Scott"
+        ],
+        "uSNChanged": [
+            12605
+        ],
+        "uSNCreated": [
+            12600
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "michael@sequel.htb"
+        ],
+        "whenChanged": [
+            "2024-06-08 16:47:37+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:47:37+00:00"
+        ]
+    },
+    "dn": "CN=Micael Scott,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2024-06-09 16:12:09.975962+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-06-08 16:55:33+00:00",
+            "2024-06-08 16:40:24+00:00",
+            "1601-01-01 00:04:16+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=sequel,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=sequel,DC=htb"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{cfcb5315-0e15-451d-b6fe-ec12320b4331}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-08 16:40:23.942986+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12866
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2024-06-08 16:55:33+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:40:23+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "2024-06-09 16:12:09.958549+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-06-08 16:40:24+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=sequel,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-06-09 11:10:12.896082+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{34c7aad5-9234-4ef0-a742-4839fffd950c}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "2024-12-25 14:44:53.168976+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            147541
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2025-01-03 11:30:04+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:39:50+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=sequel,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2025-01-04 15:04:26.516468+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-06-08 16:55:33+00:00",
+            "2024-06-08 16:55:33+00:00",
+            "2024-06-08 16:40:24+00:00",
+            "1601-01-01 18:12:16+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=sequel,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-02-25 07:52:12.249134+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-02-25 07:51:48.796017+00:00"
+        ],
+        "logonCount": [
+            109
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=sequel,DC=htb",
+            "CN=Domain Admins,CN=Users,DC=sequel,DC=htb",
+            "CN=Enterprise Admins,CN=Users,DC=sequel,DC=htb",
+            "CN=Schema Admins,CN=Users,DC=sequel,DC=htb",
+            "CN=Administrators,CN=Builtin,DC=sequel,DC=htb"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=sequel,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{67b1dff4-42fa-47ce-91b4-da568224e373}"
+        ],
+        "objectSid": [
+            "S-1-5-21-548670397-972687484-3496335370-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-06-08 16:32:20.075388+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            217155
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2025-02-25 07:51:48+00:00"
+        ],
+        "whenCreated": [
+            "2024-06-08 16:39:50+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=sequel,DC=htb"
+}]
