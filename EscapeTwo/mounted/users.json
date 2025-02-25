@@ -1,0 +1,376 @@
+{
+    "users":
+    [
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1607",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "CA_SVC@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1607",
+                "distinguishedname": "CN=Certification Authority,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1717953282,
+                "lastlogontimestamp": 1717953282,
+                "pwdlastset": 1740470562,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [
+                    "sequel.htb/ca_svc.DC01"
+                ],
+                "hasspn": true,
+                "displayname": "Certification Authority",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1601",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "ROSE@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1601",
+                "distinguishedname": "CN=Rose Fox,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1740470022,
+                "lastlogontimestamp": 1740469915,
+                "pwdlastset": 1735137894,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Rose Fox",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1122",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "SQL_SVC@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1122",
+                "distinguishedname": "CN=SQL Service,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1740470266,
+                "lastlogontimestamp": 1740469938,
+                "pwdlastset": 1717919922,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [
+                    "sequel.htb/sql_svc.DC01"
+                ],
+                "hasspn": true,
+                "displayname": "SQL Service",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1116",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "OSCAR@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1116",
+                "distinguishedname": "CN=Oscar Martinez,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1740470261,
+                "lastlogontimestamp": 1740470200,
+                "pwdlastset": 1717865796,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Oscar Martinez",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1114",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "RYAN@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1114",
+                "distinguishedname": "CN=Ryan Howard,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1740470264,
+                "lastlogontimestamp": 1740470202,
+                "pwdlastset": 1717865745,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Ryan Howard",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1103",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "MICHAEL@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1103",
+                "distinguishedname": "CN=Micael Scott,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": -1,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 1717865257,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Micael Scott",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": null,
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-502",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "KRBTGT@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-502",
+                "distinguishedname": "CN=krbtgt,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": false,
+                "lastlogon": -1,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 1717864823,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [
+                    "kadmin/changepw"
+                ],
+                "hasspn": true,
+                "displayname": "krbtgt",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": "Key Distribution Center Service Account",
+                "userpassword": null,
+                "admincount": true,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-501",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-514",
+            "Properties": {
+                "name": "GUEST@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-501",
+                "distinguishedname": "CN=Guest,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": true,
+                "enabled": false,
+                "lastlogon": -1,
+                "lastlogontimestamp": 1717931412,
+                "pwdlastset": 1735137893,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Guest",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": "Built-in account for guest access to the computer/domain",
+                "userpassword": null,
+                "admincount": false,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        },
+        {
+            "AllowedToDelegate":
+            [],
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-500",
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-513",
+            "Properties": {
+                "name": "ADMINISTRATOR@SEQUEL.HTB",
+                "domain": "SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-500",
+                "distinguishedname": "CN=Administrator,CN=Users,DC=sequel,DC=htb",
+                "highvalue": false,
+                "unconstraineddelegation": false,
+                "passwordnotreqd": false,
+                "enabled": true,
+                "lastlogon": 1740469932,
+                "lastlogontimestamp": 1740469908,
+                "pwdlastset": 1717864340,
+                "dontreqpreauth": false,
+                "pwdneverexpires": true,
+                "sensitive": false,
+                "serviceprincipalnames":
+                [],
+                "hasspn": false,
+                "displayname": "Administrator",
+                "email": null,
+                "title": null,
+                "homedirectory": null,
+                "description": "Built-in account for administering the computer/domain",
+                "userpassword": null,
+                "admincount": true,
+                "sidhistory":
+                []
+            },
+            "Aces":
+            [],
+            "SPNTargets":
+            [],
+            "HasSIDHistory":
+            []
+        }
+    ],
+    "meta": {
+        "type": "users",
+        "count": 9,
+        "version": 3
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "computers":
+    [
+        {
+            "ObjectIdentifier": "S-1-5-21-548670397-972687484-3496335370-1000",
+            "AllowedToAct":
+            [],
+            "PrimaryGroupSid": "S-1-5-21-548670397-972687484-3496335370-516",
+            "LocalAdmins":
+            [
+                {
+                    "MemberId": "S-1-5-21-548670397-972687484-3496335370-519",
+                    "MemberType": "Group"
+                },
+                {
+                    "MemberId": "S-1-5-21-548670397-972687484-3496335370-512",
+                    "MemberType": "Group"
+                },
+                {
+                    "MemberId": "S-1-5-21-548670397-972687484-3496335370-500",
+                    "MemberType": "User"
+                }
+            ],
+            "PSRemoteUsers":
+            [],
+            "Properties": {
+                "name": "DC01.SEQUEL.HTB",
+                "objectid": "S-1-5-21-548670397-972687484-3496335370-1000",
+                "domain": "SEQUEL.HTB",
+                "highvalue": true,
+                "distinguishedname": "CN=DC01,OU=Domain Controllers,DC=sequel,DC=htb",
+                "unconstraineddelegation": true,
+                "enabled": true,
+                "haslaps": false,
+                "lastlogontimestamp": 1740469908,
+                "pwdlastset": 1735042887,
+                "serviceprincipalnames":
+                [
+                    "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/DC01.sequel.htb",
+                    "ldap/DC01.sequel.htb/ForestDnsZones.sequel.htb",
+                    "ldap/DC01.sequel.htb/DomainDnsZones.sequel.htb",
+                    "DNS/DC01.sequel.htb",
+                    "GC/DC01.sequel.htb/sequel.htb",
+                    "RestrictedKrbHost/DC01.sequel.htb",
+                    "RestrictedKrbHost/DC01",
+                    "RPC/0ddc47e2-c21f-47c7-b49d-52156f64a4d7._msdcs.sequel.htb",
+                    "HOST/DC01/SEQUEL",
+                    "HOST/DC01.sequel.htb/SEQUEL",
+                    "HOST/DC01",
+                    "HOST/DC01.sequel.htb",
+                    "HOST/DC01.sequel.htb/sequel.htb",
+                    "E3514235-4B06-11D1-AB04-00C04FC2DCD2/0ddc47e2-c21f-47c7-b49d-52156f64a4d7/sequel.htb",
+                    "ldap/DC01/SEQUEL",
+                    "ldap/0ddc47e2-c21f-47c7-b49d-52156f64a4d7._msdcs.sequel.htb",
+                    "ldap/DC01.sequel.htb/SEQUEL",
+                    "ldap/DC01",
+                    "ldap/DC01.sequel.htb",
+                    "ldap/DC01.sequel.htb/sequel.htb"
+                ],
+                "description": null,
+                "operatingsystem":
+                [
+                    "Windows Server 2019 Standard"
+                ]
+            },
+            "RemoteDesktopUsers":
+            [],
+            "DcomUsers":
+            [],
+            "AllowedToDelegate":
+            [],
+            "Sessions":
+            [],
+            "Aces":
+            []
+        }
+    ],
+    "meta": {
+        "type": "computers",
+        "count": 1,
+        "version": 3
+    }
+}
