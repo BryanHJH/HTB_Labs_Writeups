@@ -1,0 +1,15 @@
+VERSION=1
+/
+/instant.apk
+  00000000:DebugProbesKt.bin:7f011b1316417348324483
+/instant.apk/lib
+/instant.apk/lib/arm64-v8a
+  00000003:libpl_droidsonroids_gif.so:7f01194816418928633923
+/instant.apk/lib/armeabi-v7a
+  00000004:libpl_droidsonroids_gif.so:7f0119eb56419225432933
+/instant.apk/lib/x86
+  00000002:libpl_droidsonroids_gif.so:7f0118d556418459688626
+/instant.apk/lib/x86_64
+  00000001:libpl_droidsonroids_gif.so:7f01199036418092038162
+NEXT-ID:5
+MD5:d41d8cd98f00b204e9800998ecf8427e

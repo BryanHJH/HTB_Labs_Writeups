@@ -1,0 +1,18 @@
+# Dirsearch started Thu Feb 27 17:19:52 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://instant.htb/downloads/
+
+403   276B   http://instant.htb/downloads/.ht_wsr.txt
+403   276B   http://instant.htb/downloads/.htaccess.bak1
+403   276B   http://instant.htb/downloads/.htaccess.sample
+403   276B   http://instant.htb/downloads/.htaccess.orig
+403   276B   http://instant.htb/downloads/.htaccess.save
+403   276B   http://instant.htb/downloads/.htaccess_orig
+403   276B   http://instant.htb/downloads/.htaccess_extra
+403   276B   http://instant.htb/downloads/.htaccessBAK
+403   276B   http://instant.htb/downloads/.htaccessOLD
+403   276B   http://instant.htb/downloads/.htaccess_sc
+403   276B   http://instant.htb/downloads/.htaccessOLD2
+403   276B   http://instant.htb/downloads/.htm
+403   276B   http://instant.htb/downloads/.html
+403   276B   http://instant.htb/downloads/.htpasswd_test
+403   276B   http://instant.htb/downloads/.httr-oauth
+403   276B   http://instant.htb/downloads/.htpasswds
