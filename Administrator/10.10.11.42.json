@@ -1,0 +1,47 @@
+{
+    "NETLOGON": {},
+    "SYSVOL": {
+        "administrator.htb/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/GPT.INI": {
+            "atime_epoch": "2024-10-31 05:22:19",
+            "ctime_epoch": "2024-10-05 03:48:32",
+            "mtime_epoch": "2024-10-31 05:22:19",
+            "size": "23 B"
+        },
+        "administrator.htb/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/MACHINE/Microsoft/Windows NT/SecEdit/GptTmpl.inf": {
+            "atime_epoch": "2024-10-31 05:22:19",
+            "ctime_epoch": "2024-10-05 03:48:32",
+            "mtime_epoch": "2024-10-31 05:22:19",
+            "size": "1.07 KB"
+        },
+        "administrator.htb/Policies/{31B2F340-016D-11D2-945F-00C04FB984F9}/MACHINE/Registry.pol": {
+            "atime_epoch": "2024-10-05 03:55:13",
+            "ctime_epoch": "2024-10-05 03:55:13",
+            "mtime_epoch": "2024-10-05 03:55:13",
+            "size": "2.74 KB"
+        },
+        "administrator.htb/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/GPT.INI": {
+            "atime_epoch": "2024-10-31 07:56:19",
+            "ctime_epoch": "2024-10-05 03:48:32",
+            "mtime_epoch": "2024-10-31 07:56:19",
+            "size": "22 B"
+        },
+        "administrator.htb/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/MACHINE/Microsoft/Windows NT/SecEdit/GptTmpl.inf": {
+            "atime_epoch": "2024-10-31 05:22:53",
+            "ctime_epoch": "2024-10-05 03:48:32",
+            "mtime_epoch": "2024-10-31 05:22:53",
+            "size": "4.16 KB"
+        },
+        "administrator.htb/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/MACHINE/Registry.pol": {
+            "atime_epoch": "2024-10-31 07:56:19",
+            "ctime_epoch": "2024-10-31 07:56:19",
+            "mtime_epoch": "2024-10-31 07:56:19",
+            "size": "184 B"
+        },
+        "administrator.htb/Policies/{6AC1786C-016F-11D2-945F-00C04fB984F9}/MACHINE/comment.cmtx": {
+            "atime_epoch": "2024-10-31 07:56:19",
+            "ctime_epoch": "2024-10-31 07:56:19",
+            "mtime_epoch": "2024-10-31 07:56:19",
+            "size": "553 B"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+# Dirsearch started Thu Feb 27 17:26:34 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://instant.htb/ -r -w /usr/share/wordlists/dirb/big.txt
+
+301   308B   http://instant.htb/css    -> REDIRECTS TO: http://instant.htb/css/
+301   314B   http://instant.htb/downloads    -> REDIRECTS TO: http://instant.htb/downloads/
+301   308B   http://instant.htb/img    -> REDIRECTS TO: http://instant.htb/img/
+301   315B   http://instant.htb/javascript    -> REDIRECTS TO: http://instant.htb/javascript/
+301   307B   http://instant.htb/js    -> REDIRECTS TO: http://instant.htb/js/
+403   276B   http://instant.htb/server-status
+301   322B   http://instant.htb/javascript/jquery    -> REDIRECTS TO: http://instant.htb/javascript/jquery/
+200   283KB  http://instant.htb/javascript/jquery/jquery
