@@ -1,0 +1,205 @@
+# Dirsearch started Tue Jan 21 22:06:54 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius -r
+
+200   221B   http://10.10.11.48/daloradius/.gitignore
+301   319B   http://10.10.11.48/daloradius/app    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/
+200    24KB  http://10.10.11.48/daloradius/ChangeLog
+200     2KB  http://10.10.11.48/daloradius/docker-compose.yml
+200     2KB  http://10.10.11.48/daloradius/Dockerfile
+301   319B   http://10.10.11.48/daloradius/doc    -> REDIRECTS TO: http://10.10.11.48/daloradius/doc/
+301   323B   http://10.10.11.48/daloradius/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/library/
+200    18KB  http://10.10.11.48/daloradius/LICENSE
+200    10KB  http://10.10.11.48/daloradius/README.md
+301   321B   http://10.10.11.48/daloradius/setup    -> REDIRECTS TO: http://10.10.11.48/daloradius/setup/
+301   326B   http://10.10.11.48/daloradius/app/common    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/
+301   325B   http://10.10.11.48/daloradius/app/users    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/
+302     0B   http://10.10.11.48/daloradius/app/users/    -> REDIRECTS TO: home-main.php
+200     2KB  http://10.10.11.48/daloradius/app/users/login.php
+301   327B   http://10.10.11.48/daloradius/doc/install    -> REDIRECTS TO: http://10.10.11.48/daloradius/doc/install/
+301   335B   http://10.10.11.48/daloradius/app/common/includes    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/includes/
+301   334B   http://10.10.11.48/daloradius/app/common/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/
+301   333B   http://10.10.11.48/daloradius/app/common/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/
+301   336B   http://10.10.11.48/daloradius/app/common/templates    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/templates/
+403   276B   http://10.10.11.48/daloradius/app/users/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/users/.html
+403   276B   http://10.10.11.48/daloradius/app/users/.htm
+403   276B   http://10.10.11.48/daloradius/app/users/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/users/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/users/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/users/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/users/.php
+403   276B   http://10.10.11.48/daloradius/app/users/include/
+301   333B   http://10.10.11.48/daloradius/app/users/include    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/
+301   330B   http://10.10.11.48/daloradius/app/users/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/lang/
+301   333B   http://10.10.11.48/daloradius/app/users/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/library/
+302     0B   http://10.10.11.48/daloradius/app/users/logout.php    -> REDIRECTS TO: login.php
+301   332B   http://10.10.11.48/daloradius/app/users/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/
+200     8KB  http://10.10.11.48/daloradius/doc/install/INSTALL
+404     0B   http://10.10.11.48/daloradius/app/common/includes/mail.php
+301   344B   http://10.10.11.48/daloradius/app/common/library/phpmailer    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/phpmailer/
+301   336B   http://10.10.11.48/daloradius/app/common/static/js    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/js/
+403   276B   http://10.10.11.48/daloradius/app/common/static/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htm
+403   276B   http://10.10.11.48/daloradius/app/common/static/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/common/static/.html
+403   276B   http://10.10.11.48/daloradius/app/common/static/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/common/static/.php
+301   337B   http://10.10.11.48/daloradius/app/common/static/css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/
+302     0B   http://10.10.11.48/daloradius/app/common/static/images/    -> REDIRECTS TO: ../../index.php
+301   340B   http://10.10.11.48/daloradius/app/common/static/images    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/images/
+302     0B   http://10.10.11.48/daloradius/app/common/static/js/    -> REDIRECTS TO: ../../index.php
+301   340B   http://10.10.11.48/daloradius/app/users/include/common    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/common/
+301   340B   http://10.10.11.48/daloradius/app/users/include/config    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/config/
+301   344B   http://10.10.11.48/daloradius/app/users/include/management    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/management/
+301   338B   http://10.10.11.48/daloradius/app/users/include/menu    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/menu/
+200     0B   http://10.10.11.48/daloradius/app/users/lang/main.php
+302     0B   http://10.10.11.48/daloradius/app/users/library/checklogin.php    -> REDIRECTS TO: ../index.php
+301   344B   http://10.10.11.48/daloradius/app/users/library/javascript    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/library/javascript/
+301   335B   http://10.10.11.48/daloradius/app/users/static/js    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/js/
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/users/static/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htm
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/users/static/.html
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/users/static/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/users/static/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/users/static/.php
+301   336B   http://10.10.11.48/daloradius/app/users/static/css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/css/
+302     0B   http://10.10.11.48/daloradius/app/users/static/images/    -> REDIRECTS TO: ../../index.php
+301   339B   http://10.10.11.48/daloradius/app/users/static/images    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/images/
+302     0B   http://10.10.11.48/daloradius/app/users/static/js/    -> REDIRECTS TO: ../../index.php
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.html
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.htm
+403   276B   http://10.10.11.48/daloradius/app/common/static/js/.php
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htm
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.html
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/common/static/css/.php
+301   343B   http://10.10.11.48/daloradius/app/common/static/css/icons    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/icons/
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htm
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.html
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/common/static/images/.php
+302     0B   http://10.10.11.48/daloradius/app/users/include/management/userinfo.php    -> REDIRECTS TO: ../../index.php
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.html
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htm
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/users/static/js/.php
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htm
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.html
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/users/static/css/.php
+301   342B   http://10.10.11.48/daloradius/app/users/static/css/icons    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/css/icons/
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.ht_wsr.txt
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess.bak1
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess.orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess.sample
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess_orig
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess.save
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccessOLD2
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess_sc
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccess_extra
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccessBAK
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htaccessOLD
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htm
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.html
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.httr-oauth
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.htpasswd_test
+403   276B   http://10.10.11.48/daloradius/app/users/static/images/.php
+301   349B   http://10.10.11.48/daloradius/app/common/static/css/icons/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/icons/fonts/
+301   348B   http://10.10.11.48/daloradius/app/users/static/css/icons/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/css/icons/fonts/

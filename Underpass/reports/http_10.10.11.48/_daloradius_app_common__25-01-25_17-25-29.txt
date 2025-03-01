@@ -1,0 +1,40 @@
+# Dirsearch started Sat Jan 25 19:52:36 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app/common/ -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-directories.txt
+
+301   333B   http://10.10.11.48/daloradius/app/common/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/
+301   334B   http://10.10.11.48/daloradius/app/common/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/
+301   336B   http://10.10.11.48/daloradius/app/common/templates    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/templates/
+301   335B   http://10.10.11.48/daloradius/app/common/includes    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/includes/
+301   340B   http://10.10.11.48/daloradius/app/common/static/images    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/images/
+301   337B   http://10.10.11.48/daloradius/app/common/static/css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/
+301   336B   http://10.10.11.48/daloradius/app/common/static/js    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/js/
+301   344B   http://10.10.11.48/daloradius/app/common/library/phpmailer    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/phpmailer/
+301   342B   http://10.10.11.48/daloradius/app/common/library/jpgraph    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/
+301   341B   http://10.10.11.48/daloradius/app/common/library/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/
+301   347B   http://10.10.11.48/daloradius/app/common/library/htmlpurifier    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/htmlpurifier/
+301   348B   http://10.10.11.48/daloradius/app/common/static/images/favicon    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/images/favicon/
+301   343B   http://10.10.11.48/daloradius/app/common/static/css/icons    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/icons/
+301   349B   http://10.10.11.48/daloradius/app/common/library/jpgraph/themes    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/themes/
+301   347B   http://10.10.11.48/daloradius/app/common/library/jpgraph/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/lang/
+301   348B   http://10.10.11.48/daloradius/app/common/library/jpgraph/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/fonts/
+200     2KB  http://10.10.11.48/daloradius/app/common/library/jpgraph/README
+301   350B   http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/
+301   348B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/
+200     6B   http://10.10.11.48/daloradius/app/common/library/dompdf/VERSION
+301   349B   http://10.10.11.48/daloradius/app/common/static/css/icons/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/icons/fonts/
+301   357B   http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/themes    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/themes/
+301   355B   http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/lang/
+301   356B   http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/fonts/
+200     2KB  http://10.10.11.48/daloradius/app/common/library/jpgraph/jpgraph/README
+301   355B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/
+301   357B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer/
+301   362B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/
+200     1KB  http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer/LICENSE
+301   366B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/
+301   366B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/
+200     6B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/VERSION
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/fonts/
+301   370B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/res    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/res/
+301   370B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Image    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Image/
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Frame    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Frame/
+301   378B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/Content    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/Content/

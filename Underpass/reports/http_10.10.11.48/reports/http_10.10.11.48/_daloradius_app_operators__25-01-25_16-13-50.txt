@@ -1,0 +1,15 @@
+# Dirsearch started Sat Jan 25 16:16:32 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app/operators/ -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-files.txt
+
+302     0B   http://10.10.11.48/daloradius/app/operators/logout.php    -> REDIRECTS TO: login.php
+403   276B   http://10.10.11.48/daloradius/app/operators/.html
+200     1KB  http://10.10.11.48/daloradius/app/operators/login.php
+403   276B   http://10.10.11.48/daloradius/app/operators/.php
+403   276B   http://10.10.11.48/daloradius/app/operators/.htm
+403   276B   http://10.10.11.48/daloradius/app/operators/.htpasswds
+403   276B   http://10.10.11.48/daloradius/app/operators/wp-forum.phps
+302     0B   http://10.10.11.48/daloradius/app/operators/dologin.php    -> REDIRECTS TO: login.php
+403   276B   http://10.10.11.48/daloradius/app/operators/.htuser
+403   276B   http://10.10.11.48/daloradius/app/operators/.ht
+403   276B   http://10.10.11.48/daloradius/app/operators/.htc
+403   276B   http://10.10.11.48/daloradius/app/operators/.htacess
+200    23B   http://10.10.11.48/daloradius/app/operators/heartbeat.php

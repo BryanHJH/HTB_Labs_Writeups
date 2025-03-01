@@ -1,0 +1,13 @@
+GET /daloradius/app/operators/acct-ipaddress.php?ipaddress=8.8.8.8 HTTP/1.1
+Host: 10.10.11.48
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://10.10.11.48/daloradius/app/operators/acct-main.php
+Cookie: daloradius_user_sid=lo0f5t4mqs3ikm8f9le8khif1b; daloradius_operator_sid=4g908d7vkktdicjb4q9uru7htd
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: yellow
+Priority: u=0, i
+

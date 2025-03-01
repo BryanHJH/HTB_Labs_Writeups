@@ -1,0 +1,25 @@
+# Dirsearch started Thu Jan 23 23:06:39 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-directories.txt
+
+301   326B   http://10.10.11.48/daloradius/app/common    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/
+301   325B   http://10.10.11.48/daloradius/app/users    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/
+301   329B   http://10.10.11.48/daloradius/app/operators    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/
+301   336B   http://10.10.11.48/daloradius/app/common/templates    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/templates/
+301   335B   http://10.10.11.48/daloradius/app/common/includes    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/includes/
+301   333B   http://10.10.11.48/daloradius/app/common/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/
+301   334B   http://10.10.11.48/daloradius/app/common/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/
+301   333B   http://10.10.11.48/daloradius/app/users/include    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/include/
+301   332B   http://10.10.11.48/daloradius/app/users/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/static/
+301   330B   http://10.10.11.48/daloradius/app/users/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/lang/
+301   333B   http://10.10.11.48/daloradius/app/users/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/library/
+301   339B   http://10.10.11.48/daloradius/app/users/notifications    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/users/notifications/
+301   337B   http://10.10.11.48/daloradius/app/operators/include    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/
+301   336B   http://10.10.11.48/daloradius/app/operators/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/static/
+301   334B   http://10.10.11.48/daloradius/app/operators/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/lang/
+301   337B   http://10.10.11.48/daloradius/app/operators/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/library/
+301   343B   http://10.10.11.48/daloradius/app/operators/notifications    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/notifications/
+301   340B   http://10.10.11.48/daloradius/app/common/static/images    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/images/
+301   336B   http://10.10.11.48/daloradius/app/common/static/js    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/js/
+301   337B   http://10.10.11.48/daloradius/app/common/static/css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/static/css/
+301   344B   http://10.10.11.48/daloradius/app/common/library/phpmailer    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/phpmailer/
+301   342B   http://10.10.11.48/daloradius/app/common/library/jpgraph    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/jpgraph/
+301   341B   http://10.10.11.48/daloradius/app/common/library/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/
