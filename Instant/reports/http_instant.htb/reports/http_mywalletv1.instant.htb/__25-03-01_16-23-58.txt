@@ -1,0 +1,3 @@
+# Dirsearch started Sat Mar  1 16:27:49 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://mywalletv1.instant.htb/ -r -w /usr/share/wordlists/dirb/big.txt
+
+403   287B   http://mywalletv1.instant.htb/server-status

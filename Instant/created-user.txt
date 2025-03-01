@@ -1,0 +1,10 @@
+{
+  "email": "admin1@instant.htb",
+  "password": "easyeasy",
+  "pin": "123456",
+  "role": "Admin",
+  "username": "admin1"
+}
+
+
+access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mywicm9sZSI6IkFkbWluIiwid2FsSWQiOiJiYTZlNTk5Ny01YWVlLTQ2YTQtYjA3Mi04MDYxM2U2MDY2NDUiLCJleHAiOjE3NDA4NDI3NTF9.KM_pi6PYCLP-HZTU3CYva0zm7P3ZAZ9UJdtFPIkET-k
