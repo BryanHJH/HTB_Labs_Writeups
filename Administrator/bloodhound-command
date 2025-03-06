@@ -1,0 +1,1 @@
+bloodhound-python -d administrator.htb -u olivia -p ichliebedich -c All -op AdministratorBox --zip -ns 10.10.11.42
