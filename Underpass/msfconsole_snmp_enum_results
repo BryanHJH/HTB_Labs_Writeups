@@ -1,0 +1,17 @@
+msf6 auxiliary(scanner/snmp/snmp_enum) > run
+[+] 10.10.11.48, Connected.
+
+[*] System information:
+
+Host IP                       : 10.10.11.48
+Hostname                      : UnDerPass.htb is the only daloradius server in the basin!
+Description                   : Linux underpass 5.15.0-126-generic #136-Ubuntu SMP Wed Nov 6 10:38:22 UTC 2024 x86_64
+Contact                       : steve@underpass.htb
+Location                      : Nevada, U.S.A. but not Vegas
+Uptime snmp                   : 16:30:47.07
+Uptime system                 : 16:30:36.99
+System date                   : 2025-1-21 12:15:42.0
+
+
+[*] Scanned 1 of 1 hosts (100% complete)
+[*] Auxiliary module execution completed

@@ -1,0 +1,16 @@
+# Dirsearch started Fri Jan 24 23:56:35 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app/operators/include -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-directories.txt
+
+301   344B   http://10.10.11.48/daloradius/app/operators/include/config    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/config/
+301   344B   http://10.10.11.48/daloradius/app/operators/include/common    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/common/
+301   342B   http://10.10.11.48/daloradius/app/operators/include/menu    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/
+301   348B   http://10.10.11.48/daloradius/app/operators/include/management    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/management/
+301   350B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/
+301   355B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/help    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/help/
+301   357B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/config    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/config/
+301   355B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/home    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/home/
+301   355B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/bill    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/bill/
+301   357B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/graphs    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/graphs/
+301   354B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/gis    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/gis/
+301   354B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/rep    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/rep/
+301   355B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/acct    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/acct/
+301   354B   http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/mng    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/menu/sidebar/mng/

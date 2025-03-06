@@ -1,0 +1,5 @@
+# Dirsearch started Sat Mar  1 16:18:16 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://mywalletv1.instant.htb/ -r
+
+403   287B   http://mywalletv1.instant.htb/server-status
+403   287B   http://mywalletv1.instant.htb/server-status/
+404   207B   http://mywalletv1.instant.htb/server-status/%2e%2e//google.com

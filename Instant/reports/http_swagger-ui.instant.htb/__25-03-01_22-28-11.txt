@@ -1,0 +1,7 @@
+# Dirsearch started Sat Mar  1 22:29:54 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://swagger-ui.instant.htb/ -r
+
+308   263B   http://swagger-ui.instant.htb/apidocs    -> REDIRECTS TO: http://swagger-ui.instant.htb/apidocs/
+403   287B   http://swagger-ui.instant.htb/server-status
+403   287B   http://swagger-ui.instant.htb/server-status/
+302   205B   http://swagger-ui.instant.htb/apidocs/index.html    -> REDIRECTS TO: /apidocs/
+404   207B   http://swagger-ui.instant.htb/server-status/%2e%2e//google.com

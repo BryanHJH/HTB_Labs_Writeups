@@ -1,0 +1,17 @@
+# Dirsearch started Sat Jan 25 18:02:50 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app/common/library/dompdf/ -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-directories.txt
+
+301   348B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/
+200     6B   http://10.10.11.48/daloradius/app/common/library/dompdf/VERSION
+301   355B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/
+301   357B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer/
+301   362B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/
+200     1KB  http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/composer/LICENSE
+301   366B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/
+301   366B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/
+200     6B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/VERSION
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/fonts    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/fonts/
+301   370B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/res    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/lib/res/
+301   370B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Image    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Image/
+301   372B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Frame    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Frame/
+301   378B   http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/Content    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/common/library/dompdf/vendor/dompdf/dompdf/src/Css/Content/

@@ -1,0 +1,7 @@
+# Dirsearch started Fri Jan 24 23:30:44 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.48/daloradius/app/operators -r -w /usr/share/wordlists/seclists/SecLists-master/Discovery/Web-Content/raft-large-directories.txt
+
+301   337B   http://10.10.11.48/daloradius/app/operators/include    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/include/
+301   336B   http://10.10.11.48/daloradius/app/operators/static    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/static/
+301   334B   http://10.10.11.48/daloradius/app/operators/lang    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/lang/
+301   337B   http://10.10.11.48/daloradius/app/operators/library    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/library/
+301   343B   http://10.10.11.48/daloradius/app/operators/notifications    -> REDIRECTS TO: http://10.10.11.48/daloradius/app/operators/notifications/

@@ -1,0 +1,45 @@
+nmap --min-rate 3000 -A -p- 10.10.11.51
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-21 14:47 +08
+Nmap scan report for 10.10.11.51
+Host is up (1.4s latency).
+Not shown: 65525 filtered tcp ports (no-response)
+PORT      STATE SERVICE       VERSION
+53/tcp    open  domain        Simple DNS Plus
+88/tcp    open  spark         Apache Spark
+135/tcp   open  msrpc?
+139/tcp   open  netbios-ssn?
+445/tcp   open  microsoft-ds?
+636/tcp   open  ssl/ldapssl?
+| ssl-cert: Subject: commonName=DC01.sequel.htb
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1:<unsupported>, DNS:DC01.sequel.htb
+| Not valid before: 2024-06-08T17:35:00
+|_Not valid after:  2025-06-08T17:35:00
+5985/tcp  open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+49664/tcp open  unknown
+49691/tcp open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+49692/tcp open  unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port139-TCP:V=7.95%I=7%D=2/21%Time=67B82235%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,5,"\x83\0\0\x01\x8f")%r(GenericLines,5,"\x83\0\0\x01\x8f");
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019|10 (96%)
+OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+Aggressive OS guesses: Windows Server 2019 (96%), Microsoft Windows 10 1903 - 21H1 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 21 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time:
+|   date: 2025-02-21T06:34:40
+|_  start_date: N/A
+|_clock-skew: -17m13s
+
+TRACEROUTE (using port 445/tcp)
+HOP RTT       ADDRESS
+1   ... 20
+21  142.86 ms 10.10.11.51
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 400.87 seconds
