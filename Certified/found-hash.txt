@@ -1,0 +1,3 @@
+'management_svc@certified.htb': aad3b435b51404eeaad3b435b51404ee:a091c1832bcdd4677c28b5a6a1295584
+'ca_operator@certified.htb': aad3b435b51404eeaad3b435b51404ee:b4b86f45c6018f1b664f70805f45d8f2
+'administrator@certified.htb': aad3b435b51404eeaad3b435b51404ee:0d5b49608bbce1751f708748f67e2d34

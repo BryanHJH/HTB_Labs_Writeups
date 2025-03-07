@@ -1,0 +1,156 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-03-07 08:01:35.248180+00:00"
+        ],
+        "badPwdCount": [
+            1
+        ],
+        "cn": [
+            "DC01"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "DC01.certified.htb"
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:02:51+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "distinguishedName": [
+            "CN=DC01,OU=Domain Controllers,DC=certified,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-03-07 02:48:28.849556+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-03-07 02:43:39.505774+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            257
+        ],
+        "memberOf": [
+            "CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=certified,DC=htb",
+            "CN=Cert Publishers,CN=Users,DC=certified,DC=htb"
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=DC01,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=certified,DC=htb"
+        ],
+        "msDS-GenerationId": [
+            {
+                "encoded": "8AxRuQl0NP4=",
+                "encoding": "base64"
+            }
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "DC01"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{669ec253-8c42-4f45-a131-6337805418ae}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2019 Standard"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (17763)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2024-10-15 22:21:16.846113+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=DC01,OU=Domain Controllers,DC=certified,DC=htb"
+        ],
+        "sAMAccountName": [
+            "DC01$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=DC01,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "servicePrincipalName": [
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/DC01.certified.htb",
+            "ldap/DC01.certified.htb/ForestDnsZones.certified.htb",
+            "ldap/DC01.certified.htb/DomainDnsZones.certified.htb",
+            "DNS/DC01.certified.htb",
+            "GC/DC01.certified.htb/certified.htb",
+            "RestrictedKrbHost/DC01.certified.htb",
+            "RestrictedKrbHost/DC01",
+            "RPC/7c3817e9-292c-4832-91ca-f0d7137fa942._msdcs.certified.htb",
+            "HOST/DC01/CERTIFIED",
+            "HOST/DC01.certified.htb/CERTIFIED",
+            "HOST/DC01",
+            "HOST/DC01.certified.htb",
+            "HOST/DC01.certified.htb/certified.htb",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/7c3817e9-292c-4832-91ca-f0d7137fa942/certified.htb",
+            "ldap/DC01/CERTIFIED",
+            "ldap/7c3817e9-292c-4832-91ca-f0d7137fa942._msdcs.certified.htb",
+            "ldap/DC01.certified.htb/CERTIFIED",
+            "ldap/DC01",
+            "ldap/DC01.certified.htb",
+            "ldap/DC01.certified.htb/certified.htb"
+        ],
+        "uSNChanged": [
+            90147
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "userCertificate": [
+            {
+                "encoded": "MIIGPzCCBSegAwIBAgITeQAAAAIvfMdjJV9GkQAAAAAAAjANBgkqhkiG9w0BAQsFADBMMRMwEQYKCZImiZPyLGQBGRYDaHRiMRkwFwYKCZImiZPyLGQBGRYJY2VydGlmaWVkMRowGAYDVQQDExFjZXJ0aWZpZWQtREMwMS1DQTAeFw0yNDA1MTMxNTQ5MzZaFw0yNTA1MTMxNTQ5MzZaMB0xGzAZBgNVBAMTEkRDMDEuY2VydGlmaWVkLmh0YjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMx/FhgH36heOUjpNhO4JWYXE0zDwpKfx3dfqvEqTvIfRLpptNUCfkaeZijP+YAlUMNSNUvgFLZ7yuZf3ubIcEv8wXMlABwpVxe3NtOzLXQhNypU/W53DgYZoD9ueC3ob6f4jI6dN6jKt4gV/pBmoX3iKy0XmrIaMkO8W20gzJtf8RaZYChHzhilGs3TwkKmBkZFt4+KeTkCbBE4T8zka8l652hfOhdz5YOU82eviJuTQqaprVtognmW6EV2C7laO+UvQy2VwZc9L+6A42t5Pz2Ee+28xaBIGAgNn5TMcS+oJC0qhnAFNazT2X4p0aq3WBlF5BMwadrEwk59t4VcRc0CAwEAAaOCA0cwggNDMC8GCSsGAQQBgjcUAgQiHiAARABvAG0AYQBpAG4AQwBvAG4AdAByAG8AbABsAGUAcjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwDgYDVR0PAQH/BAQDAgWgMHgGCSqGSIb3DQEJDwRrMGkwDgYIKoZIhvcNAwICAgCAMA4GCCqGSIb3DQMEAgIAgDALBglghkgBZQMEASowCwYJYIZIAWUDBAEtMAsGCWCGSAFlAwQBAjALBglghkgBZQMEAQUwBwYFKw4DAgcwCgYIKoZIhvcNAwcwHQYDVR0OBBYEFPTg6Uo2pYQv7jJTC9x7Reo9CbVVMB8GA1UdIwQYMBaAFOz7EkAVob3H0S47Lk1LcsBi3yv1MIHOBgNVHR8EgcYwgcMwgcCggb2ggbqGgbdsZGFwOi8vL0NOPWNlcnRpZmllZC1EQzAxLUNBLENOPURDMDEsQ049Q0RQLENOPVB1YmxpYyUyMEtleSUyMFNlcnZpY2VzLENOPVNlcnZpY2VzLENOPUNvbmZpZ3VyYXRpb24sREM9Y2VydGlmaWVkLERDPWh0Yj9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2U/b2JqZWN0Q2xhc3M9Y1JMRGlzdHJpYnV0aW9uUG9pbnQwgcUGCCsGAQUFBwEBBIG4MIG1MIGyBggrBgEFBQcwAoaBpWxkYXA6Ly8vQ049Y2VydGlmaWVkLURDMDEtQ0EsQ049QUlBLENOPVB1YmxpYyUyMEtleSUyMFNlcnZpY2VzLENOPVNlcnZpY2VzLENOPUNvbmZpZ3VyYXRpb24sREM9Y2VydGlmaWVkLERDPWh0Yj9jQUNlcnRpZmljYXRlP2Jhc2U/b2JqZWN0Q2xhc3M9Y2VydGlmaWNhdGlvbkF1dGhvcml0eTA+BgNVHREENzA1oB8GCSsGAQQBgjcZAaASBBBTwp5mQoxFT6ExYzeAVBiughJEQzAxLmNlcnRpZmllZC5odGIwTgYJKwYBBAGCNxkCBEEwP6A9BgorBgEEAYI3GQIBoC8ELVMtMS01LTIxLTcyOTc0Njc3OC0yNjc1OTc4MDkxLTM4MjAzODgyNDQtMTAwMDANBgkqhkiG9w0BAQsFAAOCAQEAk4PE1BZ/qAgrUyzYM5plxxgUpGbICaWEkDkyiu7uCaTOehQ4rITZE1xefpHWVVEULz9UqlozCQgaKy3BRQsUjMZgkcQt0D+5Ygnri/+M3adcYWpJHsk+gby/JShvztRj1wS/X6SEErDaf9Nw0jgZi3QCaNqH2agxwj+oA+mCMd5mBq7JtWcCI3wQ3xuEaOEd9Q86T/J4ZdGC+8iQKt3GrvHzTEDijK9zWxm8nuftG/AyBU0N23xJCLgWZkQUfgVn+2b7pjWIPAWdZv8WqcJV1tinG0oM83wgbg3Nv3ZeoEwDCs5MgYprXNImNGtIzQY41iYatWCKZW54Ylno2wj9tg==",
+                "encoding": "base64"
+            }
+        ],
+        "whenChanged": [
+            "2025-03-07 02:43:39+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:02:51+00:00"
+        ]
+    },
+    "dn": "CN=DC01,OU=Domain Controllers,DC=certified,DC=htb"
+}]
