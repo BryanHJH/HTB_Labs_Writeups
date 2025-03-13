@@ -1,0 +1,57 @@
+# Dirsearch started Thu Mar 13 15:04:37 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dog.htb
+
+301   301B   http://dog.htb/.git    -> REDIRECTS TO: http://dog.htb/.git/
+200    95B   http://dog.htb/.git/COMMIT_EDITMSG
+200   405B   http://dog.htb/.git/branches/
+200   601B   http://dog.htb/.git/
+200    23B   http://dog.htb/.git/HEAD
+200    92B   http://dog.htb/.git/config
+200    73B   http://dog.htb/.git/description
+200   648B   http://dog.htb/.git/hooks/
+200   453B   http://dog.htb/.git/info/
+200   240B   http://dog.htb/.git/info/exclude
+200    41B   http://dog.htb/.git/refs/heads/master
+200   473B   http://dog.htb/.git/logs/
+200   456B   http://dog.htb/.git/refs/
+301   311B   http://dog.htb/.git/refs/tags    -> REDIRECTS TO: http://dog.htb/.git/refs/tags/
+200   230B   http://dog.htb/.git/logs/HEAD
+301   312B   http://dog.htb/.git/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/refs/heads/
+301   317B   http://dog.htb/.git/logs/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/heads/
+301   311B   http://dog.htb/.git/logs/refs    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/
+200   230B   http://dog.htb/.git/logs/refs/heads/master
+200     2KB  http://dog.htb/.git/objects/
+200   337KB  http://dog.htb/.git/index
+403   272B   http://dog.htb/.ht_wsr.txt
+403   272B   http://dog.htb/.htaccess.bak1
+403   272B   http://dog.htb/.htaccess.orig
+403   272B   http://dog.htb/.htaccess.sample
+403   272B   http://dog.htb/.htaccess.save
+403   272B   http://dog.htb/.htaccess_orig
+403   272B   http://dog.htb/.htaccessOLD2
+403   272B   http://dog.htb/.htaccess_extra
+403   272B   http://dog.htb/.htaccessBAK
+403   272B   http://dog.htb/.htaccess_sc
+403   272B   http://dog.htb/.htm
+403   272B   http://dog.htb/.htaccessOLD
+403   272B   http://dog.htb/.html
+403   272B   http://dog.htb/.htpasswds
+403   272B   http://dog.htb/.httr-oauth
+403   272B   http://dog.htb/.htpasswd_test
+403   272B   http://dog.htb/.php
+301   301B   http://dog.htb/core    -> REDIRECTS TO: http://dog.htb/core/
+301   302B   http://dog.htb/files    -> REDIRECTS TO: http://dog.htb/files/
+200   616B   http://dog.htb/files/
+404     2KB  http://dog.htb/index.php/login/
+200     4KB  http://dog.htb/index.php
+200   453B   http://dog.htb/layouts/
+200     7KB  http://dog.htb/LICENSE.txt
+301   304B   http://dog.htb/modules    -> REDIRECTS TO: http://dog.htb/modules/
+200   400B   http://dog.htb/modules/
+200     5KB  http://dog.htb/README.md
+200   528B   http://dog.htb/robots.txt
+403   272B   http://dog.htb/server-status/
+403   272B   http://dog.htb/server-status
+200     0B   http://dog.htb/settings.php
+301   302B   http://dog.htb/sites    -> REDIRECTS TO: http://dog.htb/sites/
+200   451B   http://dog.htb/themes/
+301   303B   http://dog.htb/themes    -> REDIRECTS TO: http://dog.htb/themes/

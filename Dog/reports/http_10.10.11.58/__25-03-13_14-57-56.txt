@@ -1,0 +1,145 @@
+# Dirsearch started Thu Mar 13 15:00:59 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.58/ -r
+
+200    95B   http://10.10.11.58/.git/COMMIT_EDITMSG
+301   309B   http://10.10.11.58/.git    -> REDIRECTS TO: http://10.10.11.58/.git/
+200    92B   http://10.10.11.58/.git/config
+200   604B   http://10.10.11.58/.git/
+200   409B   http://10.10.11.58/.git/branches/
+200    73B   http://10.10.11.58/.git/description
+200    23B   http://10.10.11.58/.git/HEAD
+200   650B   http://10.10.11.58/.git/hooks/
+200   455B   http://10.10.11.58/.git/info/
+200   240B   http://10.10.11.58/.git/info/exclude
+200   230B   http://10.10.11.58/.git/logs/HEAD
+200   476B   http://10.10.11.58/.git/logs/
+301   325B   http://10.10.11.58/.git/logs/refs/heads    -> REDIRECTS TO: http://10.10.11.58/.git/logs/refs/heads/
+301   319B   http://10.10.11.58/.git/logs/refs    -> REDIRECTS TO: http://10.10.11.58/.git/logs/refs/
+200   230B   http://10.10.11.58/.git/logs/refs/heads/master
+301   320B   http://10.10.11.58/.git/refs/heads    -> REDIRECTS TO: http://10.10.11.58/.git/refs/heads/
+200   461B   http://10.10.11.58/.git/refs/
+200     2KB  http://10.10.11.58/.git/objects/
+200    41B   http://10.10.11.58/.git/refs/heads/master
+301   319B   http://10.10.11.58/.git/refs/tags    -> REDIRECTS TO: http://10.10.11.58/.git/refs/tags/
+200   337KB  http://10.10.11.58/.git/index
+403   276B   http://10.10.11.58/.ht_wsr.txt
+403   276B   http://10.10.11.58/.htaccess.bak1
+403   276B   http://10.10.11.58/.htaccess.orig
+403   276B   http://10.10.11.58/.htaccess.save
+403   276B   http://10.10.11.58/.htaccess_orig
+403   276B   http://10.10.11.58/.htaccess_extra
+403   276B   http://10.10.11.58/.htaccess.sample
+403   276B   http://10.10.11.58/.htaccess_sc
+403   276B   http://10.10.11.58/.htaccessOLD2
+403   276B   http://10.10.11.58/.htaccessBAK
+403   276B   http://10.10.11.58/.htaccessOLD
+403   276B   http://10.10.11.58/.html
+403   276B   http://10.10.11.58/.htm
+403   276B   http://10.10.11.58/.htpasswd_test
+403   276B   http://10.10.11.58/.htpasswds
+403   276B   http://10.10.11.58/.httr-oauth
+403   276B   http://10.10.11.58/.php
+301   309B   http://10.10.11.58/core    -> REDIRECTS TO: http://10.10.11.58/core/
+301   310B   http://10.10.11.58/files    -> REDIRECTS TO: http://10.10.11.58/files/
+200   619B   http://10.10.11.58/files/
+200     4KB  http://10.10.11.58/index.php
+404     2KB  http://10.10.11.58/index.php/login/
+200   456B   http://10.10.11.58/layouts/
+200     7KB  http://10.10.11.58/LICENSE.txt
+301   312B   http://10.10.11.58/modules    -> REDIRECTS TO: http://10.10.11.58/modules/
+200   399B   http://10.10.11.58/modules/
+200     5KB  http://10.10.11.58/README.md
+200   528B   http://10.10.11.58/robots.txt
+403   276B   http://10.10.11.58/server-status
+403   276B   http://10.10.11.58/server-status/
+200     0B   http://10.10.11.58/settings.php
+301   310B   http://10.10.11.58/sites    -> REDIRECTS TO: http://10.10.11.58/sites/
+301   311B   http://10.10.11.58/themes    -> REDIRECTS TO: http://10.10.11.58/themes/
+200   454B   http://10.10.11.58/themes/
+403   276B   http://10.10.11.58/.git/.ht_wsr.txt
+403   276B   http://10.10.11.58/.git/.htaccess.bak1
+403   276B   http://10.10.11.58/.git/.htaccess.orig
+403   276B   http://10.10.11.58/.git/.htaccess.sample
+403   276B   http://10.10.11.58/.git/.htaccess.save
+403   276B   http://10.10.11.58/.git/.htaccess_extra
+403   276B   http://10.10.11.58/.git/.htaccess_orig
+403   276B   http://10.10.11.58/.git/.htaccess_sc
+403   276B   http://10.10.11.58/.git/.htaccessBAK
+403   276B   http://10.10.11.58/.git/.htaccessOLD
+403   276B   http://10.10.11.58/.git/.htaccessOLD2
+403   276B   http://10.10.11.58/.git/.htm
+403   276B   http://10.10.11.58/.git/.html
+403   276B   http://10.10.11.58/.git/.httr-oauth
+403   276B   http://10.10.11.58/.git/.htpasswd_test
+403   276B   http://10.10.11.58/.git/.htpasswds
+403   276B   http://10.10.11.58/.git/.php
+301   314B   http://10.10.11.58/.git/info    -> REDIRECTS TO: http://10.10.11.58/.git/info/
+301   314B   http://10.10.11.58/.git/logs    -> REDIRECTS TO: http://10.10.11.58/.git/logs/
+301   317B   http://10.10.11.58/.git/objects    -> REDIRECTS TO: http://10.10.11.58/.git/objects/
+403   276B   http://10.10.11.58/.git/branches/.ht_wsr.txt
+403   276B   http://10.10.11.58/.git/branches/.htaccess.orig
+403   276B   http://10.10.11.58/.git/branches/.htaccess.bak1
+403   276B   http://10.10.11.58/.git/branches/.htaccess.save
+403   276B   http://10.10.11.58/.git/branches/.htaccess.sample
+403   276B   http://10.10.11.58/.git/branches/.htaccess_extra
+403   276B   http://10.10.11.58/.git/branches/.htaccess_orig
+403   276B   http://10.10.11.58/.git/branches/.htaccess_sc
+403   276B   http://10.10.11.58/.git/branches/.htaccessBAK
+403   276B   http://10.10.11.58/.git/branches/.htaccessOLD
+403   276B   http://10.10.11.58/.git/branches/.htaccessOLD2
+403   276B   http://10.10.11.58/.git/branches/.htm
+403   276B   http://10.10.11.58/.git/branches/.html
+403   276B   http://10.10.11.58/.git/branches/.httr-oauth
+403   276B   http://10.10.11.58/.git/branches/.htpasswd_test
+403   276B   http://10.10.11.58/.git/branches/.htpasswds
+403   276B   http://10.10.11.58/.git/branches/.php
+403   276B   http://10.10.11.58/.git/hooks/.ht_wsr.txt
+403   276B   http://10.10.11.58/.git/hooks/.htaccess.sample
+403   276B   http://10.10.11.58/.git/hooks/.htaccess.bak1
+403   276B   http://10.10.11.58/.git/hooks/.htaccess.save
+403   276B   http://10.10.11.58/.git/hooks/.htaccess.orig
+403   276B   http://10.10.11.58/.git/hooks/.htaccessOLD2
+403   276B   http://10.10.11.58/.git/hooks/.htaccess_sc
+403   276B   http://10.10.11.58/.git/hooks/.htaccess_extra
+403   276B   http://10.10.11.58/.git/hooks/.htaccess_orig
+403   276B   http://10.10.11.58/.git/hooks/.htaccessBAK
+403   276B   http://10.10.11.58/.git/hooks/.htm
+403   276B   http://10.10.11.58/.git/hooks/.htaccessOLD
+403   276B   http://10.10.11.58/.git/hooks/.html
+403   276B   http://10.10.11.58/.git/hooks/.htpasswd_test
+403   276B   http://10.10.11.58/.git/hooks/.httr-oauth
+403   276B   http://10.10.11.58/.git/hooks/.htpasswds
+403   276B   http://10.10.11.58/.git/hooks/.php
+403   276B   http://10.10.11.58/.git/info/.ht_wsr.txt
+403   276B   http://10.10.11.58/.git/info/.htaccess.bak1
+403   276B   http://10.10.11.58/.git/info/.htaccess.sample
+403   276B   http://10.10.11.58/.git/info/.htaccess.save
+403   276B   http://10.10.11.58/.git/info/.htaccess_extra
+403   276B   http://10.10.11.58/.git/info/.htaccess.orig
+403   276B   http://10.10.11.58/.git/info/.htaccess_orig
+403   276B   http://10.10.11.58/.git/info/.htaccess_sc
+403   276B   http://10.10.11.58/.git/info/.htaccessOLD
+403   276B   http://10.10.11.58/.git/info/.htaccessOLD2
+403   276B   http://10.10.11.58/.git/info/.htaccessBAK
+403   276B   http://10.10.11.58/.git/info/.htm
+403   276B   http://10.10.11.58/.git/info/.html
+403   276B   http://10.10.11.58/.git/info/.htpasswd_test
+403   276B   http://10.10.11.58/.git/info/.htpasswds
+403   276B   http://10.10.11.58/.git/info/.httr-oauth
+403   276B   http://10.10.11.58/.git/info/.php
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.ht_wsr.txt
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess.save
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess_orig
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess.bak1
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess.orig
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess_extra
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess_sc
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccessBAK
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccess.sample
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccessOLD
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htaccessOLD2
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htm
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.html
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htpasswds
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.httr-oauth
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.htpasswd_test
+403   276B   http://10.10.11.58/.git/logs/refs/heads/.php
