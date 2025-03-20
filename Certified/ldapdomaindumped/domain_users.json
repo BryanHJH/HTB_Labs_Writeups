@@ -1,0 +1,923 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Gregory Cameron"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Gregory Cameron"
+        ],
+        "distinguishedName": [
+            "CN=Gregory Cameron,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "Gregory"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "Gregory Cameron"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{d464890b-07e0-4732-91fc-8c8024f3f458}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1603"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-14 16:40:05.003735+00:00"
+        ],
+        "sAMAccountName": [
+            "gregory.cameron"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Cameron"
+        ],
+        "uSNChanged": [
+            20567
+        ],
+        "uSNCreated": [
+            20562
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "gregory.cameron@certified.htb"
+        ],
+        "whenChanged": [
+            "2024-05-14 16:40:05+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-14 16:40:04+00:00"
+        ]
+    },
+    "dn": "CN=Gregory Cameron,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Harry Wilson"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Harry Wilson"
+        ],
+        "distinguishedName": [
+            "CN=Harry Wilson,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "Harry"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "Harry Wilson"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{ca35252f-b83e-4e54-991c-18ec3075cc31}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1602"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-14 16:39:37.582878+00:00"
+        ],
+        "sAMAccountName": [
+            "harry.wilson"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Wilson"
+        ],
+        "uSNChanged": [
+            20560
+        ],
+        "uSNCreated": [
+            20555
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "harry.wilson@certified.htb"
+        ],
+        "whenChanged": [
+            "2024-05-14 16:39:37+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-14 16:39:37+00:00"
+        ]
+    },
+    "dn": "CN=Harry Wilson,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Alexander Huges"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Alexander Huges"
+        ],
+        "distinguishedName": [
+            "CN=Alexander Huges,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "Alexander"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "Alexander Huges"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{2528f883-1f33-4b9a-a077-f5a59ac6fc3f}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1601"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-14 16:39:08.299885+00:00"
+        ],
+        "sAMAccountName": [
+            "alexander.huges"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Huges"
+        ],
+        "uSNChanged": [
+            20553
+        ],
+        "uSNCreated": [
+            20547
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "alexander.huges@certified.htb"
+        ],
+        "whenChanged": [
+            "2024-05-14 16:39:08+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-14 16:39:08+00:00"
+        ]
+    },
+    "dn": "CN=Alexander Huges,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "operator ca"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:38:29+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Operator CA"
+        ],
+        "distinguishedName": [
+            "CN=operator ca,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "Operator"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2024-05-13 15:59:57.823034+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "operator ca"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{765d4f49-13a9-4bc4-b7ec-8d2672fac421}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1106"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-13 15:32:03.274813+00:00"
+        ],
+        "sAMAccountName": [
+            "ca_operator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "CA"
+        ],
+        "uSNChanged": [
+            73766
+        ],
+        "uSNCreated": [
+            12818
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "ca_operator@certified.htb"
+        ],
+        "whenChanged": [
+            "2024-10-22 20:20:58+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:32:03+00:00"
+        ]
+    },
+    "dn": "CN=operator ca,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2025-03-07 08:54:17.920076+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "management service"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:36:49+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "management service"
+        ],
+        "distinguishedName": [
+            "CN=management service,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "management"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-03-07 08:54:46.748203+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-03-07 07:28:58.576315+00:00"
+        ],
+        "logonCount": [
+            2
+        ],
+        "memberOf": [
+            "CN=Management,CN=Users,DC=certified,DC=htb",
+            "CN=Remote Management Users,CN=Builtin,DC=certified,DC=htb"
+        ],
+        "msDS-KeyCredentialLink": [
+            "B:828:00020000200001617070995CAEC7C8AEA09AB3FA9B58160A6D2C8526827583B14A4914382021DE200002E975FB4990788E6B5DB730F95FFD59856B2521514CA75F640E804C21373E7FC51B0103525341310008000003000000000100000000000000000000010001A0BCC27B176B6165ABA10BE3D91D53716DDC94BD458BEA2F54E1B93EE80805BCF1AA8F718DB57B8B0DC4A324717B75B7306EB77777A4C09EB54A587CB657A3857DF0E46EC1F649036BC2A9B7DB64346D81BB57B5B14C832988F83CFAB0E4D16C15F7BEC5DC04295ABAC97385C24F41E3D347ABC82270DD5E557CD0F6D7CB7AAAF6ABA5EA3CDAAE2D08CF199E92B7C46DD2973CDCA6B90456B8327A71911734B0DE9F7035E466F9F9D08CB4EF6FD69DC0AB0CF4FA776A7FD5393DDBE57880BB35C45E245B2D21CA483D09B7F17CBE0951B589C930E6AEE8CC21B36804233B91DA7D64E4B4081169D2F117B712FE92ED25AB7BD2D8EE406D287FA511D71AED93D70100040101000500100006F388FBA7D306D2F46B209833B5221AC60200070100080008C9FA2FD3318FDB01080009C9FA2FD3318FDB01:CN=management service,CN=Users,DC=certified,DC=htb"
+        ],
+        "name": [
+            "management service"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{48bd7103-d93e-40fb-a725-2d5d4ad2f4d5}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1105"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-13 15:30:51.476757+00:00"
+        ],
+        "sAMAccountName": [
+            "management_svc"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "certified.htb/management_svc.DC01"
+        ],
+        "sn": [
+            "service"
+        ],
+        "uSNChanged": [
+            90323
+        ],
+        "uSNCreated": [
+            12809
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "management_svc@certified.htb"
+        ],
+        "whenChanged": [
+            "2025-03-07 07:28:58+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:30:51+00:00"
+        ]
+    },
+    "dn": "CN=management service,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "2024-05-14 19:20:14.614336+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Judith Mader"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Judith Mader"
+        ],
+        "distinguishedName": [
+            "CN=Judith Mader,CN=Users,DC=certified,DC=htb"
+        ],
+        "givenName": [
+            "Judith"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2024-05-14 19:22:37.083313+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-03-07 07:24:01.045069+00:00"
+        ],
+        "logonCount": [
+            3
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "Judith Mader"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{97fd4c30-9704-4e55-8867-f1216f88a528}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-1103"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-14 19:22:11.204269+00:00"
+        ],
+        "sAMAccountName": [
+            "judith.mader"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Mader"
+        ],
+        "uSNChanged": [
+            90315
+        ],
+        "uSNCreated": [
+            12798
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "judith.mader@certified.htb"
+        ],
+        "whenChanged": [
+            "2025-03-07 07:24:01+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:29:44+00:00"
+        ]
+    },
+    "dn": "CN=Judith Mader,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:18:01+00:00",
+            "2024-05-13 15:02:51+00:00",
+            "1601-01-01 00:04:16+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=certified,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=certified,DC=htb"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{2ad64131-f003-4bcd-a845-385888e99d5b}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-13 15:02:51.302282+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12782
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2024-05-13 15:18:01+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:02:51+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:02:51+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=certified,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=certified,DC=htb"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{cd385260-35be-46d3-8efc-3b02fa316388}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2024-05-13 15:02:18+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:02:18+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=certified,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2025-03-07 08:01:04.732555+00:00"
+        ],
+        "badPwdCount": [
+            3
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2024-05-13 15:18:01+00:00",
+            "2024-05-13 15:18:01+00:00",
+            "2024-05-13 15:02:51+00:00",
+            "1601-01-01 18:12:16+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=certified,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2025-03-07 02:44:03.365160+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2025-03-07 02:43:42.068274+00:00"
+        ],
+        "logonCount": [
+            76
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=certified,DC=htb",
+            "CN=Domain Admins,CN=Users,DC=certified,DC=htb",
+            "CN=Enterprise Admins,CN=Users,DC=certified,DC=htb",
+            "CN=Schema Admins,CN=Users,DC=certified,DC=htb",
+            "CN=Administrators,CN=Builtin,DC=certified,DC=htb"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=certified,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{0e4a69b1-a743-4683-8b21-f57f850851d9}"
+        ],
+        "objectSid": [
+            "S-1-5-21-729746778-2675978091-3820388244-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2024-05-13 14:53:16.626982+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            90148
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2025-03-07 02:43:42+00:00"
+        ],
+        "whenCreated": [
+            "2024-05-13 15:02:18+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=certified,DC=htb"
+}]

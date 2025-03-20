@@ -1,0 +1,2 @@
+cn	sAMAccountName	dNSHostName	operatingSystem	operatingSystemServicePack	operatingSystemVersion	lastLogon	userAccountControl	whenCreated	objectSid	description
+DC01	DC01$	DC01.certified.htb	Windows Server 2019 Standard		10.0 (17763)	03/07/25 02:48:28	SERVER_TRUST_ACCOUNT, TRUSTED_FOR_DELEGATION	05/13/24 15:02:51	S-1-5-21-729746778-2675978091-3820388244-1000	

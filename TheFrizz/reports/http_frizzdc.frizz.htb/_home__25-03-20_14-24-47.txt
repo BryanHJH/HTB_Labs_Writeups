@@ -1,0 +1,33 @@
+# Dirsearch started Thu Mar 20 14:25:42 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://frizzdc.frizz.htb/home/
+
+403   306B   http://frizzdc.frizz.htb/home/%C0%AE%C0%AE%C0%AF
+301   348B   http://frizzdc.frizz.htb/home/js    -> REDIRECTS TO: http://frizzdc.frizz.htb/home/js/
+403   306B   http://frizzdc.frizz.htb/home/%3f/
+403   306B   http://frizzdc.frizz.htb/home/%ff
+403   306B   http://frizzdc.frizz.htb/home/.ht_wsr.txt
+403   306B   http://frizzdc.frizz.htb/home/.htaccess.bak1
+403   306B   http://frizzdc.frizz.htb/home/.htaccess.sample
+403   306B   http://frizzdc.frizz.htb/home/.htaccess_extra
+403   306B   http://frizzdc.frizz.htb/home/.htaccess.save
+403   306B   http://frizzdc.frizz.htb/home/.htaccess_orig
+403   306B   http://frizzdc.frizz.htb/home/.htaccessBAK
+403   306B   http://frizzdc.frizz.htb/home/.htaccess.orig
+403   306B   http://frizzdc.frizz.htb/home/.htaccess_sc
+403   306B   http://frizzdc.frizz.htb/home/.htaccessOLD2
+403   306B   http://frizzdc.frizz.htb/home/.htaccessOLD
+403   306B   http://frizzdc.frizz.htb/home/.html
+403   306B   http://frizzdc.frizz.htb/home/.htm
+403   306B   http://frizzdc.frizz.htb/home/.htpasswd_test
+403   306B   http://frizzdc.frizz.htb/home/.htpasswds
+403   306B   http://frizzdc.frizz.htb/home/.httr-oauth
+301   349B   http://frizzdc.frizz.htb/home/css    -> REDIRECTS TO: http://frizzdc.frizz.htb/home/css/
+301   351B   http://frizzdc.frizz.htb/home/fonts    -> REDIRECTS TO: http://frizzdc.frizz.htb/home/fonts/
+301   352B   http://frizzdc.frizz.htb/home/images    -> REDIRECTS TO: http://frizzdc.frizz.htb/home/images/
+403   306B   http://frizzdc.frizz.htb/home/index.php::$DATA
+200  1008B   http://frizzdc.frizz.htb/home/README.TXT
+200  1008B   http://frizzdc.frizz.htb/home/README.txt
+200  1008B   http://frizzdc.frizz.htb/home/readme.txt
+200  1008B   http://frizzdc.frizz.htb/home/Readme.txt
+200  1008B   http://frizzdc.frizz.htb/home/ReadMe.txt
+403   306B   http://frizzdc.frizz.htb/home/Trace.axd::$DATA
+403   306B   http://frizzdc.frizz.htb/home/web.config::$DATA

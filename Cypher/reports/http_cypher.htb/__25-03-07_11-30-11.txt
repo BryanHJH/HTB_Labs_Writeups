@@ -1,0 +1,77 @@
+# Dirsearch started Fri Mar  7 11:30:36 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cypher.htb/ -r
+
+200     5KB  http://cypher.htb/about
+200     5KB  http://cypher.htb/about.html
+404    22B   http://cypher.htb/api-doc
+404    22B   http://cypher.htb/api-docs
+404    22B   http://cypher.htb/api/2/explore/
+404    22B   http://cypher.htb/api.py
+307     0B   http://cypher.htb/api/    -> REDIRECTS TO: http://cypher.htb/api/api
+404    22B   http://cypher.htb/api/__swagger__/
+404    22B   http://cypher.htb/api.log
+307     0B   http://cypher.htb/api    -> REDIRECTS TO: /api/docs
+404    22B   http://cypher.htb/api/2/issue/createmeta
+404    22B   http://cypher.htb/api/_swagger_/
+404    22B   http://cypher.htb/api.php
+404    22B   http://cypher.htb/api/apidocs
+404    22B   http://cypher.htb/api/application.wadl
+404    22B   http://cypher.htb/api/api
+404    22B   http://cypher.htb/api/api-docs
+404    22B   http://cypher.htb/api/apidocs/swagger.json
+404    22B   http://cypher.htb/api/cask/graphql
+404    22B   http://cypher.htb/api/config
+404    22B   http://cypher.htb/api/batch
+404    22B   http://cypher.htb/api/docs
+404    22B   http://cypher.htb/api/docs/
+404    22B   http://cypher.htb/api/jsonws
+404    22B   http://cypher.htb/api/error_log
+404    22B   http://cypher.htb/api/package_search/v4/documentation
+404    22B   http://cypher.htb/api/jsonws/invoke
+404    22B   http://cypher.htb/api/swagger.yml
+404    22B   http://cypher.htb/api/login.json
+404    22B   http://cypher.htb/api/swagger
+404    22B   http://cypher.htb/api/snapshots
+404    22B   http://cypher.htb/api/swagger.json
+404    22B   http://cypher.htb/api/swagger.yaml
+404    22B   http://cypher.htb/api/profile
+404    22B   http://cypher.htb/api/spec/swagger.json
+404    22B   http://cypher.htb/api/swagger/ui/index
+404    22B   http://cypher.htb/api/timelion/run
+404    22B   http://cypher.htb/api/proxy
+404    22B   http://cypher.htb/api/swagger/swagger
+404    22B   http://cypher.htb/api/v1
+404    22B   http://cypher.htb/api/v1/
+404    22B   http://cypher.htb/api/v2/
+404    22B   http://cypher.htb/api/v2/swagger.json
+404    22B   http://cypher.htb/api/v1/swagger.yaml
+404    22B   http://cypher.htb/api/v2/swagger.yaml
+404    22B   http://cypher.htb/api/v2
+404    22B   http://cypher.htb/api/v1/swagger.json
+404    22B   http://cypher.htb/api/v2/helpdesk/discover
+404    22B   http://cypher.htb/api/v4
+404    22B   http://cypher.htb/api/version
+404    22B   http://cypher.htb/api/v3
+404    22B   http://cypher.htb/apidoc
+404    22B   http://cypher.htb/api/whoami
+404    22B   http://cypher.htb/apibuild.pyc
+404    22B   http://cypher.htb/apidocs
+404    22B   http://cypher.htb/api/vendor/phpunit/phpunit/phpunit
+404    22B   http://cypher.htb/apiserver-aggregator-ca.cert
+404    22B   http://cypher.htb/apiserver-client.crt
+404    22B   http://cypher.htb/apiserver-aggregator.cert
+404    22B   http://cypher.htb/apiserver-aggregator.key
+404    22B   http://cypher.htb/apis
+404    22B   http://cypher.htb/apiserver-key.pem
+307     0B   http://cypher.htb/demo    -> REDIRECTS TO: /login
+404    22B   http://cypher.htb/demo.jsp
+307     0B   http://cypher.htb/demo/    -> REDIRECTS TO: http://cypher.htb/api/demo
+404    22B   http://cypher.htb/demo.php
+404    22B   http://cypher.htb/demo.js
+404    22B   http://cypher.htb/demo.aspx
+404    22B   http://cypher.htb/demoadmin
+404    22B   http://cypher.htb/demos/
+404    22B   http://cypher.htb/demo/ojspext/events/globals.jsa
+404    22B   http://cypher.htb/demo/sql/index.jsp
+200     4KB  http://cypher.htb/login
+200     4KB  http://cypher.htb/login.html
+301   178B   http://cypher.htb/testing    -> REDIRECTS TO: http://cypher.htb/testing/
