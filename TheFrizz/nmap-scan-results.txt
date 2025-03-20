@@ -1,0 +1,53 @@
+nmap --min-rate 3000 -p- -A 10.10.11.60
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-20 14:09 +08
+Nmap scan report for 10.10.11.60
+Host is up (0.044s latency).
+Not shown: 65515 filtered tcp ports (no-response)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+53/tcp    open  domain        Simple DNS Plus
+80/tcp    open  http          Apache httpd 2.4.58 (OpenSSL/3.1.3 PHP/8.2.12)
+|_http-title: Did not follow redirect to http://frizzdc.frizz.htb/home/
+|_http-server-header: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+88/tcp    open  kerberos-sec  Microsoft Windows Kerberos (server time: 2025-03-20 12:53:00Z)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+389/tcp   open  ldap          Microsoft Windows Active Directory LDAP (Domain: frizz.htb0., Site: Default-First-Site-Name)
+445/tcp   open  microsoft-ds?
+464/tcp   open  kpasswd5?
+593/tcp   open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+636/tcp   open  tcpwrapped
+3268/tcp  open  ldap          Microsoft Windows Active Directory LDAP (Domain: frizz.htb0., Site: Default-First-Site-Name)
+3269/tcp  open  tcpwrapped
+9389/tcp  open  mc-nmf        .NET Message Framing
+49664/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  ncacn_http    Microsoft Windows RPC over HTTP 1.0
+56071/tcp open  msrpc         Microsoft Windows RPC
+57863/tcp open  msrpc         Microsoft Windows RPC
+57867/tcp open  msrpc         Microsoft Windows RPC
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2022|2012|2016 (89%)
+OS CPE: cpe:/o:microsoft:windows_server_2022 cpe:/o:microsoft:windows_server_2012:r2 cpe:/o:microsoft:windows_server_2016
+Aggressive OS guesses: Microsoft Windows Server 2022 (89%), Microsoft Windows Server 2012 R2 (85%), Microsoft Windows Server 2016 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Hosts: localhost, FRIZZDC; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time:
+|   date: 2025-03-20T12:53:55
+|_  start_date: N/A
+|_clock-skew: 6h41m37s
+| smb2-security-mode:
+|   3:1:1:
+|_    Message signing enabled and required
+
+TRACEROUTE (using port 53/tcp)
+HOP RTT      ADDRESS
+1   46.86 ms 10.10.16.1
+2   46.92 ms 10.10.11.60
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 211.53 seconds

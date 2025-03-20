@@ -1,0 +1,68 @@
+# Dirsearch started Thu Mar 20 15:25:56 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://frizzdc.frizz.htb/Gibbon-LMS/ -r -x 403
+
+200   101KB  http://frizzdc.frizz.htb/Gibbon-LMS/CHANGELOG.txt
+200   101KB  http://frizzdc.frizz.htb/Gibbon-LMS/CHANGELOG.TXT
+200   101KB  http://frizzdc.frizz.htb/Gibbon-LMS/changelog.txt
+200   101KB  http://frizzdc.frizz.htb/Gibbon-LMS/ChangeLog.txt
+200   101KB  http://frizzdc.frizz.htb/Gibbon-LMS/Changelog.txt
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/composer.json
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/config.php
+200   287KB  http://frizzdc.frizz.htb/Gibbon-LMS/composer.lock
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/error.php
+200    32KB  http://frizzdc.frizz.htb/Gibbon-LMS/favicon.ico
+301   361B   http://frizzdc.frizz.htb/Gibbon-LMS/installer    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/installer/
+301   355B   http://frizzdc.frizz.htb/Gibbon-LMS/lib    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/
+301   363B   http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/
+200    34KB  http://frizzdc.frizz.htb/Gibbon-LMS/LICENSE
+200    34KB  http://frizzdc.frizz.htb/Gibbon-LMS/license
+302     0B   http://frizzdc.frizz.htb/Gibbon-LMS/login.php    -> REDIRECTS TO: /Gibbon-LMS/index.php?loginReturn=fail0
+302     0B   http://frizzdc.frizz.htb/Gibbon-LMS/logout.php    -> REDIRECTS TO: /Gibbon-LMS/index.php
+301   359B   http://frizzdc.frizz.htb/Gibbon-LMS/modules    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/modules/
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/README.md
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/ReadMe.md
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/Readme.md
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/readme.md
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/README.MD
+200     3KB  http://frizzdc.frizz.htb/Gibbon-LMS/report.php
+301   361B   http://frizzdc.frizz.htb/Gibbon-LMS/resources    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/resources/
+200    54B   http://frizzdc.frizz.htb/Gibbon-LMS/robots.txt
+301   355B   http://frizzdc.frizz.htb/Gibbon-LMS/src    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/
+301   358B   http://frizzdc.frizz.htb/Gibbon-LMS/themes    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/themes/
+200   660B   http://frizzdc.frizz.htb/Gibbon-LMS/update.php
+301   359B   http://frizzdc.frizz.htb/Gibbon-LMS/uploads    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/uploads/
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_static.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_classmap.php
+200     1KB  http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/LICENSE
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_psr4.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/ClassLoader.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_files.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_namespaces.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/Version.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/autoload_real.php
+200     0B   http://frizzdc.frizz.htb/Gibbon-LMS/vendor/autoload.php
+200   170KB  http://frizzdc.frizz.htb/Gibbon-LMS/vendor/composer/installed.json
+200    30KB  http://frizzdc.frizz.htb/Gibbon-LMS/installer/install.php
+200    30KB  http://frizzdc.frizz.htb/Gibbon-LMS/installer/install.php?profile=default
+301   369B   http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/icons    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/icons/
+200    26KB  http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/LICENSE.txt
+200    26KB  http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/license.txt
+301   371B   http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/plugins    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/plugins/
+301   369B   http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/skins    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/skins/
+301   370B   http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/themes    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/lib/tinymce/themes/
+301   367B   http://frizzdc.frizz.htb/Gibbon-LMS/modules/library    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/modules/library/
+301   367B   http://frizzdc.frizz.htb/Gibbon-LMS/modules/reports    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/modules/reports/
+301   365B   http://frizzdc.frizz.htb/Gibbon-LMS/modules/staff    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/modules/staff/
+301   368B   http://frizzdc.frizz.htb/Gibbon-LMS/resources/assets    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/resources/assets/
+301   371B   http://frizzdc.frizz.htb/Gibbon-LMS/resources/templates    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/resources/templates/
+301   360B   http://frizzdc.frizz.htb/Gibbon-LMS/src/auth    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/auth/
+301   360B   http://frizzdc.frizz.htb/Gibbon-LMS/src/data    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/data/
+301   364B   http://frizzdc.frizz.htb/Gibbon-LMS/src/database    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/database/
+301   362B   http://frizzdc.frizz.htb/Gibbon-LMS/src/domain    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/domain/
+301   361B   http://frizzdc.frizz.htb/Gibbon-LMS/src/forms    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/forms/
+301   363B   http://frizzdc.frizz.htb/Gibbon-LMS/src/INSTALL    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/INSTALL/
+301   363B   http://frizzdc.frizz.htb/Gibbon-LMS/src/install    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/install/
+301   363B   http://frizzdc.frizz.htb/Gibbon-LMS/src/Install    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/Install/
+301   364B   http://frizzdc.frizz.htb/Gibbon-LMS/src/services    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/services/
+301   363B   http://frizzdc.frizz.htb/Gibbon-LMS/src/session    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/session/
+301   358B   http://frizzdc.frizz.htb/Gibbon-LMS/src/ui    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/src/ui/
+301   366B   http://frizzdc.frizz.htb/Gibbon-LMS/themes/default    -> REDIRECTS TO: http://frizzdc.frizz.htb/Gibbon-LMS/themes/default/

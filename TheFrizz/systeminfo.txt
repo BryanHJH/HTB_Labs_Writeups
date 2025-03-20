@@ -1,0 +1,41 @@
+Host Name:                 FRIZZDC
+OS Name:                   Microsoft Windows Server 2022 Datacenter
+OS Version:                10.0.20348 N/A Build 20348
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Primary Domain Controller
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00454-70295-72962-AA557
+Original Install Date:     10/29/2024, 9:13:01 AM
+System Boot Time:          3/20/2025, 5:21:57 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware Virtual Platform
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+[01]: AMD64 Family 25 Model 1 Stepping 1 AuthenticAMD ~2994 Mhz
+BIOS Version:              Phoenix Technologies LTD 6.00, 11/12/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,095 MB
+Available Physical Memory: 1,185 MB
+Virtual Memory: Max Size:  4,095 MB
+Virtual Memory: Available: 1,192 MB
+Virtual Memory: In Use:    2,903 MB
+Page File Location(s):     N/A
+Domain:                    frizz.htb
+Logon Server:              N/A
+Hotfix(s):                 N/A
+Network Card(s):           1 NIC(s) Installed.
+[01]: vmxnet3 Ethernet Adapter
+Connection Name: Ethernet0 2
+DHCP Enabled:    No
+IP address(es)
+[01]: 10.10.11.60
+[02]: fe80::8cc7:fa78:3205:76b6
+[03]: dead:beef::f881:599d:af5a:dc89
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
