@@ -1,0 +1,14 @@
+127.0.0.1	localhost
+127.0.1.1	kali
+::1		localhost ip6-localhost ip6-loopback
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+110.74.170.237  mobic.ccbmalaysia.com
+110.74.132.210  mail.my.ccb.com autodiscover.my.ccb.com
+10.10.11.55     titanic.htb dev.titanic.htb
+10.10.11.51     sequel.htb
+10.10.11.37     instant.htb mywalletv1.instant.htb
+10.10.11.41     certified.htb
+10.10.11.57     cypher.htb
+10.10.11.58	dog.htb
+10.10.11.60	frizzdc.frizz.htb frizz.htb
