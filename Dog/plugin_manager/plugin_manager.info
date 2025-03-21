@@ -1,0 +1,10 @@
+name = Plugin Manager
+description = A tool and API for creating and using plugins in modules.
+backdrop = 1.x
+type = module
+package = Plugins
+
+; Added by Backdrop CMS packaging script on 2023-07-25
+project = plugin_manager
+version = 1.x-1.0.0
+timestamp = 1690309161

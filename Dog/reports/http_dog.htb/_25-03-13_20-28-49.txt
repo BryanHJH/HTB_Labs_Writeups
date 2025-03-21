@@ -1,0 +1,178 @@
+# Dirsearch started Thu Mar 13 20:40:22 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dog.htb -r -x 403
+
+301   301B   http://dog.htb/.git    -> REDIRECTS TO: http://dog.htb/.git/
+200    73B   http://dog.htb/.git/description
+200    92B   http://dog.htb/.git/config
+200   405B   http://dog.htb/.git/branches/
+200    23B   http://dog.htb/.git/HEAD
+200    95B   http://dog.htb/.git/COMMIT_EDITMSG
+200   601B   http://dog.htb/.git/
+200   648B   http://dog.htb/.git/hooks/
+200   453B   http://dog.htb/.git/info/
+200   230B   http://dog.htb/.git/logs/HEAD
+200   240B   http://dog.htb/.git/info/exclude
+200   473B   http://dog.htb/.git/logs/
+301   311B   http://dog.htb/.git/logs/refs    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/
+301   312B   http://dog.htb/.git/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/refs/heads/
+200   230B   http://dog.htb/.git/logs/refs/heads/master
+200    41B   http://dog.htb/.git/refs/heads/master
+301   317B   http://dog.htb/.git/logs/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/heads/
+200   456B   http://dog.htb/.git/refs/
+301   311B   http://dog.htb/.git/refs/tags    -> REDIRECTS TO: http://dog.htb/.git/refs/tags/
+200   337KB  http://dog.htb/.git/index
+200     2KB  http://dog.htb/.git/objects/
+301   301B   http://dog.htb/core    -> REDIRECTS TO: http://dog.htb/core/
+200   618B   http://dog.htb/files/
+301   302B   http://dog.htb/files    -> REDIRECTS TO: http://dog.htb/files/
+404     2KB  http://dog.htb/index.php/login/
+200   453B   http://dog.htb/layouts/
+200     7KB  http://dog.htb/LICENSE.txt
+301   304B   http://dog.htb/modules    -> REDIRECTS TO: http://dog.htb/modules/
+200   400B   http://dog.htb/modules/
+200     5KB  http://dog.htb/README.md
+200   528B   http://dog.htb/robots.txt
+200     0B   http://dog.htb/settings.php
+301   302B   http://dog.htb/sites    -> REDIRECTS TO: http://dog.htb/sites/
+200   451B   http://dog.htb/themes/
+301   303B   http://dog.htb/themes    -> REDIRECTS TO: http://dog.htb/themes/
+301   306B   http://dog.htb/.git/info    -> REDIRECTS TO: http://dog.htb/.git/info/
+301   306B   http://dog.htb/.git/logs    -> REDIRECTS TO: http://dog.htb/.git/logs/
+301   309B   http://dog.htb/.git/objects    -> REDIRECTS TO: http://dog.htb/.git/objects/
+301   312B   http://dog.htb/.git/objects/04    -> REDIRECTS TO: http://dog.htb/.git/objects/04/
+301   312B   http://dog.htb/.git/objects/03    -> REDIRECTS TO: http://dog.htb/.git/objects/03/
+301   312B   http://dog.htb/.git/objects/05    -> REDIRECTS TO: http://dog.htb/.git/objects/05/
+301   312B   http://dog.htb/.git/objects/02    -> REDIRECTS TO: http://dog.htb/.git/objects/02/
+301   312B   http://dog.htb/.git/objects/00    -> REDIRECTS TO: http://dog.htb/.git/objects/00/
+301   312B   http://dog.htb/.git/objects/06    -> REDIRECTS TO: http://dog.htb/.git/objects/06/
+301   312B   http://dog.htb/.git/objects/08    -> REDIRECTS TO: http://dog.htb/.git/objects/08/
+301   312B   http://dog.htb/.git/objects/07    -> REDIRECTS TO: http://dog.htb/.git/objects/07/
+301   312B   http://dog.htb/.git/objects/01    -> REDIRECTS TO: http://dog.htb/.git/objects/01/
+301   312B   http://dog.htb/.git/objects/09    -> REDIRECTS TO: http://dog.htb/.git/objects/09/
+301   312B   http://dog.htb/.git/objects/10    -> REDIRECTS TO: http://dog.htb/.git/objects/10/
+301   312B   http://dog.htb/.git/objects/13    -> REDIRECTS TO: http://dog.htb/.git/objects/13/
+301   312B   http://dog.htb/.git/objects/12    -> REDIRECTS TO: http://dog.htb/.git/objects/12/
+301   312B   http://dog.htb/.git/objects/19    -> REDIRECTS TO: http://dog.htb/.git/objects/19/
+301   312B   http://dog.htb/.git/objects/14    -> REDIRECTS TO: http://dog.htb/.git/objects/14/
+301   312B   http://dog.htb/.git/objects/11    -> REDIRECTS TO: http://dog.htb/.git/objects/11/
+301   312B   http://dog.htb/.git/objects/16    -> REDIRECTS TO: http://dog.htb/.git/objects/16/
+301   312B   http://dog.htb/.git/objects/18    -> REDIRECTS TO: http://dog.htb/.git/objects/18/
+301   312B   http://dog.htb/.git/objects/15    -> REDIRECTS TO: http://dog.htb/.git/objects/15/
+301   312B   http://dog.htb/.git/objects/17    -> REDIRECTS TO: http://dog.htb/.git/objects/17/
+200   926B   http://dog.htb/.git/objects/1c/
+301   312B   http://dog.htb/.git/objects/20    -> REDIRECTS TO: http://dog.htb/.git/objects/20/
+301   312B   http://dog.htb/.git/objects/27    -> REDIRECTS TO: http://dog.htb/.git/objects/27/
+301   312B   http://dog.htb/.git/objects/28    -> REDIRECTS TO: http://dog.htb/.git/objects/28/
+301   312B   http://dog.htb/.git/objects/21    -> REDIRECTS TO: http://dog.htb/.git/objects/21/
+301   312B   http://dog.htb/.git/objects/26    -> REDIRECTS TO: http://dog.htb/.git/objects/26/
+301   312B   http://dog.htb/.git/objects/29    -> REDIRECTS TO: http://dog.htb/.git/objects/29/
+301   312B   http://dog.htb/.git/objects/30    -> REDIRECTS TO: http://dog.htb/.git/objects/30/
+301   312B   http://dog.htb/.git/objects/22    -> REDIRECTS TO: http://dog.htb/.git/objects/22/
+301   312B   http://dog.htb/.git/objects/25    -> REDIRECTS TO: http://dog.htb/.git/objects/25/
+301   312B   http://dog.htb/.git/objects/23    -> REDIRECTS TO: http://dog.htb/.git/objects/23/
+301   312B   http://dog.htb/.git/objects/33    -> REDIRECTS TO: http://dog.htb/.git/objects/33/
+301   312B   http://dog.htb/.git/objects/24    -> REDIRECTS TO: http://dog.htb/.git/objects/24/
+301   312B   http://dog.htb/.git/objects/32    -> REDIRECTS TO: http://dog.htb/.git/objects/32/
+301   312B   http://dog.htb/.git/objects/31    -> REDIRECTS TO: http://dog.htb/.git/objects/31/
+301   312B   http://dog.htb/.git/objects/35    -> REDIRECTS TO: http://dog.htb/.git/objects/35/
+301   312B   http://dog.htb/.git/objects/37    -> REDIRECTS TO: http://dog.htb/.git/objects/37/
+301   312B   http://dog.htb/.git/objects/34    -> REDIRECTS TO: http://dog.htb/.git/objects/34/
+301   312B   http://dog.htb/.git/objects/38    -> REDIRECTS TO: http://dog.htb/.git/objects/38/
+301   312B   http://dog.htb/.git/objects/39    -> REDIRECTS TO: http://dog.htb/.git/objects/39/
+301   312B   http://dog.htb/.git/objects/36    -> REDIRECTS TO: http://dog.htb/.git/objects/36/
+301   312B   http://dog.htb/.git/objects/40    -> REDIRECTS TO: http://dog.htb/.git/objects/40/
+301   312B   http://dog.htb/.git/objects/44    -> REDIRECTS TO: http://dog.htb/.git/objects/44/
+301   312B   http://dog.htb/.git/objects/43    -> REDIRECTS TO: http://dog.htb/.git/objects/43/
+301   312B   http://dog.htb/.git/objects/41    -> REDIRECTS TO: http://dog.htb/.git/objects/41/
+301   312B   http://dog.htb/.git/objects/42    -> REDIRECTS TO: http://dog.htb/.git/objects/42/
+301   312B   http://dog.htb/.git/objects/48    -> REDIRECTS TO: http://dog.htb/.git/objects/48/
+301   312B   http://dog.htb/.git/objects/45    -> REDIRECTS TO: http://dog.htb/.git/objects/45/
+301   312B   http://dog.htb/.git/objects/49    -> REDIRECTS TO: http://dog.htb/.git/objects/49/
+301   312B   http://dog.htb/.git/objects/47    -> REDIRECTS TO: http://dog.htb/.git/objects/47/
+301   312B   http://dog.htb/.git/objects/46    -> REDIRECTS TO: http://dog.htb/.git/objects/46/
+301   312B   http://dog.htb/.git/objects/52    -> REDIRECTS TO: http://dog.htb/.git/objects/52/
+301   312B   http://dog.htb/.git/objects/57    -> REDIRECTS TO: http://dog.htb/.git/objects/57/
+301   312B   http://dog.htb/.git/objects/54    -> REDIRECTS TO: http://dog.htb/.git/objects/54/
+301   312B   http://dog.htb/.git/objects/59    -> REDIRECTS TO: http://dog.htb/.git/objects/59/
+301   312B   http://dog.htb/.git/objects/56    -> REDIRECTS TO: http://dog.htb/.git/objects/56/
+301   312B   http://dog.htb/.git/objects/60    -> REDIRECTS TO: http://dog.htb/.git/objects/60/
+301   312B   http://dog.htb/.git/objects/50    -> REDIRECTS TO: http://dog.htb/.git/objects/50/
+301   312B   http://dog.htb/.git/objects/51    -> REDIRECTS TO: http://dog.htb/.git/objects/51/
+301   312B   http://dog.htb/.git/objects/61    -> REDIRECTS TO: http://dog.htb/.git/objects/61/
+301   312B   http://dog.htb/.git/objects/53    -> REDIRECTS TO: http://dog.htb/.git/objects/53/
+301   312B   http://dog.htb/.git/objects/62    -> REDIRECTS TO: http://dog.htb/.git/objects/62/
+301   312B   http://dog.htb/.git/objects/63    -> REDIRECTS TO: http://dog.htb/.git/objects/63/
+301   312B   http://dog.htb/.git/objects/68    -> REDIRECTS TO: http://dog.htb/.git/objects/68/
+301   312B   http://dog.htb/.git/objects/66    -> REDIRECTS TO: http://dog.htb/.git/objects/66/
+301   312B   http://dog.htb/.git/objects/70    -> REDIRECTS TO: http://dog.htb/.git/objects/70/
+301   312B   http://dog.htb/.git/objects/71    -> REDIRECTS TO: http://dog.htb/.git/objects/71/
+301   312B   http://dog.htb/.git/objects/58    -> REDIRECTS TO: http://dog.htb/.git/objects/58/
+301   312B   http://dog.htb/.git/objects/64    -> REDIRECTS TO: http://dog.htb/.git/objects/64/
+301   312B   http://dog.htb/.git/objects/69    -> REDIRECTS TO: http://dog.htb/.git/objects/69/
+301   312B   http://dog.htb/.git/objects/65    -> REDIRECTS TO: http://dog.htb/.git/objects/65/
+301   312B   http://dog.htb/.git/objects/55    -> REDIRECTS TO: http://dog.htb/.git/objects/55/
+301   312B   http://dog.htb/.git/objects/67    -> REDIRECTS TO: http://dog.htb/.git/objects/67/
+301   312B   http://dog.htb/.git/objects/74    -> REDIRECTS TO: http://dog.htb/.git/objects/74/
+301   312B   http://dog.htb/.git/objects/76    -> REDIRECTS TO: http://dog.htb/.git/objects/76/
+301   312B   http://dog.htb/.git/objects/73    -> REDIRECTS TO: http://dog.htb/.git/objects/73/
+301   312B   http://dog.htb/.git/objects/79    -> REDIRECTS TO: http://dog.htb/.git/objects/79/
+301   312B   http://dog.htb/.git/objects/81    -> REDIRECTS TO: http://dog.htb/.git/objects/81/
+301   312B   http://dog.htb/.git/objects/77    -> REDIRECTS TO: http://dog.htb/.git/objects/77/
+301   312B   http://dog.htb/.git/objects/83    -> REDIRECTS TO: http://dog.htb/.git/objects/83/
+301   312B   http://dog.htb/.git/objects/80    -> REDIRECTS TO: http://dog.htb/.git/objects/80/
+301   312B   http://dog.htb/.git/objects/82    -> REDIRECTS TO: http://dog.htb/.git/objects/82/
+301   312B   http://dog.htb/.git/objects/86    -> REDIRECTS TO: http://dog.htb/.git/objects/86/
+301   312B   http://dog.htb/.git/objects/84    -> REDIRECTS TO: http://dog.htb/.git/objects/84/
+301   312B   http://dog.htb/.git/objects/85    -> REDIRECTS TO: http://dog.htb/.git/objects/85/
+301   312B   http://dog.htb/.git/objects/78    -> REDIRECTS TO: http://dog.htb/.git/objects/78/
+301   312B   http://dog.htb/.git/objects/72    -> REDIRECTS TO: http://dog.htb/.git/objects/72/
+301   312B   http://dog.htb/.git/objects/88    -> REDIRECTS TO: http://dog.htb/.git/objects/88/
+301   312B   http://dog.htb/.git/objects/75    -> REDIRECTS TO: http://dog.htb/.git/objects/75/
+301   312B   http://dog.htb/.git/objects/87    -> REDIRECTS TO: http://dog.htb/.git/objects/87/
+301   312B   http://dog.htb/.git/objects/89    -> REDIRECTS TO: http://dog.htb/.git/objects/89/
+301   312B   http://dog.htb/.git/objects/92    -> REDIRECTS TO: http://dog.htb/.git/objects/92/
+301   312B   http://dog.htb/.git/objects/91    -> REDIRECTS TO: http://dog.htb/.git/objects/91/
+301   312B   http://dog.htb/.git/objects/90    -> REDIRECTS TO: http://dog.htb/.git/objects/90/
+301   312B   http://dog.htb/.git/objects/93    -> REDIRECTS TO: http://dog.htb/.git/objects/93/
+301   312B   http://dog.htb/.git/objects/98    -> REDIRECTS TO: http://dog.htb/.git/objects/98/
+301   312B   http://dog.htb/.git/objects/99    -> REDIRECTS TO: http://dog.htb/.git/objects/99/
+301   312B   http://dog.htb/.git/objects/96    -> REDIRECTS TO: http://dog.htb/.git/objects/96/
+301   312B   http://dog.htb/.git/objects/97    -> REDIRECTS TO: http://dog.htb/.git/objects/97/
+301   312B   http://dog.htb/.git/objects/95    -> REDIRECTS TO: http://dog.htb/.git/objects/95/
+301   312B   http://dog.htb/.git/objects/94    -> REDIRECTS TO: http://dog.htb/.git/objects/94/
+301   312B   http://dog.htb/.git/objects/aa    -> REDIRECTS TO: http://dog.htb/.git/objects/aa/
+200   678B   http://dog.htb/.git/objects/ab/
+301   312B   http://dog.htb/.git/objects/ac    -> REDIRECTS TO: http://dog.htb/.git/objects/ac/
+301   312B   http://dog.htb/.git/objects/ad    -> REDIRECTS TO: http://dog.htb/.git/objects/ad/
+301   312B   http://dog.htb/.git/objects/bb    -> REDIRECTS TO: http://dog.htb/.git/objects/bb/
+301   312B   http://dog.htb/.git/objects/cc    -> REDIRECTS TO: http://dog.htb/.git/objects/cc/
+301   312B   http://dog.htb/.git/objects/db    -> REDIRECTS TO: http://dog.htb/.git/objects/db/
+200   852B   http://dog.htb/.git/objects/db/
+301   312B   http://dog.htb/.git/objects/de    -> REDIRECTS TO: http://dog.htb/.git/objects/de/
+301   314B   http://dog.htb/.git/objects/info    -> REDIRECTS TO: http://dog.htb/.git/objects/info/
+200   101B   http://dog.htb/core/.jshintignore
+200   335B   http://dog.htb/core/.jshintrc
+301   310B   http://dog.htb/core/includes    -> REDIRECTS TO: http://dog.htb/core/includes/
+200     1KB  http://dog.htb/core/includes/
+200   153KB  http://dog.htb/core/includes/bootstrap.inc
+200  1005B   http://dog.htb/core/install.php
+200  1005B   http://dog.htb/core/install.php?profile=default
+200   551B   http://dog.htb/core/layouts/
+301   306B   http://dog.htb/core/misc    -> REDIRECTS TO: http://dog.htb/core/misc/
+301   309B   http://dog.htb/core/modules    -> REDIRECTS TO: http://dog.htb/core/modules/
+200   815B   http://dog.htb/core/modules/
+301   310B   http://dog.htb/core/profiles    -> REDIRECTS TO: http://dog.htb/core/profiles/
+200   324B   http://dog.htb/core/profiles/minimal/minimal.info
+200   984B   http://dog.htb/core/profiles/standard/standard.info
+200   318B   http://dog.htb/core/profiles/testing/testing.info
+301   309B   http://dog.htb/core/scripts    -> REDIRECTS TO: http://dog.htb/core/scripts/
+200   585B   http://dog.htb/core/scripts/
+301   308B   http://dog.htb/core/themes    -> REDIRECTS TO: http://dog.htb/core/themes/
+200   488B   http://dog.htb/core/themes/
+301   305B   http://dog.htb/files/js    -> REDIRECTS TO: http://dog.htb/files/js/
+301   306B   http://dog.htb/files/css    -> REDIRECTS TO: http://dog.htb/files/css/
+200     3KB  http://dog.htb/files/js/
+200   112B   http://dog.htb/files/README.md
+301   309B   http://dog.htb/files/styles    -> REDIRECTS TO: http://dog.htb/files/styles/
+200     1KB  http://dog.htb/layouts/README.md
+200     3KB  http://dog.htb/sites/README.md
+200     1KB  http://dog.htb/themes/README.md

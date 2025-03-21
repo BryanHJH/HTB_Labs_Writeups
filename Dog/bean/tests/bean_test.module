@@ -1,0 +1,69 @@
+<?php
+
+/**
+ * @file
+ * Primary hook implementations for the Bean Test module.
+ */
+
+/**
+ * Implements hook_bean_types_api_info().
+ */
+function bean_test_bean_types_api_info() {
+  return array(
+    'api' => 4,
+  );
+}
+
+/**
+ * Implements hook_bean_types().
+ */
+function bean_test_bean_types() {
+  $plugins = array();
+
+  $plugins['test_bean'] = array(
+    'label' => t('Test'),
+    'description' => t('This is a test plugin'),
+    'handler' => array(
+      'class' => 'BeanTestPlugin',
+      'parent' => 'bean',
+    ),
+  );
+
+  $plugins['test_bean_2'] = array(
+    'label' => t('Test 2'),
+    'description' => t('This is a test plugin'),
+    'handler' => array(
+      'class' => 'BeanTestPlugin',
+      'parent' => 'bean',
+    ),
+  );
+
+
+  $plugins['test_no_bean'] = array(
+    'label' => t('Test No Class'),
+    'description' => t('This class does not exist'),
+    'handler' => array(
+      'class' => 'ClassDoesNotExist',
+    ),
+  );
+
+  $plugins['test_wrong_class'] = array(
+    'label' => t('Test Invalid Class'),
+    'description' => t('This class does not exist'),
+    'handler' => array(
+      'class' => 'BeanPluginWrong',
+    ),
+  );
+
+  return $plugins;
+}
+
+/**
+ * Implements hook_autoload_info().
+ */
+function bean_test_autoload_info() {
+  return array(
+    'BeanTestPlugin' => 'includes/BeanTestPlugin.inc',
+    'BeanPluginWrong' => 'includes/BeanTestPlugin.inc',
+  );
+}

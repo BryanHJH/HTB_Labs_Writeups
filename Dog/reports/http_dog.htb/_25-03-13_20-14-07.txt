@@ -1,0 +1,694 @@
+# Dirsearch started Thu Mar 13 20:28:05 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://dog.htb -r
+
+301   301B   http://dog.htb/.git    -> REDIRECTS TO: http://dog.htb/.git/
+200    73B   http://dog.htb/.git/description
+200    23B   http://dog.htb/.git/HEAD
+200    95B   http://dog.htb/.git/COMMIT_EDITMSG
+200    92B   http://dog.htb/.git/config
+200   601B   http://dog.htb/.git/
+200   405B   http://dog.htb/.git/branches/
+301   311B   http://dog.htb/.git/logs/refs    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/
+200   230B   http://dog.htb/.git/logs/HEAD
+200   240B   http://dog.htb/.git/info/exclude
+200   473B   http://dog.htb/.git/logs/
+200   453B   http://dog.htb/.git/info/
+200   648B   http://dog.htb/.git/hooks/
+301   317B   http://dog.htb/.git/logs/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/logs/refs/heads/
+301   312B   http://dog.htb/.git/refs/heads    -> REDIRECTS TO: http://dog.htb/.git/refs/heads/
+200    41B   http://dog.htb/.git/refs/heads/master
+200   230B   http://dog.htb/.git/logs/refs/heads/master
+200   456B   http://dog.htb/.git/refs/
+200   337KB  http://dog.htb/.git/index
+301   311B   http://dog.htb/.git/refs/tags    -> REDIRECTS TO: http://dog.htb/.git/refs/tags/
+200     2KB  http://dog.htb/.git/objects/
+403   272B   http://dog.htb/.ht_wsr.txt
+403   272B   http://dog.htb/.htaccess_sc
+403   272B   http://dog.htb/.htaccess.save
+403   272B   http://dog.htb/.htaccessBAK
+403   272B   http://dog.htb/.htaccessOLD
+403   272B   http://dog.htb/.htaccess.orig
+403   272B   http://dog.htb/.htaccess.bak1
+403   272B   http://dog.htb/.htaccess_extra
+403   272B   http://dog.htb/.htaccess_orig
+403   272B   http://dog.htb/.htaccess.sample
+403   272B   http://dog.htb/.htaccessOLD2
+403   272B   http://dog.htb/.html
+403   272B   http://dog.htb/.htm
+403   272B   http://dog.htb/.httr-oauth
+403   272B   http://dog.htb/.htpasswds
+403   272B   http://dog.htb/.htpasswd_test
+403   272B   http://dog.htb/.php
+301   301B   http://dog.htb/core    -> REDIRECTS TO: http://dog.htb/core/
+301   302B   http://dog.htb/files    -> REDIRECTS TO: http://dog.htb/files/
+200   616B   http://dog.htb/files/
+404     2KB  http://dog.htb/index.php/login/
+200   453B   http://dog.htb/layouts/
+200     7KB  http://dog.htb/LICENSE.txt
+301   304B   http://dog.htb/modules    -> REDIRECTS TO: http://dog.htb/modules/
+200   442B   http://dog.htb/modules/
+200     5KB  http://dog.htb/README.md
+200   528B   http://dog.htb/robots.txt
+403   272B   http://dog.htb/server-status
+403   272B   http://dog.htb/server-status/
+200     0B   http://dog.htb/settings.php
+301   302B   http://dog.htb/sites    -> REDIRECTS TO: http://dog.htb/sites/
+200   451B   http://dog.htb/themes/
+301   303B   http://dog.htb/themes    -> REDIRECTS TO: http://dog.htb/themes/
+403   272B   http://dog.htb/.git/.ht_wsr.txt
+403   272B   http://dog.htb/.git/.htaccess.bak1
+403   272B   http://dog.htb/.git/.htaccess.orig
+403   272B   http://dog.htb/.git/.htaccess.save
+403   272B   http://dog.htb/.git/.htaccess_sc
+403   272B   http://dog.htb/.git/.htaccessOLD
+403   272B   http://dog.htb/.git/.htaccess_extra
+403   272B   http://dog.htb/.git/.htaccess_orig
+403   272B   http://dog.htb/.git/.htaccessBAK
+403   272B   http://dog.htb/.git/.htaccess.sample
+403   272B   http://dog.htb/.git/.htaccessOLD2
+403   272B   http://dog.htb/.git/.html
+403   272B   http://dog.htb/.git/.htm
+403   272B   http://dog.htb/.git/.htpasswd_test
+403   272B   http://dog.htb/.git/.htpasswds
+403   272B   http://dog.htb/.git/.httr-oauth
+403   272B   http://dog.htb/.git/.php
+301   306B   http://dog.htb/.git/info    -> REDIRECTS TO: http://dog.htb/.git/info/
+301   306B   http://dog.htb/.git/logs    -> REDIRECTS TO: http://dog.htb/.git/logs/
+301   309B   http://dog.htb/.git/objects    -> REDIRECTS TO: http://dog.htb/.git/objects/
+403   272B   http://dog.htb/.git/branches/.ht_wsr.txt
+403   272B   http://dog.htb/.git/branches/.htaccess.bak1
+403   272B   http://dog.htb/.git/branches/.htaccessOLD2
+403   272B   http://dog.htb/.git/branches/.htaccess_sc
+403   272B   http://dog.htb/.git/branches/.htaccessOLD
+403   272B   http://dog.htb/.git/branches/.htaccess.save
+403   272B   http://dog.htb/.git/branches/.htpasswds
+403   272B   http://dog.htb/.git/branches/.html
+403   272B   http://dog.htb/.git/branches/.htaccess.sample
+403   272B   http://dog.htb/.git/branches/.htaccess_orig
+403   272B   http://dog.htb/.git/branches/.htpasswd_test
+403   272B   http://dog.htb/.git/branches/.htm
+403   272B   http://dog.htb/.git/branches/.htaccessBAK
+403   272B   http://dog.htb/.git/branches/.htaccess_extra
+403   272B   http://dog.htb/.git/branches/.htaccess.orig
+403   272B   http://dog.htb/.git/branches/.httr-oauth
+403   272B   http://dog.htb/.git/branches/.php
+403   272B   http://dog.htb/.git/logs/refs/.ht_wsr.txt
+403   272B   http://dog.htb/.git/logs/refs/.htaccess.orig
+403   272B   http://dog.htb/.git/logs/refs/.htaccess.sample
+403   272B   http://dog.htb/.git/logs/refs/.htaccess.bak1
+403   272B   http://dog.htb/.git/logs/refs/.htaccess_extra
+403   272B   http://dog.htb/.git/logs/refs/.htaccessBAK
+403   272B   http://dog.htb/.git/logs/refs/.htaccess_orig
+403   272B   http://dog.htb/.git/logs/refs/.htaccess.save
+403   272B   http://dog.htb/.git/logs/refs/.htaccess_sc
+403   272B   http://dog.htb/.git/logs/refs/.htaccessOLD2
+403   272B   http://dog.htb/.git/logs/refs/.htaccessOLD
+403   272B   http://dog.htb/.git/logs/refs/.htm
+403   272B   http://dog.htb/.git/logs/refs/.html
+403   272B   http://dog.htb/.git/logs/refs/.httr-oauth
+403   272B   http://dog.htb/.git/logs/refs/.htpasswd_test
+403   272B   http://dog.htb/.git/logs/refs/.htpasswds
+403   272B   http://dog.htb/.git/logs/refs/.php
+403   272B   http://dog.htb/.git/info/.ht_wsr.txt
+403   272B   http://dog.htb/.git/info/.htaccess.bak1
+403   272B   http://dog.htb/.git/info/.htaccess.orig
+403   272B   http://dog.htb/.git/info/.htaccess_orig
+403   272B   http://dog.htb/.git/info/.htaccess.sample
+403   272B   http://dog.htb/.git/info/.htaccess.save
+403   272B   http://dog.htb/.git/info/.htaccess_extra
+403   272B   http://dog.htb/.git/info/.htaccessOLD
+403   272B   http://dog.htb/.git/info/.htaccessBAK
+403   272B   http://dog.htb/.git/info/.htaccess_sc
+403   272B   http://dog.htb/.git/info/.htaccessOLD2
+403   272B   http://dog.htb/.git/info/.html
+403   272B   http://dog.htb/.git/info/.htpasswds
+403   272B   http://dog.htb/.git/info/.htm
+403   272B   http://dog.htb/.git/info/.htpasswd_test
+403   272B   http://dog.htb/.git/info/.httr-oauth
+403   272B   http://dog.htb/.git/info/.php
+403   272B   http://dog.htb/.git/logs/.ht_wsr.txt
+403   272B   http://dog.htb/.git/logs/.htaccess.bak1
+403   272B   http://dog.htb/.git/logs/.htaccess.save
+403   272B   http://dog.htb/.git/logs/.htaccess.orig
+403   272B   http://dog.htb/.git/logs/.htaccessBAK
+403   272B   http://dog.htb/.git/logs/.htaccess_extra
+403   272B   http://dog.htb/.git/logs/.htaccess_sc
+403   272B   http://dog.htb/.git/logs/.html
+403   272B   http://dog.htb/.git/logs/.htaccessOLD
+403   272B   http://dog.htb/.git/logs/.htaccess.sample
+403   272B   http://dog.htb/.git/logs/.htaccessOLD2
+403   272B   http://dog.htb/.git/logs/.htaccess_orig
+403   272B   http://dog.htb/.git/logs/.htm
+403   272B   http://dog.htb/.git/logs/.htpasswd_test
+403   272B   http://dog.htb/.git/logs/.htpasswds
+403   272B   http://dog.htb/.git/logs/.httr-oauth
+403   272B   http://dog.htb/.git/logs/.php
+403   272B   http://dog.htb/.git/hooks/.ht_wsr.txt
+403   272B   http://dog.htb/.git/hooks/.htaccess.bak1
+403   272B   http://dog.htb/.git/hooks/.htaccess.orig
+403   272B   http://dog.htb/.git/hooks/.htaccess_extra
+403   272B   http://dog.htb/.git/hooks/.htaccess_sc
+403   272B   http://dog.htb/.git/hooks/.htaccess.save
+403   272B   http://dog.htb/.git/hooks/.htaccess_orig
+403   272B   http://dog.htb/.git/hooks/.htaccessBAK
+403   272B   http://dog.htb/.git/hooks/.htaccess.sample
+403   272B   http://dog.htb/.git/hooks/.htaccessOLD
+403   272B   http://dog.htb/.git/hooks/.htaccessOLD2
+403   272B   http://dog.htb/.git/hooks/.htpasswds
+403   272B   http://dog.htb/.git/hooks/.httr-oauth
+403   272B   http://dog.htb/.git/hooks/.html
+403   272B   http://dog.htb/.git/hooks/.htm
+403   272B   http://dog.htb/.git/hooks/.htpasswd_test
+403   272B   http://dog.htb/.git/hooks/.php
+403   272B   http://dog.htb/.git/logs/refs/heads/.ht_wsr.txt
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess.bak1
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess.sample
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess.save
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess.orig
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess_extra
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess_orig
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccess_sc
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccessBAK
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccessOLD2
+403   272B   http://dog.htb/.git/logs/refs/heads/.html
+403   272B   http://dog.htb/.git/logs/refs/heads/.htpasswd_test
+403   272B   http://dog.htb/.git/logs/refs/heads/.htm
+403   272B   http://dog.htb/.git/logs/refs/heads/.htaccessOLD
+403   272B   http://dog.htb/.git/logs/refs/heads/.httr-oauth
+403   272B   http://dog.htb/.git/logs/refs/heads/.htpasswds
+403   272B   http://dog.htb/.git/logs/refs/heads/.php
+403   272B   http://dog.htb/.git/refs/heads/.htaccess.orig
+403   272B   http://dog.htb/.git/refs/heads/.ht_wsr.txt
+403   272B   http://dog.htb/.git/refs/heads/.htaccess.bak1
+403   272B   http://dog.htb/.git/refs/heads/.htaccessOLD
+403   272B   http://dog.htb/.git/refs/heads/.htaccess.save
+403   272B   http://dog.htb/.git/refs/heads/.htaccess_extra
+403   272B   http://dog.htb/.git/refs/heads/.htaccess_orig
+403   272B   http://dog.htb/.git/refs/heads/.htaccessBAK
+403   272B   http://dog.htb/.git/refs/heads/.htaccessOLD2
+403   272B   http://dog.htb/.git/refs/heads/.htaccess.sample
+403   272B   http://dog.htb/.git/refs/heads/.htpasswd_test
+403   272B   http://dog.htb/.git/refs/heads/.htpasswds
+403   272B   http://dog.htb/.git/refs/heads/.htaccess_sc
+403   272B   http://dog.htb/.git/refs/heads/.html
+403   272B   http://dog.htb/.git/refs/heads/.htm
+403   272B   http://dog.htb/.git/refs/heads/.httr-oauth
+403   272B   http://dog.htb/.git/refs/heads/.php
+403   272B   http://dog.htb/.git/refs/.ht_wsr.txt
+403   272B   http://dog.htb/.git/refs/.htaccess.bak1
+403   272B   http://dog.htb/.git/refs/.htaccess_extra
+403   272B   http://dog.htb/.git/refs/.htaccess.orig
+403   272B   http://dog.htb/.git/refs/.htaccess_orig
+403   272B   http://dog.htb/.git/refs/.htaccess.save
+403   272B   http://dog.htb/.git/refs/.htaccess.sample
+403   272B   http://dog.htb/.git/refs/.htaccessBAK
+403   272B   http://dog.htb/.git/refs/.htaccess_sc
+403   272B   http://dog.htb/.git/refs/.htaccessOLD
+403   272B   http://dog.htb/.git/refs/.htaccessOLD2
+403   272B   http://dog.htb/.git/refs/.httr-oauth
+403   272B   http://dog.htb/.git/refs/.htpasswd_test
+403   272B   http://dog.htb/.git/refs/.html
+403   272B   http://dog.htb/.git/refs/.htm
+403   272B   http://dog.htb/.git/refs/.htpasswds
+403   272B   http://dog.htb/.git/refs/.php
+403   272B   http://dog.htb/.git/refs/tags/.htaccess.bak1
+403   272B   http://dog.htb/.git/refs/tags/.ht_wsr.txt
+403   272B   http://dog.htb/.git/refs/tags/.htaccess.sample
+403   272B   http://dog.htb/.git/refs/tags/.htaccess.orig
+403   272B   http://dog.htb/.git/refs/tags/.htaccess_orig
+403   272B   http://dog.htb/.git/refs/tags/.htaccess_extra
+403   272B   http://dog.htb/.git/refs/tags/.htaccessBAK
+403   272B   http://dog.htb/.git/refs/tags/.htaccess.save
+403   272B   http://dog.htb/.git/refs/tags/.htaccessOLD2
+403   272B   http://dog.htb/.git/refs/tags/.htaccessOLD
+403   272B   http://dog.htb/.git/refs/tags/.htpasswd_test
+403   272B   http://dog.htb/.git/refs/tags/.htaccess_sc
+403   272B   http://dog.htb/.git/refs/tags/.html
+403   272B   http://dog.htb/.git/refs/tags/.htm
+403   272B   http://dog.htb/.git/refs/tags/.htpasswds
+403   272B   http://dog.htb/.git/refs/tags/.httr-oauth
+403   272B   http://dog.htb/.git/refs/tags/.php
+403   272B   http://dog.htb/.git/objects/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/.htaccess.save
+403   272B   http://dog.htb/.git/objects/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/.html
+403   272B   http://dog.htb/.git/objects/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/.htm
+403   272B   http://dog.htb/.git/objects/.httr-oauth
+403   272B   http://dog.htb/.git/objects/.htpasswds
+403   272B   http://dog.htb/.git/objects/.php
+301   312B   http://dog.htb/.git/objects/00    -> REDIRECTS TO: http://dog.htb/.git/objects/00/
+301   312B   http://dog.htb/.git/objects/02    -> REDIRECTS TO: http://dog.htb/.git/objects/02/
+301   312B   http://dog.htb/.git/objects/01    -> REDIRECTS TO: http://dog.htb/.git/objects/01/
+301   312B   http://dog.htb/.git/objects/06    -> REDIRECTS TO: http://dog.htb/.git/objects/06/
+301   312B   http://dog.htb/.git/objects/05    -> REDIRECTS TO: http://dog.htb/.git/objects/05/
+301   312B   http://dog.htb/.git/objects/04    -> REDIRECTS TO: http://dog.htb/.git/objects/04/
+301   312B   http://dog.htb/.git/objects/08    -> REDIRECTS TO: http://dog.htb/.git/objects/08/
+301   312B   http://dog.htb/.git/objects/03    -> REDIRECTS TO: http://dog.htb/.git/objects/03/
+301   312B   http://dog.htb/.git/objects/07    -> REDIRECTS TO: http://dog.htb/.git/objects/07/
+301   312B   http://dog.htb/.git/objects/09    -> REDIRECTS TO: http://dog.htb/.git/objects/09/
+301   312B   http://dog.htb/.git/objects/10    -> REDIRECTS TO: http://dog.htb/.git/objects/10/
+301   312B   http://dog.htb/.git/objects/13    -> REDIRECTS TO: http://dog.htb/.git/objects/13/
+301   312B   http://dog.htb/.git/objects/17    -> REDIRECTS TO: http://dog.htb/.git/objects/17/
+301   312B   http://dog.htb/.git/objects/11    -> REDIRECTS TO: http://dog.htb/.git/objects/11/
+301   312B   http://dog.htb/.git/objects/18    -> REDIRECTS TO: http://dog.htb/.git/objects/18/
+301   312B   http://dog.htb/.git/objects/19    -> REDIRECTS TO: http://dog.htb/.git/objects/19/
+301   312B   http://dog.htb/.git/objects/14    -> REDIRECTS TO: http://dog.htb/.git/objects/14/
+301   312B   http://dog.htb/.git/objects/15    -> REDIRECTS TO: http://dog.htb/.git/objects/15/
+301   312B   http://dog.htb/.git/objects/12    -> REDIRECTS TO: http://dog.htb/.git/objects/12/
+301   312B   http://dog.htb/.git/objects/16    -> REDIRECTS TO: http://dog.htb/.git/objects/16/
+200   926B   http://dog.htb/.git/objects/1c/
+301   312B   http://dog.htb/.git/objects/20    -> REDIRECTS TO: http://dog.htb/.git/objects/20/
+301   312B   http://dog.htb/.git/objects/21    -> REDIRECTS TO: http://dog.htb/.git/objects/21/
+301   312B   http://dog.htb/.git/objects/22    -> REDIRECTS TO: http://dog.htb/.git/objects/22/
+301   312B   http://dog.htb/.git/objects/25    -> REDIRECTS TO: http://dog.htb/.git/objects/25/
+301   312B   http://dog.htb/.git/objects/23    -> REDIRECTS TO: http://dog.htb/.git/objects/23/
+301   312B   http://dog.htb/.git/objects/26    -> REDIRECTS TO: http://dog.htb/.git/objects/26/
+301   312B   http://dog.htb/.git/objects/32    -> REDIRECTS TO: http://dog.htb/.git/objects/32/
+301   312B   http://dog.htb/.git/objects/29    -> REDIRECTS TO: http://dog.htb/.git/objects/29/
+301   312B   http://dog.htb/.git/objects/24    -> REDIRECTS TO: http://dog.htb/.git/objects/24/
+301   312B   http://dog.htb/.git/objects/30    -> REDIRECTS TO: http://dog.htb/.git/objects/30/
+301   312B   http://dog.htb/.git/objects/37    -> REDIRECTS TO: http://dog.htb/.git/objects/37/
+301   312B   http://dog.htb/.git/objects/35    -> REDIRECTS TO: http://dog.htb/.git/objects/35/
+301   312B   http://dog.htb/.git/objects/39    -> REDIRECTS TO: http://dog.htb/.git/objects/39/
+301   312B   http://dog.htb/.git/objects/31    -> REDIRECTS TO: http://dog.htb/.git/objects/31/
+301   312B   http://dog.htb/.git/objects/27    -> REDIRECTS TO: http://dog.htb/.git/objects/27/
+301   312B   http://dog.htb/.git/objects/38    -> REDIRECTS TO: http://dog.htb/.git/objects/38/
+301   312B   http://dog.htb/.git/objects/36    -> REDIRECTS TO: http://dog.htb/.git/objects/36/
+301   312B   http://dog.htb/.git/objects/28    -> REDIRECTS TO: http://dog.htb/.git/objects/28/
+301   312B   http://dog.htb/.git/objects/34    -> REDIRECTS TO: http://dog.htb/.git/objects/34/
+301   312B   http://dog.htb/.git/objects/33    -> REDIRECTS TO: http://dog.htb/.git/objects/33/
+301   312B   http://dog.htb/.git/objects/40    -> REDIRECTS TO: http://dog.htb/.git/objects/40/
+301   312B   http://dog.htb/.git/objects/41    -> REDIRECTS TO: http://dog.htb/.git/objects/41/
+301   312B   http://dog.htb/.git/objects/50    -> REDIRECTS TO: http://dog.htb/.git/objects/50/
+301   312B   http://dog.htb/.git/objects/47    -> REDIRECTS TO: http://dog.htb/.git/objects/47/
+301   312B   http://dog.htb/.git/objects/44    -> REDIRECTS TO: http://dog.htb/.git/objects/44/
+301   312B   http://dog.htb/.git/objects/48    -> REDIRECTS TO: http://dog.htb/.git/objects/48/
+301   312B   http://dog.htb/.git/objects/42    -> REDIRECTS TO: http://dog.htb/.git/objects/42/
+301   312B   http://dog.htb/.git/objects/46    -> REDIRECTS TO: http://dog.htb/.git/objects/46/
+301   312B   http://dog.htb/.git/objects/43    -> REDIRECTS TO: http://dog.htb/.git/objects/43/
+301   312B   http://dog.htb/.git/objects/55    -> REDIRECTS TO: http://dog.htb/.git/objects/55/
+301   312B   http://dog.htb/.git/objects/53    -> REDIRECTS TO: http://dog.htb/.git/objects/53/
+301   312B   http://dog.htb/.git/objects/45    -> REDIRECTS TO: http://dog.htb/.git/objects/45/
+301   312B   http://dog.htb/.git/objects/51    -> REDIRECTS TO: http://dog.htb/.git/objects/51/
+301   312B   http://dog.htb/.git/objects/49    -> REDIRECTS TO: http://dog.htb/.git/objects/49/
+301   312B   http://dog.htb/.git/objects/54    -> REDIRECTS TO: http://dog.htb/.git/objects/54/
+301   312B   http://dog.htb/.git/objects/52    -> REDIRECTS TO: http://dog.htb/.git/objects/52/
+301   312B   http://dog.htb/.git/objects/57    -> REDIRECTS TO: http://dog.htb/.git/objects/57/
+301   312B   http://dog.htb/.git/objects/59    -> REDIRECTS TO: http://dog.htb/.git/objects/59/
+301   312B   http://dog.htb/.git/objects/66    -> REDIRECTS TO: http://dog.htb/.git/objects/66/
+301   312B   http://dog.htb/.git/objects/56    -> REDIRECTS TO: http://dog.htb/.git/objects/56/
+301   312B   http://dog.htb/.git/objects/58    -> REDIRECTS TO: http://dog.htb/.git/objects/58/
+301   312B   http://dog.htb/.git/objects/63    -> REDIRECTS TO: http://dog.htb/.git/objects/63/
+301   312B   http://dog.htb/.git/objects/68    -> REDIRECTS TO: http://dog.htb/.git/objects/68/
+301   312B   http://dog.htb/.git/objects/65    -> REDIRECTS TO: http://dog.htb/.git/objects/65/
+301   312B   http://dog.htb/.git/objects/64    -> REDIRECTS TO: http://dog.htb/.git/objects/64/
+301   312B   http://dog.htb/.git/objects/60    -> REDIRECTS TO: http://dog.htb/.git/objects/60/
+301   312B   http://dog.htb/.git/objects/67    -> REDIRECTS TO: http://dog.htb/.git/objects/67/
+301   312B   http://dog.htb/.git/objects/69    -> REDIRECTS TO: http://dog.htb/.git/objects/69/
+301   312B   http://dog.htb/.git/objects/61    -> REDIRECTS TO: http://dog.htb/.git/objects/61/
+301   312B   http://dog.htb/.git/objects/70    -> REDIRECTS TO: http://dog.htb/.git/objects/70/
+301   312B   http://dog.htb/.git/objects/62    -> REDIRECTS TO: http://dog.htb/.git/objects/62/
+301   312B   http://dog.htb/.git/objects/71    -> REDIRECTS TO: http://dog.htb/.git/objects/71/
+301   312B   http://dog.htb/.git/objects/78    -> REDIRECTS TO: http://dog.htb/.git/objects/78/
+301   312B   http://dog.htb/.git/objects/74    -> REDIRECTS TO: http://dog.htb/.git/objects/74/
+301   312B   http://dog.htb/.git/objects/75    -> REDIRECTS TO: http://dog.htb/.git/objects/75/
+301   312B   http://dog.htb/.git/objects/76    -> REDIRECTS TO: http://dog.htb/.git/objects/76/
+301   312B   http://dog.htb/.git/objects/72    -> REDIRECTS TO: http://dog.htb/.git/objects/72/
+301   312B   http://dog.htb/.git/objects/73    -> REDIRECTS TO: http://dog.htb/.git/objects/73/
+301   312B   http://dog.htb/.git/objects/77    -> REDIRECTS TO: http://dog.htb/.git/objects/77/
+301   312B   http://dog.htb/.git/objects/80    -> REDIRECTS TO: http://dog.htb/.git/objects/80/
+301   312B   http://dog.htb/.git/objects/79    -> REDIRECTS TO: http://dog.htb/.git/objects/79/
+301   312B   http://dog.htb/.git/objects/86    -> REDIRECTS TO: http://dog.htb/.git/objects/86/
+301   312B   http://dog.htb/.git/objects/85    -> REDIRECTS TO: http://dog.htb/.git/objects/85/
+301   312B   http://dog.htb/.git/objects/84    -> REDIRECTS TO: http://dog.htb/.git/objects/84/
+301   312B   http://dog.htb/.git/objects/81    -> REDIRECTS TO: http://dog.htb/.git/objects/81/
+301   312B   http://dog.htb/.git/objects/83    -> REDIRECTS TO: http://dog.htb/.git/objects/83/
+301   312B   http://dog.htb/.git/objects/87    -> REDIRECTS TO: http://dog.htb/.git/objects/87/
+301   312B   http://dog.htb/.git/objects/92    -> REDIRECTS TO: http://dog.htb/.git/objects/92/
+301   312B   http://dog.htb/.git/objects/82    -> REDIRECTS TO: http://dog.htb/.git/objects/82/
+301   312B   http://dog.htb/.git/objects/96    -> REDIRECTS TO: http://dog.htb/.git/objects/96/
+301   312B   http://dog.htb/.git/objects/93    -> REDIRECTS TO: http://dog.htb/.git/objects/93/
+301   312B   http://dog.htb/.git/objects/90    -> REDIRECTS TO: http://dog.htb/.git/objects/90/
+301   312B   http://dog.htb/.git/objects/98    -> REDIRECTS TO: http://dog.htb/.git/objects/98/
+301   312B   http://dog.htb/.git/objects/99    -> REDIRECTS TO: http://dog.htb/.git/objects/99/
+301   312B   http://dog.htb/.git/objects/91    -> REDIRECTS TO: http://dog.htb/.git/objects/91/
+301   312B   http://dog.htb/.git/objects/94    -> REDIRECTS TO: http://dog.htb/.git/objects/94/
+301   312B   http://dog.htb/.git/objects/89    -> REDIRECTS TO: http://dog.htb/.git/objects/89/
+301   312B   http://dog.htb/.git/objects/88    -> REDIRECTS TO: http://dog.htb/.git/objects/88/
+301   312B   http://dog.htb/.git/objects/95    -> REDIRECTS TO: http://dog.htb/.git/objects/95/
+301   312B   http://dog.htb/.git/objects/97    -> REDIRECTS TO: http://dog.htb/.git/objects/97/
+301   312B   http://dog.htb/.git/objects/aa    -> REDIRECTS TO: http://dog.htb/.git/objects/aa/
+200   678B   http://dog.htb/.git/objects/ab/
+301   312B   http://dog.htb/.git/objects/ac    -> REDIRECTS TO: http://dog.htb/.git/objects/ac/
+301   312B   http://dog.htb/.git/objects/ad    -> REDIRECTS TO: http://dog.htb/.git/objects/ad/
+301   312B   http://dog.htb/.git/objects/bb    -> REDIRECTS TO: http://dog.htb/.git/objects/bb/
+301   312B   http://dog.htb/.git/objects/cc    -> REDIRECTS TO: http://dog.htb/.git/objects/cc/
+301   312B   http://dog.htb/.git/objects/db    -> REDIRECTS TO: http://dog.htb/.git/objects/db/
+200   852B   http://dog.htb/.git/objects/db/
+301   312B   http://dog.htb/.git/objects/de    -> REDIRECTS TO: http://dog.htb/.git/objects/de/
+301   314B   http://dog.htb/.git/objects/info    -> REDIRECTS TO: http://dog.htb/.git/objects/info/
+403   272B   http://dog.htb/core/.ht_wsr.txt
+403   272B   http://dog.htb/core/.htaccess.sample
+403   272B   http://dog.htb/core/.htaccess.bak1
+403   272B   http://dog.htb/core/.htaccess.save
+403   272B   http://dog.htb/core/.htaccessBAK
+403   272B   http://dog.htb/core/.htaccess_sc
+403   272B   http://dog.htb/core/.htaccessOLD2
+403   272B   http://dog.htb/core/.htm
+403   272B   http://dog.htb/core/.htaccess.orig
+403   272B   http://dog.htb/core/.html
+403   272B   http://dog.htb/core/.htaccessOLD
+403   272B   http://dog.htb/core/.htaccess_orig
+403   272B   http://dog.htb/core/.htpasswds
+403   272B   http://dog.htb/core/.htpasswd_test
+403   272B   http://dog.htb/core/.httr-oauth
+403   272B   http://dog.htb/core/.htaccess_extra
+200   101B   http://dog.htb/core/.jshintignore
+200   335B   http://dog.htb/core/.jshintrc
+403   272B   http://dog.htb/core/.php
+403     2KB  http://dog.htb/core/authorize.php
+403     2KB  http://dog.htb/core/cron.php
+200     1KB  http://dog.htb/core/includes/
+301   310B   http://dog.htb/core/includes    -> REDIRECTS TO: http://dog.htb/core/includes/
+200   153KB  http://dog.htb/core/includes/bootstrap.inc
+200  1005B   http://dog.htb/core/install.php
+200  1005B   http://dog.htb/core/install.php?profile=default
+200   551B   http://dog.htb/core/layouts/
+301   306B   http://dog.htb/core/misc    -> REDIRECTS TO: http://dog.htb/core/misc/
+301   309B   http://dog.htb/core/modules    -> REDIRECTS TO: http://dog.htb/core/modules/
+200   815B   http://dog.htb/core/modules/
+301   310B   http://dog.htb/core/profiles    -> REDIRECTS TO: http://dog.htb/core/profiles/
+200   318B   http://dog.htb/core/profiles/testing/testing.info
+200   324B   http://dog.htb/core/profiles/minimal/minimal.info
+200   984B   http://dog.htb/core/profiles/standard/standard.info
+200   585B   http://dog.htb/core/scripts/
+301   309B   http://dog.htb/core/scripts    -> REDIRECTS TO: http://dog.htb/core/scripts/
+200   488B   http://dog.htb/core/themes/
+301   308B   http://dog.htb/core/themes    -> REDIRECTS TO: http://dog.htb/core/themes/
+403     3KB  http://dog.htb/core/update.php
+301   305B   http://dog.htb/files/js    -> REDIRECTS TO: http://dog.htb/files/js/
+403   272B   http://dog.htb/files/.ht_wsr.txt
+403   272B   http://dog.htb/files/.htaccess.bak1
+403   272B   http://dog.htb/files/.htaccess.orig
+403   272B   http://dog.htb/files/.htaccess.sample
+403   272B   http://dog.htb/files/.htaccess_orig
+403   272B   http://dog.htb/files/.htaccess_extra
+403   272B   http://dog.htb/files/.htaccessOLD
+403   272B   http://dog.htb/files/.htaccess.save
+403   272B   http://dog.htb/files/.htm
+403   272B   http://dog.htb/files/.htaccess_sc
+403   272B   http://dog.htb/files/.htaccessBAK
+403   272B   http://dog.htb/files/.htaccessOLD2
+403   272B   http://dog.htb/files/.html
+403   272B   http://dog.htb/files/.htpasswd_test
+403   272B   http://dog.htb/files/.httr-oauth
+403   272B   http://dog.htb/files/.htpasswds
+403   272B   http://dog.htb/files/.php
+301   306B   http://dog.htb/files/css    -> REDIRECTS TO: http://dog.htb/files/css/
+200     3KB  http://dog.htb/files/js/
+200   112B   http://dog.htb/files/README.md
+301   309B   http://dog.htb/files/styles    -> REDIRECTS TO: http://dog.htb/files/styles/
+403   272B   http://dog.htb/layouts/.htaccess.bak1
+403   272B   http://dog.htb/layouts/.ht_wsr.txt
+403   272B   http://dog.htb/layouts/.htaccess.orig
+403   272B   http://dog.htb/layouts/.htaccess.sample
+403   272B   http://dog.htb/layouts/.htaccess_extra
+403   272B   http://dog.htb/layouts/.htaccessOLD
+403   272B   http://dog.htb/layouts/.htaccessBAK
+403   272B   http://dog.htb/layouts/.htaccess.save
+403   272B   http://dog.htb/layouts/.htaccessOLD2
+403   272B   http://dog.htb/layouts/.htaccess_orig
+403   272B   http://dog.htb/layouts/.htaccess_sc
+403   272B   http://dog.htb/layouts/.htpasswds
+403   272B   http://dog.htb/layouts/.htm
+403   272B   http://dog.htb/layouts/.html
+403   272B   http://dog.htb/layouts/.httr-oauth
+403   272B   http://dog.htb/layouts/.htpasswd_test
+403   272B   http://dog.htb/layouts/.php
+200     1KB  http://dog.htb/layouts/README.md
+403   272B   http://dog.htb/modules/.ht_wsr.txt
+403   272B   http://dog.htb/modules/.htaccess.bak1
+403   272B   http://dog.htb/modules/.htaccess.sample
+403   272B   http://dog.htb/modules/.htaccess_extra
+403   272B   http://dog.htb/modules/.htaccess.orig
+403   272B   http://dog.htb/modules/.htaccessOLD
+403   272B   http://dog.htb/modules/.htaccess.save
+403   272B   http://dog.htb/modules/.htm
+403   272B   http://dog.htb/modules/.htaccessBAK
+403   272B   http://dog.htb/modules/.htaccess_orig
+403   272B   http://dog.htb/modules/.htaccessOLD2
+403   272B   http://dog.htb/modules/.htaccess_sc
+403   272B   http://dog.htb/modules/.httr-oauth
+403   272B   http://dog.htb/modules/.html
+403   272B   http://dog.htb/modules/.htpasswd_test
+403   272B   http://dog.htb/modules/.htpasswds
+403   272B   http://dog.htb/modules/.php
+404   269B   http://dog.htb/server-status/%2e%2e//google.com
+403   272B   http://dog.htb/sites/.ht_wsr.txt
+403   272B   http://dog.htb/sites/.htaccess.bak1
+403   272B   http://dog.htb/sites/.htaccess.orig
+403   272B   http://dog.htb/sites/.htaccess.sample
+403   272B   http://dog.htb/sites/.htaccess_extra
+403   272B   http://dog.htb/sites/.htaccess_sc
+403   272B   http://dog.htb/sites/.htaccess_orig
+403   272B   http://dog.htb/sites/.htaccessOLD
+403   272B   http://dog.htb/sites/.htaccessBAK
+403   272B   http://dog.htb/sites/.htaccessOLD2
+403   272B   http://dog.htb/sites/.htaccess.save
+403   272B   http://dog.htb/sites/.htpasswds
+403   272B   http://dog.htb/sites/.html
+403   272B   http://dog.htb/sites/.htm
+403   272B   http://dog.htb/sites/.httr-oauth
+403   272B   http://dog.htb/sites/.htpasswd_test
+403   272B   http://dog.htb/sites/.php
+200     3KB  http://dog.htb/sites/README.md
+403   272B   http://dog.htb/themes/.ht_wsr.txt
+403   272B   http://dog.htb/themes/.htaccess.orig
+403   272B   http://dog.htb/themes/.htaccess.sample
+403   272B   http://dog.htb/themes/.htaccess_orig
+403   272B   http://dog.htb/themes/.htaccess.save
+403   272B   http://dog.htb/themes/.htaccess_extra
+403   272B   http://dog.htb/themes/.htaccess.bak1
+403   272B   http://dog.htb/themes/.htaccessOLD
+403   272B   http://dog.htb/themes/.html
+403   272B   http://dog.htb/themes/.htaccessBAK
+403   272B   http://dog.htb/themes/.htaccess_sc
+403   272B   http://dog.htb/themes/.htaccessOLD2
+403   272B   http://dog.htb/themes/.htpasswd_test
+403   272B   http://dog.htb/themes/.htm
+403   272B   http://dog.htb/themes/.htpasswds
+403   272B   http://dog.htb/themes/.httr-oauth
+403   272B   http://dog.htb/themes/.php
+200     1KB  http://dog.htb/themes/README.md
+403   272B   http://dog.htb/.git/objects/00/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/00/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/00/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/00/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/00/.htaccess.save
+403   272B   http://dog.htb/.git/objects/00/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/00/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/00/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/00/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/00/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/00/.html
+403   272B   http://dog.htb/.git/objects/00/.htm
+403   272B   http://dog.htb/.git/objects/00/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/00/.htpasswds
+403   272B   http://dog.htb/.git/objects/00/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/00/.httr-oauth
+403   272B   http://dog.htb/.git/objects/00/.php
+403   272B   http://dog.htb/.git/objects/02/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/02/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/02/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/02/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/02/.htaccess.save
+403   272B   http://dog.htb/.git/objects/02/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/02/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/02/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/02/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/02/.htm
+403   272B   http://dog.htb/.git/objects/02/.html
+403   272B   http://dog.htb/.git/objects/02/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/02/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/02/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/02/.httr-oauth
+403   272B   http://dog.htb/.git/objects/02/.htpasswds
+403   272B   http://dog.htb/.git/objects/02/.php
+403   272B   http://dog.htb/.git/objects/01/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/01/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/01/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/01/.htm
+403   272B   http://dog.htb/.git/objects/01/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/01/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/01/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/01/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/01/.htaccess.save
+403   272B   http://dog.htb/.git/objects/01/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/01/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/01/.html
+403   272B   http://dog.htb/.git/objects/01/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/01/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/01/.htpasswds
+403   272B   http://dog.htb/.git/objects/01/.httr-oauth
+403   272B   http://dog.htb/.git/objects/01/.php
+403   272B   http://dog.htb/.git/objects/06/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/06/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/06/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/06/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/06/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/06/.htaccess.save
+403   272B   http://dog.htb/.git/objects/06/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/06/.html
+403   272B   http://dog.htb/.git/objects/06/.htm
+403   272B   http://dog.htb/.git/objects/06/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/06/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/06/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/06/.httr-oauth
+403   272B   http://dog.htb/.git/objects/06/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/06/.htpasswds
+403   272B   http://dog.htb/.git/objects/06/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/06/.php
+403   272B   http://dog.htb/.git/objects/08/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/08/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/08/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/08/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/08/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/08/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/08/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/08/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/08/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/08/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/08/.htm
+403   272B   http://dog.htb/.git/objects/08/.html
+403   272B   http://dog.htb/.git/objects/08/.htaccess.save
+403   272B   http://dog.htb/.git/objects/08/.htpasswds
+403   272B   http://dog.htb/.git/objects/08/.httr-oauth
+403   272B   http://dog.htb/.git/objects/08/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/08/.php
+403   272B   http://dog.htb/.git/objects/05/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/05/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/05/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/05/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/05/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/05/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/05/.htaccess.save
+403   272B   http://dog.htb/.git/objects/05/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/05/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/05/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/05/.htm
+403   272B   http://dog.htb/.git/objects/05/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/05/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/05/.html
+403   272B   http://dog.htb/.git/objects/05/.htpasswds
+403   272B   http://dog.htb/.git/objects/05/.httr-oauth
+403   272B   http://dog.htb/.git/objects/05/.php
+403   272B   http://dog.htb/.git/objects/04/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/04/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/04/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/04/.htaccess.save
+403   272B   http://dog.htb/.git/objects/04/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/04/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/04/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/04/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/04/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/04/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/04/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/04/.html
+403   272B   http://dog.htb/.git/objects/04/.htpasswds
+403   272B   http://dog.htb/.git/objects/04/.htm
+403   272B   http://dog.htb/.git/objects/04/.httr-oauth
+403   272B   http://dog.htb/.git/objects/04/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/04/.php
+403   272B   http://dog.htb/.git/objects/03/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/03/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/03/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/03/.htaccess.save
+403   272B   http://dog.htb/.git/objects/03/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/03/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/03/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/03/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/03/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/03/.htm
+403   272B   http://dog.htb/.git/objects/03/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/03/.htpasswds
+403   272B   http://dog.htb/.git/objects/03/.httr-oauth
+403   272B   http://dog.htb/.git/objects/03/.html
+403   272B   http://dog.htb/.git/objects/03/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/03/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/03/.php
+403   272B   http://dog.htb/.git/objects/07/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/07/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/07/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/07/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/07/.htaccess.save
+403   272B   http://dog.htb/.git/objects/07/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/07/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/07/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/07/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/07/.html
+403   272B   http://dog.htb/.git/objects/07/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/07/.htpasswds
+403   272B   http://dog.htb/.git/objects/07/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/07/.htm
+403   272B   http://dog.htb/.git/objects/07/.httr-oauth
+403   272B   http://dog.htb/.git/objects/07/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/07/.php
+403   272B   http://dog.htb/.git/objects/09/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/09/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/09/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/09/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/09/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/09/.htaccess.save
+403   272B   http://dog.htb/.git/objects/09/.htm
+403   272B   http://dog.htb/.git/objects/09/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/09/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/09/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/09/.html
+403   272B   http://dog.htb/.git/objects/09/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/09/.htpasswds
+403   272B   http://dog.htb/.git/objects/09/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/09/.httr-oauth
+403   272B   http://dog.htb/.git/objects/09/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/09/.php
+403   272B   http://dog.htb/.git/objects/10/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/10/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/10/.htaccess.save
+403   272B   http://dog.htb/.git/objects/10/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/10/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/10/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/10/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/10/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/10/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/10/.htm
+403   272B   http://dog.htb/.git/objects/10/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/10/.html
+403   272B   http://dog.htb/.git/objects/10/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/10/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/10/.httr-oauth
+403   272B   http://dog.htb/.git/objects/10/.htpasswds
+403   272B   http://dog.htb/.git/objects/10/.php
+403   272B   http://dog.htb/.git/objects/13/.ht_wsr.txt
+403   272B   http://dog.htb/.git/objects/13/.htaccess.orig
+403   272B   http://dog.htb/.git/objects/13/.htaccess.sample
+403   272B   http://dog.htb/.git/objects/13/.htaccess.bak1
+403   272B   http://dog.htb/.git/objects/13/.htaccess.save
+403   272B   http://dog.htb/.git/objects/13/.htaccess_orig
+403   272B   http://dog.htb/.git/objects/13/.htaccessOLD
+403   272B   http://dog.htb/.git/objects/13/.html
+403   272B   http://dog.htb/.git/objects/13/.htaccessOLD2
+403   272B   http://dog.htb/.git/objects/13/.htaccessBAK
+403   272B   http://dog.htb/.git/objects/13/.htm
+403   272B   http://dog.htb/.git/objects/13/.htaccess_extra
+403   272B   http://dog.htb/.git/objects/13/.htpasswds
+403   272B   http://dog.htb/.git/objects/13/.htpasswd_test
+403   272B   http://dog.htb/.git/objects/13/.httr-oauth
+403   272B   http://dog.htb/.git/objects/13/.htaccess_sc
+403   272B   http://dog.htb/.git/objects/13/.php
