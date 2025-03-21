@@ -1,0 +1,213 @@
+<?php
+
+/**
+ * @file
+ * Show where Beans are used.
+ * Currently limited to beans displayed with blockreference.
+ *
+ */
+
+/**
+ * Implements hook_menu().
+ *
+ * @return array
+ */
+function bean_usage_menu() {
+  $items = array();
+
+  $items['block/%bean_delta/usage'] = array(
+    'title' => 'Usage',
+    'description' => 'Displays a list of layouts where this bean is used.',
+    'type' => MENU_LOCAL_TASK,
+    'context' => MENU_CONTEXT_PAGE | MENU_CONTEXT_INLINE,
+    'page callback' => 'bean_usage_output',
+    'page arguments' => array(1),
+    'access arguments' => array('view bean usage'),
+  );
+
+  // Bean usage report.
+  $items['admin/reports/bean/usage'] = array(
+    'title' => t('Bean usage'),
+    'description' => 'Displays a list of Beans (blockreferences) and where they are used.',
+    'page callback' => 'bean_usage_output',
+    'page arguments' => array(4),
+    'access arguments' => array('view bean usage'),
+  );
+
+  $items['admin/reports/bean/usage/list'] = array(
+    'title' => t('Usage'),
+    'description' => 'Displays a list of Beans (blockreferences) and where they are used.',
+    'weight' => 0,
+    'page callback' => 'bean_usage_output',
+    'page arguments' => array(5),
+    'access arguments' => array('view bean usage'),
+    'type' => MENU_DEFAULT_LOCAL_TASK,
+  );
+
+  $items['admin/reports/bean/usage/settings'] = array(
+    'title' => t('Settings'),
+    'description' => t('Choose how many beans to show per page in the usage listings.'),
+    'weight' => 1,
+    'page callback' => 'backdrop_get_form',
+    'page arguments' => array('bean_usage_settings'),
+    'access arguments' => array('administer bean usage'),
+    'file' => 'includes/bean_usage.forms.inc',
+    'type' => MENU_LOCAL_TASK | MENU_NORMAL_ITEM,
+  );
+
+  return $items;
+}
+
+/**
+ * Implements hook_permission().
+ *
+ * @return array
+ */
+function bean_usage_permission() {
+  $perms = array(
+    'view bean usage' => array(
+      'title' => t('View bean usage'),
+      'description' => t('View a list of Beans and where they are used.'),
+    ),
+    'administer bean usage' => array(
+      'title' => t('Administer bean usage'),
+      'description' => t('Administer settings for the Bean usage page.'),
+    ),
+  );
+  return $perms;
+}
+
+/**
+ * Implements hook_config_info().
+ */
+function bean_usage_config_info() {
+  $prefixes['bean_usage.settings'] = array(
+    'label' => t('Bean settings'),
+    'group' => t('Configuration'),
+  );
+  return $prefixes;
+}
+
+/**
+ * Displays a table of Beans and their usage. Initially based on the core
+ * function layout_block_list().
+ *
+ * @return array
+ *   Renderable array for the page.
+ */
+function bean_usage_output($bean = NULL) {
+  module_load_include('inc', 'layout', 'layout.admin');
+  module_load_include('inc', 'bean_usage', 'includes/bean_usage.forms');
+  $per_page = config('bean_usage.settings')->get('results_per_page');
+  $bean_delta = NULL;
+  $delta_specific = FALSE;
+  $page = $allrows = array();
+
+  if (!empty($bean) && is_object($bean)) {
+    $delta_specific = TRUE;
+  }
+  else if (is_numeric($bean)) {
+    $delta_specific = TRUE;
+    $bean = bean_load($bean);
+  }
+  if (is_object($bean)) {
+    backdrop_set_title($bean->getLabel() . ' Usage');
+    $bean_delta = $bean->identifier();
+  }
+
+  if (!$delta_specific) {
+    // List of all Beans.
+    $page['filters'] = backdrop_get_form('bean_usage_filters');
+
+    $bean_blocks = layout_get_block_info('bean', $bean_delta);
+    $usage = layout_get_block_usage('bean', $bean_delta);
+
+    // Get all blocks.
+    foreach ($bean_blocks as $delta => $block) {
+      $bean = bean_delta_load($delta);
+      $usages = array();
+      if (isset($usage[$delta]) && is_array($usage)) {
+        foreach ($usage[$delta] as $layout => $layout_use) {
+          $instances = array();
+          foreach ($layout_use as $position => $block_use) {
+            foreach ($block_use as $instance) {
+              $instances[$position][] = $instance;
+            }
+          }
+          $positions = implode(', ', array_map('ucfirst', array_keys($instances)));
+          $usages[] = l($instance->layout_title . ' (' . $positions . ')', 'admin/structure/layouts/manage/' . $layout);
+        }
+      }
+      $usage_list = $usages ? theme('item_list', array('items' => $usages)) : t('Not in use');
+      $block_name = theme('label_machine_name__layout_block', array(
+        'label' => $block['info'] ?? '',
+        'machine_name' => $delta,
+      ));
+      $allrows[] = array(
+        'label' => l($bean->getLabel(), $bean->editURL()),
+        'title' => $bean->getTitle(),
+        'type' => $bean->type,
+        'usage' => $usage_list,
+      );
+    }
+  }
+  else {
+    // Single Bean.
+    $usage = layout_get_block_usage('bean', $bean_delta);
+    $usage_list = $usage ? theme('item_list', array('items' => $usage)) : t('Not in use');
+    $allrows[] = array(
+      'label' => $bean->getLabel(),
+      'title' => $bean->getTitle(),
+      'type' => $bean->type,
+      'usage' => $usage_list,
+    );
+  }
+
+  $headers = array(
+    array(
+      'data' => 'Label',
+      'field' => 'label',
+      'sort' => 'ASC',
+    ),
+    array(
+      'data' => 'Title',
+      'field' => 'title',
+    ),
+    array(
+      'data' => 'Type',
+      'field' => 'type',
+    ),
+    array(
+      'data' => 'Usage',
+      'field' => 'usage',
+    ),
+  );
+
+  backdrop_sort($allrows, array($order['sql'] => SORT_STRING));
+  $row_count = count($allrows);
+  $current_page = pager_default_initialize($row_count, $per_page);
+  $chunks = array_chunk($allrows, $per_page, TRUE);
+  $rows = $chunks[$current_page];
+  $page['description_container'] = array(
+    '#type' => 'container',
+  );
+
+  $page['description_container']['description'] = array(
+    '#type' => 'help',
+    '#markup' => t("Provides a summary of all available blocks. The 'Usage' column shows which layout and region to which blocks are currently assigned in the format 'Layout name (region)'."),
+  );
+
+  $page['table'] = array(
+    '#theme' => 'table',
+    '#header' => $headers,
+    '#rows' => $rows,
+    '#empty' => t('There are no blocks.'),
+  );
+  $page['pager'] = array(
+    '#theme' => 'pager',
+    '#quantity' => $per_page,
+    '#total' => $row_count,
+  );
+  // Return the output for page rendering.
+  return $page;
+}

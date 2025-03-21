@@ -1,0 +1,10 @@
+[PluginManagerPluginsGetInfoTestCase]
+name = Get plugin info
+description = Verify that plugin type definitions can properly set and overide values.
+group = Plugin Manager
+file = plugin_manager.test
+
+; Added by Backdrop CMS packaging script on 2023-07-25
+project = plugin_manager
+version = 1.x-1.0.0
+timestamp = 1690309161

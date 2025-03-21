@@ -1,0 +1,12 @@
+name = Bean Test
+description = Creates test plugins for bean
+backdrop = 1.x
+type = module
+
+dependencies[] = bean
+hidden = TRUE
+
+; Added by Backdrop CMS packaging script on 2025-03-05
+project = bean
+version = 1.x-1.13.0-alpha
+timestamp = 1741187093

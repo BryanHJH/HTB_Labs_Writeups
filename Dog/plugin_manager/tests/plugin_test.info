@@ -1,0 +1,12 @@
+name = Plugins test
+description = Provides hooks for testing plugins.
+package = Plugin helper
+backdrop = 1.x
+type = module
+dependencies[] = plugin_manager:plugin_manager
+hidden = TRUE
+
+; Added by Backdrop CMS packaging script on 2023-07-25
+project = plugin_manager
+version = 1.x-1.0.0
+timestamp = 1690309161

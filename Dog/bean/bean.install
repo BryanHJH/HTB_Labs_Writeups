@@ -1,0 +1,242 @@
+<?php
+
+/**
+ * @file
+ * Bean installation routines
+ */
+
+/**
+ * Implements hook_schema().
+ */
+function bean_schema() {
+  $schema['bean'] = array(
+    'description' => 'Stores bean items.',
+    'fields' => array(
+      'bid' => array(
+        'type' => 'serial',
+        'not null' => TRUE,
+        'description' => 'Primary Key: Unique bean item ID.',
+        'unsigned' => TRUE,
+      ),
+      'vid' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        'description' => 'Revision ID',
+        'unsigned' => TRUE,
+        'default' => 0,
+      ),
+      'delta' => array(
+        'description' => "The bean's {block}.delta.",
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+      ),
+      'label' => array(
+        'description' => 'The Displays in the Admin page.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'title' => array(
+        'description' => 'The human-readable name of this bean.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'type' => array(
+        'description' => 'The {bean_type}.type of this bean.',
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'view_mode' => array(
+        'description' => 'The View mode to use as the bean.',
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+        'default' => 'default',
+      ),
+      'data' => array(
+        'type' => 'text',
+        'not null' => FALSE,
+        'size' => 'big',
+        'serialize' => TRUE,
+        'description' => 'A serialized array of additional data related to this bean.',
+      ),
+      'uid' => array(
+        'description' => 'The author of the revision.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'created' => array(
+        'description' => 'The Unix timestamp when the entity was created.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'changed' => array(
+        'description' => 'The Unix timestamp when the entity was most recently saved.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+    ),
+    'foreign keys' => array(
+      'type' => array(
+        'table' => 'bean_type',
+        'columns' => array('type' => 'type'),
+      ),
+      'bean_revision' => array(
+        'table' => 'bean_revision',
+        'columns' => array('vid' => 'vid'),
+      ),
+    ),
+    'primary key' => array('bid'),
+    'unique keys' => array(
+      'vid' => array('vid'),
+      'delta' => array('delta'),
+    ),
+  );
+
+  $schema['bean_revision'] = array(
+    'description' => 'Stores bean items.',
+    'fields' => array(
+      'bid' => array(
+        'type' => 'int',
+        'not null' => TRUE,
+        'description' => 'The {bean} this version belongs to.',
+        'unsigned' => TRUE,
+        'default' => 0,
+      ),
+      'vid' => array(
+        'type' => 'serial',
+        'not null' => TRUE,
+        'description' => 'The primary identifier for this version.',
+        'unsigned' => TRUE,
+      ),
+      'delta' => array(
+        'description' => "The bean's {block}.delta.",
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+      ),
+      'label' => array(
+        'description' => 'The Displays in the Admin page.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'title' => array(
+        'description' => 'The human-readable name of this bean.',
+        'type' => 'varchar',
+        'length' => 255,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'type' => array(
+        'description' => 'The {bean_type}.type of this bean.',
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+        'default' => '',
+      ),
+      'view_mode' => array(
+        'description' => 'The View mode to use as the bean.',
+        'type' => 'varchar',
+        'length' => 32,
+        'not null' => TRUE,
+        'default' => 'default',
+      ),
+      'data' => array(
+        'type' => 'text',
+        'not null' => FALSE,
+        'size' => 'big',
+        'serialize' => TRUE,
+        'description' => 'A serialized array of additional data related to this bean.',
+      ),
+      'uid' => array(
+        'description' => 'The author of the revision.',
+        'type' => 'int',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'created' => array(
+        'description' => 'The Unix timestamp when the entity was created.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'changed' => array(
+        'description' => 'The Unix timestamp when the entity was most recently saved.',
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ),
+      'log' => array(
+        'description' => 'A log message associated with the revision.',
+        'type' => 'text',
+        'size' => 'big',
+      ),
+    ),
+    'foreign keys' => array(
+      'type' => array(
+        'table' => 'bean_type',
+        'columns' => array('type' => 'type'),
+      ),
+      'version_bean' => array(
+        'table' => 'bean',
+        'columns' => array('bid' => 'bid'),
+      ),
+    ),
+    'primary key' => array('vid'),
+    'indexes' => array(
+      'bid' => array('bid', 'vid'),
+    ),
+  );
+
+  $schema['cache_entity_bean'] = backdrop_get_schema_unprocessed('system', 'cache');
+  $schema['cache_entity_bean']['description'] = 'Entity Cache table for the Bean module.';
+
+  return $schema;
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function bean_uninstall() {
+  // Bypass entity_load() as we cannot use it here.
+  foreach (field_info_bundles('bean') as $bean_type => $bean_info) {
+    field_attach_delete_bundle('bean', $bean_type);
+  }
+}
+
+/**
+ * Implements hook_update_last_removed().
+ */
+function bean_update_last_removed() {
+  return 7013;
+}
+
+/**
+ * Migrate bean variables to config.
+ */
+function bean_update_1000() {
+  update_variable_del('bean_uid');
+  update_variable_del('bean_ctools_separate');
+  update_variable_del('bean_ctools_prefix');
+
+  // Ensure entitycache table is created for Bean.
+  $cache_table = backdrop_get_schema_unprocessed('system', 'cache');
+  $cache_table['description'] = 'Entity Cache table for the Bean module.';
+  if (db_table_exists('cache_entity_bean')) {
+    db_drop_table('cache_entity_bean');
+  }
+  db_create_table('cache_entity_bean', $table);
+}

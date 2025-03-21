@@ -1,0 +1,12 @@
+name = Bean Usage
+description = View Bean (Block Entities) Usage
+backdrop = 1.x
+type = module
+dependencies[] = bean
+dependencies[] = blockreference
+package = Bean
+
+; Added by Backdrop CMS packaging script on 2025-03-05
+project = bean
+version = 1.x-1.13.0-alpha
+timestamp = 1741187093

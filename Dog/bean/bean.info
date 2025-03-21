@@ -1,0 +1,13 @@
+name = Bean
+description = Create Bean (Block Entities)
+backdrop = 1.x
+type = module
+package = Bean
+
+dependencies[] = entity_plus
+dependencies[] = plugin_manager
+
+; Added by Backdrop CMS packaging script on 2025-03-05
+project = bean
+version = 1.x-1.13.0-alpha
+timestamp = 1741187093
