@@ -1,0 +1,7 @@
+# Dirsearch started Mon Mar 24 09:58:15 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.129.226.117:5000/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-medium-directories.txt -r
+
+302   189B   http://10.129.226.117:5000/logout    -> REDIRECTS TO: /
+200   741B   http://10.129.226.117:5000/register
+200   730B   http://10.129.226.117:5000/login
+200   818B   http://10.129.226.117:5000/about
+302   199B   http://10.129.226.117:5000/codes    -> REDIRECTS TO: /login
