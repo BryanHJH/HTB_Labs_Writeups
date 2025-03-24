@@ -1,7 +1,0 @@
-# Dirsearch started Fri Feb 21 15:51:08 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://titanic.htb/ -r
-
-405   153B   http://titanic.htb/book
-400    41B   http://titanic.htb/download
-403   276B   http://titanic.htb/server-status/
-403   276B   http://titanic.htb/server-status
-404   207B   http://titanic.htb/server-status/%2e%2e//google.com
