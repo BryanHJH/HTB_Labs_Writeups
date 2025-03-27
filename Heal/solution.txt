@@ -1,0 +1,1 @@
+Configure port forwarding to the machine's port 8500 using `ssh -L` and then search for Consul exploit and use the one from metasploit.
