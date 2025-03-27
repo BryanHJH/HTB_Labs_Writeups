@@ -1,0 +1,420 @@
+# Dirsearch started Thu Mar 27 11:17:19 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://take-survey.heal.htb -r -t 5
+
+403   564B   http://take-survey.heal.htb/.ht_wsr.txt
+403   564B   http://take-survey.heal.htb/.htaccess.bak1
+403   564B   http://take-survey.heal.htb/.htaccess.orig
+403   564B   http://take-survey.heal.htb/.htaccess.sample
+403   564B   http://take-survey.heal.htb/.htaccess.save
+403   564B   http://take-survey.heal.htb/.htaccess_extra
+403   564B   http://take-survey.heal.htb/.htaccess_orig
+403   564B   http://take-survey.heal.htb/.htaccessBAK
+403   564B   http://take-survey.heal.htb/.htaccess_sc
+403   564B   http://take-survey.heal.htb/.htaccessOLD2
+403   564B   http://take-survey.heal.htb/.htaccessOLD
+403   564B   http://take-survey.heal.htb/.htm
+403   564B   http://take-survey.heal.htb/.html
+403   564B   http://take-survey.heal.htb/.htpasswd_test
+403   564B   http://take-survey.heal.htb/.htpasswds
+403   564B   http://take-survey.heal.htb/.httr-oauth
+404     4KB  http://take-survey.heal.htb/00
+404     4KB  http://take-survey.heal.htb/01
+404     4KB  http://take-survey.heal.htb/02
+404     4KB  http://take-survey.heal.htb/03
+404     4KB  http://take-survey.heal.htb/04
+404     4KB  http://take-survey.heal.htb/05
+404     4KB  http://take-survey.heal.htb/06
+404     4KB  http://take-survey.heal.htb/07
+404     4KB  http://take-survey.heal.htb/08
+404     4KB  http://take-survey.heal.htb/09
+404     4KB  http://take-survey.heal.htb/1
+404     4KB  http://take-survey.heal.htb/10
+404     4KB  http://take-survey.heal.htb/100
+404     4KB  http://take-survey.heal.htb/1000
+404     4KB  http://take-survey.heal.htb/1001
+404     4KB  http://take-survey.heal.htb/101
+404     4KB  http://take-survey.heal.htb/102
+404     4KB  http://take-survey.heal.htb/103
+404     4KB  http://take-survey.heal.htb/11
+404     4KB  http://take-survey.heal.htb/12
+404     4KB  http://take-survey.heal.htb/123
+404     4KB  http://take-survey.heal.htb/13
+404     4KB  http://take-survey.heal.htb/14
+404     4KB  http://take-survey.heal.htb/15
+404     4KB  http://take-survey.heal.htb/16
+404     4KB  http://take-survey.heal.htb/17
+404     4KB  http://take-survey.heal.htb/18
+404     4KB  http://take-survey.heal.htb/19
+404     4KB  http://take-survey.heal.htb/1990
+404     4KB  http://take-survey.heal.htb/1992
+404     4KB  http://take-survey.heal.htb/1991
+404     4KB  http://take-survey.heal.htb/1993
+404     4KB  http://take-survey.heal.htb/1994
+404     4KB  http://take-survey.heal.htb/1995
+404     4KB  http://take-survey.heal.htb/1996
+404     4KB  http://take-survey.heal.htb/1997
+404     4KB  http://take-survey.heal.htb/1998
+404     4KB  http://take-survey.heal.htb/1999
+404     4KB  http://take-survey.heal.htb/2
+404     4KB  http://take-survey.heal.htb/2/issue/createmeta
+404     4KB  http://take-survey.heal.htb/20
+404     4KB  http://take-survey.heal.htb/200
+404     4KB  http://take-survey.heal.htb/2000
+404     4KB  http://take-survey.heal.htb/2001
+404     4KB  http://take-survey.heal.htb/2002
+404     4KB  http://take-survey.heal.htb/2003
+404     4KB  http://take-survey.heal.htb/2004
+404     4KB  http://take-survey.heal.htb/2005
+404     4KB  http://take-survey.heal.htb/2006
+404     4KB  http://take-survey.heal.htb/2008
+404     4KB  http://take-survey.heal.htb/2007
+404     4KB  http://take-survey.heal.htb/2009
+404     4KB  http://take-survey.heal.htb/2010
+404     4KB  http://take-survey.heal.htb/2011
+404     4KB  http://take-survey.heal.htb/2012
+404     4KB  http://take-survey.heal.htb/2013
+404     4KB  http://take-survey.heal.htb/2014
+404     4KB  http://take-survey.heal.htb/2015
+404     4KB  http://take-survey.heal.htb/2016
+404     4KB  http://take-survey.heal.htb/2017
+404     4KB  http://take-survey.heal.htb/2018
+404     4KB  http://take-survey.heal.htb/2019
+404     4KB  http://take-survey.heal.htb/2020
+404     4KB  http://take-survey.heal.htb/21
+404     4KB  http://take-survey.heal.htb/22
+404     4KB  http://take-survey.heal.htb/2257
+404     4KB  http://take-survey.heal.htb/23
+404     4KB  http://take-survey.heal.htb/24
+404     4KB  http://take-survey.heal.htb/25
+404     4KB  http://take-survey.heal.htb/26
+404     4KB  http://take-survey.heal.htb/27
+404     4KB  http://take-survey.heal.htb/28
+404     4KB  http://take-survey.heal.htb/29
+404     4KB  http://take-survey.heal.htb/3
+404     4KB  http://take-survey.heal.htb/30
+404     4KB  http://take-survey.heal.htb/300
+404     4KB  http://take-survey.heal.htb/31
+404     4KB  http://take-survey.heal.htb/32
+404     4KB  http://take-survey.heal.htb/33
+404     4KB  http://take-survey.heal.htb/34
+404     4KB  http://take-survey.heal.htb/35
+404     4KB  http://take-survey.heal.htb/36
+404     4KB  http://take-survey.heal.htb/37
+404     4KB  http://take-survey.heal.htb/39
+404     4KB  http://take-survey.heal.htb/38
+404     4KB  http://take-survey.heal.htb/4
+404     4KB  http://take-survey.heal.htb/40
+404     4KB  http://take-survey.heal.htb/400
+404     4KB  http://take-survey.heal.htb/401
+404     4KB  http://take-survey.heal.htb/403
+404     4KB  http://take-survey.heal.htb/404
+404     4KB  http://take-survey.heal.htb/41
+404     4KB  http://take-survey.heal.htb/42
+404     4KB  http://take-survey.heal.htb/43
+404     4KB  http://take-survey.heal.htb/44
+404     4KB  http://take-survey.heal.htb/46
+404     4KB  http://take-survey.heal.htb/45
+404     4KB  http://take-survey.heal.htb/47
+404     4KB  http://take-survey.heal.htb/48
+404     4KB  http://take-survey.heal.htb/49
+404     4KB  http://take-survey.heal.htb/5
+404     4KB  http://take-survey.heal.htb/50
+404     4KB  http://take-survey.heal.htb/500
+404     4KB  http://take-survey.heal.htb/51
+404     4KB  http://take-survey.heal.htb/52
+404     4KB  http://take-survey.heal.htb/53
+404     4KB  http://take-survey.heal.htb/54
+404     4KB  http://take-survey.heal.htb/55
+404     4KB  http://take-survey.heal.htb/56
+404     4KB  http://take-survey.heal.htb/57
+404     4KB  http://take-survey.heal.htb/58
+404     4KB  http://take-survey.heal.htb/59
+404     4KB  http://take-survey.heal.htb/6
+404     4KB  http://take-survey.heal.htb/60
+404     4KB  http://take-survey.heal.htb/61
+404     4KB  http://take-survey.heal.htb/62
+404     4KB  http://take-survey.heal.htb/63
+404     4KB  http://take-survey.heal.htb/64
+404     4KB  http://take-survey.heal.htb/65
+404     4KB  http://take-survey.heal.htb/66
+404     4KB  http://take-survey.heal.htb/67
+404     4KB  http://take-survey.heal.htb/68
+404     4KB  http://take-survey.heal.htb/69
+404     4KB  http://take-survey.heal.htb/7
+404     4KB  http://take-survey.heal.htb/70
+404     4KB  http://take-survey.heal.htb/71
+404     4KB  http://take-survey.heal.htb/72
+404     4KB  http://take-survey.heal.htb/73
+404     4KB  http://take-survey.heal.htb/74
+404     4KB  http://take-survey.heal.htb/75
+404     4KB  http://take-survey.heal.htb/76
+404     4KB  http://take-survey.heal.htb/77
+404     4KB  http://take-survey.heal.htb/78
+404     4KB  http://take-survey.heal.htb/79
+404     4KB  http://take-survey.heal.htb/8
+404     4KB  http://take-survey.heal.htb/80
+404     4KB  http://take-survey.heal.htb/81
+404     4KB  http://take-survey.heal.htb/82
+404     4KB  http://take-survey.heal.htb/83
+404     4KB  http://take-survey.heal.htb/84
+404     4KB  http://take-survey.heal.htb/85
+404     4KB  http://take-survey.heal.htb/86
+404     4KB  http://take-survey.heal.htb/87
+404     4KB  http://take-survey.heal.htb/88
+404     4KB  http://take-survey.heal.htb/89
+404     4KB  http://take-survey.heal.htb/9
+404     4KB  http://take-survey.heal.htb/90
+404     4KB  http://take-survey.heal.htb/91
+404     4KB  http://take-survey.heal.htb/92
+404     4KB  http://take-survey.heal.htb/93
+404     4KB  http://take-survey.heal.htb/94
+404     4KB  http://take-survey.heal.htb/95
+404     4KB  http://take-survey.heal.htb/96
+404     4KB  http://take-survey.heal.htb/97
+404     4KB  http://take-survey.heal.htb/98
+404     4KB  http://take-survey.heal.htb/99
+302     0B   http://take-survey.heal.htb/Admin    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+301   178B   http://take-survey.heal.htb/admin    -> REDIRECTS TO: http://take-survey.heal.htb/admin/
+302     0B   http://take-survey.heal.htb/Admin/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/    -> REDIRECTS TO: ../index.php/admin
+302     0B   http://take-survey.heal.htb/admin/%3bindex/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/.config    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/access-log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/access.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/access_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/err.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/error-log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/error.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/error_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/_logs/login.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/access.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/access.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/access_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/account    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/account.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/account.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/account.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/account.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin-login    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin-login.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin-login.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin-login.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin.php    -> REDIRECTS TO: ../index.php/admin
+302     0B   http://take-survey.heal.htb/admin/admin-login.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin/login    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin_login    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin_login.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin_login.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin_login.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/admin_login.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/adminLogin    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/adminLogin.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/adminLogin.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/adminLogin.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/adminLogin.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/backups/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/backup/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/controlpanel    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/controlpanel.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/controlpanel.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/controlpanel.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/controlpanel.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/cp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/cp.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/cp.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/cp.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/cp.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/data/autosuggest    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/default    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/default.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/default/admin.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/default/login.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+404     7KB  http://take-survey.heal.htb/admin/db/
+302     0B   http://take-survey.heal.htb/admin/dumper/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/error.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/error_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/error.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/errors.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/FCKeditor    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/upload/asp/upload.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/heapdump    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/home    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/home.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/home.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/home.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/home.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/includes/configure.php~    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/index    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/index.php    -> REDIRECTS TO: ../index.php/admin
+302     0B   http://take-survey.heal.htb/admin/index.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/index.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/index.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/index.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/js/tiny_mce    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/js/tiny_mce/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/js/tinymce    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/js/tinymce/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/Admin/knowledge/dsmgr/users/GroupManager.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/Admin/knowledge/dsmgr/users/UserManager.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/log/error.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.aspx    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.html    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.js    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.do    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.htm    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.py    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/login.rb    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/Admin/login/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logon.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/access-log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/access.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/access_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/err.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/error-log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/error.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/error_log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/errors.log    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/logs/login.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/manage    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/manage.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/manage/admin.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/manage/login.asp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/mysql/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/phpMyAdmin    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/phpMyAdmin/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/phpmyadmin/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/pMA/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/pma/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/pol_log.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/private/logs    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/release    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/scripts/fckeditor    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/secure/logon.jsp    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/signin    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/sqladmin/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/sxd/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/sysadmin/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/tiny_mce    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/tinymce    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/user_count.txt    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/views/ajax/autocomplete/user/a    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+302     0B   http://take-survey.heal.htb/admin/web/    -> REDIRECTS TO: http://take-survey.heal.htb/index.php/admin/authentication/sa/login
+503   608B   http://take-survey.heal.htb/admin_newspost.aspx
+503   608B   http://take-survey.heal.htb/admin_newspost.html
+503   608B   http://take-survey.heal.htb/admin_newspost.jsp
+503   608B   http://take-survey.heal.htb/admin_newspost.js
+503   608B   http://take-survey.heal.htb/admin_nonssl
+503   608B   http://take-survey.heal.htb/admin_online
+503   608B   http://take-survey.heal.htb/admin_options.php
+503   608B   http://take-survey.heal.htb/admin_options.js
+503   608B   http://take-survey.heal.htb/admin_options.html
+503   608B   http://take-survey.heal.htb/admin_options.jsp
+503   608B   http://take-survey.heal.htb/admin_pages
+301   178B   http://take-survey.heal.htb/application    -> REDIRECTS TO: http://take-survey.heal.htb/application/
+200   114B   http://take-survey.heal.htb/application/
+200   114B   http://take-survey.heal.htb/application/logs/
+301   178B   http://take-survey.heal.htb/assets    -> REDIRECTS TO: http://take-survey.heal.htb/assets/
+403   564B   http://take-survey.heal.htb/assets/
+301   178B   http://take-survey.heal.htb/docs    -> REDIRECTS TO: http://take-survey.heal.htb/docs/
+403   564B   http://take-survey.heal.htb/docs/
+301   178B   http://take-survey.heal.htb/editor    -> REDIRECTS TO: http://take-survey.heal.htb/editor/
+403   564B   http://take-survey.heal.htb/editor/
+200     8KB  http://take-survey.heal.htb/gulpfile.js
+404     4KB  http://take-survey.heal.htb/index.php3
+404     4KB  http://take-survey.heal.htb/index.php4
+404     4KB  http://take-survey.heal.htb/index.php5
+301   178B   http://take-survey.heal.htb/installer    -> REDIRECTS TO: http://take-survey.heal.htb/installer/
+200    48KB  http://take-survey.heal.htb/LICENSE
+301   178B   http://take-survey.heal.htb/modules    -> REDIRECTS TO: http://take-survey.heal.htb/modules/
+403   564B   http://take-survey.heal.htb/modules/
+403   564B   http://take-survey.heal.htb/modules/admin/
+301   178B   http://take-survey.heal.htb/node_modules    -> REDIRECTS TO: http://take-survey.heal.htb/node_modules/
+403   564B   http://take-survey.heal.htb/node_modules/
+301   178B   http://take-survey.heal.htb/plugins    -> REDIRECTS TO: http://take-survey.heal.htb/plugins/
+200   114B   http://take-survey.heal.htb/plugins/
+200     2KB  http://take-survey.heal.htb/README.md
+404     5KB  http://take-survey.heal.htb/register
+500    45B   http://take-survey.heal.htb/rest
+500    45B   http://take-survey.heal.htb/rest-api/
+500    45B   http://take-survey.heal.htb/rest-auth/
+500    45B   http://take-survey.heal.htb/rest/
+500    45B   http://take-survey.heal.htb/rest/api/2/dashboard
+500    45B   http://take-survey.heal.htb/rest/api/2/issue/createmeta
+500    45B   http://take-survey.heal.htb/rest/api/2/project
+500    45B   http://take-survey.heal.htb/rest/api/latest/groupuserpicker
+500    45B   http://take-survey.heal.htb/rest/beta/repositories/go/group
+500    45B   http://take-survey.heal.htb/rest/tinymce/1/macro/preview
+500    45B   http://take-survey.heal.htb/rest/v1
+500    45B   http://take-survey.heal.htb/rest/v3/doc
+500    45B   http://take-survey.heal.htb/restart
+500    45B   http://take-survey.heal.htb/restart.json
+500    45B   http://take-survey.heal.htb/restricted
+500    45B   http://take-survey.heal.htb/restricted_access/
+301   178B   http://take-survey.heal.htb/themes    -> REDIRECTS TO: http://take-survey.heal.htb/themes/
+403   564B   http://take-survey.heal.htb/themes/
+301   178B   http://take-survey.heal.htb/tmp    -> REDIRECTS TO: http://take-survey.heal.htb/tmp/
+200   255B   http://take-survey.heal.htb/tmp/
+301   178B   http://take-survey.heal.htb/upload    -> REDIRECTS TO: http://take-survey.heal.htb/upload/
+403   564B   http://take-survey.heal.htb/upload/
+401     4KB  http://take-survey.heal.htb/uploader
+401     4KB  http://take-survey.heal.htb/uploader/
+403   564B   http://take-survey.heal.htb/vendor/
+200     0B   http://take-survey.heal.htb/vendor/autoload.php
+200     0B   http://take-survey.heal.htb/vendor/composer/autoload_classmap.php
+200     0B   http://take-survey.heal.htb/vendor/composer/autoload_namespaces.php
+200     0B   http://take-survey.heal.htb/vendor/composer/autoload_psr4.php
+200     0B   http://take-survey.heal.htb/vendor/composer/autoload_real.php
+200     0B   http://take-survey.heal.htb/vendor/composer/autoload_static.php
+200     0B   http://take-survey.heal.htb/vendor/composer/ClassLoader.php
+200     1KB  http://take-survey.heal.htb/vendor/composer/LICENSE
+403   564B   http://take-survey.heal.htb/admin/.ht_wsr.txt
+403   564B   http://take-survey.heal.htb/admin/.htaccess.bak1
+403   564B   http://take-survey.heal.htb/admin/.htaccess.orig
+403   564B   http://take-survey.heal.htb/admin/.htaccess.sample
+403   564B   http://take-survey.heal.htb/admin/.htaccess.save
+403   564B   http://take-survey.heal.htb/admin/.htaccess_extra
+403   564B   http://take-survey.heal.htb/admin/.htaccess_orig
+403   564B   http://take-survey.heal.htb/admin/.htaccess_sc
+403   564B   http://take-survey.heal.htb/admin/.htaccessBAK
+403   564B   http://take-survey.heal.htb/admin/.htaccessOLD
+403   564B   http://take-survey.heal.htb/admin/.htaccessOLD2
+403   564B   http://take-survey.heal.htb/admin/.htm
+403   564B   http://take-survey.heal.htb/admin/.html
+403   564B   http://take-survey.heal.htb/admin/.htpasswd_test
+403   564B   http://take-survey.heal.htb/admin/.htpasswds
+403   564B   http://take-survey.heal.htb/admin/.httr-oauth
+200    18KB  http://take-survey.heal.htb/admin/authentication
+404     7KB  http://take-survey.heal.htb/admin/db
+404     7KB  http://take-survey.heal.htb/admin/db/db-admin/
+404     7KB  http://take-survey.heal.htb/admin/db/dbadmin/
+404     7KB  http://take-survey.heal.htb/admin/db/dbweb/
+404     7KB  http://take-survey.heal.htb/admin/db/main.mdb
+404     7KB  http://take-survey.heal.htb/admin/db/myadmin/
+404     7KB  http://take-survey.heal.htb/admin/db/phpMyAdmin-2/
+404     7KB  http://take-survey.heal.htb/admin/db/phpMyAdmin-3/
+404     7KB  http://take-survey.heal.htb/admin/db/phpMyAdmin/
+404     7KB  http://take-survey.heal.htb/admin/db/phpmyadmin/
+404     7KB  http://take-survey.heal.htb/admin/db/phpMyAdmin2/
+404     7KB  http://take-survey.heal.htb/admin/db/phpmyadmin2/
+404     7KB  http://take-survey.heal.htb/admin/db/phpMyAdmin3/
+404     7KB  http://take-survey.heal.htb/admin/db/phpmyadmin3/
+404     7KB  http://take-survey.heal.htb/admin/db/sql
+404     7KB  http://take-survey.heal.htb/admin/db/webadmin/
+404     7KB  http://take-survey.heal.htb/admin/db/webdb/
+404     7KB  http://take-survey.heal.htb/admin/db/websql/

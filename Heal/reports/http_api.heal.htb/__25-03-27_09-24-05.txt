@@ -1,0 +1,18 @@
+# Dirsearch started Thu Mar 27 09:55:04 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://api.heal.htb/ -r -t 5
+
+401    26B   http://api.heal.htb/download
+401    26B   http://api.heal.htb/download.php
+401    26B   http://api.heal.htb/download.aspx
+401    26B   http://api.heal.htb/download.jsp
+401    26B   http://api.heal.htb/download.html
+401    26B   http://api.heal.htb/download.js
+401    26B   http://api.heal.htb/download/
+401    26B   http://api.heal.htb/profile
+401    26B   http://api.heal.htb/profile.php
+401    26B   http://api.heal.htb/profile.aspx
+401    26B   http://api.heal.htb/profile.jsp
+401    26B   http://api.heal.htb/profile.html
+401    26B   http://api.heal.htb/profile.js
+401    26B   http://api.heal.htb/resume
+401    26B   http://api.heal.htb/resume.json
+200    99B   http://api.heal.htb/robots.txt

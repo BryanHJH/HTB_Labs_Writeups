@@ -1,0 +1,8 @@
+ralph@heal.htb:147258369
+
+'connectionString' => 'pgsql:host=localhost;port=5432;user=db_user;password=AdmiDi0_pA$$w0rd;dbname=survey;',
+'emulatePrepare' => true,
+'username' => 'db_user',
+'password' => 'AdmiDi0_pA$$w0rd',
+'charset' => 'utf8',
+'tablePrefix' => 'lime_',

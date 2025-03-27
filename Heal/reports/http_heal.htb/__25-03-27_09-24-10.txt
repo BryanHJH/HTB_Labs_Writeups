@@ -1,0 +1,5 @@
+# Dirsearch started Thu Mar 27 09:55:25 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://heal.htb/ -r -t 5
+
+200    34KB  http://heal.htb/favicon.ico
+200   492B   http://heal.htb/manifest.json
+200    67B   http://heal.htb/robots.txt
