@@ -1,0 +1,9 @@
+1. Nmap TCP scan --> got imap and pop3 ports but no login credentials, useless for now
+2. Nmap UDP scan --> got SNMP port open
+3. Run snmpwalk with 'public' community string --> got timeout
+4. Run onesixtyone --> got 'backup' community string
+5. Rerun snmpwalk with 'backup' community string --> got credentials
+6. Login to IMAP using openssl and the new credentials found --> got SSH key in INBOX
+7. Use SSH key to login to the user
+8. Get linpeas and run it --> Saw in the bash history, there is a mysql command, executed it and used the same credentials
+9. Logged in to the MySQL instance and found the password
