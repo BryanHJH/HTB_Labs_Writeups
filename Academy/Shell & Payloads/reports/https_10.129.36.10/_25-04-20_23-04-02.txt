@@ -1,0 +1,62 @@
+# Dirsearch started Sun Apr 20 23:06:33 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://10.129.36.10 -t 100
+
+301   232B   https://10.129.36.10/js    -> REDIRECTS TO: https://10.129.36.10/js/
+403   213B   https://10.129.36.10/.ht_wsr.txt
+403   218B   https://10.129.36.10/.htaccess.sample
+403   216B   https://10.129.36.10/.htaccess.bak1
+403   216B   https://10.129.36.10/.htaccess.orig
+403   216B   https://10.129.36.10/.htaccess.save
+403   214B   https://10.129.36.10/.htaccessBAK
+403   217B   https://10.129.36.10/.htaccess_extra
+403   216B   https://10.129.36.10/.htaccess_orig
+403   214B   https://10.129.36.10/.htaccessOLD
+403   214B   https://10.129.36.10/.htaccess_sc
+403   207B   https://10.129.36.10/.html
+403   213B   https://10.129.36.10/.httr-oauth
+403   215B   https://10.129.36.10/.htaccessOLD2
+403   206B   https://10.129.36.10/.htm
+403   212B   https://10.129.36.10/.htpasswds
+403   216B   https://10.129.36.10/.htpasswd_test
+403   221B   https://10.129.36.10/cgi-bin/ViewLog.asp
+403   219B   https://10.129.36.10/cgi-bin/login.cgi
+403   216B   https://10.129.36.10/cgi-bin/mt.cgi
+403   220B   https://10.129.36.10/cgi-bin/mt7/mt.cgi
+403   218B   https://10.129.36.10/cgi-bin/test-cgi
+403   220B   https://10.129.36.10/cgi-bin/awstats.pl
+403   223B   https://10.129.36.10/cgi-bin/mt-xmlrpc.cgi
+403   215B   https://10.129.36.10/cgi-bin/login
+403   220B   https://10.129.36.10/cgi-bin/htmlscript
+403   220B   https://10.129.36.10/cgi-bin/index.html
+403   222B   https://10.129.36.10/cgi-bin/imagemap.exe?2,2
+403   227B   https://10.129.36.10/cgi-bin/mt7/mt-xmlrpc.cgi
+403   219B   https://10.129.36.10/cgi-bin/login.php
+403   228B   https://10.129.36.10/cgi-bin/a1stats/a1disp.cgi
+403   221B   https://10.129.36.10/cgi-bin/printenv.pl
+403   219B   https://10.129.36.10/cgi-bin/mt/mt.cgi
+403   226B   https://10.129.36.10/cgi-bin/mt/mt-xmlrpc.cgi
+403   218B   https://10.129.36.10/cgi-bin/printenv
+403   217B   https://10.129.36.10/cgi-bin/php.ini
+403   218B   https://10.129.36.10/cgi-bin/test.cgi
+403   210B   https://10.129.36.10/cgi-bin/
+403   218B   https://10.129.36.10/cgi-bin/awstats/
+403   221B   https://10.129.36.10/cgi-bin/htimage.exe?2,2
+200    17KB  https://10.129.36.10/CHANGELOG
+301   233B   https://10.129.36.10/css    -> REDIRECTS TO: https://10.129.36.10/css/
+302     0B   https://10.129.36.10/dashboard.php    -> REDIRECTS TO: https://10.129.36.10/login.php
+200     5KB  https://10.129.36.10/favicon.ico
+403   209B   https://10.129.36.10/images/
+301   236B   https://10.129.36.10/images    -> REDIRECTS TO: https://10.129.36.10/images/
+301   238B   https://10.129.36.10/includes    -> REDIRECTS TO: https://10.129.36.10/includes/
+403   211B   https://10.129.36.10/includes/
+301   237B   https://10.129.36.10/install    -> REDIRECTS TO: https://10.129.36.10/install/
+200    68B   https://10.129.36.10/install/
+200    68B   https://10.129.36.10/install/index.php?upgrade/
+403   205B   https://10.129.36.10/js/
+301   233B   https://10.129.36.10/lib    -> REDIRECTS TO: https://10.129.36.10/lib/
+403   207B   https://10.129.36.10/ldap/
+403   206B   https://10.129.36.10/lib/
+200     6KB  https://10.129.36.10/login.php
+200    34KB  https://10.129.36.10/LICENSE.txt
+200     1KB  https://10.129.36.10/README
+302     0B   https://10.129.36.10/search.php    -> REDIRECTS TO: https://10.129.36.10/login.php
+302     0B   https://10.129.36.10/settings.php    -> REDIRECTS TO: https://10.129.36.10/login.php

