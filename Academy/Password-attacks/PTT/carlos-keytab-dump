@@ -1,0 +1,10 @@
+[*] RC4-HMAC Encryption detected. Will attempt to extract NTLM hash.
+[*] AES256-CTS-HMAC-SHA1 key found. Will attempt hash extraction.
+[*] AES128-CTS-HMAC-SHA1 hash discovered. Will attempt hash extraction.
+[+] Keytab File successfully imported.
+REALM : INLANEFREIGHT.HTB
+SERVICE PRINCIPAL : carlos/
+NTLM HASH : a738f92b3c08b424ec2d99589a9cce60
+AES-256 HASH : 42ff0baa586963d9010584eb9590595e8cd47c489e25e82aae69b1de2943007f
+AES-128 HASH : fa74d5abf4061baa1d4ff8485d1261c4
+PASSWORD     : Password5
