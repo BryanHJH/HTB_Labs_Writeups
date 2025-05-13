@@ -1,0 +1,55 @@
+# Dirsearch started Wed Apr  2 16:10:44 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://gettingstarted.htb/ -r
+
+403   283B   http://gettingstarted.htb/.htaccess.orig
+403   283B   http://gettingstarted.htb/.htaccess.sample
+403   283B   http://gettingstarted.htb/.ht_wsr.txt
+403   283B   http://gettingstarted.htb/.htaccess.bak1
+403   283B   http://gettingstarted.htb/.htaccess.save
+403   283B   http://gettingstarted.htb/.htaccessOLD2
+403   283B   http://gettingstarted.htb/.htm
+403   283B   http://gettingstarted.htb/.htaccess_orig
+403   283B   http://gettingstarted.htb/.htaccessBAK
+403   283B   http://gettingstarted.htb/.htaccessOLD
+403   283B   http://gettingstarted.htb/.htaccess_sc
+403   283B   http://gettingstarted.htb/.htaccess_extra
+403   283B   http://gettingstarted.htb/.html
+403   283B   http://gettingstarted.htb/.htpasswd_test
+403   283B   http://gettingstarted.htb/.htpasswds
+403   283B   http://gettingstarted.htb/.httr-oauth
+403   283B   http://gettingstarted.htb/.php
+301   324B   http://gettingstarted.htb/admin    -> REDIRECTS TO: http://gettingstarted.htb/admin/
+200     1KB  http://gettingstarted.htb/admin/
+302     0B   http://gettingstarted.htb/admin/download.php    -> REDIRECTS TO: index.php?redirect=download.php?
+200     1KB  http://gettingstarted.htb/admin/index.php
+302     0B   http://gettingstarted.htb/admin/upload.php    -> REDIRECTS TO: index.php?redirect=upload.php?
+301   326B   http://gettingstarted.htb/backups    -> REDIRECTS TO: http://gettingstarted.htb/backups/
+200   479B   http://gettingstarted.htb/backups/
+301   323B   http://gettingstarted.htb/data    -> REDIRECTS TO: http://gettingstarted.htb/data/
+200   514B   http://gettingstarted.htb/data/
+200   515B   http://gettingstarted.htb/data/cache/
+200    12KB  http://gettingstarted.htb/LICENSE.txt
+301   326B   http://gettingstarted.htb/plugins    -> REDIRECTS TO: http://gettingstarted.htb/plugins/
+200   537B   http://gettingstarted.htb/plugins/
+200   889B   http://gettingstarted.htb/readme.txt
+200    32B   http://gettingstarted.htb/robots.txt
+403   283B   http://gettingstarted.htb/server-status
+403   283B   http://gettingstarted.htb/server-status/
+200   257B   http://gettingstarted.htb/sitemap.xml
+301   324B   http://gettingstarted.htb/theme    -> REDIRECTS TO: http://gettingstarted.htb/theme/
+403   283B   http://gettingstarted.htb/admin/.htaccess.bak1
+403   283B   http://gettingstarted.htb/admin/.htaccess.orig
+403   283B   http://gettingstarted.htb/admin/.htaccess.sample
+403   283B   http://gettingstarted.htb/admin/.ht_wsr.txt
+403   283B   http://gettingstarted.htb/admin/.htaccess.save
+403   283B   http://gettingstarted.htb/admin/.htaccess_extra
+403   283B   http://gettingstarted.htb/admin/.htm
+403   283B   http://gettingstarted.htb/admin/.html
+403   283B   http://gettingstarted.htb/admin/.htpasswd_test
+403   283B   http://gettingstarted.htb/admin/.htpasswds
+403   283B   http://gettingstarted.htb/admin/.htaccessOLD
+403   283B   http://gettingstarted.htb/admin/.htaccessOLD2
+403   283B   http://gettingstarted.htb/admin/.htaccess_orig
+403   283B   http://gettingstarted.htb/admin/.htaccessBAK
+403   283B   http://gettingstarted.htb/admin/.htaccess_sc
+403   283B   http://gettingstarted.htb/admin/.httr-oauth
+403   283B   http://gettingstarted.htb/admin/.php

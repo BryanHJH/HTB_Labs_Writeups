@@ -1,0 +1,39 @@
+# Dirsearch started Fri Apr  4 09:41:51 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.241:8080/ -r
+
+301   316B   http://10.10.11.241:8080/js    -> REDIRECTS TO: http://10.10.11.241:8080/js/
+403   279B   http://10.10.11.241:8080/.ht_wsr.txt
+403   279B   http://10.10.11.241:8080/.htaccess.bak1
+403   279B   http://10.10.11.241:8080/.htaccessBAK
+403   279B   http://10.10.11.241:8080/.htaccess.sample
+403   279B   http://10.10.11.241:8080/.htaccess_orig
+403   279B   http://10.10.11.241:8080/.htaccess.orig
+403   279B   http://10.10.11.241:8080/.htaccess.save
+403   279B   http://10.10.11.241:8080/.htaccess_sc
+403   279B   http://10.10.11.241:8080/.htaccessOLD2
+403   279B   http://10.10.11.241:8080/.htaccessOLD
+403   279B   http://10.10.11.241:8080/.htaccess_extra
+403   279B   http://10.10.11.241:8080/.htm
+403   279B   http://10.10.11.241:8080/.html
+403   279B   http://10.10.11.241:8080/.htpasswds
+403   279B   http://10.10.11.241:8080/.httr-oauth
+403   279B   http://10.10.11.241:8080/.htpasswd_test
+403   279B   http://10.10.11.241:8080/.php
+200     0B   http://10.10.11.241:8080/config.php
+301   317B   http://10.10.11.241:8080/css    -> REDIRECTS TO: http://10.10.11.241:8080/css/
+301   319B   http://10.10.11.241:8080/fonts    -> REDIRECTS TO: http://10.10.11.241:8080/fonts/
+403   279B   http://10.10.11.241:8080/images/
+301   320B   http://10.10.11.241:8080/images    -> REDIRECTS TO: http://10.10.11.241:8080/images/
+403   279B   http://10.10.11.241:8080/js/
+200     2KB  http://10.10.11.241:8080/login.php
+200     2KB  http://10.10.11.241:8080/register.php
+403   279B   http://10.10.11.241:8080/server-status/
+403   279B   http://10.10.11.241:8080/server-status
+200     0B   http://10.10.11.241:8080/upload.php
+301   321B   http://10.10.11.241:8080/uploads    -> REDIRECTS TO: http://10.10.11.241:8080/uploads/
+403   279B   http://10.10.11.241:8080/uploads/
+403   279B   http://10.10.11.241:8080/vendor/
+200   661B   http://10.10.11.241:8080/js/main.js
+301   326B   http://10.10.11.241:8080/images/icons    -> REDIRECTS TO: http://10.10.11.241:8080/images/icons/
+404   276B   http://10.10.11.241:8080/server-status/%2e%2e//google.com
+200     1KB  http://10.10.11.241:8080/uploads/example
+200    31KB  http://10.10.11.241:8080/images/icons/favicon.ico
