@@ -1,0 +1,96 @@
+nmap --min-rate 2500 -p- -A 10.129.181.230
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-13 22:25 +08
+Nmap scan report for inlanefreight.htb (10.129.181.230)
+Host is up (0.41s latency).
+Not shown: 65528 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+21/tcp   open  ftp
+| ssl-cert: Subject: commonName=Test/organizationName=Testing/stateOrProvinceName=FL/countryName=US
+| Not valid before: 2022-04-21T19:27:17
+|_Not valid after:  2032-04-18T19:27:17
+|_ssl-date: 2025-05-13T14:29:13+00:00; +31s from scanner time.
+| fingerprint-strings:
+|   GenericLines:
+|     220 Core FTP Server Version 2.0, build 725, 64-bit Unregistered
+|     Command unknown, not supported or not allowed...
+|     Command unknown, not supported or not allowed...
+|   Help:
+|     220 Core FTP Server Version 2.0, build 725, 64-bit Unregistered
+|     214-The following commands are implemented
+|     USER PASS ACCT QUIT PORT RETR
+|     STOR DELE RNFR PWD CWD CDUP
+|     NOOP TYPE MODE STRU
+|     LIST NLST HELP FEAT UTF8 PASV
+|     MDTM REST PBSZ PROT OPTS CCC
+|     XCRC SIZE MFMT CLNT ABORT
+|     HELP command successful
+|   NULL:
+|_    220 Core FTP Server Version 2.0, build 725, 64-bit Unregistered
+25/tcp   open  smtp          hMailServer smtpd
+| smtp-commands: WIN-EASY, SIZE 20480000, AUTH LOGIN PLAIN, HELP
+|_ 211 DATA HELO EHLO MAIL NOOP QUIT RCPT RSET SAML TURN VRFY
+80/tcp   open  http          Apache httpd 2.4.53 ((Win64) OpenSSL/1.1.1n PHP/7.4.29)
+|_http-server-header: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.29
+| http-title: Welcome to XAMPP
+|_Requested resource was http://inlanefreight.htb/dashboard/
+443/tcp  open  https         Core FTP HTTPS Server
+|_http-server-header: Core FTP HTTPS Server
+|_ssl-date: 2025-05-13T14:29:08+00:00; +31s from scanner time.
+| ssl-cert: Subject: commonName=Test/organizationName=Testing/stateOrProvinceName=FL/countryName=US
+| Not valid before: 2022-04-21T19:27:17
+|_Not valid after:  2032-04-18T19:27:17
+| http-auth:
+| HTTP/1.1 401 Unauthorized\x0D
+|_  Basic realm=Restricted Area
+587/tcp  open  smtp          hMailServer smtpd
+| smtp-commands: WIN-EASY, SIZE 20480000, AUTH LOGIN PLAIN, HELP
+|_ 211 DATA HELO EHLO MAIL NOOP QUIT RCPT RSET SAML TURN VRFY
+3306/tcp open  mysql         MySQL (blocked - too many connection errors)
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| ssl-cert: Subject: commonName=WIN-EASY
+| Not valid before: 2025-05-12T14:02:13
+|_Not valid after:  2025-11-11T14:02:13
+| rdp-ntlm-info:
+|   Target_Name: WIN-EASY
+|   NetBIOS_Domain_Name: WIN-EASY
+|   NetBIOS_Computer_Name: WIN-EASY
+|   DNS_Domain_Name: WIN-EASY
+|   DNS_Computer_Name: WIN-EASY
+|   Product_Version: 10.0.17763
+|_  System_Time: 2025-05-13T14:28:15+00:00
+|_ssl-date: 2025-05-13T14:29:08+00:00; +31s from scanner time.
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port21-TCP:V=7.95%I=7%D=5/13%Time=68235679%P=x86_64-pc-linux-gnu%r(NULL
+SF:,41,"220\x20Core\x20FTP\x20Server\x20Version\x202\.0,\x20build\x20725,\
+SF:x2064-bit\x20Unregistered\r\n")%r(GenericLines,AD,"220\x20Core\x20FTP\x
+SF:20Server\x20Version\x202\.0,\x20build\x20725,\x2064-bit\x20Unregistered
+SF:\r\n502\x20Command\x20unknown,\x20not\x20supported\x20or\x20not\x20allo
+SF:wed\.\.\.\r\n502\x20Command\x20unknown,\x20not\x20supported\x20or\x20no
+SF:t\x20allowed\.\.\.\r\n")%r(Help,17B,"220\x20Core\x20FTP\x20Server\x20Ve
+SF:rsion\x202\.0,\x20build\x20725,\x2064-bit\x20Unregistered\r\n214-The\x2
+SF:0following\x20commands\x20are\x20implemented\r\n\x20\x20\x20\x20\x20USE
+SF:R\x20\x20PASS\x20\x20ACCT\x20\x20QUIT\x20\x20PORT\x20\x20RETR\r\n\x20\x
+SF:20\x20\x20\x20STOR\x20\x20DELE\x20\x20RNFR\x20\x20PWD\x20\x20\x20CWD\x2
+SF:0\x20\x20CDUP\r\n\x20\x20\x20\x20\x20MKD\x20\x20\x20RMD\x20\x20\x20NOOP
+SF:\x20\x20TYPE\x20\x20MODE\x20\x20STRU\r\n\x20\x20\x20\x20\x20LIST\x20\x2
+SF:0NLST\x20\x20HELP\x20\x20FEAT\x20\x20UTF8\x20\x20PASV\r\n\x20\x20\x20\x
+SF:20\x20MDTM\x20\x20REST\x20\x20PBSZ\x20\x20PROT\x20\x20OPTS\x20\x20CCC\r
+SF:\n\x20\x20\x20\x20\x20XCRC\x20\x20SIZE\x20\x20MFMT\x20\x20CLNT\x20\x20A
+SF:BORT\r\n214\x20\x20HELP\x20command\x20successful\r\n");
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows 2019|10 (97%)
+OS CPE: cpe:/o:microsoft:windows_server_2019 cpe:/o:microsoft:windows_10
+Aggressive OS guesses: Windows Server 2019 (97%), Microsoft Windows 10 1903 - 21H1 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: Host: WIN-EASY; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: 30s, deviation: 0s, median: 30s
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   485.74 ms 10.10.16.1
+2   485.87 ms inlanefreight.htb (10.129.181.230)
+

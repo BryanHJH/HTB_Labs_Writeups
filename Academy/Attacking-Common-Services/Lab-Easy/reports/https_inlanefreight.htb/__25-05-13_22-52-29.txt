@@ -1,0 +1,5 @@
+# Dirsearch started Tue May 13 22:52:56 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://inlanefreight.htb/ --auth=fiona:987654321 --auth-type=basic
+
+401    94B   https://inlanefreight.htb/aspx.bak
+401    94B   https://inlanefreight.htb/!.gitignore
+401    94B   https://inlanefreight.htb/php.bak

@@ -1,0 +1,38 @@
+# Dirsearch started Tue May 13 23:05:34 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://inlanefreight.htb/dashboard/
+
+403   307B   http://inlanefreight.htb/dashboard/%C0%AE%C0%AE%C0%AF
+403   307B   http://inlanefreight.htb/dashboard/%3f/
+403   307B   http://inlanefreight.htb/dashboard/%ff
+403   307B   http://inlanefreight.htb/dashboard/.ht_wsr.txt
+403   307B   http://inlanefreight.htb/dashboard/.htaccess.bak1
+403   307B   http://inlanefreight.htb/dashboard/.htaccess.orig
+403   307B   http://inlanefreight.htb/dashboard/.htaccess.sample
+403   307B   http://inlanefreight.htb/dashboard/.htaccess.save
+403   307B   http://inlanefreight.htb/dashboard/.htaccess_extra
+403   307B   http://inlanefreight.htb/dashboard/.htaccess_sc
+403   307B   http://inlanefreight.htb/dashboard/.htaccess_orig
+403   307B   http://inlanefreight.htb/dashboard/.htaccessOLD
+403   307B   http://inlanefreight.htb/dashboard/.htaccessOLD2
+403   307B   http://inlanefreight.htb/dashboard/.htaccessBAK
+403   307B   http://inlanefreight.htb/dashboard/.htm
+403   307B   http://inlanefreight.htb/dashboard/.html
+403   307B   http://inlanefreight.htb/dashboard/.htpasswd_test
+403   307B   http://inlanefreight.htb/dashboard/.htpasswds
+403   307B   http://inlanefreight.htb/dashboard/.httr-oauth
+200     4KB  http://inlanefreight.htb/dashboard/404.html
+301   354B   http://inlanefreight.htb/dashboard/de    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/de/
+301   356B   http://inlanefreight.htb/dashboard/docs    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/docs/
+200    14KB  http://inlanefreight.htb/dashboard/docs/
+301   354B   http://inlanefreight.htb/dashboard/es    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/es/
+200     1KB  http://inlanefreight.htb/dashboard/favicon.ico
+200    31KB  http://inlanefreight.htb/dashboard/faq.html
+301   354B   http://inlanefreight.htb/dashboard/fr    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/fr/
+301   358B   http://inlanefreight.htb/dashboard/images    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/images/
+200     7KB  http://inlanefreight.htb/dashboard/images/
+403   307B   http://inlanefreight.htb/dashboard/index.php::$DATA
+301   354B   http://inlanefreight.htb/dashboard/it    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/it/
+200    78KB  http://inlanefreight.htb/dashboard/phpinfo.php
+301   354B   http://inlanefreight.htb/dashboard/pl    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/pl/
+301   354B   http://inlanefreight.htb/dashboard/ru    -> REDIRECTS TO: http://inlanefreight.htb/dashboard/ru/
+403   307B   http://inlanefreight.htb/dashboard/Trace.axd::$DATA
+403   307B   http://inlanefreight.htb/dashboard/web.config::$DATA
