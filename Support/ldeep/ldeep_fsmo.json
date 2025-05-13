@@ -1,0 +1,181 @@
+[{
+  "cn": "Partitions",
+  "distinguishedName": "CN=Partitions,CN=Configuration,DC=support,DC=htb",
+  "dn": "CN=Partitions,CN=Configuration,DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "msDS-Behavior-Version": 7,
+  "name": "Partitions",
+  "objectCategory": "CN=Cross-Ref-Container,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "crossRefContainer"
+  ],
+  "objectGUID": "{ceebbb3c-0143-4d0b-9585-02c9b34e3a20}",
+  "systemFlags": -2147483648
+}]
+[{
+  "cn": "Schema",
+  "dSASignature": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAA5VYBKcsiG0+bllUW2Ew2PA==",
+  "dSCorePropagationData": [
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "distinguishedName": "CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "dn": "CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "instanceType": 13,
+  "masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "msDS-NcType": 0,
+  "msDs-masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "name": "Schema",
+  "objectCategory": "CN=DMD,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "dMD"
+  ],
+  "objectGUID": "{e943417e-92fc-4df7-9be0-04bd5816e683}",
+  "objectVersion": 88,
+  "replUpToDateVector": "AgAAAAAAAAAJAAAAAAAAAOVWASnLIhtPm5ZVFthMNjwCQAAAAAAAAPt+5xgDAAAAZ6vYPcTkRkO0MFdWs1QQvg8QAQAAAAAAVnnwGAMAAAD+QDhi4WGeQJzRK0Oxy/DzETABAAAAAADin/AYAwAAAE1xSnqneJdOoS4KYD+/c0AOAAEAAAAAAGMS6xgDAAAAd62sflaFQUqcdbgJy/UK7xJAAQAAAAAAFbi5GwMAAAA9xlubHL0ORprzS2KWPEOHBGAAAAAAAAB6xegYAwAAAJjUpNK4xSxHt3H97S3gZQcFcAAAAAAAAKPC6RgDAAAAJ7XI2ms7OEip16SpLPtxPgzgAAAAAAAAOjnqGAMAAAAODl7iB/ErRroAvsLVrzARE1ABAAAAAAAcJP4dAwAAAA==",
+  "showInAdvancedViewOnly": true,
+  "uSNChanged": 40998,
+  "uSNCreated": 4103,
+  "whenChanged": "2022-07-21T12:38:51+00:00",
+  "whenCreated": "2022-05-28T11:01:46+00:00"
+}]
+[{
+  "cn": "RID Manager$",
+  "dSCorePropagationData": [
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "distinguishedName": "CN=RID Manager$,CN=System,DC=support,DC=htb",
+  "dn": "CN=RID Manager$,CN=System,DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "name": "RID Manager$",
+  "objectCategory": "CN=RID-Manager,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "rIDManager"
+  ],
+  "objectGUID": "{0971cb56-d496-4a7d-b4ea-135f4d792978}",
+  "rIDAvailablePool": 4611686014132426708,
+  "showInAdvancedViewOnly": true,
+  "systemFlags": -1946157056,
+  "uSNChanged": 86049,
+  "uSNCreated": 12470,
+  "whenChanged": "2025-04-02T19:43:02+00:00",
+  "whenCreated": "2022-05-28T11:03:53+00:00"
+},
+{
+  "cn": "Infrastructure",
+  "dSCorePropagationData": [
+    "2022-05-28T11:03:43+00:00",
+    "1601-01-01T00:00:01+00:00"
+  ],
+  "distinguishedName": "CN=Infrastructure,DC=support,DC=htb",
+  "dn": "CN=Infrastructure,DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "name": "Infrastructure",
+  "objectCategory": "CN=Infrastructure-Update,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "infrastructureUpdate"
+  ],
+  "objectGUID": "{4c52232a-8dc7-41d3-ba1e-3009c1423917}",
+  "showInAdvancedViewOnly": true,
+  "systemFlags": -1946157056,
+  "uSNChanged": 5805,
+  "uSNCreated": 5805,
+  "whenChanged": "2022-05-28T11:01:55+00:00",
+  "whenCreated": "2022-05-28T11:01:55+00:00"
+},
+{
+  "auditingPolicy": "AAE=",
+  "creationTime": "2025-04-02T19:42:22.448418+00:00",
+  "dSASignature": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAA5VYBKcsiG0+bllUW2Ew2PA==",
+  "dSCorePropagationData": [
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "dc": "support",
+  "distinguishedName": "DC=support,DC=htb",
+  "dn": "DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "forceLogoff": -9223372036854775808,
+  "gPLink": "[LDAP://CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=support,DC=htb;0]",
+  "instanceType": 5,
+  "isCriticalSystemObject": true,
+  "lockOutObservationWindow": null,
+  "lockoutDuration": -18000000000,
+  "lockoutThreshold": 0,
+  "masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "maxPwdAge": -9223372036854775808,
+  "minPwdAge": -864000000000,
+  "minPwdLength": 7,
+  "modifiedCount": 1,
+  "modifiedCountAtLastProm": 0,
+  "ms-DS-MachineAccountQuota": 10,
+  "msDS-AllUsersTrustQuota": 1000,
+  "msDS-Behavior-Version": 7,
+  "msDS-ExpirePasswordsOnSmartCardOnlyAccounts": true,
+  "msDS-IsDomainFor": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "msDS-NcType": 0,
+  "msDS-PerUserTrustQuota": 1,
+  "msDS-PerUserTrustTombstonesQuota": 10,
+  "msDs-masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "nTMixedDomain": 0,
+  "name": "support",
+  "nextRid": 1000,
+  "objectCategory": "CN=Domain-DNS,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "domain",
+    "domainDNS"
+  ],
+  "objectGUID": "{553cd9a3-86c4-4d64-9e85-5146a98c868e}",
+  "objectSid": "S-1-5-21-1677581083-3380853377-188903654",
+  "otherWellKnownObjects": [
+    "QjozMjo2ODNBMjRFMkU4MTY0QkQzQUY4NkFDM0MyQ0YzRjk4MTpDTj1LZXlzLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjoxRUI5Mzg4OUU0MEM0NURGOUYwQzY0RDIzQkJCNjIzNzpDTj1NYW5hZ2VkIFNlcnZpY2UgQWNjb3VudHMsREM9c3VwcG9ydCxEQz1odGI="
+  ],
+  "pwdHistoryLength": 24,
+  "pwdProperties": "DOMAIN_PASSWORD_COMPLEX",
+  "rIDManagerReference": "CN=RID Manager$,CN=System,DC=support,DC=htb",
+  "replUpToDateVector": "AgAAAAAAAAAJAAAAAAAAAOVWASnLIhtPm5ZVFthMNjwCQAAAAAAAAPt+5xgDAAAAZ6vYPcTkRkO0MFdWs1QQvg8QAQAAAAAAVnnwGAMAAAD+QDhi4WGeQJzRK0Oxy/DzETABAAAAAADin/AYAwAAAE1xSnqneJdOoS4KYD+/c0AOAAEAAAAAAGMS6xgDAAAAd62sflaFQUqcdbgJy/UK7xJAAQAAAAAAFbi5GwMAAAA9xlubHL0ORprzS2KWPEOHBGAAAAAAAAB6xegYAwAAAJjUpNK4xSxHt3H97S3gZQcFcAAAAAAAAKPC6RgDAAAAJ7XI2ms7OEip16SpLPtxPgzgAAAAAAAAOjnqGAMAAAAODl7iB/ErRroAvsLVrzARE1ABAAAAAAAcJP4dAwAAAA==",
+  "serverState": 1,
+  "subRefs": [
+    "DC=ForestDnsZones,DC=support,DC=htb",
+    "DC=DomainDnsZones,DC=support,DC=htb",
+    "CN=Configuration,DC=support,DC=htb"
+  ],
+  "systemFlags": -1946157056,
+  "uASCompat": 0,
+  "uSNChanged": 86045,
+  "uSNCreated": 4099,
+  "wellKnownObjects": [
+    "QjozMjo2MjI3RjBBRjFGQzI0MTBEOEUzQkIxMDYxNUJCNUIwRjpDTj1OVERTIFF1b3RhcyxEQz1zdXBwb3J0LERDPWh0Yg==",
+    "QjozMjpGNEJFOTJBNEM3Nzc0ODVFODc4RTk0MjFENTMwODdEQjpDTj1NaWNyb3NvZnQsQ049UHJvZ3JhbSBEYXRhLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjowOTQ2MEMwOEFFMUU0QTRFQTBGNjRBRUU3REFBMUU1QTpDTj1Qcm9ncmFtIERhdGEsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjoyMkI3MEM2N0Q1NkU0RUZCOTFFOTMwMEZDQTNEQzFBQTpDTj1Gb3JlaWduU2VjdXJpdHlQcmluY2lwYWxzLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjoxOEUyRUE4MDY4NEYxMUQyQjlBQTAwQzA0Rjc5RjgwNTpDTj1EZWxldGVkIE9iamVjdHMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjoyRkJBQzE4NzBBREUxMUQyOTdDNDAwQzA0RkQ4RDVDRDpDTj1JbmZyYXN0cnVjdHVyZSxEQz1zdXBwb3J0LERDPWh0Yg==",
+    "QjozMjpBQjgxNTNCNzc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Mb3N0QW5kRm91bmQsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBQjFEMzBGMzc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1TeXN0ZW0sREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBMzYxQjJGRkZGRDIxMUQxQUE0QjAwQzA0RkQ3RDgzQTpPVT1Eb21haW4gQ29udHJvbGxlcnMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBQTMxMjgyNTc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Db21wdXRlcnMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBOUQxQ0ExNTc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Vc2VycyxEQz1zdXBwb3J0LERDPWh0Yg=="
+  ],
+  "whenChanged": "2025-04-02T19:42:22+00:00",
+  "whenCreated": "2022-05-28T11:01:46+00:00"
+}]

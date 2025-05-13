@@ -1,0 +1,49 @@
+Shared Support Accounts
+DnsUpdateProxy
+DnsAdmins
+Enterprise Key Admins
+Key Admins
+Protected Users
+Cloneable Domain Controllers
+Enterprise Read-only Domain Controllers
+Read-only Domain Controllers
+Denied RODC Password Replication Group
+Allowed RODC Password Replication Group
+Terminal Server License Servers
+Windows Authorization Access Group
+Incoming Forest Trust Builders
+Pre-Windows 2000 Compatible Access
+Account Operators
+Server Operators
+RAS and IAS Servers
+Group Policy Creator Owners
+Domain Guests
+Domain Users
+Domain Admins
+Cert Publishers
+Enterprise Admins
+Schema Admins
+Domain Controllers
+Domain Computers
+Storage Replica Administrators
+Remote Management Users
+Access Control Assistance Operators
+Hyper-V Administrators
+RDS Management Servers
+RDS Endpoint Servers
+RDS Remote Access Servers
+Certificate Service DCOM Access
+Event Log Readers
+Cryptographic Operators
+IIS_IUSRS
+Distributed COM Users
+Performance Log Users
+Performance Monitor Users
+Network Configuration Operators
+Remote Desktop Users
+Replicator
+Backup Operators
+Print Operators
+Guests
+Users
+Administrators

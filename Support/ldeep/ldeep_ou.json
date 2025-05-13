@@ -1,0 +1,114 @@
+[{
+  "dSCorePropagationData": [
+    "2022-05-28T11:03:43+00:00",
+    "1601-01-01T00:00:01+00:00"
+  ],
+  "description": [
+    "Default container for domain controllers"
+  ],
+  "distinguishedName": "OU=Domain Controllers,DC=support,DC=htb",
+  "dn": "OU=Domain Controllers,DC=support,DC=htb",
+  "gPLink": "[LDAP://CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=support,DC=htb;0]",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "name": "Domain Controllers",
+  "objectCategory": "CN=Organizational-Unit,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "organizationalUnit"
+  ],
+  "objectGUID": "{4987fcad-9c12-4084-8382-029b2806ef1a}",
+  "ou": [
+    "Domain Controllers"
+  ],
+  "showInAdvancedViewOnly": false,
+  "systemFlags": -1946157056,
+  "uSNChanged": 5804,
+  "uSNCreated": 5804,
+  "whenChanged": "2022-05-28T11:01:55+00:00",
+  "whenCreated": "2022-05-28T11:01:55+00:00"
+},
+{
+  "auditingPolicy": "AAE=",
+  "creationTime": "2025-04-02T19:42:22.448418+00:00",
+  "dSASignature": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAA5VYBKcsiG0+bllUW2Ew2PA==",
+  "dSCorePropagationData": [
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "dc": "support",
+  "distinguishedName": "DC=support,DC=htb",
+  "dn": "DC=support,DC=htb",
+  "fSMORoleOwner": "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "forceLogoff": -9223372036854775808,
+  "gPLink": "[LDAP://CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=support,DC=htb;0]",
+  "instanceType": 5,
+  "isCriticalSystemObject": true,
+  "lockOutObservationWindow": null,
+  "lockoutDuration": -18000000000,
+  "lockoutThreshold": 0,
+  "masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "maxPwdAge": -9223372036854775808,
+  "minPwdAge": -864000000000,
+  "minPwdLength": 7,
+  "modifiedCount": 1,
+  "modifiedCountAtLastProm": 0,
+  "ms-DS-MachineAccountQuota": 10,
+  "msDS-AllUsersTrustQuota": 1000,
+  "msDS-Behavior-Version": 7,
+  "msDS-ExpirePasswordsOnSmartCardOnlyAccounts": true,
+  "msDS-IsDomainFor": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "msDS-NcType": 0,
+  "msDS-PerUserTrustQuota": 1,
+  "msDS-PerUserTrustTombstonesQuota": 10,
+  "msDs-masteredBy": [
+    "CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb"
+  ],
+  "nTMixedDomain": 0,
+  "name": "support",
+  "nextRid": 1000,
+  "objectCategory": "CN=Domain-DNS,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "domain",
+    "domainDNS"
+  ],
+  "objectGUID": "{553cd9a3-86c4-4d64-9e85-5146a98c868e}",
+  "objectSid": "S-1-5-21-1677581083-3380853377-188903654",
+  "otherWellKnownObjects": [
+    "QjozMjo2ODNBMjRFMkU4MTY0QkQzQUY4NkFDM0MyQ0YzRjk4MTpDTj1LZXlzLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjoxRUI5Mzg4OUU0MEM0NURGOUYwQzY0RDIzQkJCNjIzNzpDTj1NYW5hZ2VkIFNlcnZpY2UgQWNjb3VudHMsREM9c3VwcG9ydCxEQz1odGI="
+  ],
+  "pwdHistoryLength": 24,
+  "pwdProperties": "DOMAIN_PASSWORD_COMPLEX",
+  "rIDManagerReference": "CN=RID Manager$,CN=System,DC=support,DC=htb",
+  "replUpToDateVector": "AgAAAAAAAAAJAAAAAAAAAOVWASnLIhtPm5ZVFthMNjwCQAAAAAAAAPt+5xgDAAAAZ6vYPcTkRkO0MFdWs1QQvg8QAQAAAAAAVnnwGAMAAAD+QDhi4WGeQJzRK0Oxy/DzETABAAAAAADin/AYAwAAAE1xSnqneJdOoS4KYD+/c0AOAAEAAAAAAGMS6xgDAAAAd62sflaFQUqcdbgJy/UK7xJAAQAAAAAAFbi5GwMAAAA9xlubHL0ORprzS2KWPEOHBGAAAAAAAAB6xegYAwAAAJjUpNK4xSxHt3H97S3gZQcFcAAAAAAAAKPC6RgDAAAAJ7XI2ms7OEip16SpLPtxPgzgAAAAAAAAOjnqGAMAAAAODl7iB/ErRroAvsLVrzARE1ABAAAAAAAcJP4dAwAAAA==",
+  "serverState": 1,
+  "subRefs": [
+    "DC=ForestDnsZones,DC=support,DC=htb",
+    "DC=DomainDnsZones,DC=support,DC=htb",
+    "CN=Configuration,DC=support,DC=htb"
+  ],
+  "systemFlags": -1946157056,
+  "uASCompat": 0,
+  "uSNChanged": 86045,
+  "uSNCreated": 4099,
+  "wellKnownObjects": [
+    "QjozMjo2MjI3RjBBRjFGQzI0MTBEOEUzQkIxMDYxNUJCNUIwRjpDTj1OVERTIFF1b3RhcyxEQz1zdXBwb3J0LERDPWh0Yg==",
+    "QjozMjpGNEJFOTJBNEM3Nzc0ODVFODc4RTk0MjFENTMwODdEQjpDTj1NaWNyb3NvZnQsQ049UHJvZ3JhbSBEYXRhLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjowOTQ2MEMwOEFFMUU0QTRFQTBGNjRBRUU3REFBMUU1QTpDTj1Qcm9ncmFtIERhdGEsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjoyMkI3MEM2N0Q1NkU0RUZCOTFFOTMwMEZDQTNEQzFBQTpDTj1Gb3JlaWduU2VjdXJpdHlQcmluY2lwYWxzLERDPXN1cHBvcnQsREM9aHRi",
+    "QjozMjoxOEUyRUE4MDY4NEYxMUQyQjlBQTAwQzA0Rjc5RjgwNTpDTj1EZWxldGVkIE9iamVjdHMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjoyRkJBQzE4NzBBREUxMUQyOTdDNDAwQzA0RkQ4RDVDRDpDTj1JbmZyYXN0cnVjdHVyZSxEQz1zdXBwb3J0LERDPWh0Yg==",
+    "QjozMjpBQjgxNTNCNzc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Mb3N0QW5kRm91bmQsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBQjFEMzBGMzc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1TeXN0ZW0sREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBMzYxQjJGRkZGRDIxMUQxQUE0QjAwQzA0RkQ3RDgzQTpPVT1Eb21haW4gQ29udHJvbGxlcnMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBQTMxMjgyNTc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Db21wdXRlcnMsREM9c3VwcG9ydCxEQz1odGI=",
+    "QjozMjpBOUQxQ0ExNTc2ODgxMUQxQURFRDAwQzA0RkQ4RDVDRDpDTj1Vc2VycyxEQz1zdXBwb3J0LERDPWh0Yg=="
+  ],
+  "whenChanged": "2025-04-02T19:42:22+00:00",
+  "whenCreated": "2022-05-28T11:01:46+00:00"
+}]

@@ -1,0 +1,5 @@
+Domain naming master     DC.support.htb
+Schema master            DC.support.htb
+RID pool manager         DC.support.htb
+Infrastructure master    DC.support.htb
+PDC                      DC.support.htb

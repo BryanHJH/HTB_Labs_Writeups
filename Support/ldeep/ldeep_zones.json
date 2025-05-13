@@ -1,0 +1,34 @@
+[{
+  "cn": "Zone",
+  "dNSProperty": [
+    "BAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAAAAAAA==",
+    "AAAAAAAAAAAAAAAAAQAAAJIAAAAAAAAA",
+    "AAAAAAAAAAAAAAAAAQAAAJAAAAAAAAAA",
+    "BAAAAAAAAAAAAAAAAQAAACAAAACoAAAAAAAAAA==",
+    "BAAAAAAAAAAAAAAAAQAAABAAAACoAAAAAAAAAA==",
+    "BAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAA==",
+    "CAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAA=",
+    "AQAAAAAAAAAAAAAAAQAAAAIAAAACAAAAAA==",
+    "BAAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAAAAAA=="
+  ],
+  "dSCorePropagationData": [
+    "2022-05-28T11:13:26+00:00",
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "dc": "support.htb",
+  "distinguishedName": "DC=support.htb,CN=MicrosoftDNS,DC=DomainDnsZones,DC=support,DC=htb",
+  "dn": "DC=support.htb,CN=MicrosoftDNS,DC=DomainDnsZones,DC=support,DC=htb",
+  "instanceType": 4,
+  "name": "support.htb",
+  "objectCategory": "CN=Dns-Zone,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "dnsZone"
+  ],
+  "objectGUID": "{ed13e300-1b04-4360-b4b6-4cce264186f1}",
+  "showInAdvancedViewOnly": true,
+  "uSNChanged": 12858,
+  "uSNCreated": 12815,
+  "whenChanged": "2022-05-28T11:13:26+00:00",
+  "whenCreated": "2022-05-28T11:13:26+00:00"
+}]

@@ -1,0 +1,51 @@
+[{
+  "accountExpires": "9999-12-31T23:59:59.999999+00:00",
+  "adminCount": 1,
+  "badPasswordTime": "1601-01-01T00:00:00+00:00",
+  "badPwdCount": 0,
+  "cn": "krbtgt",
+  "codePage": 0,
+  "countryCode": 0,
+  "dSCorePropagationData": [
+    "2022-05-28T11:19:47+00:00",
+    "2022-05-28T11:03:44+00:00",
+    "1601-01-01T00:04:16+00:00"
+  ],
+  "description": [
+    "Key Distribution Center Service Account"
+  ],
+  "distinguishedName": "CN=krbtgt,CN=Users,DC=support,DC=htb",
+  "dn": "CN=krbtgt,CN=Users,DC=support,DC=htb",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "lastLogoff": "1601-01-01T00:00:00+00:00",
+  "lastLogon": "1601-01-01T00:00:00+00:00",
+  "logonCount": 0,
+  "memberOf": [
+    "CN=Denied RODC Password Replication Group,CN=Users,DC=support,DC=htb"
+  ],
+  "msDS-SupportedEncryptionTypes": 0,
+  "name": "krbtgt",
+  "objectCategory": "CN=Person,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "person",
+    "organizationalPerson",
+    "user"
+  ],
+  "objectGUID": "{d8fa16ff-159f-43b5-abc4-a14ca68551d6}",
+  "objectSid": "S-1-5-21-1677581083-3380853377-188903654-502",
+  "primaryGroupID": 513,
+  "pwdLastSet": "2022-05-28T11:03:43.762634+00:00",
+  "sAMAccountName": "krbtgt",
+  "sAMAccountType": "SAM_GROUP_OBJECT | SAM_NON_SECURITY_GROUP_OBJECT | SAM_ALIAS_OBJECT | SAM_NON_SECURITY_ALIAS_OBJECT | SAM_USER_OBJECT | SAM_NORMAL_USER_ACCOUNT | SAM_MACHINE_ACCOUNT | SAM_TRUST_ACCOUNT | SAM_ACCOUNT_TYPE_MAX",
+  "servicePrincipalName": [
+    "kadmin/changepw"
+  ],
+  "showInAdvancedViewOnly": true,
+  "uSNChanged": 13087,
+  "uSNCreated": 12324,
+  "userAccountControl": "ACCOUNTDISABLE | NORMAL_ACCOUNT",
+  "whenChanged": "2022-05-28T11:19:47+00:00",
+  "whenCreated": "2022-05-28T11:03:43+00:00"
+}]

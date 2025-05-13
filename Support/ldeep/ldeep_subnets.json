@@ -1,0 +1,22 @@
+[{
+  "cn": "Default-First-Site-Name",
+  "dSCorePropagationData": [
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "distinguishedName": "CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "dn": "CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=support,DC=htb",
+  "instanceType": 4,
+  "name": "Default-First-Site-Name",
+  "objectCategory": "CN=Site,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "site"
+  ],
+  "objectGUID": "{ce7c0f5e-9ec6-4cfe-b433-d97cfdddbf3e}",
+  "showInAdvancedViewOnly": true,
+  "systemFlags": 1107296256,
+  "uSNChanged": 4113,
+  "uSNCreated": 4113,
+  "whenChanged": "2022-05-28T11:01:47+00:00",
+  "whenCreated": "2022-05-28T11:01:47+00:00"
+}]

@@ -1,0 +1,6 @@
+OU=Domain Controllers,DC=support,DC=htb
+  [gPLink]:
+    * Default Domain Controllers Policy
+DC=support,DC=htb
+  [gPLink]:
+    * Default Domain Policy

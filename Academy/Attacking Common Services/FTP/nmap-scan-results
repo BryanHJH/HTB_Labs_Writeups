@@ -1,0 +1,55 @@
+nmap -A -p- -sV -sC 10.129.238.190
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-13 11:53 +08
+Nmap scan report for 10.129.238.190
+Host is up (0.53s latency).
+Not shown: 65530 closed tcp ports (reset)
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH 8.2p1 Ubuntu 4ubuntu0.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey:
+|   3072 71:08:b0:c4:f3:ca:97:57:64:97:70:f9:fe:c5:0c:7b (RSA)
+|   256 45:c3:b5:14:63:99:3d:9e:b3:22:51:e5:97:76:e1:50 (ECDSA)
+|_  256 2e:c2:41:66:46:ef:b6:81:95:d5:aa:35:23:94:55:38 (ED25519)
+53/tcp   open  domain      ISC BIND 9.16.1 (Ubuntu Linux)
+| dns-nsid:
+|_  bind.version: 9.16.1-Ubuntu
+139/tcp  open  netbios-ssn Samba smbd 4
+445/tcp  open  netbios-ssn Samba smbd 4
+2121/tcp open  ftp
+| ftp-anon: Anonymous FTP login allowed (FTP code 230)
+| -rw-r--r--   1 ftp      ftp          1959 Apr 19  2022 passwords.list
+|_-rw-rw-r--   1 ftp      ftp            72 Apr 19  2022 users.list
+| fingerprint-strings:
+|   GenericLines:
+|     220 ProFTPD Server (InlaneFTP) [10.129.238.190]
+|     Invalid command: try being more creative
+|_    Invalid command: try being more creative
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port2121-TCP:V=7.95%I=7%D=5/13%Time=6822C7B3%P=x86_64-pc-linux-gnu%r(Ge
+SF:nericLines,8D,"220\x20ProFTPD\x20Server\x20\(InlaneFTP\)\x20\[10\.129\.
+SF:238\.190\]\r\n500\x20Invalid\x20command:\x20try\x20being\x20more\x20cre
+SF:ative\r\n500\x20Invalid\x20command:\x20try\x20being\x20more\x20creative
+SF:\r\n");
+Device type: general purpose
+Running: Linux 4.X|5.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5
+OS details: Linux 4.15 - 5.19
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+|_nbstat: NetBIOS name: ATTCSVC-LINUX, NetBIOS user: <unknown>, NetBIOS MAC: <unknown> (unknown)
+| smb2-security-mode:
+|   3:1:1:
+|_    Message signing enabled but not required
+| smb2-time:
+|   date: 2025-05-13T04:17:17
+|_  start_date: N/A
+|_clock-skew: -1s
+
+TRACEROUTE (using port 21/tcp)
+HOP RTT       ADDRESS
+1   586.62 ms 10.10.16.1
+2   267.67 ms 10.129.238.190
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1487.17 seconds

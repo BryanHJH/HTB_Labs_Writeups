@@ -1,0 +1,13 @@
+distinguishedName: DC=support,DC=htb
+lockoutDuration: 30 mins
+lockOutObservationWindow: 30.0 mins
+lockoutThreshold: 0
+maxPwdAge: 10675199 days
+minPwdAge: 1 days
+minPwdLength: 7
+pwdProperties: DOMAIN_PASSWORD_COMPLEX
+pwdHistoryLength: 24
+ms-DS-MachineAccountQuota: 10
+msDS-Behavior-Version: Windows Server 2016
+dc: support
+dn: DC=support,DC=htb

@@ -1,0 +1,62 @@
+[{
+  "cn": "{6AC1786C-016F-11D2-945F-00C04fB984F9}",
+  "dSCorePropagationData": [
+    "2022-05-28T11:03:44+00:00",
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "displayName": "Default Domain Controllers Policy",
+  "distinguishedName": "CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=support,DC=htb",
+  "dn": "CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=support,DC=htb",
+  "flags": 0,
+  "gPCFileSysPath": "\\\\support.htb\\sysvol\\support.htb\\Policies\\{6AC1786C-016F-11D2-945F-00C04fB984F9}",
+  "gPCFunctionalityVersion": 2,
+  "gPCMachineExtensionNames": "[{827D319E-6EAC-11D2-A4EA-00C04F79F83A}{803E14A0-B4FB-11D0-A0D0-00A0C90F574B}]",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "name": "{6AC1786C-016F-11D2-945F-00C04fB984F9}",
+  "objectCategory": "CN=Group-Policy-Container,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "container",
+    "groupPolicyContainer"
+  ],
+  "objectGUID": "{7fdfc447-ade5-4075-a37e-ddf85850c703}",
+  "showInAdvancedViewOnly": true,
+  "systemFlags": -1946157056,
+  "uSNChanged": 5675,
+  "uSNCreated": 5675,
+  "versionNumber": 1,
+  "whenChanged": "2022-05-28T11:01:55+00:00",
+  "whenCreated": "2022-05-28T11:01:55+00:00"
+},
+{
+  "cn": "{31B2F340-016D-11D2-945F-00C04FB984F9}",
+  "dSCorePropagationData": [
+    "2022-05-28T11:03:44+00:00",
+    "1601-01-01T00:00:00+00:00"
+  ],
+  "displayName": "Default Domain Policy",
+  "distinguishedName": "CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=support,DC=htb",
+  "dn": "CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=support,DC=htb",
+  "flags": 0,
+  "gPCFileSysPath": "\\\\support.htb\\sysvol\\support.htb\\Policies\\{31B2F340-016D-11D2-945F-00C04FB984F9}",
+  "gPCFunctionalityVersion": 2,
+  "gPCMachineExtensionNames": "[{827D319E-6EAC-11D2-A4EA-00C04F79F83A}{803E14A0-B4FB-11D0-A0D0-00A0C90F574B}]",
+  "instanceType": 4,
+  "isCriticalSystemObject": true,
+  "name": "{31B2F340-016D-11D2-945F-00C04FB984F9}",
+  "objectCategory": "CN=Group-Policy-Container,CN=Schema,CN=Configuration,DC=support,DC=htb",
+  "objectClass": [
+    "top",
+    "container",
+    "groupPolicyContainer"
+  ],
+  "objectGUID": "{8a7b7892-90c1-4054-b626-aab19e69f100}",
+  "showInAdvancedViewOnly": true,
+  "systemFlags": -1946157056,
+  "uSNChanged": 53335,
+  "uSNCreated": 5672,
+  "versionNumber": 4,
+  "whenChanged": "2022-07-21T13:30:54+00:00",
+  "whenCreated": "2022-05-28T11:01:55+00:00"
+}]

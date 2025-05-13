@@ -1,0 +1,49 @@
+# Dirsearch started Fri Mar 28 10:43:52 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cat.htb
+
+301   301B   http://cat.htb/.git    -> REDIRECTS TO: http://cat.htb/.git/
+200     7B   http://cat.htb/.git/COMMIT_EDITMSG
+403   272B   http://cat.htb/.git/branches/
+200    92B   http://cat.htb/.git/config
+403   272B   http://cat.htb/.git/
+200    73B   http://cat.htb/.git/description
+403   272B   http://cat.htb/.git/hooks/
+200    23B   http://cat.htb/.git/HEAD
+403   272B   http://cat.htb/.git/info/
+200     2KB  http://cat.htb/.git/index
+200   240B   http://cat.htb/.git/info/exclude
+200   150B   http://cat.htb/.git/logs/HEAD
+403   272B   http://cat.htb/.git/logs/
+301   317B   http://cat.htb/.git/logs/refs/heads    -> REDIRECTS TO: http://cat.htb/.git/logs/refs/heads/
+301   311B   http://cat.htb/.git/logs/refs    -> REDIRECTS TO: http://cat.htb/.git/logs/refs/
+200   150B   http://cat.htb/.git/logs/refs/heads/master
+403   272B   http://cat.htb/.git/refs/
+403   272B   http://cat.htb/.git/objects/
+301   312B   http://cat.htb/.git/refs/heads    -> REDIRECTS TO: http://cat.htb/.git/refs/heads/
+200    41B   http://cat.htb/.git/refs/heads/master
+301   311B   http://cat.htb/.git/refs/tags    -> REDIRECTS TO: http://cat.htb/.git/refs/tags/
+403   272B   http://cat.htb/.ht_wsr.txt
+403   272B   http://cat.htb/.htaccess.bak1
+403   272B   http://cat.htb/.htaccess.sample
+403   272B   http://cat.htb/.htaccess.orig
+403   272B   http://cat.htb/.htaccess.save
+403   272B   http://cat.htb/.htaccess_extra
+403   272B   http://cat.htb/.htaccess_orig
+403   272B   http://cat.htb/.htaccessBAK
+403   272B   http://cat.htb/.htaccess_sc
+403   272B   http://cat.htb/.htaccessOLD
+403   272B   http://cat.htb/.htaccessOLD2
+403   272B   http://cat.htb/.html
+403   272B   http://cat.htb/.htm
+403   272B   http://cat.htb/.htpasswd_test
+403   272B   http://cat.htb/.httr-oauth
+403   272B   http://cat.htb/.htpasswds
+403   272B   http://cat.htb/.php
+302     1B   http://cat.htb/admin.php    -> REDIRECTS TO: /join.php
+200     1B   http://cat.htb/config.php
+301   300B   http://cat.htb/css    -> REDIRECTS TO: http://cat.htb/css/
+301   300B   http://cat.htb/img    -> REDIRECTS TO: http://cat.htb/img/
+302     0B   http://cat.htb/logout.php    -> REDIRECTS TO: /
+403   272B   http://cat.htb/server-status/
+403   272B   http://cat.htb/server-status
+301   304B   http://cat.htb/uploads    -> REDIRECTS TO: http://cat.htb/uploads/
+403   272B   http://cat.htb/uploads/
