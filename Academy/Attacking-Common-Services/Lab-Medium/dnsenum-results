@@ -1,0 +1,4 @@
+app.inlanefreight.htb.                   604800   IN    A        10.129.200.5
+ns.inlanefreight.htb.                    604800   IN    A         127.0.0.1
+ws1.inlanefreight.htb.                   604800   IN    A        10.129.200.101
+ws2.inlanefreight.htb.                   604800   IN    A        10.129.200.102

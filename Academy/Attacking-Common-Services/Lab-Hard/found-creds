@@ -1,0 +1,5 @@
+username    password           privileges
+---------   ----------------   ----------
+b'patric'   b'Testuser123!'    b'user'
+
+b'julio'    b'Testadmin123!'   b'admin'
