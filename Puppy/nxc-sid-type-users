@@ -1,0 +1,12 @@
+nxc smb 10.129.243.140 -u levi.james -p 'KingofAkron2025!' --rid-brute | grep SidTypeUser
+zsh: /home/kali/.local/bin/nxc: bad interpreter: /home/kali/.local/share/pipx/venvs/netexec/bin/python: no such file or directory
+SMB         10.129.243.140  445    DC               500: PUPPY\Administrator (SidTypeUser)
+SMB         10.129.243.140  445    DC               501: PUPPY\Guest (SidTypeUser)
+SMB         10.129.243.140  445    DC               502: PUPPY\krbtgt (SidTypeUser)
+SMB         10.129.243.140  445    DC               1000: PUPPY\DC$ (SidTypeUser)
+SMB         10.129.243.140  445    DC               1103: PUPPY\levi.james (SidTypeUser)
+SMB         10.129.243.140  445    DC               1104: PUPPYnt.edwards (SidTypeUser)
+SMB         10.129.243.140  445    DC               1105: PUPPYdam.silver (SidTypeUser)
+SMB         10.129.243.140  445    DC               1106: PUPPY\jamie.williams (SidTypeUser)
+SMB         10.129.243.140  445    DC               1107: PUPPY\steph.cooper (SidTypeUser)
+SMB         10.129.243.140  445    DC               1111: PUPPY\steph.cooper_adm (SidTypeUser)

