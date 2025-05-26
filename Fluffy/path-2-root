@@ -1,0 +1,11 @@
+HTB challenge itself said that this was a windows machine and since it provided with credentials, it is most likely an AD environment.
+Ran an nxc scan and checked what shares can be accessed, the user j.fleischman had WRITE access to the IT share.
+Used smbclient to get into the IT share and downloaded the 'Upgrade Notice.pdf' file
+In the PDF file, there were several CVEs that were mentioned. Looked through all of them and found two that seemed interesting: CVE-2025-24071 and CVE-2025-3445 
+Initially, tried CVE-2025-3445 for its path traversal attack that may allow me to get the flags directly, but not sure where the user flag is and getting the administrator flag failed. 
+So moved on to the CVE-2025-24071, found a few PoC's in GitHub, simply used one of them, created the exploit.zip and uploaded to the SMB IT share. Then started up Responder and captured p.agila's hash
+Cracked p.agila's hash using hashcat and tried to check whether she has any other extra access to other shares but no. 
+Used bloodhound-python to get data for bloodhound to ingest using the credentials I have. In bloodhound, from p.agila, she has GenericAll access to Service Accounts group in the domain and the Service Accounts group has GenericWrite to CA_SVC, which can help me to get tickets. 
+So added p.agila into the Service Accounts group using bloodyAD, then used `certipy-ad` to perform a shadow credential attack on the ca_svc account.
+Gotten the ccache file for ca_svc, ran `certipy-ad find` with the kerberos ticket (ccache file) and found that the domain is vulnerable to ESC16 attack. Followed the steps in `certipy-ad` wiki to perform the priv esc using ESC16 and got the administrator's hash. 
+Evil-winrm using Administrator's hash and got the user and root flags.
