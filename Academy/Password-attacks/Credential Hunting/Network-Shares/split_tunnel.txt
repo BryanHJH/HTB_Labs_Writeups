@@ -1,0 +1,7 @@
+﻿Old settings for legacy VPN deployment:
+- Use split tunneling where possible
+- DNS resolution priority = local > remote
+
+# Auth backup password: INLANEFREIGHT\jbader:ILovePower333###
+
+- Ports used: 443, 8443, 1194

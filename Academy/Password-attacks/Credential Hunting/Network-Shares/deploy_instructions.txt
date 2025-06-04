@@ -1,0 +1,4 @@
+﻿1. Extract package.zip to C:\ProgramData\Tools
+2. Run setup.exe as Administrator
+3. Accept all prompts, then restart machine
+4. Validate installation with healthcheck.ps1

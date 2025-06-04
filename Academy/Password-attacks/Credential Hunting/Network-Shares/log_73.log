@@ -1,0 +1,133 @@
+﻿2022-03-18 00:29:48 INFO Connection successful to remote host.
+2021-04-26 07:53:32 DEBUG Process exited with code 0
+2023-03-10 14:04:51 NOTICE Service restart triggered by user
+2022-09-13 15:00:11 DEBUG Process exited with code 0
+2021-07-14 18:05:52 ALERT Unauthorized login attempt detected
+2021-02-25 02:02:21 ALERT Unauthorized login attempt detected
+2023-03-02 04:28:52 INFO User logged out
+2022-10-19 04:29:19 ALERT Unauthorized login attempt detected
+2021-02-19 15:18:37 INFO Backup completed at
+2021-10-19 15:26:41 FAILURE Authentication failed for user admin
+2022-01-24 00:06:35 INFO Connection successful to remote host.
+2022-10-09 18:38:43 INFO User logged out
+2023-11-01 17:52:48 ERROR Could not resolve DNS for internal resource.
+2022-09-14 14:07:50 WARNING CPU usage exceeded threshold: 87%
+2023-03-20 00:48:50 WARNING CPU usage exceeded threshold: 87%
+2023-11-07 16:41:39 TRACE Packet dropped due to policy rule
+2021-06-04 11:22:33 INFO Backup completed at
+2021-08-07 06:55:03 ALERT Unauthorized login attempt detected
+2023-06-25 01:17:15 NOTICE Service restart triggered by user
+2022-02-24 15:19:06 WARNING CPU usage exceeded threshold: 87%
+2021-05-06 19:00:03 WARNING CPU usage exceeded threshold: 87%
+2022-04-10 07:31:22 NOTICE Service restart triggered by user
+2022-05-25 13:15:33 ALERT Unauthorized login attempt detected
+2022-07-19 07:23:46 DEBUG Process exited with code 0
+2022-09-08 03:41:09 INFO Connection successful to remote host.
+2022-10-23 04:42:45 INFO Backup completed at
+2022-10-18 11:28:20 INFO Connection successful to remote host.
+2021-05-27 04:01:16 INFO Backup completed at
+2022-02-04 01:49:55 WARNING CPU usage exceeded threshold: 87%
+2022-11-01 02:02:54 WARNING CPU usage exceeded threshold: 87%
+2022-09-26 00:39:58 FAILURE Authentication failed for user admin
+2022-08-07 01:30:47 NOTICE Service restart triggered by user
+2021-09-10 00:49:33 INFO Connection successful to remote host.
+2022-01-04 11:09:47 ALERT Unauthorized login attempt detected
+2023-04-10 02:25:31 INFO User logged out
+2022-01-07 12:42:03 DEBUG Process exited with code 0
+2022-10-19 22:31:27 INFO Connection successful to remote host.
+2022-02-25 07:50:31 TRACE Packet dropped due to policy rule
+2021-10-17 14:54:32 INFO Backup completed at
+2022-06-23 11:11:50 FAILURE Authentication failed for user admin
+2022-01-19 08:58:05 ALERT Unauthorized login attempt detected
+2023-06-25 02:16:13 ERROR Could not resolve DNS for internal resource.
+2022-05-15 09:02:01 NOTICE Service restart triggered by user
+2021-03-26 01:25:50 INFO User logged out
+2023-08-24 01:47:16 INFO User logged out
+2022-05-03 01:24:11 DEBUG Process exited with code 0
+2022-04-24 10:43:06 TRACE Packet dropped due to policy rule
+2021-03-11 05:09:01 INFO User logged out
+2022-04-10 18:12:50 ERROR Could not resolve DNS for internal resource.
+2021-07-12 13:29:38 ERROR Could not resolve DNS for internal resource.
+2023-11-06 20:53:02 INFO User logged out
+2022-09-06 19:52:12 TRACE Packet dropped due to policy rule
+2021-02-07 12:47:08 FAILURE Authentication failed for user admin
+2021-07-07 15:13:27 TRACE Packet dropped due to policy rule
+2022-01-08 09:27:45 WARNING CPU usage exceeded threshold: 87%
+2022-07-14 13:47:48 INFO User logged out
+2023-08-27 21:35:19 FAILURE Authentication failed for user admin
+2023-07-23 06:41:31 DEBUG Process exited with code 0
+2021-06-22 12:12:04 ALERT Unauthorized login attempt detected
+2023-05-27 02:40:41 TRACE Packet dropped due to policy rule
+2022-04-09 05:55:27 DEBUG Process exited with code 0
+2023-08-06 14:55:09 INFO User logged out
+2021-08-10 19:16:42 NOTICE Service restart triggered by user
+2021-08-05 09:14:23 TRACE Packet dropped due to policy rule
+2023-05-01 06:37:26 ERROR Could not resolve DNS for internal resource.
+2021-09-19 11:28:05 INFO Backup completed at
+2022-04-23 00:57:39 INFO Connection successful to remote host.
+2021-02-25 06:56:11 INFO Connection successful to remote host.
+2021-09-23 06:57:22 WARNING CPU usage exceeded threshold: 87%
+2023-05-13 18:33:17 DEBUG Process exited with code 0
+2022-04-09 19:30:12 DEBUG Process exited with code 0
+2021-11-06 04:30:31 WARNING CPU usage exceeded threshold: 87%
+2023-03-17 13:31:48 NOTICE Service restart triggered by user
+2023-08-27 15:53:24 FAILURE Authentication failed for user admin
+2022-11-27 22:05:16 ERROR Could not resolve DNS for internal resource.
+2021-11-27 13:14:58 TRACE Packet dropped due to policy rule
+2023-10-23 05:46:28 FAILURE Authentication failed for user admin
+2022-05-17 02:13:38 INFO Backup completed at
+2023-05-26 07:04:53 NOTICE Service restart triggered by user
+2021-10-22 21:36:43 NOTICE Service restart triggered by user
+2023-06-25 08:24:15 FAILURE Authentication failed for user admin
+2022-05-22 12:28:48 INFO Backup completed at
+2021-04-22 17:44:08 WARNING CPU usage exceeded threshold: 87%
+2023-09-22 22:02:15 TRACE Packet dropped due to policy rule
+2023-03-24 12:18:48 ERROR Could not resolve DNS for internal resource.
+2023-02-25 18:51:40 NOTICE Service restart triggered by user
+2021-02-23 22:16:23 INFO Connection successful to remote host.
+2023-03-24 12:29:41 DEBUG Process exited with code 0
+2022-09-27 11:45:19 INFO User logged out
+2023-03-18 01:44:25 FAILURE Authentication failed for user admin
+2022-05-12 22:51:30 ERROR Could not resolve DNS for internal resource.
+2023-06-06 18:14:52 WARNING CPU usage exceeded threshold: 87%
+2023-04-23 05:00:14 INFO User logged out
+2022-04-21 12:30:32 NOTICE Service restart triggered by user
+2023-04-17 20:11:25 INFO Connection successful to remote host.
+2023-11-03 00:11:51 TRACE Packet dropped due to policy rule
+2022-10-13 15:29:53 ERROR Could not resolve DNS for internal resource.
+2022-09-05 01:35:29 ALERT Unauthorized login attempt detected
+2022-07-08 22:20:33 TRACE Packet dropped due to policy rule
+2023-03-15 17:46:57 INFO User logged out
+2023-10-21 04:24:31 INFO Connection successful to remote host.
+2023-08-22 14:39:51 ERROR Could not resolve DNS for internal resource.
+2023-02-10 08:20:42 NOTICE Service restart triggered by user
+2023-08-14 12:17:27 INFO User logged out
+2023-10-02 15:50:43 INFO Connection successful to remote host.
+2022-01-15 11:27:15 INFO User logged out
+2022-06-04 11:00:28 INFO Connection successful to remote host.
+2021-04-19 14:56:04 ERROR Could not resolve DNS for internal resource.
+2023-03-10 00:18:44 INFO Connection successful to remote host.
+2021-07-25 04:03:17 FAILURE Authentication failed for user admin
+2022-06-20 21:22:10 WARNING CPU usage exceeded threshold: 87%
+2022-07-20 21:34:19 NOTICE Service restart triggered by user
+2022-03-02 06:04:54 FAILURE Authentication failed for user admin
+2022-05-27 22:54:25 ERROR Could not resolve DNS for internal resource.
+2023-03-06 00:12:48 INFO Backup completed at
+2021-06-16 13:30:58 FAILURE Authentication failed for user admin
+2021-11-24 15:19:19 INFO Backup completed at
+2023-02-01 11:42:18 INFO User logged out
+2022-10-10 17:00:52 FAILURE Authentication failed for user admin
+2022-08-23 05:25:15 INFO Backup completed at
+2023-10-17 14:38:26 ERROR Could not resolve DNS for internal resource.
+2021-07-16 00:11:16 INFO Backup completed at
+2022-03-24 05:48:15 NOTICE Service restart triggered by user
+2023-04-11 22:35:58 ALERT Unauthorized login attempt detected
+2021-06-01 19:46:32 ERROR Could not resolve DNS for internal resource.
+2022-09-03 02:19:10 INFO User logged out
+2021-10-03 17:32:52 ERROR Could not resolve DNS for internal resource.
+2022-08-06 03:22:39 INFO User logged out
+2023-05-03 17:25:27 INFO User logged out
+2022-05-01 06:43:09 NOTICE Service restart triggered by user
+2022-01-06 08:14:45 DEBUG Process exited with code 0
+2022-05-17 01:20:45 INFO Connection successful to remote host.
+2022-03-01 22:23:35 TRACE Packet dropped due to policy rule

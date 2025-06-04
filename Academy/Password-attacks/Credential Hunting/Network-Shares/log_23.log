@@ -1,0 +1,13 @@
+﻿2022-07-08 08:34:14 TRACE Packet dropped due to policy rule
+2022-01-12 12:43:00 FAILURE Authentication failed for user admin
+2021-10-24 04:26:12 FAILURE Authentication failed for user admin
+2023-11-07 13:01:06 FAILURE Authentication failed for user admin
+2022-07-04 03:48:28 FAILURE Authentication failed for user admin
+2023-04-04 05:53:16 INFO Backup completed at
+2022-03-19 00:00:04 NOTICE Service restart triggered by user
+2021-06-23 12:07:13 WARNING CPU usage exceeded threshold: 87%
+2022-07-10 14:16:36 INFO Connection successful to remote host.
+2022-02-23 22:21:02 ALERT Unauthorized login attempt detected
+2021-10-19 07:45:07 NOTICE Service restart triggered by user
+2021-07-07 22:41:35 TRACE Packet dropped due to policy rule
+2022-11-10 16:15:26 WARNING CPU usage exceeded threshold: 87%

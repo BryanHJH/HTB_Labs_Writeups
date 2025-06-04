@@ -1,0 +1,16 @@
+﻿2022-05-05 08:46:44 DEBUG Process exited with code 0
+2022-08-19 12:15:17 INFO Connection successful to remote host.
+2021-08-07 02:25:58 NOTICE Service restart triggered by user
+2022-10-16 15:57:01 TRACE Packet dropped due to policy rule
+2023-02-26 00:04:39 ALERT Unauthorized login attempt detected
+2023-08-02 21:17:26 INFO Backup completed at
+2023-01-04 00:13:35 INFO Backup completed at
+2021-02-21 13:51:33 INFO User logged out
+2023-11-05 06:12:41 INFO Connection successful to remote host.
+2023-11-20 08:02:58 TRACE Packet dropped due to policy rule
+2022-07-01 04:31:32 TRACE Packet dropped due to policy rule
+2023-09-14 20:08:47 INFO Connection successful to remote host.
+2022-03-14 10:33:55 NOTICE Service restart triggered by user
+2021-11-07 01:54:26 FAILURE Authentication failed for user admin
+2021-05-25 13:32:23 ALERT Unauthorized login attempt detected
+2022-06-05 12:09:16 TRACE Packet dropped due to policy rule

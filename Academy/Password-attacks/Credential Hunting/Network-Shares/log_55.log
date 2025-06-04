@@ -1,0 +1,14 @@
+﻿2021-08-07 16:56:39 FAILURE Authentication failed for user admin
+2023-08-19 08:04:46 NOTICE Service restart triggered by user
+2022-06-01 05:02:38 TRACE Packet dropped due to policy rule
+2023-01-11 07:47:45 INFO Connection successful to remote host.
+2021-06-02 00:38:27 NOTICE Service restart triggered by user
+2023-02-25 01:52:58 DEBUG Process exited with code 0
+2021-07-16 03:21:58 NOTICE Service restart triggered by user
+2021-05-20 02:39:32 INFO Connection successful to remote host.
+2022-09-23 14:44:01 TRACE Packet dropped due to policy rule
+2023-01-17 01:45:00 ALERT Unauthorized login attempt detected
+2022-09-04 14:11:20 DEBUG Process exited with code 0
+2022-03-15 05:11:41 INFO Backup completed at
+2023-10-11 07:58:51 NOTICE Service restart triggered by user
+2021-11-01 02:36:07 ERROR Could not resolve DNS for internal resource.
