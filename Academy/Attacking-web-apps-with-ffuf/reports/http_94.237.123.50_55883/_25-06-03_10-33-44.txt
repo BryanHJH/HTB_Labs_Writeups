@@ -1,0 +1,4 @@
+# Dirsearch started Tue Jun  3 10:33:48 2025 as: /home/kali/.local/bin/dirsearch -u http://94.237.123.50:55883 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt
+
+301   323B   http://94.237.123.50:55883/forum    -> REDIRECTS TO: http://94.237.123.50:55883/forum/
+301   322B   http://94.237.123.50:55883/blog    -> REDIRECTS TO: http://94.237.123.50:55883/blog/
