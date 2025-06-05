@@ -1,0 +1,34 @@
+﻿========================================
+Employee Onboarding Checklist
+========================================
+
+Name: Josh Bader  
+Start Date: 2025-04-29  
+Department: IT Infrastructure  
+Manager: R. Lawson  
+Title: Systems Engineer III  
+Role Level: Tier-0 Admin  
+
+Checklist:
+[✔] AD Account Created  
+[✔] Email Provisioned  
+[✔] Assigned to Admin VPN Group  
+[✔] Azure Admin Portal Access  
+[✔] Exchange Online Admin  
+[✔] Domain Admin Rights Applied  
+
+Notes:
+Jordan will be responsible for oversight of Active Directory replication, GPO management, and DC patching. Temporarily granted access to the domain administrator account for initial 90 days to complete infrastructure tasks related to the Chicago DC migration.
+
+Account credentials
+**Username:** `Administrator`  
+**Password:** `Str0ng_Adm1nistrat0r_P@ssword_2025!`  
+
+Note: Update account group membership after probationary period. Audit required every 30 days.
+
+Action Items:
+- Schedule orientation w/ Infosec (B. Chen)
+- Issue YubiKey (Asset #YK-78218)
+- Complete privileged access training (SecOps LMS)
+
+-- Document Created by R.Lawson on 2025-04-28

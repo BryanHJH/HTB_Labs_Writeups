@@ -1,0 +1,95 @@
+# Dirsearch started Mon Jun  2 13:52:03 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://certificate.htb/ -r
+
+403   304B   http://certificate.htb/%3f/
+403   304B   http://certificate.htb/%C0%AE%C0%AE%C0%AF
+403   304B   http://certificate.htb/%ff
+403   304B   http://certificate.htb/.ht_wsr.txt
+403   304B   http://certificate.htb/.htaccess.bak1
+403   304B   http://certificate.htb/.htaccess.orig
+403   304B   http://certificate.htb/.htaccess.sample
+403   304B   http://certificate.htb/.htaccess.save
+403   304B   http://certificate.htb/.htm
+403   304B   http://certificate.htb/.htaccessOLD
+403   304B   http://certificate.htb/.htaccess_extra
+403   304B   http://certificate.htb/.htaccessOLD2
+403   304B   http://certificate.htb/.htaccessBAK
+403   304B   http://certificate.htb/.htaccess_sc
+403   304B   http://certificate.htb/.htaccess_orig
+403   304B   http://certificate.htb/.html
+403   304B   http://certificate.htb/.htpasswd_test
+403   304B   http://certificate.htb/.htpasswds
+403   304B   http://certificate.htb/.httr-oauth
+200    14KB  http://certificate.htb/about.php
+403   304B   http://certificate.htb/cgi-bin/
+500   638B   http://certificate.htb/cgi-bin/printenv.pl
+200     0B   http://certificate.htb/db.php
+503   404B   http://certificate.htb/examples
+503   404B   http://certificate.htb/examples/jsp/snp/snoop.jsp
+503   404B   http://certificate.htb/examples/
+503   404B   http://certificate.htb/examples/jsp/index.html
+503   404B   http://certificate.htb/examples/jsp/%252e%252e/%252e%252e/manager/html/
+503   404B   http://certificate.htb/examples/servlets/servlet/RequestHeaderExample
+503   404B   http://certificate.htb/examples/servlet/SnoopServlet
+503   404B   http://certificate.htb/examples/servlets/servlet/CookieExample
+503   404B   http://certificate.htb/examples/servlets/index.html
+503   404B   http://certificate.htb/examples/websocket/index.xhtml
+200     3KB  http://certificate.htb/footer.php
+200     2KB  http://certificate.htb/header.php
+403   304B   http://certificate.htb/index.php::$DATA
+200     9KB  http://certificate.htb/login.php
+302     0B   http://certificate.htb/logout.php    -> REDIRECTS TO: login.php
+403   423B   http://certificate.htb/phpmyadmin
+403   423B   http://certificate.htb/phpmyadmin/phpmyadmin/index.php
+403   423B   http://certificate.htb/phpmyadmin/index.php
+403   423B   http://certificate.htb/phpmyadmin/README
+403   423B   http://certificate.htb/phpmyadmin/doc/html/index.html
+403   423B   http://certificate.htb/phpmyadmin/ChangeLog
+403   423B   http://certificate.htb/phpmyadmin/docs/html/index.html
+403   423B   http://certificate.htb/phpmyadmin/scripts/setup.php
+403   423B   http://certificate.htb/phpmyadmin/
+200    11KB  http://certificate.htb/register.php
+403   423B   http://certificate.htb/server-info
+403   423B   http://certificate.htb/server-status/
+403   423B   http://certificate.htb/server-status
+301   343B   http://certificate.htb/static    -> REDIRECTS TO: http://certificate.htb/static/
+301   345B   http://certificate.htb/static..    -> REDIRECTS TO: http://certificate.htb/static../
+403   304B   http://certificate.htb/Trace.axd::$DATA
+302     0B   http://certificate.htb/upload.php    -> REDIRECTS TO: login.php
+403   304B   http://certificate.htb/web.config::$DATA
+403   304B   http://certificate.htb/webalizer
+403   304B   http://certificate.htb/webalizer/
+404   301B   http://certificate.htb/%3f/%2e%2e//google.com
+404   301B   http://certificate.htb/%3f/\..\..\..\..\..\..\..\..\..\etc\passwd
+404   301B   http://certificate.htb/%3f/a%5c.aspx
+404   301B   http://certificate.htb/phpmyadmin/%2e%2e//google.com
+404   301B   http://certificate.htb/phpmyadmin/%C0%AE%C0%AE%C0%AF
+403   304B   http://certificate.htb/phpmyadmin/%3f/
+404   301B   http://certificate.htb/phpmyadmin/%ff
+404   301B   http://certificate.htb/phpmyadmin/\..\..\..\..\..\..\..\..\..\etc\passwd
+404   301B   http://certificate.htb/phpmyadmin/a%5c.aspx
+404   301B   http://certificate.htb/phpmyadmin/index.php::$DATA
+404   301B   http://certificate.htb/phpmyadmin/Trace.axd::$DATA
+404   301B   http://certificate.htb/phpmyadmin/web.config::$DATA
+404   301B   http://certificate.htb/server-status/%2e%2e//google.com
+404   301B   http://certificate.htb/server-status/\..\..\..\..\..\..\..\..\..\etc\passwd
+404   301B   http://certificate.htb/server-status/a%5c.aspx
+301   346B   http://certificate.htb/static/js    -> REDIRECTS TO: http://certificate.htb/static/js/
+301   347B   http://certificate.htb/static/css    -> REDIRECTS TO: http://certificate.htb/static/css/
+301   349B   http://certificate.htb/static/fonts    -> REDIRECTS TO: http://certificate.htb/static/fonts/
+301   347B   http://certificate.htb/static/img    -> REDIRECTS TO: http://certificate.htb/static/img/
+301   351B   http://certificate.htb/static/uploads    -> REDIRECTS TO: http://certificate.htb/static/uploads/
+301   348B   http://certificate.htb/static../js    -> REDIRECTS TO: http://certificate.htb/static../js/
+301   349B   http://certificate.htb/static../css    -> REDIRECTS TO: http://certificate.htb/static../css/
+301   351B   http://certificate.htb/static../fonts    -> REDIRECTS TO: http://certificate.htb/static../fonts/
+301   349B   http://certificate.htb/static../img    -> REDIRECTS TO: http://certificate.htb/static../img/
+301   353B   http://certificate.htb/static../uploads    -> REDIRECTS TO: http://certificate.htb/static../uploads/
+404   301B   http://certificate.htb/webalizer/%2e%2e//google.com
+404   301B   http://certificate.htb/webalizer/\..\..\..\..\..\..\..\..\..\etc\passwd
+404   301B   http://certificate.htb/webalizer/a%5c.aspx
+403   423B   http://certificate.htb/phpmyadmin/%3f/%2e%2e//google.com
+404   301B   http://certificate.htb/phpmyadmin/%3f/\..\..\..\..\..\..\..\..\..\etc\passwd
+404   301B   http://certificate.htb/phpmyadmin/%3f/a%5c.aspx
+200     6KB  http://certificate.htb/static/js/main.js
+301   352B   http://certificate.htb/static/img/blog    -> REDIRECTS TO: http://certificate.htb/static/img/blog/
+200     6KB  http://certificate.htb/static../js/main.js
+301   354B   http://certificate.htb/static../img/blog    -> REDIRECTS TO: http://certificate.htb/static../img/blog/

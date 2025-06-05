@@ -1,0 +1,17 @@
+POST /login.php HTTP/1.1
+Host: certificate.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 28
+Origin: http://certificate.htb
+Connection: keep-alive
+Referer: http://certificate.htb/login.php
+Cookie: PHPSESSID=j8fdvdne8na1e59ghthpkj6pij
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: cyan
+Priority: u=0, i
+
+username=trest&password=test

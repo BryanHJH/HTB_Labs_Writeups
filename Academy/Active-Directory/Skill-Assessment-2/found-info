@@ -1,0 +1,6 @@
+Domain: inlanefreight.local 
+
+172.16.7.3 --> DC 
+172.16.7.50 --> MS01.inlanefreight.local
+172.16.7.60 --> Machine that has MSSQL running, SQL01.inlanefreight.local
+172.16.7.240 --> attacker machine 

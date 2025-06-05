@@ -1,0 +1,20 @@
+fping -asgq 172.16.7.0/23
+172.16.7.3
+172.16.7.50
+172.16.7.60
+172.16.7.240
+
+     510 targets
+       4 alive
+     506 unreachable
+       0 unknown addresses
+
+    2024 timeouts (waiting for response)
+    2028 ICMP Echos sent
+       4 ICMP Echo Replies received
+    2024 other ICMP received
+
+ 0.091 ms (min round trip time)
+ 1.16 ms (avg round trip time)
+ 2.33 ms (max round trip time)
+       14.655 sec (elapsed real time)

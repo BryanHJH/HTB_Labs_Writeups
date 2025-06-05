@@ -1,0 +1,5 @@
+    $dsn = 'mysql:host=localhost;dbname=Certificate_WEBAPP_DB;charset=utf8mb4';
+    $db_user = 'certificate_webapp_user'; // Change to your DB username
+    $db_passwd = 'cert!f!c@teDBPWD'; // Change to your DB password
+
+    sara.b:Blink182

@@ -1,0 +1,28 @@
+Certificate Authorities
+  0
+    CA Name                             : Certificate-LTD-CA
+    DNS Name                            : DC01.certificate.htb
+    Certificate Subject                 : CN=Certificate-LTD-CA, DC=certificate, DC=htb
+    Certificate Serial Number           : 75B2F4BBF31F108945147B466131BDCA
+    Certificate Validity Start          : 2024-11-03 22:55:09+00:00
+    Certificate Validity End            : 2034-11-03 23:05:09+00:00
+    Web Enrollment
+      HTTP
+        Enabled                         : False
+      HTTPS
+        Enabled                         : False
+    User Specified SAN                  : Disabled
+    Request Disposition                 : Issue
+    Enforce Encryption for Requests     : Enabled
+    Active Policy                       : CertificateAuthority_MicrosoftDefault.Policy
+    Permissions
+      Owner                             : CERTIFICATE.HTB\Administrators
+      Access Rights
+        ManageCa                        : CERTIFICATE.HTB\Administrators
+                                          CERTIFICATE.HTB\Domain Admins
+                                          CERTIFICATE.HTB\Enterprise Admins
+        ManageCertificates              : CERTIFICATE.HTB\Administrators
+                                          CERTIFICATE.HTB\Domain Admins
+                                          CERTIFICATE.HTB\Enterprise Admins
+        Enroll                          : CERTIFICATE.HTB\Authenticated Users
+Certificate Templates                   : [!] Could not find any certificate templates
