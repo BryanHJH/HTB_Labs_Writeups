@@ -1,0 +1,13 @@
+1. Start bloodhound-python, follow the path until the user john, just follow all instructions in Linux Abuse. Note, don't use `net rpc` commands, they don't work for some reason, use bloodyAD instead.
+2. Once you reach `john`, you will have the user flag. But if you go back to bloodhound, you will see that your only path next is towards ADCS (GenericAll), even after you follow the Linux Abuse commands (dacledit), I didn't get much from here. Went to Telegram forum, first message mentioned that the name of the challenge is Tomb, which is the same as Recycle Bin in windows.
+3. Went back to `john` winrm session, search for Recycle Bin, found a hidden entry, don't know what it is. So I launched Kali GPT and asked (new tool discovered on Saturday). Kali GPT gave me commands for the ActiveDirectory powershell module to recover AD objects:
+	1. Get-ADObject -IncludeDeletedObjects -Filter 'isDeleted -eq $true' -Properties * --> to find deleted objects
+	2. Restore-ADObject -Identity "CN=UserName\0ADEL:...,CN=Deleted Objects,DC=domain,DC=local" --> Using the identified DN from command 1
+4. Once the object is restored, changed the password of this new user using the bloodyAD command
+5. Using this new user/object, ran bloodhound-python but the results got nothing useful. Since most of the previous machines used certipy to priv esc, tried using certipy here as well.
+6. Used certipy with john's user first, found a template that has a familiar SID, reseached the SID and turns out to be the recovered object's SID.
+7. Reran certipy using the recovered object's creds, on the same template, there's ESC15 priv esc
+8. Followed certipy wiki instructions, got a ldap shell
+9. Using ldap commands, added new user `test` and moved it to the `Domain Admins` group
+10. Checked with nxc, the `test` user has Domain Admin privileges
+11. Create a winrm session using `test` creds and got the root flag.
