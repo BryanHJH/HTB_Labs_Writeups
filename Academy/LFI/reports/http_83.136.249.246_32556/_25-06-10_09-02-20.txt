@@ -1,0 +1,40 @@
+# Dirsearch started Tue Jun 10 09:05:31 2025 as: /home/kali/.local/bin/dirsearch -u http://83.136.249.246:32556 -r
+
+403   282B   http://83.136.249.246:32556/.ht_wsr.txt
+403   282B   http://83.136.249.246:32556/.htaccess.bak1
+403   282B   http://83.136.249.246:32556/.htaccess.orig
+403   282B   http://83.136.249.246:32556/.htaccess.save
+403   282B   http://83.136.249.246:32556/.htaccess.sample
+403   282B   http://83.136.249.246:32556/.htaccess_extra
+403   282B   http://83.136.249.246:32556/.htaccess_orig
+403   282B   http://83.136.249.246:32556/.htaccessBAK
+403   282B   http://83.136.249.246:32556/.htaccess_sc
+403   282B   http://83.136.249.246:32556/.htaccessOLD
+403   282B   http://83.136.249.246:32556/.htaccessOLD2
+403   282B   http://83.136.249.246:32556/.htm
+403   282B   http://83.136.249.246:32556/.html
+403   282B   http://83.136.249.246:32556/.htpasswd_test
+403   282B   http://83.136.249.246:32556/.htpasswds
+403   282B   http://83.136.249.246:32556/.httr-oauth
+403   282B   http://83.136.249.246:32556/.php
+301   329B   http://83.136.249.246:32556/languages    -> REDIRECTS TO: http://83.136.249.246:32556/languages/
+403   282B   http://83.136.249.246:32556/server-status/
+403   282B   http://83.136.249.246:32556/server-status
+403   282B   http://83.136.249.246:32556/languages/.ht_wsr.txt
+403   282B   http://83.136.249.246:32556/languages/.htaccess.bak1
+403   282B   http://83.136.249.246:32556/languages/.htaccess.orig
+403   282B   http://83.136.249.246:32556/languages/.htaccess.sample
+403   282B   http://83.136.249.246:32556/languages/.htaccess.save
+403   282B   http://83.136.249.246:32556/languages/.htaccess_sc
+403   282B   http://83.136.249.246:32556/languages/.htaccess_extra
+403   282B   http://83.136.249.246:32556/languages/.htaccess_orig
+403   282B   http://83.136.249.246:32556/languages/.htaccessBAK
+403   282B   http://83.136.249.246:32556/languages/.htaccessOLD
+403   282B   http://83.136.249.246:32556/languages/.htaccessOLD2
+403   282B   http://83.136.249.246:32556/languages/.htm
+403   282B   http://83.136.249.246:32556/languages/.httr-oauth
+403   282B   http://83.136.249.246:32556/languages/.htpasswds
+403   282B   http://83.136.249.246:32556/languages/.html
+403   282B   http://83.136.249.246:32556/languages/.htpasswd_test
+403   282B   http://83.136.249.246:32556/languages/.php
+404   279B   http://83.136.249.246:32556/server-status/%2e%2e//google.com
