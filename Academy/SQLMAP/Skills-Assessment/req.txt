@@ -1,0 +1,15 @@
+POST /action.php HTTP/1.1
+Host: 83.136.249.246:46452
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 8
+Origin: http://83.136.249.246:46452
+Connection: keep-alive
+Referer: http://83.136.249.246:46452/shop.html
+X-PwnFox-Color: cyan
+Priority: u=0
+
+{"id":1}
