@@ -1,0 +1,40 @@
+# Dirsearch started Sat Jun  7 17:08:08 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u 94.237.59.174:30810 -r
+
+301   320B   http://94.237.59.174:30810/js    -> REDIRECTS TO: http://94.237.59.174:30810/js/
+200    10KB  http://94.237.59.174:30810/.DS_Store
+403   281B   http://94.237.59.174:30810/.ht_wsr.txt
+403   281B   http://94.237.59.174:30810/.htaccess.bak1
+403   281B   http://94.237.59.174:30810/.htaccess.orig
+403   281B   http://94.237.59.174:30810/.htaccess.sample
+403   281B   http://94.237.59.174:30810/.htaccess.save
+403   281B   http://94.237.59.174:30810/.htaccess_extra
+403   281B   http://94.237.59.174:30810/.htaccess_orig
+403   281B   http://94.237.59.174:30810/.htaccessBAK
+403   281B   http://94.237.59.174:30810/.htaccess_sc
+403   281B   http://94.237.59.174:30810/.htaccessOLD
+403   281B   http://94.237.59.174:30810/.htaccessOLD2
+403   281B   http://94.237.59.174:30810/.htm
+403   281B   http://94.237.59.174:30810/.html
+403   281B   http://94.237.59.174:30810/.htpasswd_test
+403   281B   http://94.237.59.174:30810/.httr-oauth
+403   281B   http://94.237.59.174:30810/.htpasswds
+403   281B   http://94.237.59.174:30810/.php
+200     4KB  http://94.237.59.174:30810/about.html
+500     0B   http://94.237.59.174:30810/add.php
+200     3KB  http://94.237.59.174:30810/cart.html
+200     3KB  http://94.237.59.174:30810/contact.html
+301   321B   http://94.237.59.174:30810/css    -> REDIRECTS TO: http://94.237.59.174:30810/css/
+301   323B   http://94.237.59.174:30810/fonts    -> REDIRECTS TO: http://94.237.59.174:30810/fonts/
+301   324B   http://94.237.59.174:30810/images    -> REDIRECTS TO: http://94.237.59.174:30810/images/
+403   281B   http://94.237.59.174:30810/images/
+403   281B   http://94.237.59.174:30810/js/
+403   281B   http://94.237.59.174:30810/server-status
+403   281B   http://94.237.59.174:30810/server-status/
+200     8KB  http://94.237.59.174:30810/js/.DS_Store
+200     3KB  http://94.237.59.174:30810/js/main.js
+200     8KB  http://94.237.59.174:30810/css/.DS_Store
+301   325B   http://94.237.59.174:30810/css/css    -> REDIRECTS TO: http://94.237.59.174:30810/css/css/
+200     6KB  http://94.237.59.174:30810/fonts/.DS_Store
+200     6KB  http://94.237.59.174:30810/images/.DS_Store
+404   278B   http://94.237.59.174:30810/server-status/%2e%2e//google.com
+200     6KB  http://94.237.59.174:30810/css/css/.DS_Store

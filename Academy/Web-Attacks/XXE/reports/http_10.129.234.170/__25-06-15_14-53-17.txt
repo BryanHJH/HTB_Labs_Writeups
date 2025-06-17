@@ -1,0 +1,20 @@
+# Dirsearch started Sun Jun 15 14:53:37 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.129.234.170/ -r
+
+301   313B   http://10.129.234.170/js    -> REDIRECTS TO: http://10.129.234.170/js/
+403   279B   http://10.129.234.170/.ht_wsr.txt
+403   279B   http://10.129.234.170/.htaccess.bak1
+403   279B   http://10.129.234.170/.htaccess.save
+403   279B   http://10.129.234.170/.htaccess.sample
+403   279B   http://10.129.234.170/.htaccess.orig
+403   279B   http://10.129.234.170/.htaccess_extra
+403   279B   http://10.129.234.170/.htaccess_orig
+403   279B   http://10.129.234.170/.htaccess_sc
+403   279B   http://10.129.234.170/.htaccessBAK
+403   279B   http://10.129.234.170/.htaccessOLD2
+403   279B   http://10.129.234.170/.htaccessOLD
+403   279B   http://10.129.234.170/.html
+403   279B   http://10.129.234.170/.htm
+403   279B   http://10.129.234.170/.htpasswd_test
+403   279B   http://10.129.234.170/.htpasswds
+403   279B   http://10.129.234.170/.httr-oauth
+403   279B   http://10.129.234.170/.php
