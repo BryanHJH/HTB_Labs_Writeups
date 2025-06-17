@@ -1,0 +1,238 @@
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://dev.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://dev.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://drupal-dev.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://drupal-dev.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://drupal-qa.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://drupal.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://drupal-qa.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://drupal.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://drupal-acc.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_requester] Received new URL http://drupal-acc.inlanefreight.local/
+[agent:url_requester] Received new URL http://10.129.118.232:22/
+[agent:url_requester] Received new URL http://blog.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://app.inlanefreight.local:22/
+[agent:url_requester] Received new URL http://10.129.118.232/
+[agent:url_requester] Received new URL http://blog.inlanefreight.local/
+[agent:url_requester] Received new URL http://app.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_requester] Error: Get "http://dev.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_requester] Error: Get "http://drupal-dev.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://drupal-dev.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://drupal-dev.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://drupal-dev.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://drupal-dev.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://drupal-dev.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://drupal-dev.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_requester] Error: Get "http://drupal-qa.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://drupal.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_hostname_resolver] Received new responsive URL http://drupal-qa.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://drupal-qa.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://drupal-qa.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://drupal-qa.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://drupal-qa.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://drupal-qa.inlanefreight.local/
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://drupal.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://drupal.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://drupal.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://drupal.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://drupal.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://drupal.inlanefreight.local/
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_requester] Error: Get "http://drupal-acc.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://drupal-acc.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://drupal-acc.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://drupal-acc.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://drupal-acc.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://drupal-acc.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://drupal-acc.inlanefreight.local/
+[agent:url_requester] Error: Get "http://10.129.118.232:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://dev.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://dev.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://dev.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://dev.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://dev.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://dev.inlanefreight.local/
+[agent:url_requester] Error: Get "http://blog.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_requester] Error: Get "http://app.inlanefreight.local:22/": net/http: HTTP/1.x transport connection broken: malformed HTTP status code "Ubuntu-4ubuntu0.3"
+[agent:url_screenshotter] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://10.129.118.232/
+[agent:url_hostname_resolver] Skipping hostname resolving on IP host: http://10.129.118.232/
+[agent:url_page_title_extractor] Received new responsive URL http://10.129.118.232/
+[agent:url_technology_fingerprinter] Received new responsive URL http://10.129.118.232/
+[agent:url_tls_checker] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Received new responsive URL: http://10.129.118.232/
+[agent:url_takeover_detector] Skipping takeover detection on IP URL http://10.129.118.232/
+[agent:url_hostname_resolver] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://app.inlanefreight.local/
+[agent:url_screenshotter] Received new responsive URL http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_screenshotter] Received new responsive URL http://blog.inlanefreight.local/
+[agent:url_page_title_extractor] Received new responsive URL http://blog.inlanefreight.local/
+[agent:url_takeover_detector] Received new responsive URL: http://blog.inlanefreight.local/
+[agent:url_technology_fingerprinter] Received new responsive URL http://blog.inlanefreight.local/
+[agent:url_tls_checker] Received new responsive URL: http://blog.inlanefreight.local/
+[agent:url_hostname_resolver] Received new responsive URL http://blog.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://drupal-dev.inlanefreight.local/: lookup drupal-dev.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_hostname_resolver] Failed to resolve hostname for http://drupal-qa.inlanefreight.local/: lookup drupal-qa.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_screenshotter] Screenshotted successfully for http://drupal-dev.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://drupal.inlanefreight.local/: lookup drupal.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://drupal-qa.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://drupal.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_hostname_resolver] Failed to resolve hostname for http://drupal-acc.inlanefreight.local/: lookup drupal-acc.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://dev.inlanefreight.local/: lookup dev.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://drupal-acc.inlanefreight.local/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://app.inlanefreight.local/: lookup app.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://10.129.118.232/
+[agent:url_hostname_resolver] Failed to resolve hostname for http://blog.inlanefreight.local/: lookup blog.inlanefreight.local.: no such host
+[agent:url_screenshotter] Screenshotted successfully for http://dev.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://app.inlanefreight.local/
+[agent:url_screenshotter] Screenshotted successfully for http://blog.inlanefreight.local/

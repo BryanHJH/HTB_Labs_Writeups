@@ -1,0 +1,12 @@
+200 OK
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Server: Apache/2.4.41 (Ubuntu)
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Etag: "1750079273-gzip"
+X-Generator: Drupal 7 (http://drupal.org)
+Date: Mon, 16 Jun 2025 13:07:53 GMT
+Last-Modified: Mon, 16 Jun 2025 13:07:53 +0000
+Content-Language: en
+Vary: Accept-Encoding

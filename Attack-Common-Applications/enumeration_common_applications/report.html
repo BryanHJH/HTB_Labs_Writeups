@@ -1,0 +1,71 @@
+<center><html>
+        <head>
+        <title>EyeWitness Report Table of Contents</title>
+        </head>
+        <h2>Table of Contents</h2><li><a href="report.html#uncat">Uncategorized (Page 1)</a></li></ul><br><br><table class="table"><tr><td>Uncategorized</td><td>1</td><tr><td>Errors</td><td>0</td></tr><tr><th>Total</th><td>1</td></tr></table><br><br></center><html>
+        <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2025/06/16 at 20:46:52</center><h2 id="uncat">Uncategorized</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://10.129.118.232" target="_blank">http://10.129.118.232</a><br>
+            <b>Resolved to:</b> app.inlanefreight.local<br>
+<br><b> Page Title: </b>Testing Default Vhosts
+<br><b> Date:</b> Mon, 16 Jun 2025 12:46:58 GMT
+<br><b> Server:</b> Apache/2.4.41 (Ubuntu)
+<br><b> Last-Modified:</b> Mon, 16 Aug 2021 18:15:18 GMT
+<br><b> ETag:</b> &quot;b8-5c9b12f02857c&quot;
+<br><b> Accept-Ranges:</b> bytes
+<br><b> Content-Length:</b> 184
+<br><b> Vary:</b> Accept-Encoding
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.10.129.118.232.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.10.129.118.232.png"
+                target="_blank"><img src="screens/http.10.129.118.232.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br></table><br></body>
+</html>

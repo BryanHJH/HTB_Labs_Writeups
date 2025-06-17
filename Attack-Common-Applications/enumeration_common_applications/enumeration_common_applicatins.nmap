@@ -1,0 +1,66 @@
+# Nmap 7.95 scan initiated Mon Jun 16 20:48:39 2025 as: /usr/lib/nmap/nmap --privileged --min-rate 3000 -sV -p- -oA enumeration_common_applicatins -iL scope_list_enumeration
+Nmap scan report for app.inlanefreight.local (10.129.118.232)
+Host is up (0.46s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for dev.inlanefreight.local (10.129.118.232)
+Host is up (0.37s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for drupal-dev.inlanefreight.local (10.129.118.232)
+Host is up (0.43s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for drupal-qa.inlanefreight.local (10.129.118.232)
+Host is up (0.40s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for drupal-acc.inlanefreight.local (10.129.118.232)
+Host is up (0.40s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Warning: 10.129.118.232 giving up on port because retransmission cap hit (10).
+Nmap scan report for drupal.inlanefreight.local (10.129.118.232)
+Host is up (0.24s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 64996 closed tcp ports (reset), 537 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for blog.inlanefreight.local (10.129.118.232)
+Host is up (0.25s latency).
+rDNS record for 10.129.118.232: app.inlanefreight.local
+Not shown: 64750 closed tcp ports (reset), 783 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jun 16 20:54:15 2025 -- 7 IP addresses (7 hosts up) scanned in 336.30 seconds

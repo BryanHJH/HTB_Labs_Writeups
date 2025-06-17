@@ -1,0 +1,2 @@
+Protocol,Port,Domain,Request Status,Screenshot Path, Source Path
+http,80,10.129.118.232,Successful,/home/kali/Documents/HTB_Labs_Writeups/Attack-Common-Applications/enumeration_common_applications/screens/http.10.129.118.232.png,/home/kali/Documents/HTB_Labs_Writeups/Attack-Common-Applications/enumeration_common_applications/source/http.10.129.118.232.txt

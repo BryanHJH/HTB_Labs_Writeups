@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Jun 16 20:40:13 2025 as: /usr/lib/nmap/nmap --privileged --min-rate 3000 -sV -p- -oA enumeration_common_applicatins 10.129.118.232
+Host: 10.129.118.232 (app.inlanefreight.local)	Status: Up
+Host: 10.129.118.232 (app.inlanefreight.local)	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/
+# Nmap done at Mon Jun 16 20:41:56 2025 -- 1 IP address (1 host up) scanned in 103.58 seconds

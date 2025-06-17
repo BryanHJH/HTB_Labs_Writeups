@@ -1,0 +1,3 @@
+# Dirsearch started Mon Jun 16 22:09:55 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://blog-dev.inlanefreight.local/ -r -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-large-directories.txt
+
+403   293B   http://blog-dev.inlanefreight.local/server-status

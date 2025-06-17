@@ -1,0 +1,11 @@
+200 OK
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Mon, 16 Jun 2025 13:07:58 GMT
+Pragma: no-cache
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Vary: Accept-Encoding
+Date: Mon, 16 Jun 2025 13:07:49 GMT
+Set-Cookie: 02a93f6429c54209e06c64b77be2180d=n5tfdugiar0qdj0rq8bb0jduke; path=/; HttpOnly
