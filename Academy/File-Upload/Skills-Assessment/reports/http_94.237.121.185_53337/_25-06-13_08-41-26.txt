@@ -1,0 +1,41 @@
+# Dirsearch started Fri Jun 13 08:44:37 2025 as: /home/kali/.local/bin/dirsearch -u http://94.237.121.185:53337 -r
+
+403   282B   http://94.237.121.185:53337/.ht_wsr.txt
+403   282B   http://94.237.121.185:53337/.htaccess.bak1
+403   282B   http://94.237.121.185:53337/.htaccess.sample
+403   282B   http://94.237.121.185:53337/.htaccess.save
+403   282B   http://94.237.121.185:53337/.htaccess.orig
+403   282B   http://94.237.121.185:53337/.htaccess_orig
+403   282B   http://94.237.121.185:53337/.htaccess_extra
+403   282B   http://94.237.121.185:53337/.htaccess_sc
+403   282B   http://94.237.121.185:53337/.htaccessOLD2
+403   282B   http://94.237.121.185:53337/.htaccessBAK
+403   282B   http://94.237.121.185:53337/.htaccessOLD
+403   282B   http://94.237.121.185:53337/.htm
+403   282B   http://94.237.121.185:53337/.html
+403   282B   http://94.237.121.185:53337/.htpasswd_test
+403   282B   http://94.237.121.185:53337/.httr-oauth
+403   282B   http://94.237.121.185:53337/.htpasswds
+403   282B   http://94.237.121.185:53337/.php
+301   327B   http://94.237.121.185:53337/contact    -> REDIRECTS TO: http://94.237.121.185:53337/contact/
+403   282B   http://94.237.121.185:53337/server-status
+403   282B   http://94.237.121.185:53337/server-status/
+403   282B   http://94.237.121.185:53337/contact/.ht_wsr.txt
+403   282B   http://94.237.121.185:53337/contact/.htaccess.bak1
+403   282B   http://94.237.121.185:53337/contact/.htaccess.orig
+403   282B   http://94.237.121.185:53337/contact/.htaccess.sample
+403   282B   http://94.237.121.185:53337/contact/.htaccess_extra
+403   282B   http://94.237.121.185:53337/contact/.htaccess.save
+403   282B   http://94.237.121.185:53337/contact/.htaccess_orig
+403   282B   http://94.237.121.185:53337/contact/.htaccessOLD
+403   282B   http://94.237.121.185:53337/contact/.htaccessBAK
+403   282B   http://94.237.121.185:53337/contact/.htaccessOLD2
+403   282B   http://94.237.121.185:53337/contact/.htaccess_sc
+403   282B   http://94.237.121.185:53337/contact/.htm
+403   282B   http://94.237.121.185:53337/contact/.html
+403   282B   http://94.237.121.185:53337/contact/.htpasswd_test
+403   282B   http://94.237.121.185:53337/contact/.htpasswds
+403   282B   http://94.237.121.185:53337/contact/.httr-oauth
+403   282B   http://94.237.121.185:53337/contact/.php
+200    23B   http://94.237.121.185:53337/contact/upload.php
+404   279B   http://94.237.121.185:53337/server-status/%2e%2e//google.com
