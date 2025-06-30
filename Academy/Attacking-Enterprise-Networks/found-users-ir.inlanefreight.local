@@ -1,0 +1,24 @@
+[i] User(s) Identified:
+
+[+] ilfreightwp
+| Found By: Rss Generator (Passive Detection)
+| Confirmed By:
+|  Wp Json Api (Aggressive Detection)
+|   - http://ir.inlanefreight.local/wp-json/wp/v2/users/\?per_page\=100\&page\=1
+|  Rss Generator (Aggressive Detection)
+|  Author Sitemap (Aggressive Detection)
+|   - http://ir.inlanefreight.local/wp-sitemap-users-1.xml
+|  Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+|  Login Error Messages (Aggressive Detection)
+
+[+] tom
+| Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+| Confirmed By: Login Error Messages (Aggressive Detection)
+
+[+] james
+| Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+| Confirmed By: Login Error Messages (Aggressive Detection)
+
+[+] john
+| Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+| Confirmed By: Login Error Messages (Aggressive Detection)

@@ -1,0 +1,22 @@
+
+distinguishedName: CN=Administrator,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=Guest,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=krbtgt,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=rr.parker,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=mm.turner,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=bb.morgan,OU=Users,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=gg.anderson,OU=Users,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=dd.ali,OU=Users,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=ee.reed,OU=Users,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=nn.marcos,CN=Users,DC=rustykey,DC=htb
+
+distinguishedName: CN=backupadmin,CN=Users,DC=rustykey,DC=htb

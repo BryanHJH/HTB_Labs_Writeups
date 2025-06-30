@@ -1,0 +1,42 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>ILF Status</title>
+
+    <link href="./css/htmlstyles.css" rel="stylesheet">
+	</head>
+
+  <body>
+  <div class="container-narrow">
+		<div class="response">
+			<p style="color:white">
+			
+					Search logs:
+					<input type="text" id="searchitem" name="searchitem">&nbsp;&nbsp;
+					<input type="submit" value="Search!"><table class="response">
+			<form method="POST" autocomplete="off"></form>
+	</table>
+			</p>
+
+		
+        </div>
+		<br>
+
+
+<div class="searchheader" style="color:white">
+<table>
+	<tbody><tr>
+    <td style="width:200px ">
+        <b>Event</b>
+    </td>
+    <td style="width:200px ">
+        <b>Description</b>
+    </td>
+    <td style="width:450px ">
+        <b>Timestamp</b>
+    </td>
+</tr>
+
+</tbody></table>
+	</div>
+
+
+</div></body></html>

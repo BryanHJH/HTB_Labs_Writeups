@@ -1,0 +1,70 @@
+<html>
+        <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2025/06/30 at 09:44:13</center><h3>Page 2</h3><center><a href="report.html" id="previous"> Previous Page </a></center>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+<table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://monitoring.inlanefreight.local" target="_blank">http://monitoring.inlanefreight.local</a><br>
+            <b>Resolved to:</b> 10.129.23.162<br>
+<br><b> Page Title: </b>Unknown
+<br><b> Date:</b> Mon, 30 Jun 2025 01:44:27 GMT
+<br><b> Server:</b> Apache/2.4.41 (Ubuntu)
+<br><b> Set-Cookie:</b> PHPSESSID=c58ng97nhoecf66ppcahnlltc3; path=/
+<br><b> Expires:</b> Thu, 19 Nov 1981 08:52:00 GMT
+<br><b> Cache-Control:</b> no-store, no-cache, must-revalidate
+<br><b> Pragma:</b> no-cache
+<br><b> Content-Length:</b> 56
+<br><b> Connection:</b> close
+<br><b> Content-Type:</b> text/html; charset=UTF-8
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.monitoring.inlanefreight.local.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.monitoring.inlanefreight.local.png"
+                target="_blank"><img src="screens/http.monitoring.inlanefreight.local.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br></table><br>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+<br><h3>Page 2</h3><center><a href="report.html" id="previous"> Previous Page </a></center></body></html>

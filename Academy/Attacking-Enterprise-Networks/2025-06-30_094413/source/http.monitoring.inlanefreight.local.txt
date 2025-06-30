@@ -1,0 +1,14 @@
+<html><head></head><body><center>
+		<link href="./css/main.css" rel="stylesheet" type="text/css">
+                <div class="log-form">
+                  <form action="/login.php" method="POST">
+                    <input type="text" title="username" name="username" placeholder="username"><br>
+                    <input type="password" title="username" name="password" placeholder="password"><br>
+                    <button type="submit" class="btn">Login</button><br>
+                        <center><h6 class="form-signin-heading"></h6><br></center>
+
+                  </form>
+		</div>
+                </center>
+
+</body></html>

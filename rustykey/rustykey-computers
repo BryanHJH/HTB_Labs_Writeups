@@ -1,0 +1,32 @@
+
+distinguishedName: CN=DC,OU=Domain Controllers,DC=rustykey,DC=htb
+
+distinguishedName: CN=Support-Computer1,OU=Computers,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=Support-Computer2,OU=Computers,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=Support-Computer3,OU=Computers,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=Support-Computer4,OU=Computers,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=Support-Computer5,OU=Computers,OU=Support,DC=rustykey,DC=htb
+
+distinguishedName: CN=Finance-Computer1,OU=Computers,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=Finance-Computer2,OU=Computers,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=Finance-Computer3,OU=Computers,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=Finance-Computer4,OU=Computers,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=Finance-Computer5,OU=Computers,OU=Finance,DC=rustykey,DC=htb
+
+distinguishedName: CN=IT-Computer1,OU=Computers,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=IT-Computer2,OU=Computers,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=IT-Computer3,OU=Computers,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=IT-Computer4,OU=Computers,OU=IT,DC=rustykey,DC=htb
+
+distinguishedName: CN=IT-Computer5,OU=Computers,OU=IT,DC=rustykey,DC=htb
