@@ -1,0 +1,4 @@
+# Dirsearch started Thu Jun 19 15:08:22 2025 as: /home/kali/.local/bin/dirsearch -u http://10.129.201.102:7001/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt
+
+401     1KB  http://10.129.201.102:7001/management
+302   267B   http://10.129.201.102:7001/console    -> REDIRECTS TO: http://10.129.201.102:7001/console/

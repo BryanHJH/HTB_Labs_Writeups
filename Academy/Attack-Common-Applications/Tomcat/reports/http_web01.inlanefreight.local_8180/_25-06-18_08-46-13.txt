@@ -1,0 +1,10 @@
+# Dirsearch started Wed Jun 18 09:04:34 2025 as: /home/kali/.local/bin/dirsearch -u http://web01.inlanefreight.local:8180 -r -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-small.txt
+
+302     0B   http://web01.inlanefreight.local:8180/docs    -> REDIRECTS TO: /docs/
+302     0B   http://web01.inlanefreight.local:8180/examples    -> REDIRECTS TO: /examples/
+302     0B   http://web01.inlanefreight.local:8180/manager    -> REDIRECTS TO: /manager/
+400   805B   http://web01.inlanefreight.local:8180/http%3A%2F%2Fwww
+400   805B   http://web01.inlanefreight.local:8180/http%3A%2F%2Fyoutube
+400   805B   http://web01.inlanefreight.local:8180/http%3A%2F%2Fblogs
+400   805B   http://web01.inlanefreight.local:8180/http%3A%2F%2Fblog
+400   805B   http://web01.inlanefreight.local:8180/**http%3A%2F%2Fwww

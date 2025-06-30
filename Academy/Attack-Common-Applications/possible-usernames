@@ -1,0 +1,3 @@
+if %username% == cybervaca goto correcto
+if %username% == frankytech goto correcto
+if %username% == ev4si0n goto correcto

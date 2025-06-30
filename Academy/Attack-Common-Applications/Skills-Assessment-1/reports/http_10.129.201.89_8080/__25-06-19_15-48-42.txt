@@ -1,0 +1,5 @@
+# Dirsearch started Thu Jun 19 15:48:52 2025 as: /home/kali/.local/bin/dirsearch -u http://10.129.201.89:8080/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-large-directories.txt -t 64
+
+302     0B   http://10.129.201.89:8080/docs    -> REDIRECTS TO: http://10.129.201.89:8080/docs/
+302     0B   http://10.129.201.89:8080/WEB-INF    -> REDIRECTS TO: http://10.129.201.89:8080/WEB-INF/
+302     0B   http://10.129.201.89:8080/examples    -> REDIRECTS TO: http://10.129.201.89:8080/examples/

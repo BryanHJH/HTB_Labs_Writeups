@@ -1,0 +1,17 @@
+# Dirsearch started Thu Jun 19 15:40:45 2025 as: /home/kali/.local/bin/dirsearch -u http://10.129.201.89:8080/
+
+400     0B   http://10.129.201.89:8080/\..\..\..\..\..\..\..\..\..\etc\passwd
+400     0B   http://10.129.201.89:8080/a%5c.aspx
+200     3KB  http://10.129.201.89:8080/build.xml
+302     0B   http://10.129.201.89:8080/docs    -> REDIRECTS TO: http://10.129.201.89:8080/docs/
+200    16KB  http://10.129.201.89:8080/docs/
+302     0B   http://10.129.201.89:8080/examples    -> REDIRECTS TO: http://10.129.201.89:8080/examples/
+200     1KB  http://10.129.201.89:8080/examples/websocket/index.xhtml
+200    14KB  http://10.129.201.89:8080/examples/jsp/index.html
+200     6KB  http://10.129.201.89:8080/examples/servlets/index.html
+200     1KB  http://10.129.201.89:8080/examples/
+200   678B   http://10.129.201.89:8080/examples/servlets/servlet/CookieExample
+200     1KB  http://10.129.201.89:8080/examples/servlets/servlet/RequestHeaderExample
+200   722B   http://10.129.201.89:8080/examples/jsp/snp/snoop.jsp
+200    21KB  http://10.129.201.89:8080/favicon.ico
+302     0B   http://10.129.201.89:8080/WEB-INF    -> REDIRECTS TO: http://10.129.201.89:8080/WEB-INF/
