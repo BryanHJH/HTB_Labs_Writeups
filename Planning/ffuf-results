@@ -1,0 +1,22 @@
+ffuf -u http://planning.htb/ -w /usr/share/wordlists/seclists/Discovery/DNS/namelist.txt -H Host: FUZZ.planning.htb -fc 301 -t 128
+
+/'___\  /'___\           /'___/\ \__/ /\ \__/  __  __  /\ \__/
+\ \ ,__\ \ ,__\/\ \/\ \ \ \ ,__\ \ \_/ \ \ \_/\ \ \_\ \ \ \ \_/
+\ \_\   \ \_\  \ \____/  \ \_\/_/    \/_/   \/___/    \/_/
+
+v2.1.0-dev
+________________________________________________
+
+:: Method           : GET
+:: URL              : http://planning.htb/
+:: Wordlist         : FUZZ: /usr/share/wordlists/seclists/Discovery/DNS/namelist.txt
+:: Header           : Host: FUZZ.planning.htb
+:: Follow redirects : false
+:: Calibration      : false
+:: Timeout          : 10
+:: Threads          : 128
+:: Matcher          : Response status: 200-299,301,302,307,401,403,405,500
+:: Filter           : Response status: 301
+________________________________________________
+
+grafana                 [Status: 302, Size: 29, Words: 2, Lines: 3, Duration: 14ms]

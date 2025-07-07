@@ -1,0 +1,86 @@
+# Dirsearch started Mon Jul  7 18:54:05 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://grafana.planning.htb
+
+302    24B   http://grafana.planning.htb/admin    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/admin/    -> REDIRECTS TO: /
+401   102B   http://grafana.planning.htb/api
+401   102B   http://grafana.planning.htb/api-doc
+401   102B   http://grafana.planning.htb/api.log
+401   102B   http://grafana.planning.htb/api-docs
+401   102B   http://grafana.planning.htb/api/2/explore/
+401   102B   http://grafana.planning.htb/api/
+401   102B   http://grafana.planning.htb/api.php
+401   102B   http://grafana.planning.htb/api/2/issue/createmeta
+401   102B   http://grafana.planning.htb/api/_swagger_/
+401   102B   http://grafana.planning.htb/api/application.wadl
+401   102B   http://grafana.planning.htb/api/api-docs
+401   102B   http://grafana.planning.htb/api/api
+401   102B   http://grafana.planning.htb/api/__swagger__/
+401   102B   http://grafana.planning.htb/api.py
+401   102B   http://grafana.planning.htb/api/apidocs/swagger.json
+401   102B   http://grafana.planning.htb/api/batch
+401   102B   http://grafana.planning.htb/api/apidocs
+401   102B   http://grafana.planning.htb/api/cask/graphql
+401   102B   http://grafana.planning.htb/api/config
+401   102B   http://grafana.planning.htb/api/docs
+401   102B   http://grafana.planning.htb/api/error_log
+401   102B   http://grafana.planning.htb/api/index.html
+401   102B   http://grafana.planning.htb/api/login.json
+401   102B   http://grafana.planning.htb/api/docs/
+401   102B   http://grafana.planning.htb/api/jsonws
+401   102B   http://grafana.planning.htb/api/package_search/v4/documentation
+401   102B   http://grafana.planning.htb/api/jsonws/invoke
+401   102B   http://grafana.planning.htb/api/profile
+401   102B   http://grafana.planning.htb/api/spec/swagger.json
+401   102B   http://grafana.planning.htb/api/proxy
+401   102B   http://grafana.planning.htb/api/swagger-ui.html
+401   102B   http://grafana.planning.htb/api/swagger
+401   102B   http://grafana.planning.htb/api/snapshots
+401   102B   http://grafana.planning.htb/api/swagger.yaml
+401   102B   http://grafana.planning.htb/api/swagger/static/index.html
+401   102B   http://grafana.planning.htb/api/swagger.yml
+401   102B   http://grafana.planning.htb/api/swagger/swagger
+401   102B   http://grafana.planning.htb/api/swagger.json
+401   102B   http://grafana.planning.htb/api/swagger/ui/index
+401   102B   http://grafana.planning.htb/api/swagger/index.html
+401   102B   http://grafana.planning.htb/api/v1/swagger.json
+401   102B   http://grafana.planning.htb/api/v1
+401   102B   http://grafana.planning.htb/api/v1/
+401   102B   http://grafana.planning.htb/api/timelion/run
+401   102B   http://grafana.planning.htb/api/v1/swagger.yaml
+401   102B   http://grafana.planning.htb/api/v2/swagger.json
+401   102B   http://grafana.planning.htb/api/v2/swagger.yaml
+401   102B   http://grafana.planning.htb/api/v4
+401   102B   http://grafana.planning.htb/api/v2/
+401   102B   http://grafana.planning.htb/api/v3
+401   102B   http://grafana.planning.htb/api/whoami
+401   102B   http://grafana.planning.htb/api/v2/helpdesk/discover
+401   102B   http://grafana.planning.htb/api/vendor/phpunit/phpunit/phpunit
+401   102B   http://grafana.planning.htb/api/v2
+401   102B   http://grafana.planning.htb/apis
+401   102B   http://grafana.planning.htb/apidocs
+401   102B   http://grafana.planning.htb/apibuild.pyc
+401   102B   http://grafana.planning.htb/apidoc
+401   102B   http://grafana.planning.htb/api/version
+401   102B   http://grafana.planning.htb/apiserver-aggregator.key
+401   102B   http://grafana.planning.htb/apiserver-aggregator.cert
+401   102B   http://grafana.planning.htb/apiserver-key.pem
+401   102B   http://grafana.planning.htb/apiserver-aggregator-ca.cert
+401   102B   http://grafana.planning.htb/apiserver-client.crt
+200     2B   http://grafana.planning.htb/healthz
+200    37KB  http://grafana.planning.htb/login/
+200    37KB  http://grafana.planning.htb/login
+200   244KB  http://grafana.planning.htb/metrics
+302    24B   http://grafana.planning.htb/plugins/    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/fckeditor    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/tiny_mce    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/tiny_mce/    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/upload.php    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/tinymce    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/web.config    -> REDIRECTS TO: /
+302    24B   http://grafana.planning.htb/plugins/tinymce/    -> REDIRECTS TO: /
+302    31B   http://grafana.planning.htb/public    -> REDIRECTS TO: /public/
+200    26B   http://grafana.planning.htb/robots.txt
+200    37KB  http://grafana.planning.htb/signup
+301    43B   http://grafana.planning.htb/swagger-ui    -> REDIRECTS TO: /swagger
+200     3KB  http://grafana.planning.htb/swagger

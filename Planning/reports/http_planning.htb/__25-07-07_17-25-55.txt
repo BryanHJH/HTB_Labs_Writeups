@@ -1,0 +1,11 @@
+# Dirsearch started Mon Jul  7 17:29:45 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://planning.htb/ -r
+
+301   178B   http://planning.htb/js    -> REDIRECTS TO: http://planning.htb/js/
+200    12KB  http://planning.htb/about.php
+200    10KB  http://planning.htb/contact.php
+301   178B   http://planning.htb/css    -> REDIRECTS TO: http://planning.htb/css/
+301   178B   http://planning.htb/img    -> REDIRECTS TO: http://planning.htb/img/
+403   564B   http://planning.htb/js/
+301   178B   http://planning.htb/lib    -> REDIRECTS TO: http://planning.htb/lib/
+403   564B   http://planning.htb/lib/
+200     3KB  http://planning.htb/js/main.js
