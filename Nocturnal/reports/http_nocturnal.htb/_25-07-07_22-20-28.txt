@@ -1,0 +1,15 @@
+# Dirsearch started Mon Jul  7 22:23:06 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://nocturnal.htb
+
+302     0B   http://nocturnal.htb/admin.php    -> REDIRECTS TO: login.php
+301   178B   http://nocturnal.htb/backups    -> REDIRECTS TO: http://nocturnal.htb/backups/
+403   564B   http://nocturnal.htb/backups/
+302     0B   http://nocturnal.htb/dashboard.php    -> REDIRECTS TO: login.php
+200   644B   http://nocturnal.htb/login.php
+302     0B   http://nocturnal.htb/logout.php    -> REDIRECTS TO: login.php
+200   649B   http://nocturnal.htb/register.php
+403   564B   http://nocturnal.htb/uploads/dump.sql
+403   564B   http://nocturnal.htb/uploads
+403   564B   http://nocturnal.htb/uploads_admin
+403   564B   http://nocturnal.htb/uploads/
+403   564B   http://nocturnal.htb/uploads/affwp-debug.log
+302     3KB  http://nocturnal.htb/view.php    -> REDIRECTS TO: login.php

@@ -1,0 +1,17 @@
+POST /admin.php?view=admin.php HTTP/1.1
+Host: nocturnal.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 33
+Origin: http://nocturnal.htb
+Connection: keep-alive
+Referer: http://nocturnal.htb/admin.php\?view\=admin.php
+Cookie: PHPSESSID=d60mr1ccs9rbr18n4akjhdb84t
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: blue
+Priority: u=0, i
+
+password=test&backup=
