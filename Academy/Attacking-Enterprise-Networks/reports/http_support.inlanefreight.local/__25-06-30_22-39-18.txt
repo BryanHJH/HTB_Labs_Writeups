@@ -1,0 +1,33 @@
+# Dirsearch started Mon Jun 30 22:55:14 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://support.inlanefreight.local/ -r -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-small-directories.txt -e php --full-url
+
+301   343B   http://support.inlanefreight.local/images    -> REDIRECTS TO: http://support.inlanefreight.local/images/
+301   339B   http://support.inlanefreight.local/js    -> REDIRECTS TO: http://support.inlanefreight.local/js/
+301   340B   http://support.inlanefreight.local/css    -> REDIRECTS TO: http://support.inlanefreight.local/css/
+301   342B   http://support.inlanefreight.local/fonts    -> REDIRECTS TO: http://support.inlanefreight.local/fonts/
+301   341B   http://support.inlanefreight.local/icon    -> REDIRECTS TO: http://support.inlanefreight.local/icon/
+403   292B   http://support.inlanefreight.local/server-status
+404   289B   http://support.inlanefreight.local/images/scout
+404   289B   http://support.inlanefreight.local/images/aweber
+404   289B   http://support.inlanefreight.local/images/barnaul
+404   289B   http://support.inlanefreight.local/images/backgrnd
+404   289B   http://support.inlanefreight.local/images/autonews
+404   289B   http://support.inlanefreight.local/images/atc
+404   289B   http://support.inlanefreight.local/images/ast
+404   289B   http://support.inlanefreight.local/images/audiolib
+404   289B   http://support.inlanefreight.local/images/banman
+404   289B   http://support.inlanefreight.local/images/assistenza
+404   289B   http://support.inlanefreight.local/images/barbie
+404   289B   http://support.inlanefreight.local/images/aviso
+404   289B   http://support.inlanefreight.local/images/babes
+404   289B   http://support.inlanefreight.local/images/avalon
+404   289B   http://support.inlanefreight.local/images/b5
+404   289B   http://support.inlanefreight.local/images/pp_repository
+404   289B   http://support.inlanefreight.local/images/bandwidth
+404   289B   http://support.inlanefreight.local/images/b2w
+404   289B   http://support.inlanefreight.local/images/autosuggest
+404   289B   http://support.inlanefreight.local/images/atoz
+404   289B   http://support.inlanefreight.local/images/back-office
+404   289B   http://support.inlanefreight.local/images/ata
+404   289B   http://support.inlanefreight.local/images/atrium
+404   289B   http://support.inlanefreight.local/images/badrobot
+404   289B   http://support.inlanefreight.local/images/audi

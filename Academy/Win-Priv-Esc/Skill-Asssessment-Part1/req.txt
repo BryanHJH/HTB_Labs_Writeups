@@ -1,0 +1,16 @@
+POST / HTTP/1.1
+Host: 10.129.225.46
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 292
+Origin: http://10.129.225.46
+Connection: keep-alive
+Referer: http://10.129.225.46/
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: blue
+Priority: u=0, i
+
+__VIEWSTATE=%2FwEPDwUJMTkxODY5Nzc4ZGQPoriDkKHLLp86yM8ANsxN5EnsIPwPm6Mfk0jBtHNu9g%3D%3D&__VIEWSTATEGENERATOR=15DEFBD3&__EVENTVALIDATION=%2FwEdAANSTU3UBES9mLM9pVVbfx0K2P6Xxdk5ke%2BWkclAxSHkFXk2JDuMxrvKtMBUSvskgfGYv9fjNg9psrgxAe3qySFfJsdtllpYQbMQ5POIsj6nTw%3D%3D&addr=127.0.0.1&testing=Ping+host
