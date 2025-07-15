@@ -1,0 +1,241 @@
+interface_create --name "htb-aen"
+exit
+interface_create --name "htb-aen"
+Session
+session
+tunnel_start --tun htb-aen
+ifconfig
+interface_add_route --name htb-aen --route 172.16.8.0/16
+help
+interface_list
+autoroute
+start
+sessions
+session
+autoroute
+help
+tunnel_list
+session_list
+autoroute
+start --tun amusinglongshot
+session
+ifconfig
+quit
+session
+iflist
+tunlist
+tunnel_list
+help
+session_list
+session
+autoroute
+route
+route_list
+help
+route_list
+route_del 1,2,3
+help route_del
+route_del --name amusinglongshot
+route_list
+route_del help
+help route_del
+route_del --name amusinglongshot --name outgoingthunder --name htb-aen --name vitalfirestorm
+route_lsit
+route_list
+route_del --name amusinglongshot
+route_del --name outgoingthunder
+route_del --name htb-aen
+route_del --name vital
+route_del --route 0
+route_list
+help route_list
+iflist
+help
+iflist
+helpifdel
+help ifdel
+ifdel --name outgoingthunder
+iflist
+ifdel --name htb-aen
+ifdel --name vitalfirestorm
+ifdel --name amusinglongshot
+iflist
+clear
+autoroute
+start -tun worthymagus
+start --tun worthymagus
+iflist
+sessions
+session
+start --tun worthymagus
+iflist
+help
+tunnel_list
+route_del --name worthymagus
+iflist
+ifdel --name worthymagus
+session
+autoroute
+stop
+tunnel_list
+help
+iflist
+tunnel_list
+helptunnel_stop
+help tunnel_stop
+tunnel_stop --agent 1
+tunnel_stop --agent 2
+session_list
+help session_stop
+help
+help tunnel_start
+iflist
+start --tun carefulvogue
+exit
+session_list
+iflist
+route_del --name carefulvogue
+iflist
+ifdel --name carefulvogue
+iflist
+route_list
+cls
+help
+session
+ifconfig
+listener_list
+tunnel_list
+exit
+session
+autoroute
+ifconfig
+listener_add --addr 0.0.0.0:1234 --to 127.0.0.1:4321
+iflist
+route_list
+listener_list
+iflist
+listener_stop 0
+listener_lsit
+listener_list
+help
+listener_stop
+listener_add --addr 0.0.0.0:11601 --to 0.0.0.0:11601
+session
+start
+autoroute
+session
+iflist
+ifdel --name topsilverclaw
+iflist
+session
+autoroute
+iflist
+tunnel_list
+help
+tunnel_list
+stop 2
+help stop
+stop --agent 2
+session
+iflist
+ifdel -h
+ifdel --name feasibleballist
+ifdel ligolosample
+ifdel --name ligolosample
+iflist
+session
+start --tun valueandromeda
+iflist
+start --tun valuedandromeda
+tunnel_list
+stop --agent 1
+list
+help
+agent_kill
+session_list
+iflist
+ifdel --name avluedandromeda
+iflis
+iflist
+ifdel --name valuedandromeda
+tunnel_list
+stop --agent 1
+autoroute
+listener_add 0.0.0.0:11601 0.0.0.0:11601
+help listener_add
+listener_add --addr 0.0.0.0:11601 --to 0.0.0.0:11601
+session
+autoroute
+session
+route_list
+tunnel_list
+session
+autoroute
+tunnel_list
+autoroute
+hekl
+help
+tunnel_list
+start --tun alivearachne
+session
+help
+tunnel_list
+start --agent 2
+start --help
+start --tun alivearachne
+kill --agent 3
+kill --help
+kill
+session
+iflist
+ifdel --name notedcorsair
+iflist
+route_list
+tunnel_list
+start --tun alivearachne
+help
+iflist
+ifdel --name alivearachne
+ifdel --name goodbumblebee
+iflist
+autoroute
+listener_add --addr 0.0.0.0:11601 --to 0.0.0.0:11601
+session
+autoroute
+ls
+tunnel_list
+iflist
+ifdel --name desiredhussar
+session
+autoroute
+start --tun organicfire
+route_list
+ifdel --name organicfire
+ifdel --name guidingbatwoman
+route_list
+tunnel_list
+help
+listener_list
+listener_stop -h
+listener_stop
+session_kill
+session
+autoroute
+listener_add --addr 0.0.0.0:11601 --to 0.0.0.0:11601
+session
+autoroute
+route_list
+ifdel --name creativeneon
+ifdel --name brightbarb
+tunnel_list
+iflist
+clear
+sessin
+session
+autoroute
+start --tun superbphalanx
+listener_add --addr 0.0.0.0:11601
+listener_add --addr 0.0.0.0:11601 --to 0.0.0.0:11601
+session
+autoroute
+exit

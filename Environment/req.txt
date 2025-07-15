@@ -1,0 +1,16 @@
+POST /mailing HTTP/1.1
+Host: environment.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: http://environment.htb/
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 58
+Origin: http://environment.htb
+Connection: keep-alive
+Cookie: XSRF-TOKEN=eyJpdiI6IloxTys1Zlc0dE9mckNaeHBoanZtaEE9PSIsInZhbHVlIjoiYXd2ak1aMmJiTEE2aVEzZkQ0QzREMDJEV0luUmVkazEwMGQ3SG8rUzNaSURvZ0RhZ1hnSVF1VC90WWZRNURMVlhVOUFxdmFiQVU0bFV3N0lsVlkwYmdWWkJxa0ZucHlXRk1XaTNGSjFnaVZTRlhYUzA0SUdpTlluZG9SZUpVS0YiLCJtYWMiOiI2MzJhYzI1MzIxOGM5MzdiNTEzN2M5YWM4MTBjZDJmNTVmMTg2OGFkMDhlOTFkMzRlNDhkZjhkZTc2YzhkN2ZlIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im5qWnVod2JVcTRkTDB6bGZla0k5Mnc9PSIsInZhbHVlIjoibkhNWWlLbVhEUkdEbDNMZGtjSFNEYTJtWHpLNjNHWlBQcGNIdEZDVkRadDlaRjF1UEJYWTlINVp1RE9nbmpQakRTQUFDTGhxK0VSaUZUckQxNW0rK09OdzVzRVFiaDBMa2NORHp1Y1dvZ2ZqdHBORUxQY2NiYlJXL01Remd1Q1MiLCJtYWMiOiIzZjVhMWFmNGVkMjc2NTU4YWZmY2UyNTg3MWJmZjliODA2YTQwNGFmOTJkNTU2NDVmMDMwOGE2YTRiMjI5Y2Y2IiwidGFnIjoiIn0%3D
+X-PwnFox-Color: blue
+Priority: u=0
+
+email=test&_token=p6UcqMQWyDnLJXG9sbzhefUGxncA3sCxiZDZBTmC

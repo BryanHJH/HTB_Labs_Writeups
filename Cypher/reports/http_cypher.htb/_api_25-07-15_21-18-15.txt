@@ -1,0 +1,3 @@
+# Dirsearch started Tue Jul 15 21:18:15 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://cypher.htb/api -r -w /usr/share/wordlists/seclists/Discovery/Web-Content/api/objects.txt
+
+405    31B   http://cypher.htb/api/auth
