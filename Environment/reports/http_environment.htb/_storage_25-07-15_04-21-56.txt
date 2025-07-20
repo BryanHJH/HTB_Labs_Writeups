@@ -1,0 +1,3 @@
+# Dirsearch started Tue Jul 15 04:23:15 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://environment.htb/storage -t 100
+
+301   169B   http://environment.htb/storage/files    -> REDIRECTS TO: http://environment.htb/storage/files/
