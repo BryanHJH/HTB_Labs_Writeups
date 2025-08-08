@@ -1,0 +1,36 @@
+# Dirsearch started Fri Aug  8 16:10:34 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://file.era.htb -r
+
+403   564B   http://file.era.htb/.ht_wsr.txt
+403   564B   http://file.era.htb/.htaccess.bak1
+403   564B   http://file.era.htb/.htaccess.sample
+403   564B   http://file.era.htb/.htaccess.save
+403   564B   http://file.era.htb/.htaccess_sc
+403   564B   http://file.era.htb/.htaccessOLD
+403   564B   http://file.era.htb/.htaccess.orig
+403   564B   http://file.era.htb/.htaccessOLD2
+403   564B   http://file.era.htb/.htaccessBAK
+403   564B   http://file.era.htb/.htaccess_orig
+403   564B   http://file.era.htb/.htaccess_extra
+403   564B   http://file.era.htb/.html
+403   564B   http://file.era.htb/.htpasswd_test
+403   564B   http://file.era.htb/.htm
+403   564B   http://file.era.htb/.httr-oauth
+403   564B   http://file.era.htb/.htpasswds
+301   178B   http://file.era.htb/assets    -> REDIRECTS TO: http://file.era.htb/assets/
+403   564B   http://file.era.htb/assets/
+302     0B   http://file.era.htb/download.php    -> REDIRECTS TO: login.php
+301   178B   http://file.era.htb/files    -> REDIRECTS TO: http://file.era.htb/files/
+403   564B   http://file.era.htb/files/
+403   564B   http://file.era.htb/files/cache/
+403   564B   http://file.era.htb/files/tmp/
+403   564B   http://file.era.htb/images/
+301   178B   http://file.era.htb/images    -> REDIRECTS TO: http://file.era.htb/images/
+200    34KB  http://file.era.htb/LICENSE
+200     9KB  http://file.era.htb/login.php
+200    70B   http://file.era.htb/logout.php
+302     0B   http://file.era.htb/manage.php    -> REDIRECTS TO: login.php
+200     3KB  http://file.era.htb/register.php
+302     0B   http://file.era.htb/upload.php    -> REDIRECTS TO: login.php
+301   178B   http://file.era.htb/assets/css    -> REDIRECTS TO: http://file.era.htb/assets/css/
+200     7KB  http://file.era.htb/files/%2e%2e//google.com
+301   178B   http://file.era.htb/assets/css/images    -> REDIRECTS TO: http://file.era.htb/assets/css/images/

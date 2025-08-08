@@ -1,0 +1,7 @@
+# Dirsearch started Fri Aug  8 15:52:17 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://era.htb -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-medium-directories.txt -r
+
+301   178B   http://era.htb/css    -> REDIRECTS TO: http://era.htb/css/
+301   178B   http://era.htb/js    -> REDIRECTS TO: http://era.htb/js/
+301   178B   http://era.htb/img    -> REDIRECTS TO: http://era.htb/img/
+301   178B   http://era.htb/fonts    -> REDIRECTS TO: http://era.htb/fonts/
+301   178B   http://era.htb/js/fancybox    -> REDIRECTS TO: http://era.htb/js/fancybox/

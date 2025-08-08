@@ -1,0 +1,3 @@
+# Dirsearch started Fri Aug  8 16:12:27 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://file.era.htb/files
+
+200     7KB  http://file.era.htb/files/%2e%2e//google.com
