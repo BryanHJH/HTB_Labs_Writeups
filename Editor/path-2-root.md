@@ -26,6 +26,6 @@ Once I have the shell, I ran `grep -rn 'passw'` in the current directory and fou
 
 ## Privilege Escalation
 
-Once I SSHed into `oliver` on the target machine, I imported in `linpeas.sh` and ran it. From the results of `linpeas.sh`, found that there's a few interesting binaries at `/opt/netdata/usr/libexec/netdata/plugins.d`. Did a quick search about `netdata` and what local privilege escalation vectors for this tool and found one for `ndsudo` and luckily enough, `ndsudo` is found in the same directory.
+Once I SSHed into `oliver` on the target machine, I imported in `linpeas.sh` and ran it. From the results of `linpeas.sh`, found that there's a few interesting binaries that have SUID set at `/opt/netdata/usr/libexec/netdata/plugins.d`. Did a quick search about `netdata` and what local privilege escalation vectors for this tool and found one for `ndsudo` and luckily enough, `ndsudo` is found in the same directory.
 
 Referred to this [website](https://sploitus.com/exploit?id=5077683C-F7E6-58BE-9375-B5A13A8782C5&utm_source=rss&utm_medium=rss) for the exploitation path and sucessfully obtained `root`.
