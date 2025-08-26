@@ -1,0 +1,17 @@
+POST /login HTTP/1.1
+Host: furni.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 130
+Origin: http://furni.htb
+Connection: keep-alive
+Referer: http://furni.htb/login
+Cookie: SESSION=MWY1YWQ5MmYtMzdmNi00OGZkLWE5ZTYtYWZmMGFkNDFjMzRi
+Upgrade-Insecure-Requests: 1
+X-PwnFox-Color: blue
+Priority: u=0, i
+
+username=tets&password=test&_csrf=T6E2rTjCNMnd1IFxmlJ9EsbZnA1X6UdKWNOJRstQnDrf55TFLZMGyVujAqvwtuNIrH9JJfThsTUy3nJnb-vodPs2rgjuhKWj

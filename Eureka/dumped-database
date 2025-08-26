@@ -1,0 +1,14 @@
+Command to get in: mysql -u oscar190 -p Furni_WebApp_DB
+MariaDB [Furni_WebApp_DB]> select email,password,is_staff from users;
++-------------------------+--------------------------------------------------------------+----------+
+| email                   | password                                                     | is_staff |
++-------------------------+--------------------------------------------------------------+----------+
+| k.mossab110@eloquia.htb | $2a$10$J4yap5ZxviliZO9jBCuSdeD.7LzL3/njVpNhnG85HCcwA05ulUrzW |        0 |
+| lorra199@gmail.com      | $2a$10$DgUDWpxipW2Yt7UcKxzvweB7FXoV/LFxlJG8yuL56NyUMMLr5uBuK |        0 |
+| mwood@gmail.com         | $2a$10$3LDYl5QEt4K4u8vLWMGH8eDA/fNKVquhHNbyijaDzzueKHAwi6bHO |        0 |
+| roberto0xd@outlook.com  | $2a$10$4TLCSlEfYrNDFfPDQ5z4p.S6gImA8NKAGn2tyqLJyG71l9iQoTDhu |        0 |
+| miranda.wise@furni.htb  | $2a$10$T4L873JALnbXH10tq.mEbOOVYmZPLlBBSeD1h2hqAeX6nbTDXMyqm |        1 |
+| oscar190@furni.htb      | $2a$10$ye9a40a7KOyBJKUai2qxY.fcfVQGlFTM3SVSVcn82wxQf/2zYPq96 |        1 |
+| nya190@furni.htb        | $2a$10$GZQOgzb4N1xVs3ALpnuqGeId5/mZLL8pv5GlkRzJfxdFxO/JIkIaK |        1 |
+| logok12976@pelung.com   | $2a$10$J93xmU0.yP0/oZmoV9K4u.XvYHtl.kunSX9xoe2RACqKcitM4OjlC |        0 |
++-------------------------+--------------------------------------------------------------+----------+

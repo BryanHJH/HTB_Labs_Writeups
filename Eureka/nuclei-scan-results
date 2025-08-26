@@ -1,0 +1,45 @@
+nuclei -u http://furni.htb
+
+__     _
+____  __  _______/ /__  (_)
+/ __ \/ / / / ___/ / _ \/ /
+/ / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.4.6
+
+projectdiscovery.io
+
+[WRN] Found 1 templates with syntax error (use -validate flag for further examination)
+[INF] Current nuclei version: v3.4.6 (outdated)
+[INF] Current nuclei-templates version: v10.2.7 (latest)
+[WRN] Scan results upload to cloud is disabled.
+[INF] New templates added in latest release: 55
+[INF] Templates loaded for current scan: 8263
+[INF] Executing 8060 signed templates from projectdiscovery/nuclei-templates
+[WRN] Loading 203 unsigned templates for scan. Use with caution.
+[INF] Targets loaded for current scan: 1
+[INF] Templates clustered: 1777 (Reduced 1671 Requests)
+[INF] Using Interactsh Server: oast.site
+[missing-sri] [http] [info] http://furni.htb ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"]
+[springboot-heapdump] [http] [critical] http://furni.htb/actuator/heapdump
+[waf-detect:nginxgeneric] [http] [info] http://furni.htb
+[openssh-detect] [tcp] [info] furni.htb:22 ["SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.12"]
+[form-detection] [http] [info] http://furni.htb
+[composer-config:composer.lock] [http] [info] http://furni.htb/composer.json
+[spring-detect] [http] [info] http://furni.htb/error
+[composer-config:composer.lock] [http] [info] http://furni.htb/composer.lock
+[composer-config:composer.lock] [http] [info] http://furni.htb/.composer/composer.json
+[composer-config:composer.lock] [http] [info] http://furni.htb/vendor/composer/installed.json
+[springboot-conditions] [http] [low] http://furni.htb/actuator/conditions
+[springboot-threaddump] [http] [low] http://furni.htb/actuator/threaddump
+[fingerprinthub-web-fingerprints:openfire] [http] [info] http://furni.htb
+[tech-detect:font-awesome] [http] [info] http://furni.htb
+[tech-detect:bootstrap] [http] [info] http://furni.htb
+[tech-detect:nginx] [http] [info] http://furni.htb
+[springboot-configprops] [http] [low] http://furni.htb/actuator/configprops
+[options-method] [http] [info] http://furni.htb ["GET,HEAD,OPTIONS"]
+[springboot-beans] [http] [low] http://furni.htb/actuator/beans
+[springboot-features] [http] [low] http://furni.htb/actuator/features
+[springboot-caches] [http] [low] http://furni.htb/actuator/caches
+[springboot-loggers] [http] [low] http://furni.htb/actuator/loggers
+[nginx-version] [http] [info] http://furni.htb ["nginx/1.18.0"]
+[INF] Scan completed in 2m. 23 matches found.
