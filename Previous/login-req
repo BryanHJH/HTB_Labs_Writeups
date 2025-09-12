@@ -1,0 +1,16 @@
+POST /api/auth/callback/credentials HTTP/1.1
+Host: previous.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://previous.htb/api/auth/signin?callbackUrl=%2Fdocs
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 217
+Origin: http://previous.htb
+Connection: keep-alive
+Cookie: next-auth.csrf-token=8953e72e7f4f24f1103ce92e12c6d2677c10865d26e6b8527708ac7a11bbf909%7C0f2613912034fa112c23328359bbc0fe5da7551b24388fa795d658ae907cb007; next-auth.callback-url=http%3A%2F%2Flocalhost%3A3000%2Fdocs
+X-PwnFox-Color: blue
+Priority: u=4
+
+username=jeremy*&password=jeremy*&redirect=false&csrfToken=8953e72e7f4f24f1103ce92e12c6d2677c10865d26e6b8527708ac7a11bbf909&callbackUrl=http%3A%2F%2Fprevious.htb%2Fapi%2Fauth%2Fsignin%3FcallbackUrl%3D%252Fdocs&json=true

@@ -1,0 +1,3 @@
+[submodule "Soulmate/CVE-2025-31161"]
+	path = Soulmate/CVE-2025-31161
+	url = https://github.com/Immersive-Labs-Sec/CVE-2025-31161

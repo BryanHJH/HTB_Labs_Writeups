@@ -1,0 +1,11 @@
+# Dirsearch started Tue Aug 26 11:27:19 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://previous.htb/api -w /usr/share/wordlists/dirb/common.txt -H x-middleware-subrequest: middleware
+
+404     2KB  http://previous.htb/api/auth
+404     2KB  http://previous.htb/api/authentication
+404     2KB  http://previous.htb/api/author
+404     2KB  http://previous.htb/api/authorization
+404     2KB  http://previous.htb/api/authoring
+404     2KB  http://previous.htb/api/authuser
+404     2KB  http://previous.htb/api/authors
+404     2KB  http://previous.htb/api/authorized_keys
+404     2KB  http://previous.htb/api/authusers

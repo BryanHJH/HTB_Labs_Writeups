@@ -1,0 +1,3 @@
+# Dirsearch started Tue Aug 26 11:28:57 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://previous.htb/api -w /usr/share/wordlists/dirb/common.txt -H X-Middleware-Subrequest: src/middleware:nowaf:src/middleware:src/middleware:src/middleware:src/middleware:middleware:middleware:nowaf:middleware:middleware:middleware:pages/_middleware
+
+400    28B   http://previous.htb/api/download
