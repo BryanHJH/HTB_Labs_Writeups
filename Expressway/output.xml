@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<services>
+	<service ip="b'10.129.179.139'">
+		<flaws>
+			<flaw flawid="1" description="The IKE service could be discovered (Risk: LOW)"><![CDATA[b'10.129.179.139\tMain Mode Handshake returned']]></flaw>
+			<flaw flawid="10" description="IKE v2 is supported (Risk: Informational)"></flaw>
+		</flaws>
+	</service>
+	<service ip="b'HDR=(CKY-R=2566cd8cd9cd45c3)'">
+		<flaws>
+			<flaw flawid="1" description="The IKE service could be discovered (Risk: LOW)"><![CDATA[b'HDR=(CKY-R=2566cd8cd9cd45c3)']]></flaw>
+		</flaws>
+	</service>
+	<service ip="b'SA=(Enc=3DES'">
+		<flaws>
+			<flaw flawid="1" description="The IKE service could be discovered (Risk: LOW)"><![CDATA[b'SA=(Enc=3DES Hash=SHA1 Group=2:modp1024 Auth=PSK LifeType=Seconds LifeDuration=28800)']]></flaw>
+		</flaws>
+	</service>
+	<service ip="b'VID=09002689dfd6b712'">
+		<flaws>
+			<flaw flawid="1" description="The IKE service could be discovered (Risk: LOW)"><![CDATA[b'VID=09002689dfd6b712 (XAUTH)']]></flaw>
+		</flaws>
+	</service>
+	<service ip="b'VID=afcad71368a1f1c96b8696fc77570100'">
+		<flaws>
+			<flaw flawid="1" description="The IKE service could be discovered (Risk: LOW)"><![CDATA[b'VID=afcad71368a1f1c96b8696fc77570100 (Dead Peer Detection v1.0)']]></flaw>
+		</flaws>
+	</service>
+</services>
