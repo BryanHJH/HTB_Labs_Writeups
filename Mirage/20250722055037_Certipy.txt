@@ -1,0 +1,28 @@
+Certificate Authorities
+  0
+    CA Name                             : mirage-DC01-CA
+    DNS Name                            : dc01.mirage.htb
+    Certificate Subject                 : CN=mirage-DC01-CA, DC=mirage, DC=htb
+    Certificate Serial Number           : 1512EEC0308E13A146A0B5AD6AA741C9
+    Certificate Validity Start          : 2025-07-04 19:58:25+00:00
+    Certificate Validity End            : 2125-07-04 20:08:25+00:00
+    Web Enrollment
+      HTTP
+        Enabled                         : False
+      HTTPS
+        Enabled                         : False
+    User Specified SAN                  : Disabled
+    Request Disposition                 : Issue
+    Enforce Encryption for Requests     : Enabled
+    Active Policy                       : CertificateAuthority_MicrosoftDefault.Policy
+    Permissions
+      Owner                             : MIRAGE.HTB\Administrators
+      Access Rights
+        ManageCa                        : MIRAGE.HTB\Administrators
+                                          MIRAGE.HTB\Domain Admins
+                                          MIRAGE.HTB\Enterprise Admins
+        ManageCertificates              : MIRAGE.HTB\Administrators
+                                          MIRAGE.HTB\Domain Admins
+                                          MIRAGE.HTB\Enterprise Admins
+        Enroll                          : MIRAGE.HTB\Authenticated Users
+Certificate Templates                   : [!] Could not find any certificate templates
