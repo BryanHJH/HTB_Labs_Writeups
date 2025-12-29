@@ -1,0 +1,95 @@
+nmap --min-rate 3000 -A -p- 10.10.11.94
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-11-06 11:00 +08
+Nmap scan report for 10.10.11.94
+Host is up (0.050s latency).
+Not shown: 65530 closed tcp ports (reset)
+PORT      STATE    SERVICE      VERSION
+22/tcp    open     ssh          OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey:
+|   256 66:f8:9c:58:f4:b8:59:bd:cd:ec:92:24:c3:97:8e:9e (ECDSA)
+|_  256 96:31:8a:82:1a:65:9f:0a:a2:6c:ff:4d:44:7c:d3:94 (ED25519)
+80/tcp    open     http         nginx 1.28.0
+|_http-generator: WordPress 6.8.1
+| http-robots.txt: 1 disallowed entry
+|_/wp-admin/
+|_http-title: GIVING BACK IS WHAT MATTERS MOST &#8211; OBVI
+|_http-server-header: nginx/1.28.0
+6443/tcp  filtered sun-sr-https
+10250/tcp filtered unknown
+30686/tcp open     http         Golang net/http server
+|_http-title: Site doesn't have a title (application/json).
+| fingerprint-strings:
+|   FourOhFourRequest:
+|     HTTP/1.0 200 OK
+|     Content-Type: application/json
+|     X-Content-Type-Options: nosniff
+|     X-Load-Balancing-Endpoint-Weight: 1
+|     Date: Thu, 06 Nov 2025 02:33:24 GMT
+|     Content-Length: 127
+|     "service": {
+|     "namespace": "default",
+|     "name": "wp-nginx-service"
+|     "localEndpoints": 1,
+|     "serviceProxyHealthy": true
+|   GenericLines, Help, LPDString, RTSPRequest, SSLSessionReq:
+|     HTTP/1.1 400 Bad Request
+|     Content-Type: text/plain; charset=utf-8
+|     Connection: close
+|     Request
+|   GetRequest, HTTPOptions:
+|     HTTP/1.0 200 OK
+|     Content-Type: application/json
+|     X-Content-Type-Options: nosniff
+|     X-Load-Balancing-Endpoint-Weight: 1
+|     Date: Thu, 06 Nov 2025 02:33:07 GMT
+|     Content-Length: 127
+|     "service": {
+|     "namespace": "default",
+|     "name": "wp-nginx-service"
+|     "localEndpoints": 1,
+|_    "serviceProxyHealthy": true
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port30686-TCP:V=7.95%I=7%D=11/6%Time=690C0F6F%P=x86_64-pc-linux-gnu%r(G
+SF:enericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20
+SF:text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\
+SF:x20Request")%r(GetRequest,132,"HTTP/1\.0\x20200\x20OK\r\nContent-Type:\
+SF:x20application/json\r\nX-Content-Type-Options:\x20nosniff\r\nX-Load-Bal
+SF:ancing-Endpoint-Weight:\x201\r\nDate:\x20Thu,\x2006\x20Nov\x202025\x200
+SF:2:33:07\x20GMT\r\nContent-Length:\x20127\r\n\r\n{\n\t\"service\":\x20{\
+SF:n\t\t\"namespace\":\x20\"default\",\n\t\t\"name\":\x20\"wp-nginx-servic
+SF:e\"\n\t},\n\t\"localEndpoints\":\x201,\n\t\"serviceProxyHealthy\":\x20t
+SF:rue\n}")%r(HTTPOptions,132,"HTTP/1\.0\x20200\x20OK\r\nContent-Type:\x20
+SF:application/json\r\nX-Content-Type-Options:\x20nosniff\r\nX-Load-Balanc
+SF:ing-Endpoint-Weight:\x201\r\nDate:\x20Thu,\x2006\x20Nov\x202025\x2002:3
+SF:3:07\x20GMT\r\nContent-Length:\x20127\r\n\r\n{\n\t\"service\":\x20{\n\t
+SF:\t\"namespace\":\x20\"default\",\n\t\t\"name\":\x20\"wp-nginx-service\"
+SF:\n\t},\n\t\"localEndpoints\":\x201,\n\t\"serviceProxyHealthy\":\x20true
+SF:\n}")%r(RTSPRequest,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-T
+SF:ype:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400
+SF:\x20Bad\x20Request")%r(Help,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nC
+SF:ontent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\
+SF:n\r\n400\x20Bad\x20Request")%r(SSLSessionReq,67,"HTTP/1\.1\x20400\x20Ba
+SF:d\x20Request\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnec
+SF:tion:\x20close\r\n\r\n400\x20Bad\x20Request")%r(FourOhFourRequest,132,"
+SF:HTTP/1\.0\x20200\x20OK\r\nContent-Type:\x20application/json\r\nX-Conten
+SF:t-Type-Options:\x20nosniff\r\nX-Load-Balancing-Endpoint-Weight:\x201\r\
+SF:nDate:\x20Thu,\x2006\x20Nov\x202025\x2002:33:24\x20GMT\r\nContent-Lengt
+SF:h:\x20127\r\n\r\n{\n\t\"service\":\x20{\n\t\t\"namespace\":\x20\"defaul
+SF:t\",\n\t\t\"name\":\x20\"wp-nginx-service\"\n\t},\n\t\"localEndpoints\"
+SF::\x201,\n\t\"serviceProxyHealthy\":\x20true\n}")%r(LPDString,67,"HTTP/1
+SF:\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/plain;\x20charset
+SF:=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\x20Request");
+Device type: general purpose
+Running: Linux 4.X|5.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5
+OS details: Linux 4.15 - 5.19
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 995/tcp)
+HOP RTT      ADDRESS
+1   82.63 ms 10.10.16.1
+2   20.56 ms 10.10.11.94
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 49.31 seconds

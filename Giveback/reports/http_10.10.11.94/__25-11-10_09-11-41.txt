@@ -1,0 +1,75 @@
+# Dirsearch started Mon Nov 10 09:42:03 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.11.94/ -r -x 503
+
+404    51KB  http://10.10.11.94/.css
+404    51KB  http://10.10.11.94/.gif
+404    51KB  http://10.10.11.94/.ico
+404    51KB  http://10.10.11.94/.jpg
+404    51KB  http://10.10.11.94/.jpeg
+404    51KB  http://10.10.11.94/.png
+404    51KB  http://10.10.11.94/adm/style/admin.css
+404    51KB  http://10.10.11.94/admin_my_avatar.png
+301     0B   http://10.10.11.94/adminer/index.php    -> REDIRECTS TO: http://10.10.11.94/adminer/
+301     0B   http://10.10.11.94/bitrix/admin/index.php    -> REDIRECTS TO: http://10.10.11.94/bitrix/admin/
+404    51KB  http://10.10.11.94/bundles/kibana.style.css
+301     0B   http://10.10.11.94/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: http://10.10.11.94/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301     0B   http://10.10.11.94/db/index.php    -> REDIRECTS TO: http://10.10.11.94/db/
+302     0B   http://10.10.11.94/favicon.ico    -> REDIRECTS TO: http://10.10.11.94/wp-includes/images/w-logo-blue-white-bg.png
+404    51KB  http://10.10.11.94/IdentityGuardSelfService/images/favicon.ico
+302     0B   http://10.10.11.94/login    -> REDIRECTS TO: http://10.10.11.94/wp-login.php
+404    51KB  http://10.10.11.94/logo.gif
+301     0B   http://10.10.11.94/panel-administracion/index.php    -> REDIRECTS TO: http://10.10.11.94/panel-administracion/
+200     3KB  http://10.10.11.94/readme.html
+404    51KB  http://10.10.11.94/resources/.arch-internal-preview.css
+404    51KB  http://10.10.11.94/skin1_admin.css
+301     0B   http://10.10.11.94/typo3/phpmyadmin/index.php    -> REDIRECTS TO: http://10.10.11.94/typo3/phpmyadmin/
+301     0B   http://10.10.11.94/webadmin/index.php    -> REDIRECTS TO: http://10.10.11.94/webadmin/
+403   199B   http://10.10.11.94/wp-content/upgrade/
+403   199B   http://10.10.11.94/wp-content/uploads/
+403   555B   http://10.10.11.94/xmlrpc.php
+200     2KB  http://10.10.11.94/wp-login.php
+301     0B   http://10.10.11.94/xampp/phpmyadmin/index.php    -> REDIRECTS TO: http://10.10.11.94/xampp/phpmyadmin/
+301     0B   http://10.10.11.94/wp-content/upgrade/%2e%2e//google.com    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/%2E%2E/google.com
+404    51KB  http://10.10.11.94/wp-content/upgrade/.css
+404    51KB  http://10.10.11.94/wp-content/upgrade/.ico
+404    51KB  http://10.10.11.94/wp-content/upgrade/.gif
+404    51KB  http://10.10.11.94/wp-content/upgrade/.jpg
+404    51KB  http://10.10.11.94/wp-content/upgrade/.jpeg
+404    51KB  http://10.10.11.94/wp-content/upgrade/.png
+404    51KB  http://10.10.11.94/wp-content/upgrade/adm/style/admin.css
+301     0B   http://10.10.11.94/wp-content/upgrade/admin_area/index.php    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/admin_area/
+502   559B   http://10.10.11.94/wp-content/upgrade/adminer-4.0.3.php
+502   559B   http://10.10.11.94/wp-content/upgrade/adminer/
+502   559B   http://10.10.11.94/wp-content/upgrade/adminer/adminer.php
+502   559B   http://10.10.11.94/wp-content/upgrade/adminfunction.js
+502   559B   http://10.10.11.94/wp-content/upgrade/admini
+502   559B   http://10.10.11.94/wp-content/upgrade/administator
+404    51KB  http://10.10.11.94/wp-content/upgrade/bundles/kibana.style.css
+301     0B   http://10.10.11.94/wp-content/upgrade/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301     0B   http://10.10.11.94/wp-content/upgrade/claroline/phpMyAdmin/index.php    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/claroline/phpMyAdmin/
+301     0B   http://10.10.11.94/wp-content/upgrade/extjs/resources//charts.swf    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/extjs/resources/charts.swf
+404    51KB  http://10.10.11.94/wp-content/upgrade/favicon.ico
+301     0B   http://10.10.11.94/wp-content/upgrade/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: http://10.10.11.94/wp-content/upgrade/html/js/misc/swfupload/swfupload.swf
+404    51KB  http://10.10.11.94/wp-content/upgrade/IdentityGuardSelfService/images/favicon.ico
+404    51KB  http://10.10.11.94/wp-content/upgrade/logo.gif
+404    51KB  http://10.10.11.94/wp-content/upgrade/resources/.arch-internal-preview.css
+404    51KB  http://10.10.11.94/wp-content/upgrade/skin1_admin.css
+404    51KB  http://10.10.11.94/wp-content/uploads/.css
+404    51KB  http://10.10.11.94/wp-content/uploads/.gif
+404    51KB  http://10.10.11.94/wp-content/uploads/.jpg
+404    51KB  http://10.10.11.94/wp-content/uploads/.jpeg
+404    51KB  http://10.10.11.94/wp-content/uploads/.ico
+404    51KB  http://10.10.11.94/wp-content/uploads/.png
+404    51KB  http://10.10.11.94/wp-content/uploads/adm/style/admin.css
+404    51KB  http://10.10.11.94/wp-content/uploads/admin_my_avatar.png
+404    51KB  http://10.10.11.94/wp-content/uploads/bundles/kibana.style.css
+301     0B   http://10.10.11.94/wp-content/uploads/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301     0B   http://10.10.11.94/wp-content/uploads/db/index.php    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/db/
+404    51KB  http://10.10.11.94/wp-content/uploads/favicon.ico
+404    51KB  http://10.10.11.94/wp-content/uploads/IdentityGuardSelfService/images/favicon.ico
+301     0B   http://10.10.11.94/wp-content/uploads/login.wdm%20    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/login.wdm
+404    51KB  http://10.10.11.94/wp-content/uploads/logo.gif
+404    51KB  http://10.10.11.94/wp-content/uploads/resources/.arch-internal-preview.css
+301     0B   http://10.10.11.94/wp-content/uploads/rss    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/feed/
+404    51KB  http://10.10.11.94/wp-content/uploads/skin1_admin.css
+301     0B   http://10.10.11.94/wp-content/uploads/sugarcrm/index.php?module=Contacts&action=ShowDuplicates    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/sugarcrm/?module=Contacts&action=ShowDuplicates
+301     0B   http://10.10.11.94/wp-content/uploads/templates/ja-helio-farsi/index.php    -> REDIRECTS TO: http://10.10.11.94/wp-content/uploads/templates/ja-helio-farsi/

@@ -1,0 +1,25 @@
+# Dirsearch started Thu Oct 23 16:03:19 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://hacknet.htb/ -r
+
+302     0B   http://hacknet.htb/comment    -> REDIRECTS TO: /
+302     0B   http://hacknet.htb/contacts    -> REDIRECTS TO: /
+302     0B   http://hacknet.htb/explore    -> REDIRECTS TO: /
+404   555B   http://hacknet.htb/favicon.ico
+200   857B   http://hacknet.htb/login
+302     0B   http://hacknet.htb/logout    -> REDIRECTS TO: /
+404   555B   http://hacknet.htb/media.tar.bz2
+404   555B   http://hacknet.htb/media/export-criteo.xml
+301   169B   http://hacknet.htb/media    -> REDIRECTS TO: http://hacknet.htb/media/
+404   555B   http://hacknet.htb/media.tar
+404   555B   http://hacknet.htb/media.tar.gz
+404   555B   http://hacknet.htb/media_admin
+404   555B   http://hacknet.htb/media.zip
+403   555B   http://hacknet.htb/media/
+302     0B   http://hacknet.htb/messages    -> REDIRECTS TO: /
+302     0B   http://hacknet.htb/post    -> REDIRECTS TO: /
+302     0B   http://hacknet.htb/profile    -> REDIRECTS TO: /
+200   948B   http://hacknet.htb/register
+302     0B   http://hacknet.htb/search    -> REDIRECTS TO: /
+404   555B   http://hacknet.htb/static/dump.sql
+404   555B   http://hacknet.htb/static/api/swagger.yaml
+404   555B   http://hacknet.htb/static/api/swagger.json
+404   179B   http://hacknet.htb/media/%2e%2e//google.com
