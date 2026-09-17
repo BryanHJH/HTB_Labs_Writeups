@@ -1,3 +1,6 @@
 [submodule "Soulmate/CVE-2025-31161"]
 	path = Soulmate/CVE-2025-31161
 	url = https://github.com/Immersive-Labs-Sec/CVE-2025-31161
+[submodule "Management/Management/CVE-2026-33439-Python-PoC"]
+	path = Management/Management/CVE-2026-33439-Python-PoC
+	url = https://github.com/Ibonok/CVE-2026-33439-PoC
